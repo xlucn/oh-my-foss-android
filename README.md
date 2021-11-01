@@ -151,9 +151,21 @@
 
   极简又漂亮的笔记应用，只能输入纯文字，有少许加粗斜体等格式。
 
+- [OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan)
+
+  文档扫描。和大家想的一样，可以拍照、裁切、再合成一个文档，可以导出为PDF。功能完整，比如有再次裁切（只能再切小）、调整顺序、颜色优化（灰阶或黑白）、分享等等。
+
+  相比之下，我试过的其它开源扫描软件就太差了，上面功能大量缺失，我觉得缺一不可。
+
 - [Wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
 
   维基百科官方客户端，只有10M，很小巧但五脏俱全。Wikipedia在平台建设上确实遥遥领先，希望国内同行快点幡然醒悟。
+
+- [Sky Map](https://github.com/sky-map-team/stardroid)
+
+  星图软件，让你上知天文。借助重力感应，把手机指向天空就可以方便对照天上的星是什么名字。当然其他功能就不多了。
+
+  虽然在更新，但是界面比较落后，数据貌似也不多。
 
 ### 内容获取
 
@@ -164,6 +176,10 @@
   RSS订阅软件，这类软件没有太令我满意的，这个就算比较好的了。
 
   国内没有什么开源的新闻阅读软件，但是有很多资讯平台有RSS订阅。因此Feeder可以成为一个非常纯粹的新闻阅读软件，没有任何交互，像看报纸一样地阅读📰。
+
+- [Transistor](https://github.com/y20k/transistor)
+
+  收音机。只不过这个是从网络串流的，不是真正的调频收音机，原因是很多硬件不支持了（手机自带收音机也逐渐消失）。好处是你可以听外地的频道，默认的搜索引擎可以添加上千个国内外频道。
 
 - [Legado](https://github.com/gedoor/legado)
 
@@ -248,6 +264,10 @@
 - [MGit](https://github.com/maks/MGit)
 
   不太好的git客户端里不太差的一个。在维护，但很久不发布新版本，界面也很古老，是Android 4时代的界面。
+
+- [Revolution IRC](https://github.com/MCMrARM/revolution-irc)
+
+  安卓最佳IRC客户端，有用IRC的老伙伴估计也已经知道了。界面整洁，功能全面。可以在后台一直保持连接。
 
 - [OpenKeychain](https://github.com/open-keychain/open-keychain)
 
