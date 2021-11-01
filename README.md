@@ -83,6 +83,10 @@
 
   视频播放器，作为VLC的补充。Nova有类似于Plex的功能，可以管理视频库，显示封面，联网获取信息等。还有电视模式，可以作为家庭影院的开源方案。个人经验通过SFTP播放视频加载网速比VLC快好几倍。
 
+- [MPV](https://github.com/mpv-android/mpv-android)
+
+  Linux平台很出名的播放软件，以UI简洁(lòu)著称。安卓版本并非官方开发，所以就更简洁(lòu)了😢。总体上不如VLC和Nova，但继承了桌面端的可定制性，可以编辑配置文件改变选项和快捷键。
+
 - [Vinyl](https://github.com/AdrienPoupa/VinylMusicPlayer)
 
   很轻量且干净的音乐播放器。可能是开发难度低，F-Droid上太多音乐软件了，恕不一一列举，质量都很不错。
@@ -172,6 +176,10 @@
   文档扫描。和大家想的一样，可以拍照、裁切、再合成一个文档，可以导出为PDF。功能完整，比如有再次裁切（只能再切小）、调整顺序、颜色优化（灰阶或黑白）、分享等等。
 
   相比之下，我试过的其它开源扫描软件就太差了，上面功能大量缺失，我觉得缺一不可。
+
+- [QuickDic](https://github.com/rdoeffinger/Dictionary)
+
+  词典软件。怎么说呢，一言难尽啊，开源的词典真的没找到很好用的。这个QuickDic可以下载很多中词典文件，但基本是多语种互译。查词的时候把所有词显示出来，查哪个滚动到哪个。
 
 - [Wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
 
