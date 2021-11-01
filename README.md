@@ -7,8 +7,8 @@
 
 酷安应用集链接（需要移动端app）：
 
-- 应用：https://www.coolapk.com/album/28666843
-- 游戏：https://www.coolapk.com/album/28747360
+- 应用：[很好用的开源软件](https://www.coolapk.com/album/28666843)
+- 游戏：[开源游戏](https://www.coolapk.com/album/28747360)
 
 应用集强调我自己的使用体验，而不是单纯的展示链接，意在读者能更好地提前了解软件的特点。正因此，本文遵循[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)版权协议，详见文末。
 
