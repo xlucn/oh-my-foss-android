@@ -199,6 +199,10 @@
 
 ### 系统工具
 
+- [Material Files](https://github.com/zhanghai/MaterialFiles)
+
+  文件管理器，非常漂亮，基本的功能都有。
+
 - [Pdf Viewer Plus](https://github.com/JavaCafe01/PdfViewer)
 
   PDF阅读器，开源的同类软件UI都不怎么样，这个算是很好的了，期待和谷歌PDF阅读器差不多的开源版本出现。
@@ -269,6 +273,14 @@
 
   2021.10.25：更新啦
 
+- [OctoDroid](https://github.com/slapperwan/gh4a)
+
+  GitHub客户端，对GitHub各项功能支持比较全面（指reaction表情、通知等细节都有），但是开发比较迟缓了。
+
+- [GitFox](https://gitlab.com/terrakok/gitlab-client)
+
+  GitLab客户端，有点简洁，功能不多。GitLab可以自主搭建服务器，因此支持登录其他服务器。
+
 - [GitTouch](https://github.com/git-touch/git-touch)
 
   很多git托管平台的客户端，比如GitHub，GitLab等。注意不是git客户端，没发现很好的git客户端。
@@ -276,6 +288,10 @@
 - [MGit](https://github.com/maks/MGit)
 
   不太好的git客户端里不太差的一个。在维护，但很久不发布新版本，界面也很古老，是Android 4时代的界面。
+
+- [F-Droid Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
+
+  可以查看F-Droid软件编译状态。F-Droid平台所有软件都严格在他们的服务器上编译，这是和其他任何接受直接上传编译好安装包的应用商店最大的不同。也因此要等待编译，一般要几天时间，用这个就可以看新版本编译完成没有。
 
 - [Revolution IRC](https://github.com/MCMrARM/revolution-irc)
 
