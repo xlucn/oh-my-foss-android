@@ -2,7 +2,8 @@
 
 个人收集的实用、良心开源安卓软件，最初发布于酷安：
 
-https://www.coolapk.com/album/28666843
+应用： https://www.coolapk.com/album/28666843
+游戏： https://www.coolapk.com/album/28747360
 
 ## 选择条件
 
