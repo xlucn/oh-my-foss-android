@@ -32,7 +32,7 @@
 - [极客工具](#极客工具)
 - [社交平台](#社交平台)
 - [游戏](#游戏)
-- [Lineage OS自带](#Lineage OS自带)
+- [Lineage OS自带](#Lineage-OS自带)
 
 ### 应用商店
 
