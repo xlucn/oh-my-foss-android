@@ -119,9 +119,17 @@
 
   用过最好的天气软件之一，媲美很多国内安卓系统的自带天气。
 
+- [Pluvia Weather](https://github.com/SpicyChair/pluvia_weather_flutter)
+
+  不错的天气软件，界面相当漂亮，但是使用OpenWeatherMap貌似国内连接很慢，预报也不一定准确。
+
 - [EnRecipes](https://github.com/vishnuraghavb/EnRecipes)
 
   菜谱。选这个主要因为这种小功能的软件做的这么精致太难得。但是，这个它没有在线菜谱，只能用户自己录入，就很鸡肋了。希望能建立一个在线菜谱，或与已有的进行合作，用户对其进行丰富，才有实用性。
+
+- [Loop Habit Tracker](https://github.com/iSoron/uhabits)
+
+  制定规划，帮你监督，习惯养成利器。可以记录你每天计划完成的进度，做出统计，定时提醒。
 
 - [Feeel](https://gitlab.com/enjoyingfoss/feeel)
 
