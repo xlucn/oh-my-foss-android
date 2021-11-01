@@ -23,3 +23,7 @@ https://www.coolapk.com/album/28666843
 - [Cool FOSS Android Apps](https://github.com/albertomosconi/foss-apps)
 
 - [Collection of Free and Open Source Android apps](https://github.com/Ashpex/Android-FOSS-Apps)
+
+## 版权
+
+版权声明：本文为 [Lu Xu](https://github.com/OliverLew) 原创，依据 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可证进行授权，转载请附上出处链接及本声明。
