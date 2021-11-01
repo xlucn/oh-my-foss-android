@@ -1,9 +1,17 @@
 # 很好用的开源安卓软件
 
-个人收集的实用、良心开源安卓软件，最初发布于酷安：
+个人收集的实用、良心开源安卓软件，最初发布于酷安。今后更新重心转移至git仓库。
 
-应用： https://www.coolapk.com/album/28666843
-游戏： https://www.coolapk.com/album/28747360
+主仓库为Github：https://github.com/OliverLew/oh-my-foss-android
+
+镜像同步于Gitee：https://gitee.com/lewinat0r/oh-my-foss-android
+
+酷安应用集链接（需要移动端app）：
+
+- 应用：https://www.coolapk.com/album/28666843
+- 游戏：https://www.coolapk.com/album/28747360
+
+应用集强调我自己的使用体验，而不是单纯的展示链接，意在读者能更好地提前了解软件的特点。
 
 ## 选择条件
 
