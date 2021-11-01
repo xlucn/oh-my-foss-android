@@ -275,7 +275,6 @@
 
   一个问题是，一般只能打开安卓识别为纯文本的文件，连yaml都不行。除非文件管理器能强行作为文本打开。GitHub有好几个issue提到，但作者坚决把锅甩给安卓和文件管理器，感觉作者有开发“洁癖”。
 
-2021.09.28
 - [Acode](https://github.com/deadlyjack/Acode)
 
   更高级的文本/代码编辑器。从截图上看，Acode可能更适合在平板等大屏设备上进行更专业的编辑工作，类似于VS Code等软件。
@@ -355,6 +354,10 @@
   很强大的游戏机模拟器，支持任天堂、索尼等20多款经典游戏机的模拟，Nintendo、GBA、PSP都没问题。你只要下载一个游戏ROM，扔到指定文件夹，就可以玩了，简直良心神器！
 
   一个软件给手机游戏带来无限可能，可以找回童年，或者把丢掉的童年找回来！
+
+- [Antimine](https://github.com/lucasnlm/antimine-android)
+
+  很棒的扫雷游戏，界面漂亮，操作直观。
 
 - [Mindustry](https://github.com/Anuken/Mindustry)
 
