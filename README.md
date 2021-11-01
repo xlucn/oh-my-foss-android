@@ -21,6 +21,37 @@
 - **受众广泛**：目标用户多，适合一般人
 - **积极维护**：源代码持续更新
 
+## 分类
+
+- [应用商店](#应用商店)
+
+### 应用商店
+
+[F-droid](https://f-droid.org)是著名的开源安卓软件平台，其客户端提供软件的安装。F-droid官方源会从源代码编译独立的安装文件，因此可检验软件中的不安全以及非开源因素，使得F-droid上的软件保证很高的安全性和开源性。
+
+建议安装其中一个F-droid客户端。
+
+- [Driod-ify](https://github.com/Iamlooker/Droid-ify)
+
+  F-droid第三方客户端，基于foxy droid（见下）。后者不怎么维护了，因此有人修复bug、更新界面后发布了这个款app。目前使用起来不会有什么区别，日后可能会有新功能加入。
+
+  更新：0.3版本加入了root👽静默安装，好耶！可以取代foxy了。
+
+  更新：又加入了大量的内置仓库，可以不用导入了。
+
+- [Foxy Droid](https://github.com/kitsunyan/foxy-droid)
+
+  F-droid第三方客户端，这个很简洁，只有1M多，我一直用作官方客户端的替代品。
+  缺点是无法自动和批量安装，每次会弹出安装窗口。基本功能尚可用，更推荐上面Droid-ify。
+
+- [Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid)
+
+  F-droid第三方客户端，有root的话可以一键更新/安装。
+
+- [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
+
+  谷歌商店第三方客户端。在不安装谷歌框架的情况下，可以用这个安装谷歌商店的软件。它会用一个临时账号帮你下载，因此不会向谷歌暴露自己的个人信息。
+
 ## 相似集合
 
 以下一些集合也列举了很多安卓开源软件
