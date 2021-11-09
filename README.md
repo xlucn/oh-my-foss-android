@@ -10,7 +10,7 @@
 - 应用：[很好用的开源软件](https://www.coolapk.com/album/28666843)
 - 游戏：[开源游戏](https://www.coolapk.com/album/28747360)
 
-应用集强调我自己的使用体验，而不是单纯的展示链接，意在读者能更好地提前了解软件的特点。正因此，本文遵循[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)版权协议，详见文末。
+应用集强调我自己的使用体验，而不是单纯的展示链接，意在读者能更好地提前了解软件的特点。正因此，本文遵循[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)版权协议，如需转载等，详见文末。
 
 ## 选择条件
 
@@ -466,3 +466,5 @@
 ## 版权
 
 版权声明：本文为 [Lu Xu](https://github.com/OliverLew) 原创，依据 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可证进行授权，转载请附上出处链接及本声明。
+
+原文链接：https://github.com/OliverLew/oh-my-foss-android
