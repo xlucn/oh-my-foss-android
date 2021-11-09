@@ -183,17 +183,22 @@
 
 ### 学习办公
 
-[Collabora Office](https://www.collaboraoffice.com/)
+- [Collabora Office](https://www.collaboraoffice.com/)
+  [[独立源](https://www.collaboraoffice.com/releases-en/collabora-office-on-mobiles-supporting-password-protected-documents-and-available-on-f-droid/)]
+  [[网站](https://www.collaboraoffice.com)]
 
   LibreOffice的安卓适配版，可以实现大多数的文档查看，还有实验性的编辑功能。这个应该是最好的开源office组件了（但依然不够好）。
 
   需要F-Droid加入第三方源，就可以方便地安装更新。
 
 - [OpenDocument Reader](https://github.com/TomTasche/OpenDocument.droid)
+  [[F-Droid](https://f-droid.org/en/packages/at.tomtasche.reader)]
 
   功能很弱的文档查看软件，貌似主要解析文档里的内容，文档的格式就很……怎么说，显示地很朴素😅。没有编辑功能。
 
 - [Markor](https://github.com/gsantner/markor)
+  [[F-Droid](https://f-droid.org/en/packages/net.gsantner.markor/)]
+  [[网站](https://gsantner.net/project/markor.html?source=fdroid)]
 
   笔记软件，使用markdown语法。
 
@@ -202,30 +207,37 @@
   这样不需要软件实现跨平台❎，而是通过文件格式进行跨平台。☑️
 
 - [Notally](https://github.com/OmGodse/Notally)
+  [[F-Droid](https://f-droid.org/en/packages/com.omgodse.notally/)]
 
   极简又漂亮的笔记应用，只能输入纯文字，有少许加粗斜体等格式。
 
 - [OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ethereal.openscan)]
 
   文档扫描。和大家想的一样，可以拍照、裁切、再合成一个文档，可以导出为PDF。功能完整，比如有再次裁切（只能再切小）、调整顺序、颜色优化（灰阶或黑白）、分享等等。
 
   相比之下，我试过的其它开源扫描软件就太差了，上面功能大量缺失，我觉得缺一不可。
 
 - [QuickDic](https://github.com/rdoeffinger/Dictionary)
+  [[F-Droid](https://f-droid.org/en/packages/de.reimardoeffinger.quickdic/)]
 
   词典软件。怎么说呢，一言难尽啊，开源的词典真的没找到很好用的。这个QuickDic可以下载很多中词典文件，但基本是多语种互译。查词的时候把所有词显示出来，查哪个滚动到哪个。
 
 - [Wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
+  [[F-Droid](https://f-droid.org/en/packages/org.wikipedia/)]
+  [[网站](https://www.mediawiki.org/wiki/Wikimedia_Apps)]
 
   维基百科官方客户端，只有10M，很小巧但五脏俱全。Wikipedia在平台建设上确实遥遥领先，希望国内同行快点幡然醒悟。
 
 - [Sky Map](https://github.com/sky-map-team/stardroid)
+  [[F-Droid](https://f-droid.org/en/packages/com.google.android.stardroid/)]
 
   星图软件，让你上知天文。借助重力感应，把手机指向天空就可以方便对照天上的星是什么名字。当然其他功能就不多了。
 
   虽然在更新，但是界面比较落后，数据貌似也不多。
 
 - [DeepL](https://github.com/sakusaku3939/DeepLAndroid)
+  [[F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer/)]
 
   翻译软件。基于深度学习的翻译引擎，这个是把网页版包装成了一个轻量的应用。重要的是，可以在选取文字后的弹出菜单里选择DeepL进行翻译。
 
@@ -234,6 +246,7 @@
 这类软件没有自带内容或既定来源，用户自行加入“源”获取在线内容。
 
 - [Feeder](https://gitlab.com/spacecowboy/Feeder)
+  [[F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer/)]
 
   RSS订阅软件，这类软件没有太令我满意的，这个就算比较好的了。
 
@@ -244,64 +257,81 @@
   IPTV客户端，可以从网络串流观看电视节目，大家可以自行从网上搜集IPTV资源，添加至播放器中，就可以播放了。
 
 - [Transistor](https://github.com/y20k/transistor)
+  [[F-Droid](https://f-droid.org/en/packages/org.y20k.transistor/)]
 
   收音机。只不过这个是从网络串流的，不是真正的调频收音机，原因是很多硬件不支持了（手机自带收音机也逐渐消失）。好处是你可以听外地的频道，默认的搜索引擎可以添加上千个国内外频道。
 
-- [Legado](https://github.com/gedoor/legado)
+- [Legado(阅读)](https://github.com/gedoor/legado)
+  [[F-Droid](https://apt.izzysoft.de/fdroid/index/apk/io.legado.app.release)]
+  [[网站](https://www.legado.top)]
 
   电子书阅读软件。不提供内置书源，需要用户自行寻找后导入，提高了自由度，也让软件本身更加纯净。
 
 ### 系统工具
 
 - [Material Files](https://github.com/zhanghai/MaterialFiles)
+  [[F-Droid](https://f-droid.org/en/packages/me.zhanghai.android.files/)]
 
   文件管理器，非常漂亮，基本的功能都有。
 
 - [Pdf Viewer Plus](https://github.com/JavaCafe01/PdfViewer)
+  [[F-Droid](https://f-droid.org/en/packages/me.zhanghai.android.files)]
 
   PDF阅读器，开源的同类软件UI都不怎么样，这个算是很好的了，期待和谷歌PDF阅读器差不多的开源版本出现。
 
 - [同文输入法](https://github.com/osfans/trime)
+  [[F-Droid](https://f-droid.org/en/packages/com.osfans.trime/)]
 
   F-Droid上甚至是开源软件中唯一一个中文输入法，基于配置文件，定制性相当恐怖😱，你喜欢的样子它都有。本以为两年不更新了，结果又有新版本了。
 
   配置文件对上手是一个门槛，需要自行下载配置文件导入。
 
 - [Seafile](https://github.com/haiwen/seadroid)
+  [[F-Droid](https://f-droid.org/en/packages/com.seafile.seadroid2/)]
+  [[网站](https://www.seafile.com/home/)]
 
   文件同步/网盘客户端。是国内开发的，需要自己搭服务器。我们学校用它做了一个box，访问起来很方便：）
 
 - [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
+  [[F-Droid](https://www.seafile.com/home/)]
 
   功能强大的下载器，可以多段加速，分享下载链接就可以选择下载。
 
 - [GPSTest](https://github.com/barbeau/gpstest)
+  [[F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/)]
 
   显示GPS信息，非常丰富，可以看到五种全球定位系统的卫星位置、自己的经纬度、海拔还有速度等等。
 
 - [OAndBackupX](https://github.com/machiav3lli/oandbackupx)
+  [[F-Droid](https://f-droid.org/en/packages/com.android.gpstest.osmdroid/)]
 
   备份软件，可以备份任何东西，需要root。
 
 - [Password Store](https://github.com/android-password-store/Android-Password-Store)
+  [[F-Droid](https://f-droid.org/en/packages/dev.msfjarvis.aps/)]
 
   密码管理和自动填充软件。要先了解Linux平台上的[password store](https://www.passwordstore.org/)才能用，这个是安卓客户端。
 
   特点是利用git管理加密的密码文件，利用gpg加密解密，password store本身只是一个小脚本，调用git和gpg。因而可以选择GitHub私人仓库+password store的超轻量开源方案，而非托管在统一的服务器上，这很Unix。
 
 - [AN2Linux](https://github.com/rootkiwi/an2linuxclient)
+  [[F-Droid](https://f-droid.org/en/packages/kiwi.root.an2linuxclient/)]
+  [[网站](https://github.com/rootkiwi/an2linuxserver/)]
 
   通知同步软件，将手机上的通知推送到Linux电脑上，可以通过WiFi、蓝牙或者移动数据。我只试过WiFi，不知道另两个体验如何。
 
 - [Call Recorder](https://gitlab.com/axet/android-call-recorder)
+  [[F-Droid](https://f-droid.org/en/packages/com.github.axet.callrecorder)]
 
   电话自动录音，非本土化系统中很实用，搭配Magisk模块可以成为系统应用。
 
 - [andOTP](https://github.com/andOTP/andOTP)
+  [[F-Droid](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/)]
 
   双重验证（2FA）或者一次性密码（OTP）客户端，就是很多网站登录时出于安全性设置的6位数动态验证码。
 
 - [Aegis](https://github.com/beemdevelopment/Aegis)
+  [[F-Droid](https://f-droid.org/en/packages/com.beemdevelopment.aegis/)]
 
   和andOTP类似，是一款OTP（一次性密码）客户端。相比起来，这款界面更简洁、符合质感设计，其它方面大同小异。
 
