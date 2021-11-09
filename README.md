@@ -40,6 +40,11 @@
 
 建议安装其中一个F-Droid客户端。
 
+- [F-Droid](https://gitlab.com/fdroid/fdroidclient)
+  [[F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid)]
+
+  F-Droid官方客户端。虽是正统，但功能和界面并不是最好的，没什么值得表扬的。
+
 - [Driod-ify](https://github.com/Iamlooker/Droid-ify)
 
   F-Droid第三方客户端，基于foxy droid（见下）。后者不怎么维护了，因此有人修复bug、更新界面后发布了这个款app。目前使用起来不会有什么区别，日后可能会有新功能加入。
