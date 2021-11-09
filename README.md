@@ -46,6 +46,7 @@
   F-Droid官方客户端。虽是正统，但功能和界面并不是最好的，没什么值得表扬的。
 
 - [Driod-ify](https://github.com/Iamlooker/Droid-ify)
+  [[F-Droid](https://f-droid.org/en/packages/com.looker.droidify)]
 
   F-Droid第三方客户端，基于foxy droid（见下）。后者不怎么维护了，因此有人修复bug、更新界面后发布了这个款app。目前使用起来不会有什么区别，日后可能会有新功能加入。
 
@@ -54,69 +55,88 @@
   更新：又加入了大量的内置仓库，可以不用导入了。
 
 - [Foxy Droid](https://github.com/kitsunyan/foxy-droid)
+  [[F-Droid](https://f-droid.org/en/packages/nya.kitsunyan.foxydroid)]
 
   F-Droid第三方客户端，这个很简洁，只有1M多，我一直用作官方客户端的替代品。
   缺点是无法自动和批量安装，每次会弹出安装窗口。基本功能尚可用，更推荐上面Droid-ify。
 
 - [Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid)
+  [[F-Droid](https://f-droid.org/en/packages/com.aurora.adroid)]
+  [[网站](https://auroraoss.com/)]
 
   F-Droid第三方客户端，有root的话可以一键更新/安装。
 
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
+  [[F-Droid](https://f-droid.org/en/packages/com.aurora.store)]
 
   谷歌商店第三方客户端。在不安装谷歌框架的情况下，可以用这个安装谷歌商店的软件。它会用一个临时账号帮你下载，因此不会向谷歌暴露自己的个人信息。
 
 ### 互联网
 
-- [Fennec](https://github.com/mozilla-mobile/fenix)
+- [Fennec F-Droid](https://github.com/mozilla-mobile/fenix)
+  [[F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)]
 
   著名的火狐浏览器的更纯净开源版本，去除了其中的闭源成分。Fennec原意是“[耳廓狐](https://baike.baidu.com/item/耳廓狐)”，根据百科这是最小的犬类动物，取名还是很有寓意的。
 
   应该是F-Droid平台自己搞的，只能从这边安装。
 
 - [K-9 Mail](https://github.com/k9mail/k-9)
+  [[F-Droid](https://f-droid.org/en/packages/com.fsck.k9/)]
+  [[网站](https://k9mail.app/)]
 
   最著名的开源邮件客户端，支持多账号，选项很丰富。最近两年UI改进显著，越来越好用了。
 
 ### 多媒体
 
 - [VLC](https://www.videolan.org/vlc/download-android.html)
+  [[F-Droid](https://f-droid.org/en/packages/org.videolan.vlc/)]
+  [[网站](https://www.videolan.org/vlc/download-android.html)]
 
   多媒体播放器，开源最佳之一，和电脑端一样功能强大，界面也很漂亮。
 
 - [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
+  [[F-Droid](https://f-droid.org/en/packages/org.courville.nova/)]
 
   视频播放器，作为VLC的补充。Nova有类似于Plex的功能，可以管理视频库，显示封面，联网获取信息等。还有电视模式，可以作为家庭影院的开源方案。个人经验通过SFTP播放视频加载网速比VLC快好几倍。
 
-- [MPV](https://github.com/mpv-android/mpv-android)
+- [mpv-android](https://github.com/mpv-android/mpv-android)
+  [[F-Droid](https://f-droid.org/en/packages/is.xyz.mpv/)]
 
   Linux平台很出名的播放软件，以UI简洁(lòu)著称。安卓版本并非官方开发，所以就更简洁(lòu)了😢。总体上不如VLC和Nova，但继承了桌面端的可定制性，可以编辑配置文件改变选项和快捷键。
 
 - [Vinyl](https://github.com/AdrienPoupa/VinylMusicPlayer)
+  [[F-Droid](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/)]
 
   很轻量且干净的音乐播放器。可能是开发难度低，F-Droid上太多音乐软件了，恕不一一列举，质量都很不错。
 
   列表最后面有个lineage OS自带音乐播放器，和这个超级像，更加精简。
 
 - [FreeDCam](https://github.com/KillerInk/FreeDcam)
+  [[F-Droid](https://f-droid.org/en/packages/troop.com.freedcam)]
 
   相机软件。我觉得这个和Open Camera是开源相机中最好的两个，功能比较全面。当然这个全面是指对任何摄像头都适用的功能，如广角畸变修正、4合1像素再拆成4像素等就不灵了。作为通用相机软件，已经很不错了。
 
 - [Open Camera](https://sourceforge.net/p/opencamera/code)
+  [[F-Droid](https://f-droid.org/en/packages/net.sourceforge.opencamera/)]
+  [[网站](https://opencamera.org.uk/)]
 
   比较强大的相机软件。但是界面很丑，开发减缓，感觉开发者逐渐有点无心无力。（不过，最近更新了1.49.1。）
 
 - [Photok](https://github.com/leonlatsch/Photok)
+  [[F-Droid](https://f-droid.org/en/packages/dev.leonlatsch.photok/)]
 
   加密相册，选入应用集时正在积极开发，大量功能将要加入。
 
 - [Pocket Paint](https://github.com/Catrobat/Paintroid)
+  [[F-Droid](https://f-droid.org/en/packages/org.catrobat.paintroid/)]
 
   随便画点啥，功能比较全，甚至还有图层，界面也简洁漂亮。
 
 ### 日常工具
 
 - [OSMAnd~](https://github.com/osmandapp/Osmand)
+  [[F-Droid](https://f-droid.org/en/packages/net.osmand.plus/)]
+  [[网站](https://osmand.net/)]
 
   OpenStreetMap地图。因为数据都是用户自己贡献的，所以越偏僻的地方数据越少。如果在大城市，可以尝试一下，基本的浏览和导航功能还是可以用的。
 
@@ -125,30 +145,39 @@
   OSM能做到的功能实际很多，国内地图能记录的信息OSM基本都可以，比如多层建筑、公交地铁线路，但要贡献者自己学会怎么编辑。
 
 - [几何天气](https://github.com/WangDaYeeeeee/GeometricWeather)
+  [[F-Droid](https://f-droid.org/en/packages/wangdaye.com.geometricweather/)]
 
   用过最好的天气软件之一，媲美很多国内安卓系统的自带天气。
 
 - [Pluvia Weather](https://github.com/SpicyChair/pluvia_weather_flutter)
+  [[F-Droid](https://f-droid.org/en/packages/com.spicychair.weather/)]
 
   不错的天气软件，界面相当漂亮，但是使用OpenWeatherMap貌似国内连接很慢，预报也不一定准确。
 
 - [EnRecipes](https://github.com/vishnuraghavb/EnRecipes)
+  [[F-Droid](https://f-droid.org/en/packages/com.vishnuraghav.EnRecipes/)]
 
   菜谱。选这个主要因为这种小功能的软件做的这么精致太难得。但是，这个它没有在线菜谱，只能用户自己录入，就很鸡肋了。希望能建立一个在线菜谱，或与已有的进行合作，用户对其进行丰富，才有实用性。
 
 - [Noice](https://github.com/ashutoshgngwr/noice)
+  [[F-Droid](https://f-droid.org/en/packages/com.github.ashutoshgngwr.noice/)]
+  [[网站](https://ashutosh.blog/noice/)]
 
   播放噪音/自然声音。内置各种共30+种声音，可以自由组合，设置每一种声音的音量，保存为预设。
 
 - [Tasks](https://github.com/tasks/tasks)
+  [[F-Droid](https://f-droid.org/en/packages/org.tasks/)]
+  [[网站](https://tasks.org/)]
 
   待办列表管理，应该是同类最佳之一了。
 
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits)
+  [[F-Droid](https://f-droid.org/en/packages/org.isoron.uhabits/)]
 
   制定规划，帮你监督，习惯养成利器。可以记录你每天计划完成的进度，做出统计，定时提醒。
 
 - [Feeel](https://gitlab.com/enjoyingfoss/feeel)
+  [[F-Droid](https://f-droid.org/en/packages/com.enjoyingfoss.feeel/)]
 
   锻炼规划。一个锻炼方案可以设定多个锻炼项目和时长，指导你完成锻炼。界面很漂亮，运动时每个项目有倒计时，内置的几个锻炼项目有根据真实照片抽象化的姿势展示。
 
