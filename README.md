@@ -406,6 +406,14 @@
 
 ### 社交平台
 
+- [Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
+  [[F-Droid](https://f-droid.org/en/packages/org.telegram.messenger/)]
+  [[网站](https://telegram.org/)]
+
+  最常用的开源（只有前端开源）聊天（即时通信）软件。
+
+  该F-Droid版本去除原版所包含的谷歌服务在内的一些闭源成分。
+
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
   [[F-Droid](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/)]
 
