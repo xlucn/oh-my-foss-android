@@ -340,62 +340,79 @@
 我并不想分一个“开发类”，这里的软件并不是面向开发者的，而是喜欢折腾的用户。
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
+  [[F-Droid](https://f-droid.org/en/packages/com.topjohnwu.magisk/)]
+  [[网站](https://topjohnwu.github.io/Magisk/install.html)]
 
   著名的面具，需要电脑端配合安装，可以提供root和修改系统行为的模块。
 
   不过，不是刚需的话，不建议使用。我使用Lineage OS，因此微信和支付宝的指纹无法正常调用，便使用一些面具模块解决。
 
 - [Editor](https://github.com/billthefarmer/editor)
+  [[F-Droid](https://topjohnwu.github.io/Magisk/install.html)]
 
   轻量的文本编辑器，很小很小的软件还有语法高亮，吹爆它。
 
   一个问题是，一般只能打开安卓识别为纯文本的文件，连yaml都不行。除非文件管理器能强行作为文本打开。GitHub有好几个issue提到，但作者坚决把锅甩给安卓和文件管理器，感觉作者有开发“洁癖”。
 
 - [Acode](https://github.com/deadlyjack/Acode)
+  [[F-Droid](https://f-droid.org/en/packages/com.foxdebug.acode/)]
+  [[网站](https://acode.foxdebug.com/)]
 
   更高级的文本/代码编辑器。从截图上看，Acode可能更适合在平板等大屏设备上进行更专业的编辑工作，类似于VS Code等软件。
 
 - [ConnectBot](https://github.com/connectbot/connectbot)
+  [[F-Droid](https://f-droid.org/en/packages/org.connectbot/)]
 
   Ssh客户端，很好用。在维护但很久没有新版本了。我校阅了所有的翻译，希望将来有更新。
 
   2021.10.25：更新啦
 
 - [OctoDroid](https://github.com/slapperwan/gh4a)
+  [[F-Droid](https://f-droid.org/en/packages/com.gh4a/)]
 
   GitHub客户端，对GitHub各项功能支持比较全面（指reaction表情、通知等细节都有），但是开发比较迟缓了。
 
 - [GitFox](https://gitlab.com/terrakok/gitlab-client)
+  [[F-Droid](https://f-droid.org/en/packages/com.gitlab.terrakok.gitfox/)]
 
   GitLab客户端，有点简洁，功能不多。GitLab可以自主搭建服务器，因此支持登录其他服务器。
 
 - [GitTouch](https://github.com/git-touch/git-touch)
+  [[F-Droid](https://f-droid.org/en/packages/io.github.pd4d10.gittouch/)]
 
   很多git托管平台的客户端，比如GitHub，GitLab等。注意不是git客户端，没发现很好的git客户端。
 
 - [MGit](https://github.com/maks/MGit)
+  [[F-Droid](https://f-droid.org/en/packages/com.manichord.mgit/)]
+  [[网站](https://manichord.com/projects/mgit.html)]
 
   不太好的git客户端里不太差的一个。在维护，但很久不发布新版本，界面也很古老，是Android 4时代的界面。
 
 - [F-Droid Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
+  [[F-Droid](https://f-droid.org/en/packages/de.storchp.fdroidbuildstatus)]
 
   可以查看F-Droid软件编译状态。F-Droid平台所有软件都严格在他们的服务器上编译，这是和其他任何接受直接上传编译好安装包的应用商店最大的不同。也因此要等待编译，一般要几天时间，用这个就可以看新版本编译完成没有。
 
 - [Revolution IRC](https://github.com/MCMrARM/revolution-irc)
+  [[F-Droid](https://f-droid.org/en/packages/io.mrarm.irc/)]
 
   安卓最佳IRC客户端，有用IRC的老伙伴估计也已经知道了。界面整洁，功能全面。可以在后台一直保持连接。
 
 - [OpenKeychain](https://github.com/open-keychain/open-keychain)
+  [[F-Droid](https://f-droid.org/en/packages/org.sufficientlysecure.keychain/)]
+  [[网站](https://www.openkeychain.org/)]
 
   PGP锁钥管理，我是搭配password store使用，提供解锁密钥。
 
 ### 社交平台
 
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+  [[F-Droid](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/)]
 
   Reddit客户端，F-Droid上有好几个Reddit客户端，这个是我最喜欢的
 
 - [Glider](https://github.com/Mosc/Glider)
+  [[F-Droid](https://f-droid.org/en/packages/nl.viter.glider/)]
 
   著名面向IT领域的资讯平台hacker news的客户端，很精巧，用起来很顺手
 
@@ -404,86 +421,114 @@
   Trakt客户端，归纳自己看的电影和电视剧，精确到集的进度管理，有追剧提醒，随时同步。美剧党神器。
 
 - [RedReader](https://github.com/QuantumBadger/RedReader)
+  [[F-Droid](https://f-droid.org/en/packages/org.quantumbadger.redreader/)]
 
   Reddit客户端，很简洁轻量。我个人更喜欢Infinity和Slide
 
 - [Twidere X](https://github.com/TwidereProject/TwidereX-Android)
+  [[F-Droid](https://f-droid.org/en/packages/com.twidere.twiderex/)]
+  [[网站](https://x.twidere.com/)]
 
   Twitter客户端，开源中最佳，没有之一
 
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+  [[F-Droid](https://f-droid.org/en/packages/org.schabi.newpipe/)]
+  [[网站](https://newpipe.net/)]
 
   注重隐私的YouTube客户端，不能登陆，只能看，不过非常好用
 
 - [Fritter](https://github.com/jonjomckay/fritter)
+  [[F-Droid](https://f-droid.org/en/packages/com.jonjomckay.fritter/)]
 
   类似于NewPipe之于YouTube，Fritter是Twitter的无登录客户端，所有数据都在本地
 
 - [Hendroid](https://github.com/Nonononoki/Hendroid)
+  [[F-Droid](https://f-droid.org/en/packages/org.nonononoki.hendroid/)]
 
   奇怪漫画网站的客户端，可以下载漫画
 
 ### 游戏
 
 - [Lemuroid](https://github.com/Swordfish90/Lemuroid)
+  [[F-Droid](https://f-droid.org/en/packages/com.swordfish.lemuroid/)]
 
   很强大的游戏机模拟器，支持任天堂、索尼等20多款经典游戏机的模拟，Nintendo、GBA、PSP都没问题。你只要下载一个游戏ROM，扔到指定文件夹，就可以玩了，简直良心神器！
 
   一个软件给手机游戏带来无限可能，可以找回童年，或者把丢掉的童年找回来！
 
 - [Antimine](https://github.com/lucasnlm/antimine-android)
+  [[F-Droid](https://f-droid.org/en/packages/dev.lucanlm.antimine/)]
 
   很棒的扫雷游戏，界面漂亮，操作直观。
 
 - [Mindustry](https://github.com/Anuken/Mindustry)
+  [[F-Droid](https://f-droid.org/en/packages/io.anuke.mindustry/)]
+  [[网站](https://anuke.itch.io/mindustry)]
 
   非常精良的塔防游戏。Mindustry比一般的塔防要复杂，比如要采各种矿、建立资源运输管道供给防御工事、开发科技树，敌人自由走动。有点像即时策略了，可玩性max。
 
 - [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
+  [[F-Droid](https://f-droid.org/en/packages/com.shatteredpixel.shatteredpixeldungeon/)]
+  [[网站](https://shatteredpixel.com/)]
 
   Roguelike类地牢探险游戏，自己玩过感觉有难度。画面是像素风格的，很精致。现在更新非常频繁，发布了1.0版本，质量有保证。
 
 - [Minetest](https://github.com/minetest/minetest)
+  [[F-Droid](https://f-droid.org/en/packages/net.minetest.minetest/)]
+  [[网站](https://www.minetest.net/)]
 
   类似Minecraft的开源沙盘游戏，可玩性很高。我没怎么玩过，应该要搭配下面的模块管理，默认好像真的只有沙盘。
 
 - [Minetest Mods](https://github.com/rubenwardy/mtmods4android)
+  [[F-Droid](https://f-droid.org/en/packages/com.rubenwardy.minetestmodmanager/)]
+  [[网站](https://rubenwardy.com/mtmods4android/)]
 
   管理Minetest模块
 
 - [SuperTuxKart](https://github.com/supertuxkart/stk-code)
+  [[F-Droid](https://f-droid.org/en/packages/org.supertuxkart.stk/)]
+  [[网站](https://supertuxkart.net/Main_Page)]
 
   大名鼎鼎的开源赛车游戏。游戏画面是卡通风格，有很多的跑道、赛车和道具，多种游戏模式。很适合休闲时玩一玩。
 
 - [UnCiv](https://github.com/yairm210/UnCiv)
+  [[F-Droid](https://f-droid.org/en/packages/com.unciv.app/)]
 
   简化的文明5，有各种国家、职业、建筑，丰富的科技树。作者是试图还原文明5的游戏功能的，界面则抽象化了，这也使得游戏体积很小。没玩过文明5的我表示入手很痛苦😅。
 
 - [Pixel Wheels](https://github.com/agateau/pixelwheels)
+  [[F-Droid](https://f-droid.org/en/packages/com.agateau.tinywheels.android/)]
+  [[网站](https://agateau.com/projects/pixelwheels/)]
 
   顶部视角的赛车游戏，像素风格，游戏节奏快。因为不是第一视角，感觉操作有点违反直觉啊，转弯程度不容易控制，但熟悉了之后还蛮好玩的。
 
 - [Xeonjia](https://gitlab.com/DeepDaikon/Xeonjia)
+  [[F-Droid](https://f-droid.org/en/packages/xyz.deepdaikon.xeonjia/)]
 
   一个“滑冰”的探险游戏，即在冰上行走不会停，这很大程度影响了角色的行走策略。没错，这又是像素风格的界面。
 
 - [TriPeaks](https://github.com/mimoguz/tripeaks-gdx)
+  [[F-Droid](https://f-droid.org/en/packages/ogz.tripeaks/)]
 
   像素风格的纸牌游戏，很简单，只有这一种游戏，加进来是因为界面很精致。
 
 - [Apple Flinger](https://gitlab.com/ar-/apple-flinger)
+  [[F-Droid](https://f-droid.org/en/packages/ogz.tripeaks/)]
 
   类似愤怒的小鸟，画面很精致，但是关卡太少了，不过瘾。
 
 - [Sudoku](https://github.com/SecUSo/privacy-friendly-sudoku)
+  [[F-Droid](https://f-droid.org/en/packages/org.secuso.privacyfriendlysudoku)]
 
   数独，F-Droid有几个数独游戏，这个用户体验是很好的
 
 - [2048](https://github.com/andstatus/game2048)
+  [[F-Droid](https://f-droid.org/en/packages/org.andstatus.game2048/)]
 
   目前维护最积极的2048。
 
 - [Blockinger](https://github.com/vocollapse/Blockinger)
+  [[F-Droid](https://f-droid.org/en/packages/org.blockinger.game/)]
 
   俄罗斯方块。很久很久很久没更新了，但是还可以用。即便很老，但玩起来很顺手，反应灵敏，比较严格的经典规则，我认为高手也能玩的很舒服。也比较无奈，竟然没有较新的开源俄罗斯方块。
 
@@ -500,6 +545,7 @@
   这不是游戏，是魔方速拧计时软件，功能相当丰富，生成打乱几乎支持所有比赛类别，还有数据分析等。网页端还有个csTimer，都是开源的。
 
 - [Anuto TD](https://github.com/reloZid/android-anuto)
+  [[F-Droid](https://f-droid.org/en/packages/ch.logixisland.anuto/)]
 
   塔防游戏，界面元素都是作者手画的，作者自认为很丑，因而得名。游戏并不是很优秀，单位比较少，画面粗糙，敌人多了加速会很卡。但是我一度很上瘾。
 
