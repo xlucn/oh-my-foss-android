@@ -58,7 +58,7 @@
   [[F-Droid](https://f-droid.org/en/packages/nya.kitsunyan.foxydroid)]
 
   F-Droid第三方客户端，这个很简洁，只有1M多，我一直用作官方客户端的替代品。
-  缺点是无法自动和批量安装，每次会弹出安装窗口。基本功能尚可用，更推荐上面Droid-ify。
+  缺点是无法自动和批量安装，每次会弹出安装窗口。基本功能尚可用，但长时间不更新了，更推荐上面Droid-ify。
 
 - [Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid)
   [[F-Droid](https://f-droid.org/en/packages/com.aurora.adroid)]
@@ -78,13 +78,15 @@
 
   著名的火狐浏览器的更纯净开源版本，去除了其中的闭源成分。Fennec原意是“[耳廓狐](https://baike.baidu.com/item/耳廓狐)”，根据百科这是最小的犬类动物，取名还是很有寓意的。
 
-  应该是F-Droid平台自己搞的，只能从这边安装。
+  基础源代码还是Mozilla的，但应该是F-Droid平台自己编译，所以只能从这边安装。
 
 - [K-9 Mail](https://github.com/k9mail/k-9)
   [[F-Droid](https://f-droid.org/en/packages/com.fsck.k9/)]
   [[网站](https://k9mail.app/)]
 
   最著名的开源邮件客户端，支持多账号，选项很丰富。最近两年UI改进显著，越来越好用了。
+
+  他们的网站是我见过开源软件里做的最好看的之一。
 
 ### 多媒体
 
@@ -107,7 +109,7 @@
 - [Vinyl](https://github.com/AdrienPoupa/VinylMusicPlayer)
   [[F-Droid](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/)]
 
-  很轻量且干净的音乐播放器。可能是开发难度低，F-Droid上太多音乐软件了，恕不一一列举，质量都很不错。
+  很轻量且干净的音乐播放器。可能是开发难度低，F-Droid上太多音乐软件了。搜"music"关键词，最近更新的都比较好，恕不一一列举。
 
   列表最后面有个lineage OS自带音乐播放器，和这个超级像，更加精简。
 
@@ -189,12 +191,12 @@
 
   LibreOffice的安卓适配版，可以实现大多数的文档查看，还有实验性的编辑功能。这个应该是最好的开源office组件了（但依然不够好）。
 
-  需要F-Droid加入第三方源，就可以方便地安装更新。
+  需要F-Droid加入第三方源（链接见上），就可以方便地安装更新。
 
 - [OpenDocument Reader](https://github.com/TomTasche/OpenDocument.droid)
   [[F-Droid](https://f-droid.org/en/packages/at.tomtasche.reader)]
 
-  功能很弱的文档查看软件，貌似主要解析文档里的内容，文档的格式就很……怎么说，显示地很朴素😅。没有编辑功能。
+  功能很弱的文档查看软件，貌似主要解析文档里的内容，文档的格式就很……怎么说，显示地很朴素😅。几乎没有编辑功能。
 
 - [Markor](https://github.com/gsantner/markor)
   [[F-Droid](https://f-droid.org/en/packages/net.gsantner.markor/)]
@@ -282,9 +284,10 @@
 - [同文输入法](https://github.com/osfans/trime)
   [[F-Droid](https://f-droid.org/en/packages/com.osfans.trime/)]
 
-  F-Droid上甚至是开源软件中唯一一个中文输入法，基于配置文件，定制性相当恐怖😱，你喜欢的样子它都有。本以为两年不更新了，结果又有新版本了。
-
+  F-Droid上甚至是开源软件中唯一一个中文输入法，基于配置文件，定制性相当恐怖😱，你喜欢的样子它都有。
   配置文件对上手是一个门槛，需要自行下载配置文件导入。
+
+  本以为两年不更新了，结果又有新版本了（指v3.2.0版本与上一个版本相隔3年多）。一个开源软件突然恢复维护是一件令人感到幸福的事情。
 
 - [Seafile](https://github.com/haiwen/seadroid)
   [[F-Droid](https://f-droid.org/en/packages/com.seafile.seadroid2/)]
@@ -333,18 +336,17 @@
 - [Aegis](https://github.com/beemdevelopment/Aegis)
   [[F-Droid](https://f-droid.org/en/packages/com.beemdevelopment.aegis/)]
 
-  和andOTP类似，是一款OTP（一次性密码）客户端。相比起来，这款界面更简洁、符合质感设计，其它方面大同小异。
+  和andOTP类似，是一款双重验证码客户端。相比起来，这款界面更简洁、符合质感设计，其它方面大同小异。
 
 ### 极客工具
 
-我并不想分一个“开发类”，这里的软件并不是面向开发者的，而是喜欢折腾的用户。
+我并不想分一个“开发类”，这里的软件并不是面向开发者的，而是喜欢折腾的用户。这也符合最开始制订的”受众广泛“要求。
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
   [[F-Droid](https://f-droid.org/en/packages/com.topjohnwu.magisk/)]
   [[网站](https://topjohnwu.github.io/Magisk/install.html)]
 
   著名的面具，需要电脑端配合安装，可以提供root和修改系统行为的模块。
-
   不过，不是刚需的话，不建议使用。我使用Lineage OS，因此微信和支付宝的指纹无法正常调用，便使用一些面具模块解决。
 
 - [Editor](https://github.com/billthefarmer/editor)
@@ -365,7 +367,7 @@
 
   Ssh客户端，很好用。在维护但很久没有新版本了。我校阅了所有的翻译，希望将来有更新。
 
-  2021.10.25：更新啦
+  2021.10.25：更新啦。
 
 - [OctoDroid](https://github.com/slapperwan/gh4a)
   [[F-Droid](https://f-droid.org/en/packages/com.gh4a/)]
@@ -402,7 +404,7 @@
   [[F-Droid](https://f-droid.org/en/packages/org.sufficientlysecure.keychain/)]
   [[网站](https://www.openkeychain.org/)]
 
-  PGP锁钥管理，我是搭配password store使用，提供解锁密钥。
+  PGP锁钥管理，我是搭配password store使用，提供解锁密钥。此外还有很多软件可以使用它。
 
 ### 社交平台
 
@@ -473,7 +475,9 @@
   [[F-Droid](https://f-droid.org/en/packages/io.anuke.mindustry/)]
   [[网站](https://anuke.itch.io/mindustry)]
 
-  非常精良的塔防游戏。Mindustry比一般的塔防要复杂，比如要采各种矿、建立资源运输管道供给防御工事、开发科技树，敌人自由走动。有点像即时策略了，可玩性max。
+  非常精良的塔防游戏。Mindustry比一般的塔防要复杂，比如要采各种矿、建立资源运输管道供给防御工事、开发科技树，敌人自由走动。有点像即时策略了（好像就是），可玩性max。
+
+  注：目前由于F-Droid服务器编译环境不兼容，软件版本卡在了主版本5。
 
 - [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
   [[F-Droid](https://f-droid.org/en/packages/com.shatteredpixel.shatteredpixeldungeon/)]
@@ -510,6 +514,8 @@
 
   顶部视角的赛车游戏，像素风格，游戏节奏快。因为不是第一视角，感觉操作有点违反直觉啊，转弯程度不容易控制，但熟悉了之后还蛮好玩的。
 
+  我贡献了中文翻译，不用谢。
+
 - [Xeonjia](https://gitlab.com/DeepDaikon/Xeonjia)
   [[F-Droid](https://f-droid.org/en/packages/xyz.deepdaikon.xeonjia/)]
 
@@ -523,12 +529,12 @@
 - [Apple Flinger](https://gitlab.com/ar-/apple-flinger)
   [[F-Droid](https://f-droid.org/en/packages/ogz.tripeaks/)]
 
-  类似愤怒的小鸟，画面很精致，但是关卡太少了，不过瘾。
+  类似愤怒的小鸟，画面很精致。但是关卡太少了，不过瘾，也不更新了。
 
 - [Sudoku](https://github.com/SecUSo/privacy-friendly-sudoku)
   [[F-Droid](https://f-droid.org/en/packages/org.secuso.privacyfriendlysudoku)]
 
-  数独，F-Droid有几个数独游戏，这个用户体验是很好的
+  数独，F-Droid有几个数独游戏，这个用户体验是很好的。还有[另一个](https://github.com/ogarcia/opensudoku)，但是自带只有90个离线关卡，此外只能下载导入。
 
 - [2048](https://github.com/andstatus/game2048)
   [[F-Droid](https://f-droid.org/en/packages/org.andstatus.game2048/)]
