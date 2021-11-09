@@ -10,6 +10,8 @@
 - 应用：[很好用的开源软件](https://www.coolapk.com/album/28666843)
 - 游戏：[开源游戏](https://www.coolapk.com/album/28747360)
 
+若要推荐，可以通过issue或酷安应用集评论，当然我可能当时不会添加，但我会留意。
+
 应用集强调我自己的使用体验，而不是单纯的展示链接，意在读者能更好地提前了解软件的特点。正因此，本文遵循[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)版权协议，如需转载等，详见文末。
 
 ## 选择条件
