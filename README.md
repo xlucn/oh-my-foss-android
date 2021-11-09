@@ -525,6 +525,14 @@
 
   我贡献了中文翻译，不用谢。
 
+- [Andor's Trail](https://github.com/AndorsTrailRelease/andors-trail)
+  [[F-Droid](https://f-droid.org/en/packages/xyz.deepdaikon.xeonjia/)]
+  [[网站](https://andorstrail.com/)]
+
+  任务驱动的RPG游戏，就是那种升级加技能点买装备打怪兽的游戏。游戏其实还在持续完善，地图还没做完，所以有一部分故事线和任务都是断的。不过目前的部分已经可以玩几个星期了。还有问题是大部分对话是英文，中文翻译的很少。
+
+  时隔好久，又看了一眼git仓库。你猜怎么着，它一小时前更新版本(v0.7.14)了，巧不巧！这个版本有很多人（包括我）更新的翻译，但是依然剩下59%的内容没有翻译。游戏里这些人话可真多。
+
 - [Xeonjia](https://gitlab.com/DeepDaikon/Xeonjia)
   [[F-Droid](https://f-droid.org/en/packages/xyz.deepdaikon.xeonjia/)]
 
