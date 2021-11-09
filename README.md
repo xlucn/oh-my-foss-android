@@ -349,6 +349,15 @@
   著名的面具，需要电脑端配合安装，可以提供root和修改系统行为的模块。
   不过，不是刚需的话，不建议使用。我使用Lineage OS，因此微信和支付宝的指纹无法正常调用，便使用一些面具模块解决。
 
+  附简要安装步骤（不是手把手指导，请见官方网站）：
+  1.安装本安卓软件；
+  2.获取系统镜像，提取boot.img文件，导入手机存储；
+  3.使用Magisk安卓软件安装补丁，具体是进入“Magisk安装”，然后“选择并修补一个文件”，导出修补后新文件至电脑；
+  4.重启至fastboot，在电脑上执行`fastboot flash magisk_patched_***.img`。
+  是不是很简单啊？
+
+  再说一句，Magisk并没有提供每一种机型的下载。所以上面的过程对所有机型适用，耗时的步骤是获取boot.img文件。
+
 - [Editor](https://github.com/billthefarmer/editor)
   [[F-Droid](https://topjohnwu.github.io/Magisk/install.html)]
 
