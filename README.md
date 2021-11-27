@@ -185,6 +185,11 @@
 
   锻炼规划。一个锻炼方案可以设定多个锻炼项目和时长，指导你完成锻炼。界面很漂亮，运动时每个项目有倒计时，内置的几个锻炼项目有根据真实照片抽象化的姿势展示。
 
+- [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds)
+  [[F-droid](https://f-droid.org/en/packages/dev.corruptedark.diditakemymeds)]
+
+  监督用药。可以增添用药条目，指定数量，它会提醒你吃药，以及记录过往用药。虽然是新软件，但是目前的功能已经很不错了。
+
 ### 学习办公
 
 - [Collabora Office](https://www.collaboraoffice.com/)
