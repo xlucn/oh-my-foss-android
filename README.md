@@ -126,6 +126,14 @@
 
   比较强大的相机软件。但是界面很丑，开发减缓，感觉开发者逐渐有点无心无力。（不过，最近更新了1.49.1。）
 
+- [Photon Camera](https://github.com/eszdman/PhotonCamera)
+
+  很神奇的相机软件。在LineageOS下，其它相机软件照片质量奇差，涂抹到细节全失。偏偏它的照片质量堪比官方OS下的自带相机。另外，像夜景模式、超像素的支持也都有。在功能上是吊打上面两位和LineageOS自带相机的。
+
+  但问题是，这个相机界面目前bug满满，主要是打开和切换界面都要等半分钟到一分钟。有[一个issue](https://github.com/eszdman/PhotonCamera/issues/54)说它在扫描所有照片，但不知到是不是所有长时间不相应的原因。
+
+  另外，这款软件可能不是默认支持所有设备的，但没找到它支持设备的条件。
+
 - [Photok](https://github.com/leonlatsch/Photok)
   [[F-Droid](https://f-droid.org/en/packages/dev.leonlatsch.photok/)]
 
