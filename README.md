@@ -353,6 +353,13 @@
 
   和andOTP类似，是一款双重验证码客户端。相比起来，这款界面更简洁、符合质感设计，其它方面大同小异。
 
+- [KDE Connect](https://github.com/KDE/kdeconnect-android)
+  [[F-Droid](https://f-droid.org/packages/org.kde.kdeconnect_tp/)]
+
+  很强大的连接PC和手机的工具。可以分享文件或文本、同步通知、运行命令和远程控制等等。需要Linux系统上安装相应的pc端软件，常见的如KDE官方的[kdeconnect](https://kdeconnect.kde.org/)和适配GNOME的[GSConnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)。
+
+  KDE团队做的很好的一点是，他们将KDE Connect前后端分离开了，真正支撑底层功能的部分实现为一种协议，可以独立于图形界面部分运行。这样在非KDE环境，便可以用其它的软件，如我在使用的[mconnect](https://github.com/grimpy/mconnect)，就是没有图形界面，只有命令行接口，但如果你想要的基本功能都具备，可以很灵活而不受桌面环境限制。
+
 ### 极客工具
 
 我并不想分一个“开发类”，这里的软件并不是面向开发者的，而是喜欢折腾的用户。这也符合最开始制订的”受众广泛“要求。
