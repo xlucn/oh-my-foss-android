@@ -401,6 +401,11 @@
 
   2021.10.25：更新啦。
 
+- [AVNC](https://github.com/gujjwal00/avnc)
+  [[F-Droid](https://f-droid.org/en/packages/com.gaurav.avnc/)]
+
+  简单但不简陋的VNC客户端。可以通过手势实现不同的鼠标控制事件，因此是很实用的。
+
 - [OctoDroid](https://github.com/slapperwan/gh4a)
   [[F-Droid](https://f-droid.org/en/packages/com.gh4a/)]
 
