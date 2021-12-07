@@ -494,6 +494,12 @@
 
   类似于NewPipe之于YouTube，Fritter是Twitter的无登录客户端，所有数据都在本地
 
+- [Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft)
+- [pixez](https://github.com/Notsfsssf/pixez-flutter)
+- [pxview](https://github.com/alphasp/pxview)
+
+  都是Pixiv客户端，做的也都不错，最后面这个更新不是很频繁了。
+
 - [Hendroid](https://github.com/Nonononoki/Hendroid)
   [[F-Droid](https://f-droid.org/en/packages/org.nonononoki.hendroid/)]
 
