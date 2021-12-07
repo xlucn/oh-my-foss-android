@@ -198,6 +198,11 @@
 
   监督用药。可以增添用药条目，指定数量，它会提醒你吃药，以及记录过往用药。虽然是新软件，但是目前的功能已经很不错了。
 
+- [Ruler](https://github.com/congshengwu/Ruler)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ruler.csw)]
+
+  很简单的屏幕直尺，默认可能有误差，但好在可以校准，没准什么时候可以应急。
+
 ### 学习办公
 
 - [Collabora Office](https://www.collaboraoffice.com/)
