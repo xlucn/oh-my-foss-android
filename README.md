@@ -263,6 +263,11 @@
 
   翻译软件。基于深度学习的翻译引擎，这个是把网页版包装成了一个轻量的应用。重要的是，可以在选取文字后的弹出菜单里选择DeepL进行翻译。
 
+- [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate)
+  [[F-Droid](https://www.f-droid.org/packages/com.physphil.android.unitconverterultimate/)]
+
+  单位转换工具，非常全面，除了常见的长度、面积、重量等基础物理单位，还有汇率、存储单位等。
+
 ### 内容获取
 
 这类软件没有自带内容或既定来源，用户自行加入“源”获取在线内容。
@@ -405,6 +410,11 @@
   Ssh客户端，很好用。在维护但很久没有新版本了。我校阅了所有的翻译，希望将来有更新。
 
   2021.10.25：更新啦。
+
+- [TermOne Plus](https://gitlab.com/termapps/termoneplus)
+  [[F-Droid](https://f-droid.org/packages/com.termoneplus/)]
+
+  终端应用。有些系统中会禁用系统自带的安卓终端，所以想要在安卓上执行命令行操作，可以尝试这款应用。
 
 - [AVNC](https://github.com/gujjwal00/avnc)
   [[F-Droid](https://f-droid.org/en/packages/com.gaurav.avnc/)]
