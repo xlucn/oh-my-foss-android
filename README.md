@@ -385,7 +385,7 @@
 
   1. 电脑：获取系统镜像，提取boot.img文件，导入手机存储；
   2. 手机：使用Magisk安卓软件为boot.img打补丁，具体是“Magisk安装” 》“选择并修补一个文件”，选择boot.img文件，修补后导出`magisk_patched_***.img`至电脑；
-  3. 电脑：准备adb工具，重启手机至fastboot，在终端执行`fastboot flash magisk_patched_***.img`。
+  3. 电脑：准备adb工具，重启手机至fastboot，在终端执行`fastboot flash boot magisk_patched_***.img`。
 
   是不是很简单啊？
 
