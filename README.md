@@ -50,6 +50,8 @@
 - [Driod-ify](https://github.com/Iamlooker/Droid-ify)
   [[F-Droid](https://f-droid.org/en/packages/com.looker.droidify)]
 
+  （已更名为[Neo-Store](https://github.com/NeoApplications/Neo-Store)，但尚未发布新版本，到时再修改名称。）
+
   F-Droid第三方客户端，基于foxy droid（见下）。后者不怎么维护了，因此有人修复bug、更新界面后发布了这个款app。目前使用起来不会有什么区别，日后可能会有新功能加入。
 
   更新：0.3版本加入了root👽静默安装，好耶！可以取代foxy了。
