@@ -136,6 +136,13 @@
 
   另外，这款软件可能不是默认支持所有设备的，但没找到它支持设备的条件。
 
+- [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider)
+  [[F-Droid](https://f-droid.org/en/packages/de.lukaspieper.gcam.services/)]
+
+  这个本身不是相机软件，但安装后允许用户安装Gcam，即谷歌相机。也就是说，这个解决方案其实并不是开源的，不过却是最完美的。
+
+  大家可以到[Gcam的网站](https://www.celsoazevedo.com/files/android/google-camera/links/)寻找自己机型的适配版本和配置文件，简单安装即可。据我自己体验，Gcam的照片质量远超开源方案，可以说能补足第三方ROM最大的短板，完全可以考虑。
+
 - [Photok](https://github.com/leonlatsch/Photok)
   [[F-Droid](https://f-droid.org/en/packages/dev.leonlatsch.photok/)]
 
