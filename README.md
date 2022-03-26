@@ -103,12 +103,12 @@
 - [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
   [[F-Droid](https://f-droid.org/en/packages/org.courville.nova/)]
 
-  视频播放器，作为VLC的补充。Nova有类似于Plex的功能，可以管理视频库，显示封面，联网获取信息等。还有电视模式，可以作为家庭影院的开源方案。个人经验通过SFTP播放视频加载网速比VLC快好几倍。
+  视频播放器，作为VLC的补充。Nova有类似于Plex的功能，可以管理视频库，显示封面，联网获取信息等。还有电视模式，可以作为家庭影院的开源方案。个人体验通过SFTP播放视频加载网速比VLC快好几倍（你要问为什么是SFTP，因为我用Linux）。
 
 - [mpv-android](https://github.com/mpv-android/mpv-android)
   [[F-Droid](https://f-droid.org/en/packages/is.xyz.mpv/)]
 
-  Linux平台很出名的播放软件，以UI简洁(lòu)著称。安卓版本并非官方开发，所以就更简洁(lòu)了😢。总体上不如VLC和Nova，但继承了桌面端的可定制性，可以编辑配置文件改变选项和快捷键。
+  基于Linux平台很出名的播放软件MPV，以UI简洁(lòu)著称。安卓版本并非官方开发，所以就更简洁(lòu)了😢。总体上不如VLC和Nova，但继承了桌面端的可定制性，可以编辑配置文件改变选项和快捷键。
 
 - [Vinyl](https://github.com/AdrienPoupa/VinylMusicPlayer)
   [[F-Droid](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/)]
@@ -130,9 +130,9 @@
 
 - [Photon Camera](https://github.com/eszdman/PhotonCamera)
 
-  很神奇的相机软件。在LineageOS下，其它相机软件照片质量奇差，涂抹到细节全失。偏偏它的照片质量堪比官方OS下的自带相机。另外，像夜景模式、超像素的支持也都有。在功能上是吊打上面两位和LineageOS自带相机的。
+  很神奇的相机软件。在LineageOS下，其它相机软件照片质量奇差，涂抹到细节全失。偏偏Photon Camera的照片质量堪比官方OS下的自带相机。另外，像夜景模式、超像素的支持也都有。在功能上是吊打上面两位和LineageOS自带相机的。
 
-  但问题是，这个相机界面目前bug满满，主要是打开和切换界面都要等半分钟到一分钟。有[一个issue](https://github.com/eszdman/PhotonCamera/issues/54)说它在扫描所有照片，但不知到是不是所有长时间不相应的原因。
+  但问题是，这个相机界面目前bug满满，主要是打开和切换界面都要等半分钟到一分钟。有[一个issue](https://github.com/eszdman/PhotonCamera/issues/54)说它在扫描设备上所有的照片，不知是不是长时间不响应的原因。
 
   另外，这款软件可能不是默认支持所有设备的，但没找到它支持设备的条件。
 
@@ -173,7 +173,7 @@
 - [Pluvia Weather](https://github.com/SpicyChair/pluvia_weather_flutter)
   [[F-Droid](https://f-droid.org/en/packages/com.spicychair.weather/)]
 
-  不错的天气软件，界面相当漂亮，但是使用OpenWeatherMap貌似国内连接很慢，预报也不一定准确。
+  不错的天气软件，界面相当漂亮，但是使用的OpenWeatherMap貌似国内连接很慢，预报也不一定准确。
 
 - [EnRecipes](https://github.com/vishnuraghavb/EnRecipes)
   [[F-Droid](https://f-droid.org/en/packages/com.vishnuraghav.EnRecipes/)]
@@ -295,7 +295,7 @@
 - [Transistor](https://github.com/y20k/transistor)
   [[F-Droid](https://f-droid.org/en/packages/org.y20k.transistor/)]
 
-  收音机。只不过这个是从网络串流的，不是真正的调频收音机，原因是很多硬件不支持了（手机自带收音机也逐渐消失）。好处是你可以听外地的频道，默认的搜索引擎可以添加上千个国内外频道。
+  收音机。只不过这个是从网络串流的，不是真正的调频收音机，原因是很多硬件不支持了（也可以从手机自带收音机逐渐消失这一点看出来）。好处是你可以听外地的频道，默认的搜索引擎可以添加上千个国内外频道。
 
 - [Legado(阅读)](https://github.com/gedoor/legado)
   [[F-Droid](https://apt.izzysoft.de/fdroid/index/apk/io.legado.app.release)]
@@ -349,7 +349,7 @@
 
   密码管理和自动填充软件。要先了解Linux平台上的[password store](https://www.passwordstore.org/)才能用，这个是安卓客户端。
 
-  特点是利用git管理加密的密码文件，利用gpg加密解密，password store本身只是一个小脚本，调用git和gpg。因而可以选择GitHub私人仓库+password store的超轻量开源方案，而非托管在统一的服务器上，这很Unix。
+  password store本身只是一个小脚本，调用git管理gpg加密的密码文件，这个安卓版也是类似。因而可以选择GitHub私人仓库+password store的超轻量开源方案，而非托管在统一的服务器上，这很Unix。
 
 - [AN2Linux](https://github.com/rootkiwi/an2linuxclient)
   [[F-Droid](https://f-droid.org/en/packages/kiwi.root.an2linuxclient/)]
