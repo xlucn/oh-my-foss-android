@@ -35,6 +35,7 @@
 - [应用商店](#应用商店)
 - [互联网](#互联网)
 - [多媒体](#多媒体)
+  - [相机](#相机)
 - [日常工具](#日常工具)
 - [学习办公](#学习办公)
 - [内容获取](#内容获取)
@@ -77,6 +78,8 @@
   [[网站](https://auroraoss.com/)]
 
   F-Droid第三方客户端，有root的话可以一键更新/安装。
+
+谷歌商店能提供远多于F-Droid的安卓应用，但一般情况下，只能在安装谷歌服务框架的机器上使用。一下客户端能打破这个限制，无需任何依赖地运行在任何安卓手机上。
 
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
   [[F-Droid](https://f-droid.org/en/packages/com.aurora.store)]
