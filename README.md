@@ -33,19 +33,62 @@
 ## 分类
 
 - [应用商店](#应用商店)
+  - [F-Droid](#F-Droid-客户端)
+  - [谷歌商店](#谷歌商店第三方客户端)
 - [互联网](#互联网)
+  - [浏览器](#浏览器)
+  - [邮件](#邮件)
 - [多媒体](#多媒体)
+  - [视频播放器](#视频播放器)
+  - [音乐播放](#音乐播放)
+  - [相册图片](#相册图片)
   - [相机](#相机)
 - [日常工具](#日常工具)
+  - [地图](#地图)
+  - [天气](#天气)
+  - [自我管理](#自我管理)
+  - [其他](#其他)
 - [学习办公](#学习办公)
+  - [办公套件](#办公套件)
+  - [笔记](#笔记)
+  - [文档](#文档)
+  - [词典翻译](#词典翻译)
+  - [百科](#百科)
+  - [星图](#星图)
+  - [单位转换](#单位转换)
 - [内容获取](#内容获取)
 - [系统工具](#系统工具)
+  - [文件管理](#文件管理)
+  - [文件同步](#文件同步)
+  - [输入法](#输入法)
+  - [下载管理](#下载管理)
+  - [卫星定位](#卫星定位)
+  - [备份](#备份)
+  - [电话录音](#电话录音)
+  - [密码安全](#密码安全)
+  - [电脑连接](#电脑连接)
 - [极客工具](#极客工具)
+  - [Root](#Root工具)
+  - [文本编辑](#文本编辑)
+  - [远程连接](#远程连接)
+  - [终端](#终端)
+  - [Git](#Git及平台客户端)
+  - [其他](#其他)
 - [社交平台](#社交平台)
 - [游戏](#游戏)
+  - [模拟器](#模拟器)
+  - [休闲益智](#休闲益智)
+  - [塔防](#塔防)
+  - [探险](#探险)
+  - [沙盒](#沙盒)
+  - [赛车](#赛车)
+  - [策略](#策略)
+  - [其他](#其他)
 - [Lineage OS自带](#Lineage-OS自带)
 
 ### 应用商店
+
+#### F-Droid 客户端
 
 [F-Droid](https://f-droid.org)是著名的开源安卓软件平台，其客户端提供软件的安装。F-Droid官方源会从源代码编译独立的安装文件，因此可检验软件中的不安全以及非开源因素，使得F-Droid上的软件保证很高的安全性和开源性。
 
@@ -79,7 +122,9 @@
 
   F-Droid第三方客户端，有root的话可以一键更新/安装。
 
-谷歌商店能提供远多于F-Droid的安卓应用，但一般情况下，只能在安装谷歌服务框架的机器上使用。一下客户端能打破这个限制，无需任何依赖地运行在任何安卓手机上。
+#### 谷歌商店第三方客户端
+
+谷歌商店能提供远多于F-Droid的安卓应用，但一般情况下，只能在安装谷歌服务框架的机器上使用。以下客户端能打破这个限制，无需任何依赖地运行在任何安卓手机上。
 
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
   [[F-Droid](https://f-droid.org/en/packages/com.aurora.store)]
@@ -88,12 +133,16 @@
 
 ### 互联网
 
+#### 浏览器
+
 - [Fennec F-Droid](https://github.com/mozilla-mobile/fenix)
   [[F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)]
 
   著名的火狐浏览器的更纯净开源版本，去除了其中的闭源成分。Fennec原意是“[耳廓狐](https://baike.baidu.com/item/耳廓狐)”，根据百科这是最小的犬类动物，取名还是很有寓意的。
 
   基础源代码还是Mozilla的，但应该是F-Droid平台自己编译，所以只能从这边安装。
+
+#### 邮件
 
 - [K-9 Mail](https://github.com/k9mail/k-9)
   [[F-Droid](https://f-droid.org/en/packages/com.fsck.k9/)]
@@ -104,6 +153,8 @@
   他们的网站是我见过开源软件里做的最好看的之一。
 
 ### 多媒体
+
+#### 视频播放器
 
 - [VLC](https://www.videolan.org/vlc/download-android.html)
   [[F-Droid](https://f-droid.org/en/packages/org.videolan.vlc/)]
@@ -121,12 +172,16 @@
 
   基于Linux平台很出名的播放软件MPV，以UI简洁(lòu)著称。安卓版本并非官方开发，所以就更简洁(lòu)了😢。总体上不如VLC和Nova，但继承了桌面端的可定制性，可以编辑配置文件改变选项和快捷键。
 
+#### 音乐播放
+
 - [Vinyl](https://github.com/AdrienPoupa/VinylMusicPlayer)
   [[F-Droid](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/)]
 
   很轻量且干净的音乐播放器。可能是开发难度低，F-Droid上太多音乐软件了。搜"music"关键词，最近更新的都比较好，恕不一一列举。
 
   列表最后面有个lineage OS自带音乐播放器，和这个超级像，更加精简。
+
+#### 相册图片
 
 - [Photok](https://github.com/leonlatsch/Photok)
   [[F-Droid](https://f-droid.org/en/packages/dev.leonlatsch.photok/)]
@@ -168,6 +223,8 @@
 
 ### 日常工具
 
+#### 地图
+
 - [OSMAnd~](https://github.com/osmandapp/Osmand)
   [[F-Droid](https://f-droid.org/en/packages/net.osmand.plus/)]
   [[网站](https://osmand.net/)]
@@ -177,6 +234,8 @@
   请在F-Droid平台安装，那边的开发者在源代码的基础上，去掉了其中的付费页面，编译了OSMAnd+的所有功能。这在谷歌苹果亚马逊的商店都收费至少20刀。
 
   OSM能做到的功能实际很多，国内地图能记录的信息OSM基本都可以，比如多层建筑、公交地铁线路，但要贡献者自己学会怎么编辑。
+
+#### 天气
 
 - [几何天气](https://github.com/WangDaYeeeeee/GeometricWeather)
   [[F-Droid](https://f-droid.org/en/packages/wangdaye.com.geometricweather/)]
@@ -188,16 +247,7 @@
 
   不错的天气软件，界面相当漂亮，但是使用的OpenWeatherMap貌似国内连接很慢，预报也不一定准确。
 
-- [EnRecipes](https://github.com/vishnuraghavb/EnRecipes)
-  [[F-Droid](https://f-droid.org/en/packages/com.vishnuraghav.EnRecipes/)]
-
-  菜谱。选这个主要因为这种小功能的软件做的这么精致太难得。但是，这个它没有在线菜谱，只能用户自己录入，就很鸡肋了。希望能建立一个在线菜谱，或与已有的进行合作，用户对其进行丰富，才有实用性。
-
-- [Noice](https://github.com/ashutoshgngwr/noice)
-  [[F-Droid](https://f-droid.org/en/packages/com.github.ashutoshgngwr.noice/)]
-  [[网站](https://ashutosh.blog/noice/)]
-
-  播放噪音/自然声音。内置各种共30+种声音，可以自由组合，设置每一种声音的音量，保存为预设。
+#### 自我管理
 
 - [Tasks](https://github.com/tasks/tasks)
   [[F-Droid](https://f-droid.org/en/packages/org.tasks/)]
@@ -220,12 +270,27 @@
 
   监督用药。可以增添用药条目，指定数量，它会提醒你吃药，以及记录过往用药。虽然是新软件，但是目前的功能已经很不错了。
 
+#### 其他
+
+- [EnRecipes](https://github.com/vishnuraghavb/EnRecipes)
+  [[F-Droid](https://f-droid.org/en/packages/com.vishnuraghav.EnRecipes/)]
+
+  菜谱。选这个主要因为这种小功能的软件做的这么精致太难得。但是，这个它没有在线菜谱，只能用户自己录入，就很鸡肋了。希望能建立一个在线菜谱，或与已有的进行合作，用户对其进行丰富，才有实用性。
+
+- [Noice](https://github.com/ashutoshgngwr/noice)
+  [[F-Droid](https://f-droid.org/en/packages/com.github.ashutoshgngwr.noice/)]
+  [[网站](https://ashutosh.blog/noice/)]
+
+  播放噪音/自然声音。内置各种共30+种声音，可以自由组合，设置每一种声音的音量，保存为预设。
+
 - [Ruler](https://github.com/congshengwu/Ruler)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ruler.csw)]
 
   很简单的屏幕直尺，默认可能有误差，但好在可以校准，没准什么时候可以应急。
 
 ### 学习办公
+
+#### 办公套件
 
 - [Collabora Office](https://www.collaboraoffice.com/)
   [[独立源](https://www.collaboraoffice.com/releases-en/collabora-office-on-mobiles-supporting-password-protected-documents-and-available-on-f-droid/)]
@@ -239,6 +304,8 @@
   [[F-Droid](https://f-droid.org/en/packages/at.tomtasche.reader)]
 
   功能很弱的文档查看软件，貌似主要解析文档里的内容，文档的格式就很……怎么说，显示地很朴素😅。几乎没有编辑功能。
+
+#### 笔记
 
 - [Markor](https://github.com/gsantner/markor)
   [[F-Droid](https://f-droid.org/en/packages/net.gsantner.markor/)]
@@ -255,6 +322,8 @@
 
   极简又漂亮的笔记应用，只能输入纯文字，有少许加粗斜体等格式。
 
+#### 文档
+
 - [OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ethereal.openscan)]
 
@@ -262,16 +331,32 @@
 
   相比之下，我试过的其它开源扫描软件就太差了，上面功能大量缺失，我觉得缺一不可。
 
+- [Pdf Viewer Plus](https://github.com/JavaCafe01/PdfViewer)
+  [[F-Droid](https://f-droid.org/en/packages/me.zhanghai.android.files)]
+
+  PDF阅读器，开源的同类软件UI都不怎么样，这个算是很好的了，期待和谷歌PDF阅读器差不多的开源版本出现。
+
+#### 词典翻译
+
 - [QuickDic](https://github.com/rdoeffinger/Dictionary)
   [[F-Droid](https://f-droid.org/en/packages/de.reimardoeffinger.quickdic/)]
 
   词典软件。怎么说呢，一言难尽啊，开源的词典真的没找到很好用的。这个QuickDic可以下载很多中词典文件，但基本是多语种互译。查词的时候把所有词显示出来，查哪个滚动到哪个。
+
+- [DeepL](https://github.com/sakusaku3939/DeepLAndroid)
+  [[F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer/)]
+
+  翻译软件。基于深度学习的翻译引擎，这个是把网页版包装成了一个轻量的应用。重要的是，可以在选取文字后的弹出菜单里选择DeepL进行翻译。
+
+#### 百科
 
 - [Wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
   [[F-Droid](https://f-droid.org/en/packages/org.wikipedia/)]
   [[网站](https://www.mediawiki.org/wiki/Wikimedia_Apps)]
 
   维基百科官方客户端，只有10M，很小巧但五脏俱全。Wikipedia在平台建设上确实遥遥领先，希望国内同行快点幡然醒悟。
+
+#### 星图
 
 - [Sky Map](https://github.com/sky-map-team/stardroid)
   [[F-Droid](https://f-droid.org/en/packages/com.google.android.stardroid/)]
@@ -280,10 +365,7 @@
 
   虽然在更新，但是界面比较落后，数据貌似也不多。
 
-- [DeepL](https://github.com/sakusaku3939/DeepLAndroid)
-  [[F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer/)]
-
-  翻译软件。基于深度学习的翻译引擎，这个是把网页版包装成了一个轻量的应用。重要的是，可以在选取文字后的弹出菜单里选择DeepL进行翻译。
+#### 单位转换
 
 - [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate)
   [[F-Droid](https://www.f-droid.org/packages/com.physphil.android.unitconverterultimate/)]
@@ -318,15 +400,22 @@
 
 ### 系统工具
 
+#### 文件管理
+
 - [Material Files](https://github.com/zhanghai/MaterialFiles)
   [[F-Droid](https://f-droid.org/en/packages/me.zhanghai.android.files/)]
 
   文件管理器，非常漂亮，基本的功能都有。
 
-- [Pdf Viewer Plus](https://github.com/JavaCafe01/PdfViewer)
-  [[F-Droid](https://f-droid.org/en/packages/me.zhanghai.android.files)]
+#### 文件同步
 
-  PDF阅读器，开源的同类软件UI都不怎么样，这个算是很好的了，期待和谷歌PDF阅读器差不多的开源版本出现。
+- [Seafile](https://github.com/haiwen/seadroid)
+  [[F-Droid](https://f-droid.org/en/packages/com.seafile.seadroid2/)]
+  [[网站](https://www.seafile.com/home/)]
+
+  文件同步/网盘客户端。是国内开发的，需要自己搭服务器。我们学校用它做了一个box，访问起来很方便：）
+
+#### 输入法
 
 - [同文输入法](https://github.com/osfans/trime)
   [[F-Droid](https://f-droid.org/en/packages/com.osfans.trime/)]
@@ -336,26 +425,35 @@
 
   本以为两年不更新了，结果又有新版本了（指v3.2.0版本与上一个版本相隔3年多）。一个开源软件突然恢复维护是一件令人感到幸福的事情。
 
-- [Seafile](https://github.com/haiwen/seadroid)
-  [[F-Droid](https://f-droid.org/en/packages/com.seafile.seadroid2/)]
-  [[网站](https://www.seafile.com/home/)]
-
-  文件同步/网盘客户端。是国内开发的，需要自己搭服务器。我们学校用它做了一个box，访问起来很方便：）
+#### 下载管理
 
 - [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
   [[F-Droid](https://www.seafile.com/home/)]
 
   功能强大的下载器，可以多段加速，分享下载链接就可以选择下载。
 
+#### 卫星定位
+
 - [GPSTest](https://github.com/barbeau/gpstest)
   [[F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/)]
 
   显示GPS信息，非常丰富，可以看到五种全球定位系统的卫星位置、自己的经纬度、海拔还有速度等等。
 
+#### 备份
+
 - [OAndBackupX](https://github.com/machiav3lli/oandbackupx)
   [[F-Droid](https://f-droid.org/en/packages/com.android.gpstest.osmdroid/)]
 
   备份软件，可以备份任何东西，需要root。
+
+#### 电话录音
+
+- [Call Recorder](https://gitlab.com/axet/android-call-recorder)
+  [[F-Droid](https://f-droid.org/en/packages/com.github.axet.callrecorder)]
+
+  电话自动录音，非本土化系统中很实用，搭配Magisk模块可以成为系统应用。
+
+#### 密码安全
 
 - [Password Store](https://github.com/android-password-store/Android-Password-Store)
   [[F-Droid](https://f-droid.org/en/packages/dev.msfjarvis.aps/)]
@@ -363,17 +461,6 @@
   密码管理和自动填充软件。要先了解Linux平台上的[password store](https://www.passwordstore.org/)才能用，这个是安卓客户端。
 
   password store本身只是一个小脚本，调用git管理gpg加密的密码文件，这个安卓版也是类似。因而可以选择GitHub私人仓库+password store的超轻量开源方案，而非托管在统一的服务器上，这很Unix。
-
-- [AN2Linux](https://github.com/rootkiwi/an2linuxclient)
-  [[F-Droid](https://f-droid.org/en/packages/kiwi.root.an2linuxclient/)]
-  [[网站](https://github.com/rootkiwi/an2linuxserver/)]
-
-  通知同步软件，将手机上的通知推送到Linux电脑上，可以通过WiFi、蓝牙或者移动数据。我只试过WiFi，不知道另两个体验如何。
-
-- [Call Recorder](https://gitlab.com/axet/android-call-recorder)
-  [[F-Droid](https://f-droid.org/en/packages/com.github.axet.callrecorder)]
-
-  电话自动录音，非本土化系统中很实用，搭配Magisk模块可以成为系统应用。
 
 - [andOTP](https://github.com/andOTP/andOTP)
   [[F-Droid](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/)]
@@ -384,6 +471,20 @@
   [[F-Droid](https://f-droid.org/en/packages/com.beemdevelopment.aegis/)]
 
   和andOTP类似，是一款双重验证码客户端。相比起来，这款界面更简洁、符合质感设计，其它方面大同小异。
+
+- [OpenKeychain](https://github.com/open-keychain/open-keychain)
+  [[F-Droid](https://f-droid.org/en/packages/org.sufficientlysecure.keychain/)]
+  [[网站](https://www.openkeychain.org/)]
+
+  PGP锁钥管理，我是搭配password store使用，提供解锁密钥。此外还有很多软件可以使用它。
+
+#### 电脑连接
+
+- [AN2Linux](https://github.com/rootkiwi/an2linuxclient)
+  [[F-Droid](https://f-droid.org/en/packages/kiwi.root.an2linuxclient/)]
+  [[网站](https://github.com/rootkiwi/an2linuxserver/)]
+
+  通知同步软件，将手机上的通知推送到Linux电脑上，可以通过WiFi、蓝牙或者移动数据。我只试过WiFi，不知道另两个体验如何。
 
 - [KDE Connect](https://github.com/KDE/kdeconnect-android)
   [[F-Droid](https://f-droid.org/packages/org.kde.kdeconnect_tp/)]
@@ -396,6 +497,8 @@
 
 我并不想分一个“开发类”，这里的软件并不是面向开发者的，而是喜欢折腾的用户。这也符合最开始制订的”受众广泛“要求。
 
+#### Root工具
+
 - [Magisk](https://github.com/topjohnwu/Magisk)
   [[F-Droid](https://f-droid.org/en/packages/com.topjohnwu.magisk/)]
   [[网站](https://topjohnwu.github.io/Magisk/install.html)]
@@ -403,15 +506,9 @@
   著名的面具，需要电脑端配合安装，可以提供root和修改系统行为的模块。
   不过，不是刚需的话，不建议使用。我使用Lineage OS，因此微信和支付宝的指纹无法正常调用，便使用一些面具模块解决。
 
-  附简要安装步骤（不是手把手指导，请见官方网站）：
+  Magisk并没有提供每一种机型的下载，所以其安装过程对所有机型适用。
 
-  1. 电脑：获取系统镜像，提取boot.img文件，导入手机存储；
-  2. 手机：使用Magisk安卓软件为boot.img打补丁，具体是“Magisk安装” 》“选择并修补一个文件”，选择boot.img文件，修补后导出`magisk_patched_***.img`至电脑；
-  3. 电脑：准备adb工具，重启手机至fastboot，在终端执行`fastboot flash boot magisk_patched_***.img`。
-
-  是不是很简单啊？
-
-  再说一句，Magisk并没有提供每一种机型的下载。所以上面的过程对所有机型适用，耗时的步骤是获取boot.img文件，但这保证几乎任何机型都完美适配。
+#### 文本编辑
 
 - [Editor](https://github.com/billthefarmer/editor)
   [[F-Droid](https://topjohnwu.github.io/Magisk/install.html)]
@@ -426,6 +523,8 @@
 
   更高级的文本/代码编辑器。从截图上看，Acode可能更适合在平板等大屏设备上进行更专业的编辑工作，类似于VS Code等软件。
 
+#### 远程连接
+
 - [ConnectBot](https://github.com/connectbot/connectbot)
   [[F-Droid](https://f-droid.org/en/packages/org.connectbot/)]
 
@@ -433,15 +532,19 @@
 
   2021.10.25：更新啦。
 
+- [AVNC](https://github.com/gujjwal00/avnc)
+  [[F-Droid](https://f-droid.org/en/packages/com.gaurav.avnc/)]
+
+  简单但不简陋的VNC客户端。可以通过手势实现不同的鼠标控制事件，因此是很实用的。
+
+#### 终端
+
 - [TermOne Plus](https://gitlab.com/termapps/termoneplus)
   [[F-Droid](https://f-droid.org/packages/com.termoneplus/)]
 
   终端应用。有些系统中会禁用系统自带的安卓终端，所以想要在安卓上执行命令行操作，可以尝试这款应用。
 
-- [AVNC](https://github.com/gujjwal00/avnc)
-  [[F-Droid](https://f-droid.org/en/packages/com.gaurav.avnc/)]
-
-  简单但不简陋的VNC客户端。可以通过手势实现不同的鼠标控制事件，因此是很实用的。
+#### Git及平台客户端
 
 - [OctoDroid](https://github.com/slapperwan/gh4a)
   [[F-Droid](https://f-droid.org/en/packages/com.gh4a/)]
@@ -464,6 +567,8 @@
 
   不太好的git客户端里不太差的一个。在维护，但很久不发布新版本，界面也很古老，是Android 4时代的界面。
 
+#### 其他
+
 - [F-Droid Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
   [[F-Droid](https://f-droid.org/en/packages/de.storchp.fdroidbuildstatus)]
 
@@ -473,12 +578,6 @@
   [[F-Droid](https://f-droid.org/en/packages/io.mrarm.irc/)]
 
   安卓最佳IRC客户端，有用IRC的老伙伴估计也已经知道了。界面整洁，功能全面。可以在后台一直保持连接。
-
-- [OpenKeychain](https://github.com/open-keychain/open-keychain)
-  [[F-Droid](https://f-droid.org/en/packages/org.sufficientlysecure.keychain/)]
-  [[网站](https://www.openkeychain.org/)]
-
-  PGP锁钥管理，我是搭配password store使用，提供解锁密钥。此外还有很多软件可以使用它。
 
 ### 社交平台
 
@@ -539,6 +638,8 @@
 
 ### 游戏
 
+#### 模拟器
+
 - [Lemuroid](https://github.com/Swordfish90/Lemuroid)
   [[F-Droid](https://f-droid.org/en/packages/com.swordfish.lemuroid/)]
 
@@ -546,68 +647,12 @@
 
   一个软件给手机游戏带来无限可能，可以找回童年，或者把丢掉的童年找回来！
 
+#### 休闲益智
+
 - [Antimine](https://github.com/lucasnlm/antimine-android)
   [[F-Droid](https://f-droid.org/en/packages/dev.lucanlm.antimine/)]
 
   很棒的扫雷游戏，界面漂亮，操作直观。
-
-- [Mindustry](https://github.com/Anuken/Mindustry)
-  [[F-Droid](https://f-droid.org/en/packages/io.anuke.mindustry/)]
-  [[网站](https://anuke.itch.io/mindustry)]
-
-  非常精良的塔防游戏。Mindustry比一般的塔防要复杂，比如要采各种矿、建立资源运输管道供给防御工事、开发科技树，敌人自由走动。有点像即时策略了（好像就是），可玩性max。
-
-  注：目前由于F-Droid服务器编译环境不兼容，软件版本卡在了主版本5。
-
-- [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
-  [[F-Droid](https://f-droid.org/en/packages/com.shatteredpixel.shatteredpixeldungeon/)]
-  [[网站](https://shatteredpixel.com/)]
-
-  Roguelike类地牢探险游戏，自己玩过感觉有难度。画面是像素风格的，很精致。现在更新非常频繁，发布了1.0版本，质量有保证。
-
-- [Minetest](https://github.com/minetest/minetest)
-  [[F-Droid](https://f-droid.org/en/packages/net.minetest.minetest/)]
-  [[网站](https://www.minetest.net/)]
-
-  类似Minecraft的开源沙盘游戏，可玩性很高。我没怎么玩过，应该要搭配下面的模块管理，默认好像真的只有沙盘。
-
-- [Minetest Mods](https://github.com/rubenwardy/mtmods4android)
-  [[F-Droid](https://f-droid.org/en/packages/com.rubenwardy.minetestmodmanager/)]
-  [[网站](https://rubenwardy.com/mtmods4android/)]
-
-  管理Minetest模块
-
-- [SuperTuxKart](https://github.com/supertuxkart/stk-code)
-  [[F-Droid](https://f-droid.org/en/packages/org.supertuxkart.stk/)]
-  [[网站](https://supertuxkart.net/Main_Page)]
-
-  大名鼎鼎的开源赛车游戏。游戏画面是卡通风格，有很多的跑道、赛车和道具，多种游戏模式。很适合休闲时玩一玩。
-
-- [UnCiv](https://github.com/yairm210/UnCiv)
-  [[F-Droid](https://f-droid.org/en/packages/com.unciv.app/)]
-
-  简化的文明5，有各种国家、职业、建筑，丰富的科技树。作者是试图还原文明5的游戏功能的，界面则抽象化了，这也使得游戏体积很小。没玩过文明5的我表示入手很痛苦😅。
-
-- [Pixel Wheels](https://github.com/agateau/pixelwheels)
-  [[F-Droid](https://f-droid.org/en/packages/com.agateau.tinywheels.android/)]
-  [[网站](https://agateau.com/projects/pixelwheels/)]
-
-  顶部视角的赛车游戏，像素风格，游戏节奏快。因为不是第一视角，感觉操作有点违反直觉啊，转弯程度不容易控制，但熟悉了之后还蛮好玩的。
-
-  我贡献了中文翻译，不用谢。
-
-- [Andor's Trail](https://github.com/AndorsTrailRelease/andors-trail)
-  [[F-Droid](https://f-droid.org/en/packages/xyz.deepdaikon.xeonjia/)]
-  [[网站](https://andorstrail.com/)]
-
-  任务驱动的RPG游戏，就是那种升级加技能点买装备打怪兽的游戏。游戏其实还在持续完善，地图还没做完，所以有一部分故事线和任务都是断的。不过目前的部分已经可以玩几个星期了。还有问题是大部分对话是英文，中文翻译的很少。
-
-  时隔好久，又看了一眼git仓库。你猜怎么着，它一小时前更新版本(v0.7.14)了，巧不巧！这个版本有很多人（包括我）更新的翻译，但是依然剩下59%的内容没有翻译。游戏里这些人话可真多。
-
-- [Xeonjia](https://gitlab.com/DeepDaikon/Xeonjia)
-  [[F-Droid](https://f-droid.org/en/packages/xyz.deepdaikon.xeonjia/)]
-
-  一个“滑冰”的探险游戏，即在冰上行走不会停，这很大程度影响了角色的行走策略。没错，这又是像素风格的界面。
 
 - [TriPeaks](https://github.com/mimoguz/tripeaks-gdx)
   [[F-Droid](https://f-droid.org/en/packages/ogz.tripeaks/)]
@@ -642,14 +687,84 @@
 
   但这个不是完全开源，它可以连接非开源的服务器，（可选择？）上传游戏全程操作，和登录谷歌账号进行同步。
 
-- [DCTimer](https://github.com/MeigenChou/DCTimer-Android)
+#### 塔防
 
-  这不是游戏，是魔方速拧计时软件，功能相当丰富，生成打乱几乎支持所有比赛类别，还有数据分析等。网页端还有个csTimer，都是开源的。
+- [Mindustry](https://github.com/Anuken/Mindustry)
+  [[F-Droid](https://f-droid.org/en/packages/io.anuke.mindustry/)]
+  [[网站](https://anuke.itch.io/mindustry)]
+
+  非常精良的塔防游戏。Mindustry比一般的塔防要复杂，比如要采各种矿、建立资源运输管道供给防御工事、开发科技树，敌人自由走动。有点像即时策略了（好像就是），可玩性max。
+
+  注：目前由于F-Droid服务器编译环境不兼容，软件版本卡在了主版本5。
 
 - [Anuto TD](https://github.com/reloZid/android-anuto)
   [[F-Droid](https://f-droid.org/en/packages/ch.logixisland.anuto/)]
 
   塔防游戏，界面元素都是作者手画的，作者自认为很丑，因而得名。游戏并不是很优秀，单位比较少，画面粗糙，敌人多了加速会很卡。但是我一度很上瘾。
+
+#### 探险
+
+- [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
+  [[F-Droid](https://f-droid.org/en/packages/com.shatteredpixel.shatteredpixeldungeon/)]
+  [[网站](https://shatteredpixel.com/)]
+
+  Roguelike类地牢探险游戏，自己玩过感觉有难度。画面是像素风格的，很精致。现在更新非常频繁，发布了1.0版本，质量有保证。
+
+- [Andor's Trail](https://github.com/AndorsTrailRelease/andors-trail)
+  [[F-Droid](https://f-droid.org/en/packages/xyz.deepdaikon.xeonjia/)]
+  [[网站](https://andorstrail.com/)]
+
+  任务驱动的RPG游戏，就是那种升级加技能点买装备打怪兽的游戏。游戏其实还在持续完善，地图还没做完，所以有一部分故事线和任务都是断的。不过目前的部分已经可以玩几个星期了。还有问题是大部分对话是英文，中文翻译的很少。
+
+  时隔好久，又看了一眼git仓库。你猜怎么着，它一小时前更新版本(v0.7.14)了，巧不巧！这个版本有很多人（包括我）更新的翻译，但是依然剩下59%的内容没有翻译。游戏里这些人话可真多。
+
+- [Xeonjia](https://gitlab.com/DeepDaikon/Xeonjia)
+  [[F-Droid](https://f-droid.org/en/packages/xyz.deepdaikon.xeonjia/)]
+
+  一个“滑冰”的探险游戏，即在冰上行走不会停，这很大程度影响了角色的行走策略。没错，这又是像素风格的界面。
+
+#### 沙盒
+
+- [Minetest](https://github.com/minetest/minetest)
+  [[F-Droid](https://f-droid.org/en/packages/net.minetest.minetest/)]
+  [[网站](https://www.minetest.net/)]
+
+  类似Minecraft的开源沙盘游戏，可玩性很高。我没怎么玩过，应该要搭配下面的模块管理，默认好像真的只有沙盘。
+
+- [Minetest Mods](https://github.com/rubenwardy/mtmods4android)
+  [[F-Droid](https://f-droid.org/en/packages/com.rubenwardy.minetestmodmanager/)]
+  [[网站](https://rubenwardy.com/mtmods4android/)]
+
+  管理Minetest模块
+
+#### 赛车
+
+- [SuperTuxKart](https://github.com/supertuxkart/stk-code)
+  [[F-Droid](https://f-droid.org/en/packages/org.supertuxkart.stk/)]
+  [[网站](https://supertuxkart.net/Main_Page)]
+
+  大名鼎鼎的开源赛车游戏。游戏画面是卡通风格，有很多的跑道、赛车和道具，多种游戏模式。很适合休闲时玩一玩。
+
+- [Pixel Wheels](https://github.com/agateau/pixelwheels)
+  [[F-Droid](https://f-droid.org/en/packages/com.agateau.tinywheels.android/)]
+  [[网站](https://agateau.com/projects/pixelwheels/)]
+
+  顶部视角的赛车游戏，像素风格，游戏节奏快。因为不是第一视角，感觉操作有点违反直觉啊，转弯程度不容易控制，但熟悉了之后还蛮好玩的。
+
+  我贡献了中文翻译，不用谢。
+
+#### 策略
+
+- [UnCiv](https://github.com/yairm210/UnCiv)
+  [[F-Droid](https://f-droid.org/en/packages/com.unciv.app/)]
+
+  简化的文明5，有各种国家、职业、建筑，丰富的科技树。作者是试图还原文明5的游戏功能的，界面则抽象化了，这也使得游戏体积很小。没玩过文明5的我表示入手很痛苦😅。
+
+#### 其他
+
+- [DCTimer](https://github.com/MeigenChou/DCTimer-Android)
+
+  这不是游戏，是魔方速拧计时软件，功能相当丰富，生成打乱几乎支持所有比赛类别，还有数据分析等。网页端还有个csTimer，都是开源的。
 
 ### Lineage OS自带
 
