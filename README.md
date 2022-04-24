@@ -338,6 +338,11 @@
 
 #### 词典翻译
 
+- [Aard2](https://github.com/itkach/aard2-android)
+  [[F-Droid](https://f-droid.org/en/packages/itkach.aard2/)]
+
+  还是不错的词典软件，支持很多词典，可以在官网找到相应下载链接。可惜作者不愿意将界面更新为早已成为主流的质感设计（见此[issue](https://github.com/itkach/aard2-android/issues/72)），因此界面很老旧。
+
 - [QuickDic](https://github.com/rdoeffinger/Dictionary)
   [[F-Droid](https://f-droid.org/en/packages/de.reimardoeffinger.quickdic/)]
 
