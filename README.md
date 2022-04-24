@@ -177,6 +177,11 @@
 
   基于Linux平台很出名的播放软件MPV，以UI简洁(lòu)著称。安卓版本并非官方开发，所以就更简洁(lòu)了😢。总体上不如VLC和Nova，但继承了桌面端的可定制性，可以编辑配置文件改变选项和快捷键。
 
+- [Kore](https://github.com/xbmc/Kore)
+  [[F-Droid](https://f-droid.org/en/packages/org.xbmc.kore/)]
+
+  Kodi官方遥控器应用（**Ko**di **re**mote）。前者是非常棒的开源家庭影院应用，用来播放本地或远程的多媒体文件。
+
 #### 音乐播放
 
 - [Vinyl](https://github.com/AdrienPoupa/VinylMusicPlayer)
