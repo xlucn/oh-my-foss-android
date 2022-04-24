@@ -41,7 +41,7 @@
 - [多媒体](#多媒体)
   - [视频播放器](#视频播放器)
   - [音乐播放](#音乐播放)
-  - [相册图片](#相册图片)
+  - [图片编辑](#图片编辑)
   - [相机](#相机)
 - [日常工具](#日常工具)
   - [地图](#地图)
@@ -60,6 +60,7 @@
 - [系统工具](#系统工具)
   - [文件管理](#文件管理)
   - [文件同步](#文件同步)
+  - [文件加密](#文件加密)
   - [输入法](#输入法)
   - [下载管理](#下载管理)
   - [卫星定位](#卫星定位)
@@ -74,7 +75,9 @@
   - [终端](#终端)
   - [Git](#Git及平台客户端)
   - [其他](#其他)
-- [社交平台](#社交平台)
+- [社交聊天](#社交聊天)
+  - [聊天软件](#聊天软件)
+  - [社交平台](#社交平台)
 - [游戏](#游戏)
   - [模拟器](#模拟器)
   - [休闲益智](#休闲益智)
@@ -603,12 +606,11 @@
 
   可以查看F-Droid软件编译状态。F-Droid平台所有软件都严格在他们的服务器上编译，这是和其他任何接受直接上传编译好安装包的应用商店最大的不同。也因此要等待编译，一般要几天时间，用这个就可以看新版本编译完成没有。
 
-- [Revolution IRC](https://github.com/MCMrARM/revolution-irc)
-  [[F-Droid](https://f-droid.org/en/packages/io.mrarm.irc/)]
+### 社交聊天
 
-  安卓最佳IRC客户端，有用IRC的老伙伴估计也已经知道了。界面整洁，功能全面。可以在后台一直保持连接。
+#### 聊天软件
 
-### 社交平台
+更学究的讲，这一类软件叫做“即时通信”（Instant messaging）。
 
 - [Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
   [[F-Droid](https://f-droid.org/en/packages/org.telegram.messenger/)]
@@ -617,6 +619,13 @@
   最常用的开源（只有前端开源）聊天（即时通信）软件。
 
   该F-Droid版本去除原版所包含的谷歌服务在内的一些闭源成分。
+
+- [Revolution IRC](https://github.com/MCMrARM/revolution-irc)
+  [[F-Droid](https://f-droid.org/en/packages/io.mrarm.irc/)]
+
+  安卓最佳IRC客户端，有用IRC的老伙伴估计也已经知道了。界面整洁，功能全面。可以在后台一直保持连接。
+
+#### 社交平台
 
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
   [[F-Droid](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/)]
