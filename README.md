@@ -191,6 +191,16 @@
 
   列表最后面有个lineage OS自带音乐播放器，和这个超级像，更加精简。
 
+- [Mpd](https://github.com/MusicPlayerDaemon/MPD/)
+  [[F-Droid](https://f-droid.org/en/packages/org.musicpd/)]
+
+  前后端分离的音乐播放应用。这个属于极客范畴了，本身不携带控制界面，并且实用性也不如正常的音乐播放器。Linux用户或许用过，至少我是很喜欢的。
+
+- [M.A.L.P.](https://gitlab.com/gateship-one/malp)
+  [[F-Droid](https://f-droid.org/en/packages/org.gateshipone.malp/)]
+
+  上述Mpd的前端。可以控制安卓手机自己的Mpd，也可以连接到电脑上的Mpd。
+
 #### 图片编辑
 
 - [Pocket Paint](https://github.com/Catrobat/Paintroid)
