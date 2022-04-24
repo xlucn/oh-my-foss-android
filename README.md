@@ -283,6 +283,11 @@
 
   很简单的屏幕直尺，默认可能有误差，但好在可以校准，没准什么时候可以应急。
 
+- [Compass](https://github.com/Kr0oked/Compass)
+  [[F-Droid](https://f-droid.org/en/packages/danielmeek32.compass)]
+
+  指南针。
+
 ### 学习办公
 
 #### 办公套件
