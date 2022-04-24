@@ -640,7 +640,13 @@
 - [Revolution IRC](https://github.com/MCMrARM/revolution-irc)
   [[F-Droid](https://f-droid.org/en/packages/io.mrarm.irc/)]
 
-  安卓最佳IRC客户端，有用IRC的老伙伴估计也已经知道了。界面整洁，功能全面。可以在后台一直保持连接。
+  安卓（不一定）最佳IRC客户端，有用IRC的老伙伴估计也已经知道了。界面整洁，功能全面。可以在后台一直保持连接。
+
+- [Goguma](https://git.sr.ht/~emersion/goguma)
+  [[F-Droid](https://f-droid.org/en/packages/fr.emersion.goguma/)]
+  [[网站](https://sr.ht/~emersion/goguma)]
+
+  更加现代化的IRC客户端，支持很多IRCv3的新标准。坏消息是，很多主流IRC服务器基本不支持IRCv3特性（手动斜眼）。
 
 #### 社交平台
 
