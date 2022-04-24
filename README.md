@@ -69,6 +69,7 @@
   - [密码](#密码)
   - [电脑连接](#电脑连接)
   - [手机安全](#手机安全)
+  - [系统清理](#系统清理)
 - [极客工具](#极客工具)
   - [Root](#Root工具)
   - [文本编辑](#文本编辑)
@@ -549,6 +550,13 @@
   [[F-Droid](https://f-droid.org/en/packages/us.spotco.malwarescanner/)]
 
   自称安卓第一款恶意软件扫描应用。不过，既然都用开源软件了，这个的意义就没那么大了，除非用户依然想胡乱下载其他的东西。
+
+#### 系统清理
+
+- [LTE Cleaner](https://github.com/TheRedSpy15/LTECleanerFOSS)
+  [[F-Droid](https://f-droid.org/en/packages/theredspy15.ltecleanerfoss/)]
+
+  系统清理软件。这个并不是很强大，它只负责清理日志（Log）、临时文件（Temporary）和空文件夹（Empty）。但是聊胜于无。
 
 ### 极客工具
 
