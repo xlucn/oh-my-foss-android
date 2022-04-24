@@ -66,7 +66,7 @@
   - [卫星定位](#卫星定位)
   - [备份](#备份)
   - [电话录音](#电话录音)
-  - [密码安全](#密码安全)
+  - [密码](#密码)
   - [电脑连接](#电脑连接)
 - [极客工具](#极客工具)
   - [Root](#Root工具)
@@ -502,7 +502,7 @@
 
   电话自动录音，非本土化系统中很实用，搭配Magisk模块可以成为系统应用。
 
-#### 密码安全
+#### 密码
 
 - [Password Store](https://github.com/android-password-store/Android-Password-Store)
   [[F-Droid](https://f-droid.org/en/packages/dev.msfjarvis.aps/)]
