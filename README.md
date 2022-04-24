@@ -95,6 +95,8 @@
 
 [F-Droid](https://f-droid.org)是著名的开源安卓软件平台，其客户端提供软件的安装。F-Droid官方源会从源代码编译独立的安装文件，因此可检验软件中的不安全以及非开源因素，使得F-Droid上的软件保证很高的安全性和开源性。
 
+还存在IzzyOnDroid等第三方F-Droid仓库。如果熟悉Linux的用户，会很了解这个概念，即只增加一个软件来源，但保持和F-Droid官方源软件相同的安装方式。这些第三方仓库丰富了软件的数量，提供更及时的更新，也一定程度放宽了采纳标准。
+
 建议安装其中一个F-Droid客户端。
 
 - [F-Droid](https://gitlab.com/fdroid/fdroidclient)
