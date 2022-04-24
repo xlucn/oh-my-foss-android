@@ -432,6 +432,11 @@
 
   本以为两年不更新了，结果又有新版本了（指v3.2.0版本与上一个版本相隔3年多）。一个开源软件突然恢复维护是一件令人感到幸福的事情。
 
+- [笔划输入法](https://github.com/stroke-input/stroke-input-android)
+  [[F-Droid](https://f-droid.org/en/packages/io.github.yawnoc.strokeinput/)]
+
+  很简单的笔划输入法，虽然平时不用，但感觉可用性是不差的。容错性稍稍差了一些，所有笔划都要严格归入横、竖、撇、捺和折5种，判断错误就找不到字了。
+
 #### 下载管理
 
 - [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
