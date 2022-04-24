@@ -402,6 +402,13 @@
 
   文件管理器，非常漂亮，基本的功能都有。
 
+- [Disk Usage](https://github.com/IvanVolosyuk/diskusage)
+  [[F-Droid](https://f-droid.org/en/packages/com.google.android.diskusage/)]
+
+  磁盘占用分析，类似于Windows的SpaceSniffer，类Unix的du，显示手机上磁盘占用情况。
+
+  这类开源应用实在没有更“现代”的选择了，界面比较落后，好在这个软件依然完美运行，源代码也在维护。根据最新半个月（2022.04）的提交消息来看，有超级多的代码更新，可能会有新版本？
+
 #### 文件同步
 
 - [Seafile](https://github.com/haiwen/seadroid)
