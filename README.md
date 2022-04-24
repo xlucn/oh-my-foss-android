@@ -420,7 +420,7 @@
   收音机。只不过这个是从网络串流的，不是真正的调频收音机，原因是很多硬件不支持了（也可以从手机自带收音机逐渐消失这一点看出来）。好处是你可以听外地的频道，默认的搜索引擎可以添加上千个国内外频道。
 
 - [Legado(阅读)](https://github.com/gedoor/legado)
-  [[F-Droid](https://apt.izzysoft.de/fdroid/index/apk/io.legado.app.release)]
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.legado.app.release)]
   [[网站](https://www.legado.top)]
 
   电子书阅读软件。不提供内置书源，需要用户自行寻找后导入，提高了自由度，也让软件本身更加纯净。
@@ -492,10 +492,10 @@
 
 #### 备份
 
-- [OAndBackupX](https://github.com/machiav3lli/oandbackupx)
+- [Neo Backup](https://github.com/NeoApplications/Neo-Backup)
   [[F-Droid](https://f-droid.org/en/packages/com.android.gpstest.osmdroid/)]
 
-  备份软件，可以备份任何东西，需要root。
+  备份软件（之前名称为OAndBackupX），可以备份任何东西，需要root。
 
 #### 电话录音
 
