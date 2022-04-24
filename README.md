@@ -558,6 +558,14 @@
 
   系统清理软件。这个并不是很强大，它只负责清理日志（Log）、临时文件（Temporary）和空文件夹（Empty）。但是聊胜于无。
 
+#### 传感器
+
+- [Phyphox](https://github.com/phyphox/phyphox-android)
+  [[F-Droid](https://f-droid.org/en/packages/de.rwth_aachen.phyphox/)]
+  [[网站](https://phyphox.org)]
+
+  显示手机传感器信息，以及利用手机完成一些小实验。这个应用是亚琛大学的老师学生设计开发。可以使手机变身成为一个小的物理实验室，进行光学、声学和力学实验。
+
 ### 极客工具
 
 我并不想分一个“开发类”，这里的软件并不是面向开发者的，而是喜欢折腾的用户。这也符合最开始制订的”受众广泛“要求。
