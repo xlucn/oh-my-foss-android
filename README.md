@@ -68,6 +68,7 @@
   - [电话录音](#电话录音)
   - [密码](#密码)
   - [电脑连接](#电脑连接)
+  - [手机安全](#手机安全)
 - [极客工具](#极客工具)
   - [Root](#Root工具)
   - [文本编辑](#文本编辑)
@@ -541,6 +542,13 @@
   很强大的连接PC和手机的工具。可以分享文件或文本、同步通知、运行命令和远程控制等等。需要Linux系统上安装相应的pc端软件，常见的如KDE官方的[kdeconnect](https://kdeconnect.kde.org/)和适配GNOME的[GSConnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)。
 
   KDE团队做的很好的一点是，他们将KDE Connect前后端分离开了，真正支撑底层功能的部分实现为一种协议，可以独立于图形界面部分运行。这样在非KDE环境，便可以用其它的软件，如我在使用的[mconnect](https://github.com/grimpy/mconnect)，就是没有图形界面，只有命令行接口，但如果你想要的基本功能都具备，可以很灵活而不受桌面环境限制。
+
+#### 手机安全
+
+- [Hypatia](https://gitlab.com/divested-mobile/hypatia)
+  [[F-Droid](https://f-droid.org/en/packages/us.spotco.malwarescanner/)]
+
+  自称安卓第一款恶意软件扫描应用。不过，既然都用开源软件了，这个的意义就没那么大了，除非用户依然想胡乱下载其他的东西。
 
 ### 极客工具
 
