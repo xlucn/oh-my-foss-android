@@ -748,6 +748,11 @@
 
   但这个不是完全开源，它可以连接非开源的服务器，（可选择？）上传游戏全程操作，和登录谷歌账号进行同步。
 
+- [Lichess](https://github.com/lichess-org/lichobile)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.lichess.mobileapp)]
+
+  在线国际象棋对战应用。这方面真的希望国内做出一些比较开放的棋牌类对战平台，给开源应用提供一些可能性。我一定在说梦话。
+
 #### 塔防
 
 - [Mindustry](https://github.com/Anuken/Mindustry)
