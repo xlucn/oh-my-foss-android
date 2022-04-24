@@ -181,12 +181,7 @@
 
   列表最后面有个lineage OS自带音乐播放器，和这个超级像，更加精简。
 
-#### 相册图片
-
-- [Photok](https://github.com/leonlatsch/Photok)
-  [[F-Droid](https://f-droid.org/en/packages/dev.leonlatsch.photok/)]
-
-  加密相册，选入应用集时正在积极开发，大量功能将要加入。
+#### 图片编辑
 
 - [Pocket Paint](https://github.com/Catrobat/Paintroid)
   [[F-Droid](https://f-droid.org/en/packages/org.catrobat.paintroid/)]
@@ -414,6 +409,18 @@
   [[网站](https://www.seafile.com/home/)]
 
   文件同步/网盘客户端。是国内开发的，需要自己搭服务器。我们学校用它做了一个box，访问起来很方便：）
+
+#### 文件加密
+
+- [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS)
+  [[F-Droid](https://f-droid.org/en/packages/sushi.hardcore.droidfs/)]
+
+  加密存储文件。
+
+- [Photok](https://github.com/leonlatsch/Photok)
+  [[F-Droid](https://f-droid.org/en/packages/dev.leonlatsch.photok/)]
+
+  加密相册，选入应用集时正在积极开发，大量功能将要加入。
 
 #### 输入法
 
