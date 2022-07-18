@@ -106,12 +106,17 @@
 
   F-Droid官方客户端。虽是正统，但功能和界面并不是最好的，没什么值得表扬的。
 
+- [Neo-Store](https://github.com/NeoApplications/Neo-Store)
+  [[F-Droid](https://f-droid.org/en/packages/com.machiav3lli.fdroid)]
+
+  Neo Store是基于Droid-ify（见下）的F-Droid客户端。界面风格有较大改动，个人认为更规范了，这里指对于质感设计的应用更加美观和符合直觉，相比之下，Droid-ify可能更加像一个没有设计能力的程序员随意为之的作品。
+
+  曾经取代/继承了Droid-ify，并入[Neo系列应用](https://github.com/NeoApplications/)。但是后来Droid-ify原作者因个人原因，选择不再参与Neo Store的开发，自己继续维护之前的Droid-ify代码。因此，现在两个项目都是正在维护的。
+
 - [Driod-ify](https://github.com/Iamlooker/Droid-ify)
   [[F-Droid](https://f-droid.org/en/packages/com.looker.droidify)]
 
-  （已更名为[Neo-Store](https://github.com/NeoApplications/Neo-Store)，但尚未发布新版本，到时再修改名称。）
-
-  F-Droid第三方客户端，基于foxy droid（见下）。后者不怎么维护了，因此有人修复bug、更新界面后发布了这个款app。目前使用起来不会有什么区别，日后可能会有新功能加入。
+  F-Droid第三方客户端，基于foxy droid（见下）。后者不怎么维护了，因此有人修复bug、更新界面后发布了这个款app。目前使用起来不会有什么区别，日后可能会有新功能加入。在质感设计的风格上，应该是使用了第3代的设计语言，即有更多的圆角元素等特点。
 
   更新：0.3版本加入了root👽静默安装，好耶！可以取代foxy了。
 
