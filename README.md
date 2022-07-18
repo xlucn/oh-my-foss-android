@@ -227,9 +227,9 @@
 
   很神奇的相机软件。在LineageOS下，其它相机软件照片质量奇差，涂抹到细节全失。偏偏Photon Camera的照片质量堪比官方OS下的自带相机。另外，像夜景模式、超像素的支持也都有。在功能上是吊打上面两位和LineageOS自带相机的。
 
-  但问题是，这个相机界面目前bug满满，主要是打开和切换界面都要等半分钟到一分钟。有[一个issue](https://github.com/eszdman/PhotonCamera/issues/54)说它在扫描设备上所有的照片，不知是不是长时间不响应的原因。
+  更新：这一段的问题应该已经解决，我尝试编译了最新的git仓库代码，没有长时间卡顿了，不过没有新版本发布。在此前，打开和切换界面都等数十秒长。有[一个issue](https://github.com/eszdman/PhotonCamera/issues/54)说它在扫描设备上所有的照片，不知是不是长时间不响应的原因。
 
-  另外，这款软件可能不是默认支持所有设备的，但没找到它支持设备的条件。
+  另外，这款软件可能不是默认支持所有设备的，但没找到它支持设备的条件（源代码里有支持列表）。
 
 - [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider)
   [[F-Droid](https://f-droid.org/en/packages/de.lukaspieper.gcam.services/)]
