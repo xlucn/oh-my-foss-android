@@ -797,6 +797,11 @@
 
   在线国际象棋对战应用。这方面真的希望国内做出一些比较开放的棋牌类对战平台，给开源应用提供一些可能性。我一定在说梦话。
 
+- [Puzzles](https://github.com/chrisboyle/sgtpuzzles)
+  [[F-Droid](https://f-droid.org/en/packages/name.boyle.chris.sgtpuzzles/)]
+
+  40款益智小游戏合集，包含扫雷等，想费一费脑细胞的可以试试。
+
 #### 塔防
 
 - [Mindustry](https://github.com/Anuken/Mindustry)
