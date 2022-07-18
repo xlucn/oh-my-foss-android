@@ -208,12 +208,17 @@
 
   上述Mpd的前端。可以控制安卓手机自己的Mpd，也可以连接到电脑上的Mpd。
 
-#### 图片编辑
+#### 绘画
 
 - [Pocket Paint](https://github.com/Catrobat/Paintroid)
   [[F-Droid](https://f-droid.org/en/packages/org.catrobat.paintroid/)]
 
   随便画点啥，功能比较全，甚至还有图层，界面也简洁漂亮。
+
+- [PixaPencil](https://github.com/therealbluepandabear/PixaPencil)
+  [[F-Droid](https://f-droid.org/en/packages/com.therealbluepandabear.pixapencil/)]
+
+  自称“第一的开源像素绘画应用”，大概相当于windows上的绘图，貌似要功能更丰富一些。
 
 #### 相机
 
