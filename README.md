@@ -843,6 +843,8 @@
 
 - [Cool FOSS Android Apps](https://github.com/albertomosconi/foss-apps)
 
+- [Awesome Android Apps](https://github.com/Psyhackological/AAA) （另一个）
+
 ## 版权
 
 版权声明：本文为 [Lu Xu](https://github.com/OliverLew) 原创，依据 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可证进行授权，转载请附上出处链接及本声明。
