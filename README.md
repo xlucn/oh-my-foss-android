@@ -735,7 +735,7 @@
 - [Lichess](https://github.com/lichess-org/lichobile)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.lichess.mobileapp)]
 
-  在线国际象棋对战应用。这方面真的希望国内做出一些比较开放的棋牌类对战平台，给开源应用提供一些可能性。我一定在说梦话。
+  在线国际象棋对弈应用。这方面真的希望国内做出一些比较开放的棋类对弈平台，给开源应用提供一些可能性。
 
 - [Puzzles](https://github.com/chrisboyle/sgtpuzzles)
   [[F-Droid](https://f-droid.org/en/packages/name.boyle.chris.sgtpuzzles/)]
