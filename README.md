@@ -240,13 +240,7 @@
 
   监督用药。可以增添用药条目，指定数量，它会提醒你吃药，以及记录过往用药。虽然是新软件，但是目前的功能已经很不错了。
 
-#### 其他
-
-- [Noice](https://github.com/ashutoshgngwr/noice)
-  [[F-Droid](https://f-droid.org/en/packages/com.github.ashutoshgngwr.noice/)]
-  [[网站](https://ashutosh.blog/noice/)]
-
-  播放噪音/自然声音。内置各种共30+种声音，可以自由组合，设置每一种声音的音量，保存为预设。
+#### 小工具
 
 - [Ruler](https://github.com/congshengwu/Ruler)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ruler.csw)]
@@ -257,6 +251,14 @@
   [[F-Droid](https://f-droid.org/en/packages/danielmeek32.compass)]
 
   指南针。
+
+#### 自然声音
+
+- [Noice](https://github.com/ashutoshgngwr/noice)
+  [[F-Droid](https://f-droid.org/en/packages/com.github.ashutoshgngwr.noice/)]
+  [[网站](https://ashutosh.blog/noice/)]
+
+  播放噪音/自然声音。内置各种共30+种声音，可以自由组合，设置每一种声音的音量，保存为预设。
 
 ### 学习办公
 
@@ -563,6 +565,11 @@
 
   简单但不简陋的VNC客户端。可以通过手势实现不同的鼠标控制事件，因此是很实用的。
 
+- [WADB](https://github.com/RikkaApps/WADB)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.haruue.wadb)]
+
+  无线ADB，需要root。虽然安卓在开发者选项中也可以开启“无线调试”，但这里开启的端口是随机的，明显是出于安全考虑。如果你所在网络没有那么危险，这款应用可以在固定的、也是默认的5555端口开启无线调试，因此电脑使用adb时无需输入端口信息即可连接。
+
 #### 终端
 
 - [TermOne Plus](https://gitlab.com/termapps/termoneplus)
@@ -593,17 +600,12 @@
 
   不太好的git客户端里不太差的一个。在维护，但很久不发布新版本，界面也很古老，是Android 4时代的界面。
 
-#### 其他
+#### F-Droid状态
 
 - [F-Droid Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
   [[F-Droid](https://f-droid.org/en/packages/de.storchp.fdroidbuildstatus)]
 
   可以查看F-Droid软件编译状态。F-Droid平台所有软件都严格在他们的服务器上编译，这是和其他任何接受直接上传编译好安装包的应用商店最大的不同。也因此要等待编译，一般要几天时间，用这个就可以看新版本编译完成没有。
-
-- [WADB](https://github.com/RikkaApps/WADB)
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.haruue.wadb)]
-
-  无线ADB，需要root。虽然安卓在开发者选项中也可以开启“无线调试”，但这里开启的端口是随机的，明显是出于安全考虑。如果你所在网络没有那么危险，这款应用可以在固定的、也是默认的5555端口开启无线调试，因此电脑使用adb时无需输入端口信息即可连接。
 
 ### 社交聊天
 
@@ -813,7 +815,7 @@
 
   简化的文明5，有各种国家、职业、建筑，丰富的科技树。作者是试图还原文明5的游戏功能的，界面则抽象化了，这也使得游戏体积很小。没玩过文明5的我表示入手很痛苦😅。
 
-#### 其他
+#### 魔方
 
 - [DCTimer](https://github.com/MeigenChou/DCTimer-Android)
 
