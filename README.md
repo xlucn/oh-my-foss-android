@@ -784,13 +784,7 @@
   [[F-Droid](https://f-droid.org/en/packages/net.minetest.minetest/)]
   [[网站](https://www.minetest.net/)]
 
-  类似Minecraft的开源沙盘游戏，可玩性很高。我没怎么玩过，应该要搭配下面的模块管理，默认好像真的只有沙盘。
-
-- [Minetest Mods](https://github.com/rubenwardy/mtmods4android)
-  [[F-Droid](https://f-droid.org/en/packages/com.rubenwardy.minetestmodmanager/)]
-  [[网站](https://rubenwardy.com/mtmods4android/)]
-
-  管理Minetest模块
+  类似Minecraft的开源沙盘游戏，可玩性很高。我没怎么玩过，应该添加一些模块，默认好像真的只有沙盘。
 
 #### 赛车
 
