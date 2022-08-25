@@ -242,11 +242,6 @@
 
 #### 其他
 
-- [EnRecipes](https://github.com/vishnuraghavb/EnRecipes)
-  [[F-Droid](https://f-droid.org/en/packages/com.vishnuraghav.EnRecipes/)]
-
-  菜谱。选这个主要因为这种小功能的软件做的这么精致太难得。但是，这个它没有在线菜谱，只能用户自己录入，就很鸡肋了。希望能建立一个在线菜谱，或与已有的进行合作，用户对其进行丰富，才有实用性。
-
 - [Noice](https://github.com/ashutoshgngwr/noice)
   [[F-Droid](https://f-droid.org/en/packages/com.github.ashutoshgngwr.noice/)]
   [[网站](https://ashutosh.blog/noice/)]
