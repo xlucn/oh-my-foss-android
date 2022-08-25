@@ -1,26 +1,17 @@
 # 很好用的开源安卓软件
 
-个人收集的实用、良心开源安卓软件，最初发布于酷安。Git仓库：
+个人收集的实用、良心开源安卓软件。
 
-- Github主仓库：[oh-my-foss-android](https://github.com/OliverLew/oh-my-foss-android)
-- Gitee同步仓库：[oh-my-foss-android](https://gitee.com/lewinat0r/oh-my-foss-android)
+## 基本信息
 
-酷安应用集链接：链接已删除。
-（更新说明：酷安不知道怎么想的，应用集中非酷安上架的应用都消失了。所以之后应用集不再更新。）
+- **仓库**：
+  [Github主仓库](https://github.com/oliverlew/oh-my-foss-android)，
+  [Gitee同步仓库](https://gitee.com/lewinat0r/oh-my-foss-android)。
+- **特点**：强调使用体验，希望读者能更好地提前了解软件的特点。
+- **推荐**：软件推荐，欢迎提交issue或PR。
+- **历史**：软件增删等变更请查看git提交历史。
+- **版权**：本文遵循[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)版权协议发表。如需转载等，需要符合要求，如该版权要求只能以相同许可协议传播（SA）、需要明确说明作者和来源（BY）。版权声明见文末。
 
-强调我自己的使用体验，而不是单纯的展示链接，意在读者能更好地提前了解软件的特点。
-
-**贡献：**
-
-若要推荐，可以通过issue评论，当然我可能当时不会添加，但我会留意。
-
-**日志：**
-
-软件增删等变更请查看git提交历史，[Github历史](https://github.com/OliverLew/oh-my-foss-android/commits/main)、[Gitee历史](https://gitee.com/lewinat0r/oh-my-foss-android/commits/main)。
-
-**版权：**
-
-本文包含很多我自己的想法与创作内容，因此遵循[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)版权协议发表。如需转载等，需要符合要求，如该版权要求只能以相同许可协议传播（SA）、需要明确说明作者和来源（BY）。版权声明见文末。
 
 ## 选择条件
 
