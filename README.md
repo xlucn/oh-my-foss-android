@@ -519,6 +519,14 @@
 
   显示手机传感器信息，以及利用手机完成一些小实验。这个应用是亚琛大学的老师学生设计开发。可以使手机变身成为一个小的物理实验室，进行光学、声学和力学实验。
 
+#### 系统美化
+
+- [Doodle](https://github.com/patzly/doodle-android)
+  [[F-Droid](https://f-droid.org/en/packages/xyz.zedler.patrick.doodle/)]
+  [[网站](https://patrickzedler.com/doodle/)]
+
+  质感设计风格的动态壁纸，具有自动暗色模式和省电动画等特点。喜欢抽象、简约风格的可以试一试。
+
 ### 极客工具
 
 我并不想分一个“开发类”，这里的软件并不是面向开发者的，而是喜欢折腾的用户。这也符合最开始制订的”受众广泛“要求。
