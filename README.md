@@ -330,6 +330,13 @@
 
   PDF阅读器，开源的同类软件UI都不怎么样，这个算是很好的了，期待和谷歌PDF阅读器差不多的开源版本出现。
 
+  最近无更新，建议用下面的MJ PDF Reader。
+
+- [MJ PDF Reader](https://gitlab.com/mudlej_android/mj_pdf_reader)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader)]
+
+  基于上述Pdf Viewer Plus的PDF阅读器。由于前者很久无维护，所以这个项目做了大量重构与适配工作，修复了一些问题，增加一些功能。总体来说解决了之前项目的一些痛点，值得一用。
+
 #### 词典翻译
 
 - [Aard2](https://github.com/itkach/aard2-android)
