@@ -98,6 +98,37 @@
 
   他们的网站是我见过开源软件里做的最好看的之一。
 
+#### 内容获取
+
+这类软件没有自带内容或既定来源，用户自行加入“源”获取在线内容。
+
+- [Feeder](https://gitlab.com/spacecowboy/Feeder)
+  [[F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer/)]
+
+  RSS订阅软件，这类软件没有太令我满意的，这个就算比较好的了。
+
+  国内没有什么开源的新闻阅读软件，但是有很多资讯平台有RSS订阅。因此Feeder可以成为一个非常纯粹的新闻阅读软件，没有任何交互，像看报纸一样地阅读📰。
+
+- [FastoTVLite](https://github.com/fastogt/fastotvlite_mobile)
+
+  IPTV客户端，可以从网络串流观看电视节目，大家可以自行从网上搜集IPTV资源，添加至播放器中，就可以播放了。
+
+- [Transistor](https://github.com/y20k/transistor)
+  [[F-Droid](https://f-droid.org/en/packages/org.y20k.transistor/)]
+
+  收音机。只不过这个是从网络串流的，不是真正的调频收音机，原因是很多硬件不支持了（也可以从手机自带收音机逐渐消失这一点看出来）。好处是你可以听外地的频道，默认的搜索引擎可以添加上千个国内外频道。
+
+- [URL Radio](https://github.com/jamal2362/URL-Radio)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jamal2367.urlradio)]
+
+  另一个收音机应用，应该基于Transistor。不太清楚与后者有什么不同，Transistor也没有放弃维护。
+
+- [Legado(阅读)](https://github.com/gedoor/legado)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.legado.app.release)]
+  [[网站](https://www.legado.top)]
+
+  电子书阅读软件。不提供内置书源，需要用户自行寻找后导入，提高了自由度，也让软件本身更加纯净。
+
 ### 多媒体
 
 #### 视频播放器
@@ -339,37 +370,6 @@
   [[F-Droid](https://www.f-droid.org/packages/com.physphil.android.unitconverterultimate/)]
 
   单位转换工具，非常全面，除了常见的长度、面积、重量等基础物理单位，还有汇率、存储单位等。
-
-### 内容获取
-
-这类软件没有自带内容或既定来源，用户自行加入“源”获取在线内容。
-
-- [Feeder](https://gitlab.com/spacecowboy/Feeder)
-  [[F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer/)]
-
-  RSS订阅软件，这类软件没有太令我满意的，这个就算比较好的了。
-
-  国内没有什么开源的新闻阅读软件，但是有很多资讯平台有RSS订阅。因此Feeder可以成为一个非常纯粹的新闻阅读软件，没有任何交互，像看报纸一样地阅读📰。
-
-- [FastoTVLite](https://github.com/fastogt/fastotvlite_mobile)
-
-  IPTV客户端，可以从网络串流观看电视节目，大家可以自行从网上搜集IPTV资源，添加至播放器中，就可以播放了。
-
-- [Transistor](https://github.com/y20k/transistor)
-  [[F-Droid](https://f-droid.org/en/packages/org.y20k.transistor/)]
-
-  收音机。只不过这个是从网络串流的，不是真正的调频收音机，原因是很多硬件不支持了（也可以从手机自带收音机逐渐消失这一点看出来）。好处是你可以听外地的频道，默认的搜索引擎可以添加上千个国内外频道。
-
-- [URL Radio](https://github.com/jamal2362/URL-Radio)
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jamal2367.urlradio)]
-
-  另一个收音机应用，应该基于Transistor。不太清楚与后者有什么不同，Transistor也没有放弃维护。
-
-- [Legado(阅读)](https://github.com/gedoor/legado)
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.legado.app.release)]
-  [[网站](https://www.legado.top)]
-
-  电子书阅读软件。不提供内置书源，需要用户自行寻找后导入，提高了自由度，也让软件本身更加纯净。
 
 ### 系统工具
 
