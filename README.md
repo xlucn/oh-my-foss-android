@@ -321,6 +321,11 @@
 
   极简又漂亮的笔记应用，只能输入纯文字，有少许加粗斜体等格式。
 
+- [Saber](https://github.com/adil192/saber)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.adilhanney.saber)]
+
+  不多见的开源手写笔记软件。我没有安卓平板，不知道实际体验如何。
+
 #### 文档
 
 - [OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan)
