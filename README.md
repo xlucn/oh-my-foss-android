@@ -347,6 +347,14 @@
 
   基于上述Pdf Viewer Plus的PDF阅读器。由于前者很久无维护，所以这个项目做了大量重构与适配工作，修复了一些问题，增加一些功能。总体来说解决了之前项目的一些痛点，值得一用。
 
+- [Librera Reader](https://github.com/foobnix/LibreraReader)
+  [[F-Droid](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/)]
+  [[网站](https://librera.mobi/)]
+
+  一个电子书的阅读与管理软件。其实开源安卓应用中很少具有管理文档的功能，这个软件就填补了空缺。
+
+  界面虽然看起来很过时，但是整个应用的功能还是很成熟的，这个应该更重要一些。
+
 #### 词典翻译
 
 - [Aard2](https://github.com/itkach/aard2-android)
