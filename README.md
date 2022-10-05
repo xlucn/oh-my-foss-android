@@ -163,6 +163,11 @@
 
   列表最后面有个lineage OS自带音乐播放器，和这个超级像，更加精简。
 
+- [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/player.phonograph.plus)]
+
+  也是Phonograph正在积极维护的fork，在逐渐增加功能，中短期应该不会放弃。
+
 - [Mpd](https://github.com/MusicPlayerDaemon/MPD/)
   [[F-Droid](https://f-droid.org/en/packages/org.musicpd/)]
 
