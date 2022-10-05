@@ -372,6 +372,13 @@
 
   翻译软件。基于深度学习的翻译引擎，这个是把网页版包装成了一个轻量的应用。重要的是，可以在选取文字后的弹出菜单里选择DeepL进行翻译。
 
+#### 数学工具
+
+- [microMathematics Plus](https://github.com/mkulesh/microMathematics)
+  [[F-Droid](https://f-droid.org/en/packages/com.mkulesh.micromath.plus/)]
+
+  掌上CAS。极为强大的计算机代数系统（CAS），函数、微积分、作图等应有尽有。采用了最近越来越常见的笔记本（notebook）的形式，输入和输出都可以保留下来，作图会内置显示等。陪你度过大学不是梦。
+
 #### 百科
 
 - [Wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
