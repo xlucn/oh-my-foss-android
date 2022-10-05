@@ -396,6 +396,10 @@
 
   虽然在更新，但是界面比较落后，数据貌似也不多。
 
+- [Stellarium](https://www.stellarium-labs.com/stellarium-mobile-plus/)
+
+  大名鼎鼎的Stellarium，最近桌面端发布了1.0版本，才反应过来它也是开源的。但是只能在其他应用商店下载。专业性上即便在商业软件中也算极为优秀。
+
 #### 单位转换
 
 - [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate)
