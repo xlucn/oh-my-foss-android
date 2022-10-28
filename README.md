@@ -445,6 +445,13 @@
 
 #### 输入法
 
+- [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
+  [[F-Droid](https://f-droid.org/en/packages/juloo.keyboard2/)
+
+  非常轻量的输入法（目前版本不到200kB），专为程序员、极客人群设计，终端搭配神器。在较常见的4行键位基础上，通过在每一个键向四个角滑动的操作，触发其他的按键。
+
+  重点是，这款键盘默认操作体验十分顺手（此处@Trime）。如果之前在用Hacker's keyboard的，可以换这个了。
+
 - [同文输入法](https://github.com/osfans/trime)
   [[F-Droid](https://f-droid.org/en/packages/com.osfans.trime/)]
 
