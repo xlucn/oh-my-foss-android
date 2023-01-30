@@ -455,6 +455,13 @@
 
   加密相册，选入应用集时正在积极开发，大量功能将要加入。
 
+- [Anemo](https://github.com/2bllw8/anemo)
+  [[F-Droid](https://f-droid.org/en/packages/exe.bbllw8.anemo)]
+
+  首先说明，这个并不是文件加密软件，但是应该可以满足部分需要这类应用的用户需求。
+
+  我们可以使用Anemo将文件存入这个应用的私有本地空间。Anemo会隐藏这些文件，但用户可以选择临时开启，就可以从文件管理器的侧边栏看到入口。在15分钟无访问后，入口会再次隐藏。整个过程并未加密。
+
 #### 输入法
 
 - [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
