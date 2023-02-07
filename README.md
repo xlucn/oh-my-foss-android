@@ -56,11 +56,13 @@
 
   更新：又加入了大量的内置仓库，可以不用导入了。
 
-- [Foxy Droid](https://github.com/kitsunyan/foxy-droid)
+- ~~[Foxy Droid](https://github.com/kitsunyan/foxy-droid)~~
   [[F-Droid](https://f-droid.org/en/packages/nya.kitsunyan.foxydroid)]
 
-  F-Droid第三方客户端，这个很简洁，只有1M多，我一直用作官方客户端的替代品。
-  缺点是无法自动和批量安装，每次会弹出安装窗口。基本功能尚可用，但长时间不更新了，更推荐上面Droid-ify。
+  长时间不更新了，推荐上面Droid-ify和Neo-Store。
+
+  F-Droid第三方客户端，这个很简洁，只有1M多，基本功能尚可用，我一直用作官方客户端的替代品。
+  缺点是无法自动和批量安装，每次会弹出安装窗口。
 
 - [Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid)
   [[F-Droid](https://f-droid.org/en/packages/com.aurora.adroid)]
@@ -113,7 +115,7 @@
 
   IPTV客户端，可以从网络串流观看电视节目，大家可以自行从网上搜集IPTV资源，添加至播放器中，就可以播放了。
 
-- [Transistor](https://github.com/y20k/transistor)
+- [Transistor](https://codeberg.org/y20k/transistor)
   [[F-Droid](https://f-droid.org/en/packages/org.y20k.transistor/)]
 
   收音机。只不过这个是从网络串流的，不是真正的调频收音机，原因是很多硬件不支持了（也可以从手机自带收音机逐渐消失这一点看出来）。好处是你可以听外地的频道，默认的搜索引擎可以添加上千个国内外频道。
@@ -187,6 +189,8 @@
 
 - [PixaPencil](https://github.com/therealbluepandabear/PixaPencil)
   [[F-Droid](https://f-droid.org/en/packages/com.therealbluepandabear.pixapencil/)]
+
+  **警告**：已经停止开发。
 
   自称“第一的开源像素绘画应用”，大概相当于windows上的绘图，貌似要功能更丰富一些。
 
@@ -284,6 +288,8 @@
 - [Ruler](https://github.com/congshengwu/Ruler)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ruler.csw)]
 
+  **警告**：源代码貌似没了。
+
   很简单的屏幕直尺，默认可能有误差，但好在可以校准，没准什么时候可以应急。
 
 - [Compass](https://github.com/Kr0oked/Compass)
@@ -350,9 +356,9 @@
 - [Pdf Viewer Plus](https://github.com/JavaCafe01/PdfViewer)
   [[F-Droid](https://f-droid.org/en/packages/me.zhanghai.android.files)]
 
-  PDF阅读器，开源的同类软件UI都不怎么样，这个算是很好的了，期待和谷歌PDF阅读器差不多的开源版本出现。
+  **警告**：已停止开发，建议用下面的MJ PDF Reader。
 
-  最近无更新，建议用下面的MJ PDF Reader。
+  PDF阅读器，开源的同类软件UI都不怎么样，这个算是很好的了，期待和谷歌PDF阅读器差不多的开源版本出现。
 
 - [MJ PDF Reader](https://gitlab.com/mudlej_android/mj_pdf_reader)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader)]
@@ -532,6 +538,8 @@
 - [andOTP](https://github.com/andOTP/andOTP)
   [[F-Droid](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/)]
 
+  **警告**：已不再维护。
+
   双重验证（2FA）或者一次性密码（OTP）客户端，就是很多网站登录时出于安全性设置的6位数动态验证码。
 
 - [Aegis](https://github.com/beemdevelopment/Aegis)
@@ -550,6 +558,8 @@
 - [AN2Linux](https://github.com/rootkiwi/an2linuxclient)
   [[F-Droid](https://f-droid.org/en/packages/kiwi.root.an2linuxclient/)]
   [[网站](https://github.com/rootkiwi/an2linuxserver/)]
+
+  **警告**：已不再维护。建议使用下面的A2LN。
 
   通知同步软件，将手机上的通知推送到Linux电脑上，可以通过WiFi、蓝牙或者移动数据。我只试过WiFi，不知道另两个体验如何。
 
@@ -693,6 +703,8 @@
 - [Revolution IRC](https://github.com/MCMrARM/revolution-irc)
   [[F-Droid](https://f-droid.org/en/packages/io.mrarm.irc/)]
 
+  **警告**：已经很长时间没有更新了。
+
   安卓（不一定）最佳IRC客户端，有用IRC的老伙伴估计也已经知道了。界面整洁，功能全面。可以在后台一直保持连接。
 
 - [Goguma](https://git.sr.ht/~emersion/goguma)
@@ -741,9 +753,8 @@
 
 - [Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft)
 - [pixez](https://github.com/Notsfsssf/pixez-flutter)
-- [pxview](https://github.com/alphasp/pxview)
 
-  都是Pixiv客户端，做的也都不错，最后面这个更新不是很频繁了。
+  都是Pixiv客户端，做的也都不错。
 
 - [Hendroid](https://github.com/Nonononoki/Hendroid)
   [[F-Droid](https://f-droid.org/en/packages/org.nonononoki.hendroid/)]
