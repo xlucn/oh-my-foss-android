@@ -563,6 +563,11 @@
 
   通知同步软件，将手机上的通知推送到Linux电脑上，可以通过WiFi、蓝牙或者移动数据。我只试过WiFi，不知道另两个体验如何。
 
+- [A2LN](https://github.com/patri9ck/a2ln-app)
+  [[F-Droid](https://f-droid.org/en/packages/dev.patri9ck.a2ln)]
+
+  与上面的AN2Linux类似，说明见上。
+
 - [KDE Connect](https://github.com/KDE/kdeconnect-android)
   [[F-Droid](https://f-droid.org/packages/org.kde.kdeconnect_tp/)]
 
