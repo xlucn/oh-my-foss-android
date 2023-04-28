@@ -136,6 +136,11 @@
 
   小说阅读软件。这个内置了一些下载源。我没有读过里面的小说，但是比较喜欢这种形式的软件。
 
+- [Myne](https://github.com/Pool-Of-Tears/Myne)
+  [[F-Droid](https://f-droid.org/en/packages/com.starry.myne/)]
+
+  电子书下载与阅读。从一个固定的源下载电子书，都是一些经典书籍，一般是版权过期进入公共领域的书，很不错的软件。
+
 ### 多媒体
 
 #### 视频播放器
