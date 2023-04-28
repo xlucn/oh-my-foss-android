@@ -148,6 +148,11 @@
 
   Trakt客户端，归纳自己看的电影和电视剧，精确到集的进度管理，有追剧提醒，随时同步。美剧党神器。
 
+- [Episodes](https://github.com/red-coracle/episodes)
+  [[F-Droid](https://f-droid.org/en/packages/com.redcoracle.episodes/)]
+
+  管理自己看过的电视剧，数据来自TMDB，功能上比较单一，更推荐上边的Showly。
+
 ### 多媒体
 
 #### 视频播放器
