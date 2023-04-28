@@ -141,6 +141,13 @@
 
   电子书下载与阅读。从一个固定的源下载电子书，都是一些经典书籍，一般是版权过期进入公共领域的书，很不错的软件。
 
+#### 追剧管理
+
+- [Showly](https://github.com/michaldrabik/Showly-2.0)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.michaldrabik.showly_oss)]
+
+  Trakt客户端，归纳自己看的电影和电视剧，精确到集的进度管理，有追剧提醒，随时同步。美剧党神器。
+
 ### 多媒体
 
 #### 视频播放器
@@ -739,10 +746,6 @@
   [[F-Droid](https://f-droid.org/en/packages/nl.viter.glider/)]
 
   著名面向IT领域的资讯平台hacker news的客户端，很精巧，用起来很顺手
-
-- [Showly](https://github.com/michaldrabik/Showly-2.0)
-
-  Trakt客户端，归纳自己看的电影和电视剧，精确到集的进度管理，有追剧提醒，随时同步。美剧党神器。
 
 - [RedReader](https://github.com/QuantumBadger/RedReader)
   [[F-Droid](https://f-droid.org/en/packages/org.quantumbadger.redreader/)]
