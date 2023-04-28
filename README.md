@@ -131,6 +131,11 @@
 
   电子书阅读软件。不提供内置书源，需要用户自行寻找后导入，提高了自由度，也让软件本身更加纯净。
 
+- [Shosetsu(书)](https://gitlab.com/shosetsuorg/shosetsu)
+  [[F-Droid](https://f-droid.org/packages/app.shosetsu.android.fdroid)]
+
+  小说阅读软件。这个内置了一些下载源。我没有读过里面的小说，但是比较喜欢这种形式的软件。
+
 ### 多媒体
 
 #### 视频播放器
