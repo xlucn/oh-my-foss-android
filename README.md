@@ -405,6 +405,11 @@
 
   界面虽然看起来很过时，但是整个应用的功能还是很成熟的，这个应该更重要一些。
 
+- [Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD)
+  [[F-Droid](https://f-droid.org/en/packages/com.github.axet.bookreader/)]
+
+  电子书阅读软件，比上面的Librera Reader更简陋一些，但也可以用。试了一个eupb，排版不太好。
+
 #### 词典翻译
 
 - [Aard2](https://github.com/itkach/aard2-android)
