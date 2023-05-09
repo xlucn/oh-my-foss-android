@@ -737,6 +737,13 @@
 
   可以查看F-Droid软件编译状态。F-Droid平台所有软件都严格在他们的服务器上编译，这是和其他任何接受直接上传编译好安装包的应用商店最大的不同。也因此要等待编译，一般要几天时间，用这个就可以看新版本编译完成没有。
 
+#### 手册
+
+- [Linux Command Library](https://github.com/SimonSchubert/LinuxCommandLibrary)
+  [[F-Droid](https://f-droid.org/en/packages/com.inspiredandroid.linuxcommandbibliotheca/)]
+
+  Linux相关命令、应用的帮助手册，主要包括大量man pages。
+
 ### 社交聊天
 
 #### 聊天软件
