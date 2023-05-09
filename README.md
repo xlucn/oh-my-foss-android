@@ -192,6 +192,16 @@
 
   也是Phonograph正在积极维护的fork，在逐渐增加功能，中短期应该不会放弃。
 
+- [Retro Music](https://retromusic.app/)
+  [[F-Droid](https://f-droid.org/en/packages/code.name.monkey.retromusic/)]
+
+  很漂亮的音乐播放软件。
+
+- [Metro](https://github.com/MuntashirAkon/Metro)
+  [[F-Droid](https://f-droid.org/en/packages/io.github.muntashirakon.Music/)]
+
+  上方Retro的“破解版”，即解锁了高级功能，去除了谷歌服务，算是更加纯粹的开源版本。
+
 - [Mpd](https://github.com/MusicPlayerDaemon/MPD/)
   [[F-Droid](https://f-droid.org/en/packages/org.musicpd/)]
 
