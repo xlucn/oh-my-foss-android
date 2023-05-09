@@ -212,6 +212,23 @@
 
   上述Mpd的前端。可以控制安卓手机自己的Mpd，也可以连接到电脑上的Mpd。
 
+- [Noice](https://github.com/ashutoshgngwr/noice)
+  [[F-Droid](https://f-droid.org/en/packages/com.github.ashutoshgngwr.noice/)]
+  [[网站](https://ashutosh.blog/noice/)]
+
+  播放噪音/自然声音。内置各种共30+种声音，可以自由组合，设置每一种声音的音量，保存为预设。
+
+- [SoundAura](https://github.com/CliffracerMerchant/SoundAura)
+  [[F-Droid](https://f-droid.org/en/packages/com.cliffracertech.soundaura)]
+
+  同时播放多条用户提供的音频。实际上可以完成上边Noice的功能，但软件没有自带任何声音，需要我们自己去下载。
+
+  Issue中有人推荐了一些“双耳节拍"音频，可以下载尝试：
+  - https://orangefreesounds.com/binaural-beats/
+  - https://archive.org/details/binaural-beats_201904
+  - https://musicalhypnosis.com/royalty-free-binaural-beats/
+
+
 #### 绘画
 
 - [Pocket Paint](https://github.com/Catrobat/Paintroid)
@@ -328,14 +345,6 @@
   [[F-Droid](https://f-droid.org/en/packages/danielmeek32.compass)]
 
   指南针。
-
-#### 自然声音
-
-- [Noice](https://github.com/ashutoshgngwr/noice)
-  [[F-Droid](https://f-droid.org/en/packages/com.github.ashutoshgngwr.noice/)]
-  [[网站](https://ashutosh.blog/noice/)]
-
-  播放噪音/自然声音。内置各种共30+种声音，可以自由组合，设置每一种声音的音量，保存为预设。
 
 ### 学习办公
 
