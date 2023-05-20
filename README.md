@@ -775,7 +775,7 @@
 - [Revolution IRC](https://github.com/MCMrARM/revolution-irc)
   [[F-Droid](https://f-droid.org/en/packages/io.mrarm.irc/)]
 
-  **警告**：已经很长时间没有更新了。
+  ~~**警告**：已经很长时间没有更新了。~~好像有人想接手项目，让我们静观其变。
 
   安卓（不一定）最佳IRC客户端，有用IRC的老伙伴估计也已经知道了。界面整洁，功能全面。可以在后台一直保持连接。
 
