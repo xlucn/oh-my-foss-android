@@ -651,6 +651,20 @@
 
   质感设计风格的动态壁纸，具有自动暗色模式和省电动画等特点。喜欢抽象、简约风格的可以试一试。
 
+#### 语音助手
+
+- [Dicio assistant](https://github.com/Stypox/dicio-android)
+  [[F-Droid](https://f-droid.org/en/packages/org.stypox.dicio/)]
+
+  [RHVoice](https://github.com/RHVoice/RHVoice)
+  [[F-Droid](https://f-droid.org/en/packages/com.github.olga_yakovleva.rhvoice.android/)]
+
+  极其简陋、功能不强的语音助手。先给大家泼冷水，以免误会。
+
+  只有基本的功能，如打开软件、询问天气、简单计算、打电话等等。问题是对中文的支持还没有设置，但不难，需要用配置文件描述触发问题的语句是什么样的，需要提交到官方代码中去。总之，还是不要寄予太高期望，我只是觉得有就值得提一下。
+
+  如果需要听它出声音，还要安装RHVoice，否则的话只能显示文字。
+
 ### 极客工具
 
 我并不想分一个“开发类”，这里的软件并不是面向开发者的，而是喜欢折腾的用户。这也符合最开始制订的”受众广泛“要求。
