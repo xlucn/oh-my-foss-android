@@ -383,7 +383,10 @@
 - [Saber](https://github.com/adil192/saber)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.adilhanney.saber)]
 
-  不多见的开源手写笔记软件。我没有安卓平板，不知道实际体验如何。
+  不多见的开源手写笔记软件。~~我没有安卓平板，不知道实际体验如何。~~
+  我在两个安卓设备上体验了：一个装了LineageOS 18的三星Note 4（即第三方系统 + 第三方软件），另一个是官方系统的三星Tab A 9.7。
+  和原装系统下的自带笔记相比，延迟差不多（但本来就很高）,也支持压感。
+  想在纯开源的环境下体验手写笔记，在目前Saber是一个很不错的选择。
 
 #### 文档
 
