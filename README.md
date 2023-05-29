@@ -898,6 +898,12 @@
 
   连字成词的单词拼写游戏，对词汇量要求高，否则心态容易崩。
 
+- [Open Golf](https://github.com/mgerdes/Open-Golf)
+  [[F-Droid](https://f-droid.org/en/packages/me.mgerdes.open_golf/)]
+
+  一个小的高尔夫球游戏，用滑动控制力度方向，让球经历复杂地形进洞。但是关卡太少了。
+
+
 #### 棋类
 
 - [Lichess](https://github.com/lichess-org/lichobile)
