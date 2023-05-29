@@ -883,6 +883,11 @@
 
   但这个不是完全开源，它可以连接非开源的服务器，（可选择？）上传游戏全程操作，和登录谷歌账号进行同步。
 
+- [Puzzles](https://github.com/chrisboyle/sgtpuzzles)
+  [[F-Droid](https://f-droid.org/en/packages/name.boyle.chris.sgtpuzzles/)]
+
+  40款益智小游戏合集，包含扫雷等，想费一费脑细胞的可以试试。
+
 - [Forkyz](https://github.com/yourealwaysbe/forkyz)
   [[F-Droid](https://f-droid.org/en/packages/app.crossword.yourealwaysbe.forkyz/)]
 
@@ -893,15 +898,20 @@
 
   连字成词的单词拼写游戏，对词汇量要求高，否则心态容易崩。
 
+#### 棋类
+
 - [Lichess](https://github.com/lichess-org/lichobile)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.lichess.mobileapp)]
 
   在线国际象棋对弈应用。这方面真的希望国内做出一些比较开放的棋类对弈平台，给开源应用提供一些可能性。
 
-- [Puzzles](https://github.com/chrisboyle/sgtpuzzles)
-  [[F-Droid](https://f-droid.org/en/packages/name.boyle.chris.sgtpuzzles/)]
+- [Gobandroid](https://github.com/ligi/gobandroid)
+  [[F-Droid](https://f-droid.org/en/packages/org.ligi.gobandroid_hd/)]
 
-  40款益智小游戏合集，包含扫雷等，想费一费脑细胞的可以试试。
+  [gobandroid ai gnugo](https://github.com/ligi/gobandroid-ai-gnugo)
+  [[F-Droid](https://f-droid.org/en/packages/org.ligi.gobandroidhd.ai.gnugo/)]
+
+  围棋软件。第一个是围棋棋盘应用，第二个提供了围棋引擎gnugo，可以让你与电脑对弈。Gnugo棋力貌似可以达到3k，初学者是完全够用的（但手机处理器肯定会拉低很多）。
 
 #### 塔防
 
