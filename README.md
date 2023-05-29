@@ -883,6 +883,16 @@
 
   但这个不是完全开源，它可以连接非开源的服务器，（可选择？）上传游戏全程操作，和登录谷歌账号进行同步。
 
+- [Forkyz](https://github.com/yourealwaysbe/forkyz)
+  [[F-Droid](https://f-droid.org/en/packages/app.crossword.yourealwaysbe.forkyz/)]
+
+  纵横字谜。但是全是英文的，并且多是那种你没在英语文化中长大就看不懂的提示词。不推荐，只是展示有这么个游戏。
+
+- [Lexica](https://github.com/lexica/lexica)
+  [[F-Droid](https://f-droid.org/en/packages/com.serwylo.lexica/)]
+
+  连字成词的单词拼写游戏，对词汇量要求高，否则心态容易崩。
+
 - [Lichess](https://github.com/lichess-org/lichobile)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.lichess.mobileapp)]
 
