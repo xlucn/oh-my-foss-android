@@ -638,6 +638,13 @@
 
   系统清理软件。这个并不是很强大，它只负责清理日志（Log）、临时文件（Temporary）和空文件夹（Empty）。但是聊胜于无。
 
+- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
+  [[IzzyOnDroid]https://apt.izzysoft.de/fdroid/index/apk/eu.darken.sdmse)
+
+  估计很多人都用过SD Maid，这个是其作者为更高安卓版本重新开发的开源版本。SE是什么意思作者也[没有给出解释](https://github.com/d4rken-org/sdmaid-se/wiki/FAQ#what-does-the-se-in-sd-maid-se-stand-for)，或可解读为第二版Second Edition。
+
+  目前版本有各种系统清理选项，还有存储占用分析。已经基本可以替代原版本了。
+
 #### 传感器
 
 - [Phyphox](https://github.com/phyphox/phyphox-android)
