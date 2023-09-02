@@ -661,6 +661,13 @@
 
   质感设计风格的动态壁纸，具有自动暗色模式和省电动画等特点。喜欢抽象、简约风格的可以试一试。
 
+#### 系统信息
+
+- [CPU Info](https://github.com/kamgurgul/cpu-info)
+  [[F-Droid](https://f-droid.org/en/packages/com.kgurgul.cpuinfo/)]
+
+  展示系统软硬件信息，如CPU核心频率等，但并不全面。
+
 #### 语音助手
 
 - [Dicio assistant](https://github.com/Stypox/dicio-android)
