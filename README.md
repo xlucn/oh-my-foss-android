@@ -321,7 +321,15 @@
 - [几何天气](https://github.com/WangDaYeeeeee/GeometricWeather)
   [[F-Droid](https://f-droid.org/en/packages/wangdaye.com.geometricweather/)]
 
-  用过最好的天气软件之一，媲美很多国内安卓系统的自带天气。
+  开发已经停滞，建议使用下面的Breezy Weather。
+
+  用过最好的天气软件之一，媲美很多国内安卓系统的自带天气软件。
+
+- [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.breezyweather)]
+
+  基于几何天气的另一款天气软件，因为几何天气维护停滞，Breezy Weather应运而生，
+  增加了新的功能、提供商，修复了一些bug。整体上，就是一款更好的几何天气。
 
 - [Pluvia Weather](https://github.com/SpicyChair/pluvia_weather_flutter)
   [[F-Droid](https://f-droid.org/en/packages/com.spicychair.weather/)]
