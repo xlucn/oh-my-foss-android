@@ -153,6 +153,25 @@
 
   管理自己看过的电视剧，数据来自TMDB，功能上比较单一，更推荐上边的Showly。
 
+#### BT客户端
+
+这里是一些BT软件的远程客户端，并不是直接在安卓手机上进行BT下载的客户端。
+
+- [qbitcontroller](https://github.com/Bartuzen/qBitController)
+  [[F-Droid](https://f-droid.org/en/packages/dev.bartuzen.qbitcontroller)]
+
+  Qbittorrent的远程控制软件。
+
+- [Tremotesf](https://github.com/equeim/tremotesf-android)
+  [[F-Droid](https://f-droid.org/repository/browse/?fdid=org.equeim.tremotesf)]
+
+  Transmission的远程控制软件。
+
+- [Transmissionic](https://github.com/6c65726f79/Transmissionic)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.sleroy.transmissionic)]
+
+  另一款Transmission的远程控制软件。
+
 ### 多媒体
 
 #### 视频播放器
