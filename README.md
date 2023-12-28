@@ -598,13 +598,13 @@
 #### 电话录音
 
 就我目前简单的调查所知，以Lineage OS为例，系统中没有自动通话录音功能。
-目前在Lineage OS中，只有在电话打通后才能手动开始录音。所以，这里列举一些可以开启自动录音的软件。
+只有在电话打通后才能手动开始录音。所以，这里列举一些可以开启自动录音的软件。
 
-一个有趣的事实：Lineage OS中，该录音功能按照不同国家的法律对电话录音的规定设置了显示与否。
+冷知识：Lineage OS中，录音功能按照不同国家的法律对电话录音的规定设置了与否启用。
 比如，在地区设置为我国，录音按钮就会显示；而设置在美国，则打电话的时候没有录音按钮。
 为此，Lineage团队（亦或是更早的开发者）调研了几乎每一个国家的法律，逐一做出了判断，
 相关源代码可见[这里](https://github.com/LineageOS/android_packages_apps_Dialer/blob/lineage-20.0/java/com/android/dialer/callrecord/res/xml/call_record_states.xml)。
-其中列举了针对所有国家地区决定开启这项功能与否的理由和所参考法律文件的链接，不可谓不用心。
+其中列举了针对所有国家地区决定开启这项功能与否的理由，并附所参考法律文件的链接，可谓用心良苦。
 
 - [BCR(Basic Call Recorder)](https://github.com/chenxiaolong/BCR)
 
@@ -617,8 +617,8 @@
 - [BCR-GUI](https://github.com/nicorac/bcr-gui)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.github.nicorac.bcrgui)]
 
-  上面BCR通话录音软件的录音查看软件。因为前者为了降低维护成本、专心做好通话录音工作，
-  开发者选择不制作查看管理录音的功能。因此，有人制作了配套的通话录音查看软件。
+  上面BCR通话录音软件的录音查看软件。因为BCR开发者为了降低维护成本、专心只做通话录音工作，
+  选择不制作录音管理的界面。因此，有人制作了配套的通话录音查看软件。
   作为Linux用户，我对这种决定表示完全理解。
 
 - [Call Recorder](https://gitlab.com/axet/android-call-recorder)
