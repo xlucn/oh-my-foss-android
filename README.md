@@ -417,12 +417,23 @@
 
 #### 文档
 
+- [OSS Document Scanner](https://github.com/Akylas/com.akylas.documentscanner)
+  [IzzyOnDroid](https://apt.izzysoft.de/packages/com.akylas.documentscanner)
+
+  文档扫描。之前只有下面的OpenScan做的不错，但是2023年底突然出现了一个更好的OSS Document Scanner。
+  这个软件具有正常的拍照导入或图片导入文档的功能，可以自由地（再次）裁切、调整顺序、20+种颜色滤镜。
+  并且，身为颜值党，我很喜欢这个按照质感设计绘制的界面。
+
+  整体上看，要比OpenScan好很多。当然这个软件目前正处于初期快速迭代的阶段，后续肯定还会有更多的功能实现和bug修复。我贡献了很粗糙的中文翻译，应该会在接下来1、2个版本加入。
+
 - [OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ethereal.openscan)]
 
   文档扫描。和大家想的一样，可以拍照、裁切、再合成一个文档，可以导出为PDF。功能完整，比如有再次裁切（只能再切小）、调整顺序、颜色优化（灰阶或黑白）、分享等等。
 
   相比之下，我试过的其它开源扫描软件就太差了，上面功能大量缺失，我觉得缺一不可。
+
+  更新：推荐使用上面的OSS Document Scanner。
 
 - [Pdf Viewer Plus](https://github.com/JavaCafe01/PdfViewer)
   [[F-Droid](https://f-droid.org/en/packages/me.zhanghai.android.files)]
