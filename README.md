@@ -68,6 +68,8 @@
   [[F-Droid](https://f-droid.org/en/packages/com.aurora.adroid)]
   [[网站](https://auroraoss.com/)]
 
+  2023.12注：有点慌，2年不更新了。
+
   F-Droid第三方客户端，有root的话可以一键更新/安装。
 
 #### 谷歌商店第三方客户端
@@ -104,7 +106,7 @@
 
 这类软件没有自带内容或既定来源，用户自行加入“源”获取在线内容。
 
-- [Feeder](https://gitlab.com/spacecowboy/Feeder)
+- [Feeder](https://github.com/spacecowboy/Feeder)
   [[F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer/)]
 
   RSS订阅软件，这类软件没有太令我满意的，这个就算比较好的了。
@@ -361,10 +363,10 @@
 
 #### 小工具
 
-- [Ruler](https://github.com/congshengwu/Ruler)
+- ~~[Ruler](https://github.com/congshengwu/Ruler)~~
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ruler.csw)]
 
-  **警告**：源代码貌似没了。
+  **警告**：源代码貌似没了。彻底不算开源软件了。
 
   很简单的屏幕直尺，默认可能有误差，但好在可以校准，没准什么时候可以应急。
 
@@ -496,6 +498,8 @@
 
 - [Sky Map](https://github.com/sky-map-team/stardroid)
   [[F-Droid](https://f-droid.org/en/packages/com.google.android.stardroid/)]
+
+  2023.12注：更新减缓，推荐用Stellarium，虽然没有经过F-Droid/IzzyOnDroid发布，但也算是开源吧。
 
   星图软件，让你上知天文。借助重力感应，把手机指向天空就可以方便对照天上的星是什么名字。当然其他功能就不多了。
 
@@ -648,7 +652,7 @@
 
   password store本身只是一个小脚本，调用git管理gpg加密的密码文件，这个安卓版也是类似。因而可以选择GitHub私人仓库+password store的超轻量开源方案，而非托管在统一的服务器上，这很Unix。
 
-- [andOTP](https://github.com/andOTP/andOTP)
+- ~~[andOTP](https://github.com/andOTP/andOTP)~~
   [[F-Droid](https://f-droid.org/en/packages/org.shadowice.flocke.andotp/)]
 
   **警告**：已不再维护。
@@ -819,6 +823,8 @@
 - [GitFox](https://gitlab.com/terrakok/gitlab-client)
   [[F-Droid](https://f-droid.org/en/packages/com.gitlab.terrakok.gitfox/)]
 
+  2023.12注：近2年没有更新代码。
+
   GitLab客户端，有点简洁，功能不多。GitLab可以自主搭建服务器，因此支持登录其他服务器。
 
 - [GitTouch](https://github.com/git-touch/git-touch)
@@ -863,7 +869,7 @@
 - [Revolution IRC](https://github.com/MCMrARM/revolution-irc)
   [[F-Droid](https://f-droid.org/en/packages/io.mrarm.irc/)]
 
-  ~~**警告**：已经很长时间没有更新了。~~好像有人想接手项目，让我们静观其变。
+  ~~**警告**：已经很长时间没有更新了。~~ 好像有人想接手项目，让我们静观其变。
 
   安卓（不一定）最佳IRC客户端，有用IRC的老伙伴估计也已经知道了。界面整洁，功能全面。可以在后台一直保持连接。
 
@@ -914,6 +920,7 @@
 
 - [Hendroid](https://github.com/Nonononoki/Hendroid)
   [[F-Droid](https://f-droid.org/en/packages/org.nonononoki.hendroid/)]
+- [Hentoid](https://github.com/avluis/Hentoid)
 
   奇怪漫画网站的客户端，可以下载漫画
 
@@ -973,7 +980,7 @@
 
   40款益智小游戏合集，包含扫雷等，想费一费脑细胞的可以试试。
 
-- [Forkyz](https://github.com/yourealwaysbe/forkyz)
+- [Forkyz](https://gitlab.com/Hague/forkyz)
   [[F-Droid](https://f-droid.org/en/packages/app.crossword.yourealwaysbe.forkyz/)]
 
   纵横字谜。但是全是英文的，并且多是那种你没在英语文化中长大就看不懂的提示词。不推荐，只是展示有这么个游戏。
