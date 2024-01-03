@@ -209,7 +209,9 @@
 - [Vinyl](https://github.com/AdrienPoupa/VinylMusicPlayer)
   [[F-Droid](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/)]
 
-  很轻量且干净的音乐播放器。可能是开发难度低，F-Droid上太多音乐软件了。搜"music"关键词，最近更新的都比较好，恕不一一列举。基于[Phonograph](https://github.com/kabouzeid/Phonograph)，后者很早停止维护了，但是却是很经典的质感设计音乐播放器，值得怀念。
+  很轻量且干净的音乐播放器，众多Phonograph变体中唯一具有透明Widget的播放器。
+
+  可能是开发难度低，F-Droid上太多音乐软件了。搜"music"关键词，最近更新的都比较好，恕不一一列举。基于[Phonograph](https://github.com/kabouzeid/Phonograph)，后者很早停止维护了，但是却是很经典的质感设计音乐播放器，值得怀念。
 
   列表最后面有个lineage OS自带音乐播放器，和这个超级像，更加精简。
 
