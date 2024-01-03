@@ -41,7 +41,7 @@
   F-Droid官方客户端。虽是正统，但功能和界面并不是最好的，没什么值得表扬的。
 
 - [F-Droid Basic](https://gitlab.com/fdroid/fdroidclient)
-  [[F-Droid Basic](https://f-droid.org/packages/org.fdroid.basic)]
+  [[F-Droid](https://f-droid.org/packages/org.fdroid.basic)]
 
   F-Droid官方客户端。针对 Android 13 + ，无需特权或root即可进行静默更新。
  
