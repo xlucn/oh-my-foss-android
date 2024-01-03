@@ -551,6 +551,12 @@
 
   文件同步/网盘客户端。是国内开发的，需要自己搭服务器。我们学校用它做了一个box，访问起来很方便：）
 
+- [Syncthing](https://github.com/syncthing/syncthing-android)
+  [[F-Droid](https://f-droid.org/packages/com.nutomic.syncthingandroid/)]
+  [[网站](https://syncthing.net/)]
+  
+  文件夹同步软件，可仅局域网使用。和KDE Connect有同样的缺点，保活做得不是很好，比KDE更差，连上WIFI后不能自动与PC桌面服务连接。个人解决方案是连接WIFI后使用Tasker自动打开软件一次。
+
 #### 文件加密
 
 - [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS)
