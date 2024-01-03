@@ -530,6 +530,12 @@
 
   文件管理器，非常漂亮，基本的功能都有。
 
+- [Ghost Commander](https://sourceforge.net/p/ghostcommander/svn/HEAD/tree/)
+  [[F-Droid](https://f-droid.org/packages/com.ghostsq.commander/)]
+  [[网站](https://sites.google.com/site/ghostcommander1)]
+
+  双面板文件管理器，界面没有质感文件现代化，但也有自己的特色。
+ 
 - [Disk Usage](https://github.com/IvanVolosyuk/diskusage)
   [[F-Droid](https://f-droid.org/en/packages/com.google.android.diskusage/)]
 
