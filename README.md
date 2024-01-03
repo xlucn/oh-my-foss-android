@@ -557,6 +557,23 @@
   
   文件夹同步软件，可仅局域网使用。和KDE Connect有同样的缺点，保活做得不是很好，比KDE更差，连上WIFI后不能自动与PC桌面服务连接。个人解决方案是连接WIFI后使用Tasker自动打开软件一次。
 
+#### 文件分享
+
+- [open2share](https://github.com/linesoft2/open2share)
+  [[F-Droid](https://f-droid.org/packages/top.linesoft.open2share/)]
+
+  这是一款可以将打开文件(open, ACTION_VIEW)转换为分享文件(share, ACTION_SEND)的Android小工具。用于解决某些App因为一己之私而不提供分享文件功能导致的各种不便（如某讯的两大社交App）。
+
+- [Save a copy](https://github.com/RikkaApps/SaveCopy)
+  [[Izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/app.rikka.savecopy)]
+
+  在打开方式和分享菜单中加入储存副本选项。示例：应用内更新时，可选择此选项而不是直接安装，可不授予应用安装权限且保留安装包并手动在文件管理器中安装。
+
+- [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD)
+  [[F-Droid](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif/)]
+
+  在分享图片前，从图片中删除Exif信息。
+
 #### 文件加密
 
 - [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS)
