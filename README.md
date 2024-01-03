@@ -925,6 +925,11 @@
 
   注重隐私的YouTube客户端，不能登陆，只能看，不过非常好用
 
+- [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
+  [[F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/)]
+  
+  基于Newpipe，同时可以观看其他视频站如bilibili/niconico，bilibili无需登录即可1080，不过BUG不少，比如打不开space.bilibili.com分享链接，个人主页空白等等。
+
 - [Fritter](https://github.com/jonjomckay/fritter)
   [[F-Droid](https://f-droid.org/en/packages/com.jonjomckay.fritter/)]
 
