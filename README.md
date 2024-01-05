@@ -8,7 +8,7 @@
   [Github主仓库](https://github.com/oliverlew/oh-my-foss-android)，
   [Gitee同步仓库](https://gitee.com/lewinat0r/oh-my-foss-android)。
 - **特点**：强调使用体验，希望读者能更好地提前了解软件的特点。
-- **推荐**：软件推荐，欢迎提交issue或PR。
+- **推荐**：软件推荐，欢迎提交issue或PR。他人贡献并且我没有使用过的条目会标注`*`。
 - **历史**：软件增删等变更请查看git提交历史。
 - **版权**：本文遵循[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)版权协议发表。如需转载等，无需征得同意，只需要符合协议要求。例如，该版权要求只能以相同许可协议传播（SA）、需要明确说明作者和来源（BY）。版权声明见文末。
 
@@ -41,10 +41,10 @@
   F-Droid官方客户端。虽是正统，但功能和界面并不是最好的，没什么值得表扬的。
 
 - [F-Droid Basic](https://gitlab.com/fdroid/fdroidclient)
-  [[F-Droid](https://f-droid.org/packages/org.fdroid.basic)]
+  [[F-Droid](https://f-droid.org/packages/org.fdroid.basic)]\*
 
-  F-Droid官方客户端。针对 Android 13 + ，无需特权或root即可进行静默更新。
- 
+  F-Droid官方客户端。在Android 13及以上无需特权或root即可进行静默更新。
+
 - [Neo-Store](https://github.com/NeoApplications/Neo-Store)
   [[F-Droid](https://f-droid.org/en/packages/com.machiav3lli.fdroid)]
 
@@ -534,10 +534,10 @@
 
 - [Ghost Commander](https://sourceforge.net/p/ghostcommander/svn/HEAD/tree/)
   [[F-Droid](https://f-droid.org/packages/com.ghostsq.commander/)]
-  [[网站](https://sites.google.com/site/ghostcommander1)]
+  [[网站](https://sites.google.com/site/ghostcommander1)]\*
 
-  双面板文件管理器，界面没有质感文件现代化，但也有自己的特色。
- 
+  双面板文件管理器。灵感源于两大经典软件：DOS下的Norton Commander和Linux下的Midnight Commander。界面没有跟进质感设计的风格，但也有自己的特色。
+
 - [Disk Usage](https://github.com/IvanVolosyuk/diskusage)
   [[F-Droid](https://f-droid.org/en/packages/com.google.android.diskusage/)]
 
@@ -555,8 +555,8 @@
 
 - [Syncthing](https://github.com/syncthing/syncthing-android)
   [[F-Droid](https://f-droid.org/packages/com.nutomic.syncthingandroid/)]
-  [[网站](https://syncthing.net/)]
-  
+  [[网站](https://syncthing.net/)]\*
+
   文件夹同步软件，可仅局域网使用。和KDE Connect有同样的缺点，保活做得不是很好，比KDE更差，连上WIFI后不能自动与PC桌面服务连接。个人解决方案是连接WIFI后使用Tasker自动打开软件一次。
 
 #### 文件分享
@@ -564,17 +564,17 @@
 - [open2share](https://github.com/linesoft2/open2share)
   [[F-Droid](https://f-droid.org/packages/top.linesoft.open2share/)]
 
-  这是一款可以将打开文件(open, ACTION_VIEW)转换为分享文件(share, ACTION_SEND)的Android小工具。用于解决某些App因为一己之私而不提供分享文件功能导致的各种不便（如某讯的两大社交App）。
+  这是一款可以将“打开文件”转换为“分享文件”的Android小工具。用于解决某些App（读作weixin）因为一己之私而不接入系统文件分享功能导致的各种不便。
 
 - [Save a copy](https://github.com/RikkaApps/SaveCopy)
-  [[Izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/app.rikka.savecopy)]
+  [[Izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/app.rikka.savecopy)]\*
 
   在打开方式和分享菜单中加入储存副本选项。示例：应用内更新时，可选择此选项而不是直接安装，可不授予应用安装权限且保留安装包并手动在文件管理器中安装。
 
 - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD)
-  [[F-Droid](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif/)]
+  [[F-Droid](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif/)]\*
 
-  在分享图片前，从图片中删除Exif信息。
+  在分享图片前，从图片中删除如设备、日期、地点等Exif信息。
 
 #### 文件加密
 
@@ -945,9 +945,9 @@
   注重隐私的YouTube客户端，不能登陆，只能看，不过非常好用
 
 - [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
-  [[F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/)]
-  
-  基于Newpipe，同时可以观看其他视频站如bilibili/niconico，bilibili无需登录即可1080，不过BUG不少，比如打不开space.bilibili.com分享链接，个人主页空白等等。
+  [[F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/)]\*
+
+  基于Newpipe，同时可以观看其他视频站如bilibili/niconico，bilibili无需登录即可播放1080p视频。不过Bug不少，比如打不开space.bilibili.com分享链接，个人主页空白等等。
 
 - [Fritter](https://github.com/jonjomckay/fritter)
   [[F-Droid](https://f-droid.org/en/packages/com.jonjomckay.fritter/)]
