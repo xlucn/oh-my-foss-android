@@ -40,6 +40,11 @@
 
   F-Droid官方客户端。虽是正统，但功能和界面并不是最好的，没什么值得表扬的。
 
+- [F-Droid Basic](https://gitlab.com/fdroid/fdroidclient)
+  [[F-Droid](https://f-droid.org/packages/org.fdroid.basic)]
+
+  F-Droid官方客户端。针对 Android 13 + ，无需特权或root即可进行静默更新。
+ 
 - [Neo-Store](https://github.com/NeoApplications/Neo-Store)
   [[F-Droid](https://f-droid.org/en/packages/com.machiav3lli.fdroid)]
 
@@ -204,7 +209,9 @@
 - [Vinyl](https://github.com/AdrienPoupa/VinylMusicPlayer)
   [[F-Droid](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/)]
 
-  很轻量且干净的音乐播放器。可能是开发难度低，F-Droid上太多音乐软件了。搜"music"关键词，最近更新的都比较好，恕不一一列举。基于[Phonograph](https://github.com/kabouzeid/Phonograph)，后者很早停止维护了，但是却是很经典的质感设计音乐播放器，值得怀念。
+  很轻量且干净的音乐播放器，众多Phonograph变体中唯一具有透明Widget的播放器。
+
+  可能是开发难度低，F-Droid上太多音乐软件了。搜"music"关键词，最近更新的都比较好，恕不一一列举。基于[Phonograph](https://github.com/kabouzeid/Phonograph)，后者很早停止维护了，但是却是很经典的质感设计音乐播放器，值得怀念。
 
   列表最后面有个lineage OS自带音乐播放器，和这个超级像，更加精简。
 
@@ -525,6 +532,12 @@
 
   文件管理器，非常漂亮，基本的功能都有。
 
+- [Ghost Commander](https://sourceforge.net/p/ghostcommander/svn/HEAD/tree/)
+  [[F-Droid](https://f-droid.org/packages/com.ghostsq.commander/)]
+  [[网站](https://sites.google.com/site/ghostcommander1)]
+
+  双面板文件管理器，界面没有质感文件现代化，但也有自己的特色。
+ 
 - [Disk Usage](https://github.com/IvanVolosyuk/diskusage)
   [[F-Droid](https://f-droid.org/en/packages/com.google.android.diskusage/)]
 
@@ -539,6 +552,29 @@
   [[网站](https://www.seafile.com/home/)]
 
   文件同步/网盘客户端。是国内开发的，需要自己搭服务器。我们学校用它做了一个box，访问起来很方便：）
+
+- [Syncthing](https://github.com/syncthing/syncthing-android)
+  [[F-Droid](https://f-droid.org/packages/com.nutomic.syncthingandroid/)]
+  [[网站](https://syncthing.net/)]
+  
+  文件夹同步软件，可仅局域网使用。和KDE Connect有同样的缺点，保活做得不是很好，比KDE更差，连上WIFI后不能自动与PC桌面服务连接。个人解决方案是连接WIFI后使用Tasker自动打开软件一次。
+
+#### 文件分享
+
+- [open2share](https://github.com/linesoft2/open2share)
+  [[F-Droid](https://f-droid.org/packages/top.linesoft.open2share/)]
+
+  这是一款可以将打开文件(open, ACTION_VIEW)转换为分享文件(share, ACTION_SEND)的Android小工具。用于解决某些App因为一己之私而不提供分享文件功能导致的各种不便（如某讯的两大社交App）。
+
+- [Save a copy](https://github.com/RikkaApps/SaveCopy)
+  [[Izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/app.rikka.savecopy)]
+
+  在打开方式和分享菜单中加入储存副本选项。示例：应用内更新时，可选择此选项而不是直接安装，可不授予应用安装权限且保留安装包并手动在文件管理器中安装。
+
+- [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD)
+  [[F-Droid](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif/)]
+
+  在分享图片前，从图片中删除Exif信息。
 
 #### 文件加密
 
@@ -907,6 +943,11 @@
   [[网站](https://newpipe.net/)]
 
   注重隐私的YouTube客户端，不能登陆，只能看，不过非常好用
+
+- [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
+  [[F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/)]
+  
+  基于Newpipe，同时可以观看其他视频站如bilibili/niconico，bilibili无需登录即可1080，不过BUG不少，比如打不开space.bilibili.com分享链接，个人主页空白等等。
 
 - [Fritter](https://github.com/jonjomckay/fritter)
   [[F-Droid](https://f-droid.org/en/packages/com.jonjomckay.fritter/)]
