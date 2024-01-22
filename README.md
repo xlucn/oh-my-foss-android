@@ -561,6 +561,13 @@
 
 #### 文件分享
 
+- [localsend](https://github.com/localsend/localsend/)
+  [[F-droid](https://f-droid.org/packages/org.localsend.localsend_app)]
+
+  官方自己介绍为“开源、跨平台的AirDrop替代”，可以在局域网内多设备间传递文件。软件会自动搜索局域网内就绪的其他设备，一触即发，无需互联网连接，也无需账号或者提前配对等操作。可以分享文件、文件夹、文本、剪贴板、应用apk等，基本没有限制。
+
+  对于Linux用户来讲，竞争对手就是KDE Connect这类通过配对连接并分享文件的方案了。相比之下，我更喜欢localsend的操作简洁。当然，KDE Connect还有通知同步、远程输入等其他功能，也是相当强大和良心的软件。
+
 - [open2share](https://github.com/linesoft2/open2share)
   [[F-Droid](https://f-droid.org/packages/top.linesoft.open2share/)]
 
