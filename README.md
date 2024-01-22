@@ -5,7 +5,7 @@
 ## 基本信息
 
 - **仓库**：
-  [Github主仓库](https://github.com/oliverlew/oh-my-foss-android)，
+  [Github主仓库](https://github.com/xlucn/oh-my-foss-android)，
   [Gitee同步仓库](https://gitee.com/lewinat0r/oh-my-foss-android)。
 - **特点**：强调使用体验，希望读者能更好地提前了解软件的特点。
 - **推荐**：软件推荐，欢迎提交issue或PR。他人贡献并且我没有使用过的条目会标注`*`。
@@ -577,7 +577,7 @@
 - [open2share](https://github.com/linesoft2/open2share)
   [[F-Droid](https://f-droid.org/packages/top.linesoft.open2share/)]
 
-  这是一款可以将“打开文件”转换为“分享文件”的Android小工具。用于解决某些App（读作weixin）因为一己之私而不接入系统文件分享功能导致的各种不便。
+  这是一款可以将“打开文件”转换为“分享文件”的Android小工具。用于解决某些App（读作weixin）不接入系统文件分享功能导致的各种不便。（不过，在wx多选界面点击右下角的邮件小图标，确实是有系统分享的，但不清楚是不是覆盖了所有情形，大家可以试一试）
 
 - [Save a copy](https://github.com/RikkaApps/SaveCopy)
   [[Izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/app.rikka.savecopy)]\*
@@ -1037,7 +1037,7 @@
 - [Forkyz](https://gitlab.com/Hague/forkyz)
   [[F-Droid](https://f-droid.org/en/packages/app.crossword.yourealwaysbe.forkyz/)]
 
-  纵横字谜。但是全是英文的，并且多是那种你没在英语文化中长大就看不懂的提示词。不推荐，只是展示有这么个游戏。
+  纵横字谜。但是全是英文的，并且提示词都是那种没在英语文化中长大就看不懂的梗。不推荐，只是展示有这么个游戏。
 
 - [Lexica](https://github.com/lexica/lexica)
   [[F-Droid](https://f-droid.org/en/packages/com.serwylo.lexica/)]
@@ -1071,14 +1071,14 @@
   [[F-Droid](https://f-droid.org/en/packages/io.anuke.mindustry/)]
   [[网站](https://anuke.itch.io/mindustry)]
 
-  非常精良的塔防游戏。Mindustry比一般的塔防要复杂，比如要采各种矿、建立资源运输管道供给防御工事、开发科技树，敌人自由走动。有点像即时策略了（好像就是），可玩性max。
+  非常精良的塔防游戏。Mindustry比一般的塔防要复杂，比如要采各种矿、建立资源运输管道供给防御工事、开发科技树，敌人自由走动。有点像即时策略RTS了（好像就是），可玩性max。
 
-  注：目前由于F-Droid服务器编译环境不兼容，软件版本卡在了主版本5。
+  没事了，已经更新了~~注：目前由于F-Droid服务器编译环境不兼容，软件版本卡在了主版本5。~~
 
 - [Anuto TD](https://github.com/reloZid/android-anuto)
   [[F-Droid](https://f-droid.org/en/packages/ch.logixisland.anuto/)]
 
-  塔防游戏，界面元素都是作者手画的，作者自认为很丑，因而得名。游戏并不是很优秀，单位比较少，画面粗糙，敌人多了加速会很卡。但是我一度很上瘾。
+  塔防游戏，界面元素都是作者手画的，作者自认为很丑，因而得名（ANother Ugly TOwer defense）。游戏并不是很优秀，单位比较少，画面粗糙，敌人多了再开加速会很卡。但是我一度很上瘾。
 
 #### 探险
 
@@ -1086,7 +1086,7 @@
   [[F-Droid](https://f-droid.org/en/packages/com.shatteredpixel.shatteredpixeldungeon/)]
   [[网站](https://shatteredpixel.com/)]
 
-  Roguelike类地牢探险游戏，自己玩过感觉有难度。画面是像素风格的，很精致。现在更新非常频繁，发布了1.0版本，质量有保证。
+  Roguelike类地牢探险游戏，一旦死就要重来，每次游戏都会随机生成场景，自己玩过感觉有难度。画面是像素风格的，很精致。现在更新非常频繁，发布了1.0版本，质量有保证。
 
 - [Andor's Trail](https://github.com/AndorsTrailRelease/andors-trail)
   [[F-Droid](https://f-droid.org/en/packages/xyz.deepdaikon.xeonjia/)]
@@ -1095,6 +1095,7 @@
   任务驱动的RPG游戏，就是那种升级加技能点买装备打怪兽的游戏。游戏其实还在持续完善，地图还没做完，所以有一部分故事线和任务都是断的。不过目前的部分已经可以玩几个星期了。还有问题是大部分对话是英文，中文翻译的很少。
 
   时隔好久，又看了一眼git仓库。你猜怎么着，它一小时前更新版本(v0.7.14)了，巧不巧！这个版本有很多人（包括我）更新的翻译，但是依然剩下59%的内容没有翻译。游戏里这些人话可真多。
+  （2023年或者更早的时候，有好多人把所有游戏内容都翻译了……上万的字符串啊，你们太牛了，给你们点赞）
 
 - [Xeonjia](https://gitlab.com/DeepDaikon/Xeonjia)
   [[F-Droid](https://f-droid.org/en/packages/xyz.deepdaikon.xeonjia/)]
@@ -1115,15 +1116,15 @@
   [[F-Droid](https://f-droid.org/en/packages/org.supertuxkart.stk/)]
   [[网站](https://supertuxkart.net/Main_Page)]
 
-  大名鼎鼎的开源赛车游戏。游戏画面是卡通风格，有很多的跑道、赛车和道具，多种游戏模式。很适合休闲时玩一玩。
+  大名鼎鼎的开源赛车游戏。游戏画面是卡通风格，有很多的跑道、赛车和道具，多种游戏模式。是开源游戏里体量很大的了。适合休闲时玩一玩。
 
 - [Pixel Wheels](https://github.com/agateau/pixelwheels)
   [[F-Droid](https://f-droid.org/en/packages/com.agateau.tinywheels.android/)]
   [[网站](https://agateau.com/projects/pixelwheels/)]
 
-  顶部视角的赛车游戏，像素风格，游戏节奏快。因为不是第一视角，感觉操作有点违反直觉啊，转弯程度不容易控制，但熟悉了之后还蛮好玩的。
+  顶部视角的赛车游戏，像素风格，游戏节奏快。因为不是第一视角，感觉操作有点违反直觉，转弯程度不容易控制，但熟悉了之后还蛮好玩的。
 
-  我贡献了中文翻译，不用谢。
+  我[建议开发者](https://github.com/agateau/pixelwheels/pull/143)使用了文件很小的子集字体，并贡献了中文翻译，不用谢。
 
 #### 策略
 
@@ -1162,6 +1163,6 @@
 
 ## 版权
 
-版权声明：本文为 [Lu Xu](https://github.com/OliverLew) 原创，依据 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可证进行授权，转载请附上出处链接及本声明。
+版权声明：本文为 [Lu Xu](https://github.com/xlucn) 原创，依据 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可证进行授权，转载请附上出处链接及本声明。
 
-原文链接：https://github.com/OliverLew/oh-my-foss-android
+原文链接：https://github.com/xlucn/oh-my-foss-android
