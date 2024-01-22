@@ -382,6 +382,12 @@
 
   指南针。
 
+- [Audio Spectrum Analyzer](https://github.com/woheller69/audio-analyzer-for-android)
+  [[F-Droid](https://f-droid.org/en/packages/org.woheller69.audio_analyzer_for_android/)]
+
+  声音频谱分析。
+
+
 ### 学习办公
 
 #### 办公套件
