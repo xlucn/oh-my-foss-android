@@ -344,6 +344,8 @@
 
   不错的天气软件，界面相当漂亮，但是使用的OpenWeatherMap貌似国内连接很慢，预报也不一定准确。
 
+  更新：早在2022年，F-Droid官方就以检测到GMS使用为由下架了这个软件，但是作者并未有意识地使用（见[相关issue](https://github.com/SpicyChair/pluvia_weather_flutter/issues/56)）。所以现在F-Droid上安装不了了。大家可自行判断，或者干脆使用上面的Breezy天气。
+
 #### 自我管理
 
 - [Tasks](https://github.com/tasks/tasks)
