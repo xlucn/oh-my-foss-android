@@ -112,7 +112,7 @@
 这类软件没有自带内容或既定来源，用户自行加入“源”获取在线内容。
 
 - [Feeder](https://github.com/spacecowboy/Feeder)
-  [[F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer/)]
+  [[F-Droid](https://f-droid.org/packages/com.nononsenseapps.feeder/)]
 
   RSS订阅软件，这类软件没有太令我满意的，这个就算比较好的了。
 
@@ -341,7 +341,6 @@
   增加了新的功能、提供商，修复了一些bug。整体上，就是一款更好的几何天气。
 
 - [Pluvia Weather](https://github.com/SpicyChair/pluvia_weather_flutter)
-  [[F-Droid](https://f-droid.org/en/packages/com.spicychair.weather/)]
 
   不错的天气软件，界面相当漂亮，但是使用的OpenWeatherMap貌似国内连接很慢，预报也不一定准确。
 
@@ -451,7 +450,7 @@
   更新：推荐使用上面的OSS Document Scanner。
 
 - [Pdf Viewer Plus](https://github.com/JavaCafe01/PdfViewer)
-  [[F-Droid](https://f-droid.org/en/packages/me.zhanghai.android.files)]
+  ~~[[F-Droid](https://f-droid.org/en/packages/com.gsnathan.pdfviewer)]~~
 
   **警告**：已停止开发，建议用下面的MJ PDF Reader。
 
@@ -611,7 +610,7 @@
 #### 输入法
 
 - [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
-  [[F-Droid](https://f-droid.org/en/packages/juloo.keyboard2/)
+  [[F-Droid](https://f-droid.org/en/packages/juloo.keyboard2/)]
 
   非常轻量的输入法（目前版本不到200kB），专为程序员、极客人群设计，终端搭配神器。在较常见的4行键位基础上，通过在每一个键向四个角滑动的操作，触发其他的按键。
 
@@ -641,21 +640,21 @@
 #### 下载管理
 
 - [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
-  [[F-Droid](https://www.seafile.com/home/)]
+  [[F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/)]
 
   功能强大的下载器，可以多段加速，分享下载链接就可以选择下载。
 
 #### 卫星定位
 
 - [GPSTest](https://github.com/barbeau/gpstest)
-  [[F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/)]
+  [[F-Droid](https://f-droid.org/en/packages/com.android.gpstest.osmdroid/)]
 
   显示GPS信息，非常丰富，可以看到五种全球定位系统的卫星位置、自己的经纬度、海拔还有速度等等。
 
 #### 备份
 
 - [Neo Backup](https://github.com/NeoApplications/Neo-Backup)
-  [[F-Droid](https://f-droid.org/en/packages/com.android.gpstest.osmdroid/)]
+  [[F-Droid](https://f-droid.org/en/packages/com.machiav3lli.backup/)]
 
   备份软件（之前名称为OAndBackupX），可以备份任何东西，需要root。
 
@@ -756,7 +755,7 @@
   系统清理软件。这个并不是很强大，它只负责清理日志（Log）、临时文件（Temporary）和空文件夹（Empty）。但是聊胜于无。
 
 - [SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
-  [[IzzyOnDroid]https://apt.izzysoft.de/fdroid/index/apk/eu.darken.sdmse)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.darken.sdmse)]
 
   估计很多人都用过SD Maid，这个是其作者为更高安卓版本重新开发的开源版本。SE是什么意思作者也[没有给出解释](https://github.com/d4rken-org/sdmaid-se/wiki/FAQ#what-does-the-se-in-sd-maid-se-stand-for)，或可解读为第二版Second Edition。
 
@@ -824,7 +823,7 @@
 #### 文本编辑
 
 - [Editor](https://github.com/billthefarmer/editor)
-  [[F-Droid](https://topjohnwu.github.io/Magisk/install.html)]
+  [[F-Droid](https://f-droid.org/packages/org.billthefarmer.editor/)]
 
   轻量的文本编辑器，很小很小的软件还有语法高亮，吹爆它。
 
@@ -1002,7 +1001,7 @@
   像素风格的纸牌游戏，很简单，只有这一种游戏，加进来是因为界面很精致。
 
 - [Apple Flinger](https://gitlab.com/ar-/apple-flinger)
-  [[F-Droid](https://f-droid.org/en/packages/ogz.tripeaks/)]
+  [[F-Droid](https://f-droid.org/packages/com.gitlab.ardash.appleflinger.android/)]
 
   类似愤怒的小鸟，画面很精致。但是关卡太少了，不过瘾，也不更新了。
 
@@ -1089,7 +1088,7 @@
   Roguelike类地牢探险游戏，一旦死就要重来，每次游戏都会随机生成场景，自己玩过感觉有难度。画面是像素风格的，很精致。现在更新非常频繁，发布了1.0版本，质量有保证。
 
 - [Andor's Trail](https://github.com/AndorsTrailRelease/andors-trail)
-  [[F-Droid](https://f-droid.org/en/packages/xyz.deepdaikon.xeonjia/)]
+  [[F-Droid](https://f-droid.org/packages/com.gpl.rpg.AndorsTrail/)]
   [[网站](https://andorstrail.com/)]
 
   任务驱动的RPG游戏，就是那种升级加技能点买装备打怪兽的游戏。游戏其实还在持续完善，地图还没做完，所以有一部分故事线和任务都是断的。不过目前的部分已经可以玩几个星期了。还有问题是大部分对话是英文，中文翻译的很少。
