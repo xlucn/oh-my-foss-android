@@ -378,6 +378,11 @@
 
   很简单的屏幕直尺，默认可能有误差，但好在可以校准，没准什么时候可以应急。
 
+- [Tape Measure](https://github.com/SecUSo/privacy-friendly-tape-measure)
+  [[F-Droid](https://f-droid.org/en/packages/org.secuso.privacyfriendlytapemeasure)]
+
+  另一个屏幕直尺（没跑路的那种）。实际上其主要功能为通过图片中的制定参考物测量其他物体长度，但远远没有苹果手机/平板上的那个功能方便好用。屏幕直尺的校准也不太好，需要你用另一个尺去量屏幕上的一条线，而不是用一张常见的卡片去校准。总之，设计上略显简陋和矛盾，但偶尔应急也没问题。
+
 - [Compass](https://github.com/Kr0oked/Compass)
   [[F-Droid](https://f-droid.org/en/packages/danielmeek32.compass)]
 
