@@ -148,6 +148,11 @@
 
   电子书下载与阅读。从一个固定的源下载电子书，都是一些经典书籍，一般是版权过期进入公共领域的书，很不错的软件。
 
+- [Read You](https://github.com/Ashinch/ReadYou)
+  [[F-Droid](https://f-droid.org/packages/me.ash.reader/)]
+
+  同 RSS 订阅软件。[Material You](https://m3.material.io/) 设计风格，支持多种订阅方式，定时同步订阅及提醒。
+
 #### 追剧管理
 
 - [Showly](https://github.com/michaldrabik/Showly-2.0)
@@ -392,7 +397,6 @@
   [[F-Droid](https://f-droid.org/en/packages/org.woheller69.audio_analyzer_for_android/)]
 
   声音频谱分析。
-
 
 ### 学习办公
 
