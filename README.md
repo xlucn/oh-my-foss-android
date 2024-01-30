@@ -398,6 +398,12 @@
 
   声音频谱分析。
 
+  - [Anywhere-](https://github.com/zhaobozhen/Anywhere-)
+  [[Guide](https://absinthe.life/Anywhere-Docs/guide/)]
+
+  快捷方式收集，将你常用的页面 (Activity) 收集到一个界面并保存，方便快速打开。
+
+
 ### 学习办公
 
 #### 办公套件
