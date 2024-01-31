@@ -149,7 +149,7 @@
   电子书下载与阅读。从一个固定的源下载电子书，都是一些经典书籍，一般是版权过期进入公共领域的书，很不错的软件。
 
 - [Read You](https://github.com/Ashinch/ReadYou)
-  [[F-Droid](https://f-droid.org/packages/me.ash.reader/)]
+  [[F-Droid](https://f-droid.org/packages/me.ash.reader/)]\*
 
   同 RSS 订阅软件。[Material You](https://m3.material.io/) 设计风格，支持多种订阅方式，定时同步订阅及提醒。
 
@@ -398,11 +398,12 @@
 
   声音频谱分析。
 
-  - [Anywhere-](https://github.com/zhaobozhen/Anywhere-)
-  [[Guide](https://absinthe.life/Anywhere-Docs/guide/)]
+- [Anywhere-](https://github.com/zhaobozhen/Anywhere-)
+  [[网站](https://absinthe.life/Anywhere-Docs/guide/)]\*
 
-  快捷方式收集，将你常用的页面 (Activity) 收集到一个界面并保存，方便快速打开。
+  快捷方式收集。将你常用的应用页面（Activity）收集到一个界面并保存，可以在无需经过应用主界面的情况下快速打开。这里页面可以是扫码页面，可以是签到页面，实际上可以是任意软件的几乎任意界面。可玩性高，看你有没有需求了。
 
+  这个软件没有上架F-Droid或Izzyondroid，在酷安也被下架了，截至添加本条目时只能在Github Releases或者谷歌商店下载到。
 
 ### 学习办公
 
