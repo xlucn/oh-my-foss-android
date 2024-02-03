@@ -1197,3 +1197,7 @@
 版权声明：本文为 [Lu Xu](https://github.com/xlucn) 原创，依据 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 许可证进行授权，转载请附上出处链接及本声明。
 
 原文链接：https://github.com/xlucn/oh-my-foss-android
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xlucn/oh-my-foss-android&type=Timeline)](https://star-history.com/#xlucn/oh-my-foss-android&Timeline)
