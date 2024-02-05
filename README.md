@@ -388,6 +388,11 @@
 
   另一个屏幕直尺（没跑路的那种）。实际上其主要功能为通过图片中的制定参考物测量其他物体长度，但远远没有苹果手机/平板上的那个功能方便好用。屏幕直尺的校准也不太好，需要你用另一个尺去量屏幕上的一条线，而不是用一张常见的卡片去校准。总之，设计上略显简陋和矛盾，但偶尔应急也没问题。
 
+- [GuessIron](https://github.com/mobeil1/GuessIron)
+  [[F-Droid](https://www.f-droid.org/zh/packages/de.indie42.guessiron/)]
+
+  更好的屏幕直尺（笑）。可以用另一个尺子、银行卡或者任意你知道长度的物体来校准。
+
 - [Compass](https://github.com/Kr0oked/Compass)
   [[F-Droid](https://f-droid.org/en/packages/danielmeek32.compass)]
 
