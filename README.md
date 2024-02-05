@@ -814,6 +814,11 @@
 
   质感设计风格的动态壁纸，具有自动暗色模式和省电动画等特点。喜欢抽象、简约风格的可以试一试。
 
+- [Iconify](https://github.com/Mahmud0808/Iconify)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.drdisagree.iconify)]
+
+  定制系统界面。不要被名字骗了，这个软件不仅可以改变图标，还可以修改很多系统界面的图标、颜色、形状和风格。如果用Linux的朋友，可以把这个软件所达到的自由度类比为GTK/Qt主题。
+
 #### 系统信息
 
 - [CPU Info](https://github.com/kamgurgul/cpu-info)
