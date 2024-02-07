@@ -278,12 +278,22 @@
 
 #### 相机
 
+- [Gcam Services Provider](https://github.com/lukaspieper/Gcam-Services-Provider)
+  [[F-Droid (Basic版)](https://f-droid.org/en/packages/de.lukaspieper.gcam.services/)]
+  [[Izzyondroid (Photos版)](https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.photos)]
+
+  这个本身不是相机软件，但安装后允许用户安装[Gcam](https://www.celsoazevedo.com/files/android/google-camera/links/)，即谷歌相机。谷歌相机有着其他开源相机软件无法比拟的图像优化，成像质量可以提升好几档。此外，还有夜景模式、全景模式、HDR+等很强大的功能。对照片质量敏感的朋友，就不要用下面那些软件了。当然，这个解决方案并不是开源的。如果你不在意的话，这算是最佳方案了。
+
+  （2024.02更新）后来才搞明白，这个软件有Basic和Photos两个版本。简单地说，如果系统上有Google Photos，就用Basic版；如果没有，就用Photos版。这样可以使用相机界面的“相册”按钮打开系统相册。相见[Izzyondroid页面](https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.photos)。
+
+  安装此软件后，大家可以到[Gcam的网站](https://www.celsoazevedo.com/files/android/google-camera/links/)寻找适配自己机型版本的Gcam和配置文件，简单安装即可。
+
 - Aperture
 
   Lineage OS 20 自带相机应用。相较之前自带的Snap（版本19之前）和AOSP原生相机（版本19），界面更加漂亮，功能更加丰富，可以说接近手机原系统中的相机应用了。
 
   有了这个（当然前提是你在用LineageOS），我自认为可以不再考虑下面几个开源方案。
-  此外，只有Gcam可以在功能和质量上好于Aperture，但与系统的集成却很差。不在乎成像质量的，使用这个自带应用就行。
+  此外，只有Gcam可以在功能和质量上好于Aperture，但与系统的集成却比较差。不在乎成像质量的，使用这个自带应用就行。
 
   之前的描述依然适用，复制如下：
 
@@ -308,13 +318,6 @@
   更新：这一段的问题应该已经解决，我尝试编译了最新的git仓库代码，没有长时间卡顿了，不过没有新版本发布。在此前，打开和切换界面都等数十秒长。有[一个issue](https://github.com/eszdman/PhotonCamera/issues/54)说它在扫描设备上所有的照片，不知是不是长时间不响应的原因。
 
   另外，这款软件可能不是默认支持所有设备的，但没找到它支持设备的条件（源代码里有支持列表）。
-
-- [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider)
-  [[F-Droid](https://f-droid.org/en/packages/de.lukaspieper.gcam.services/)]
-
-  这个本身不是相机软件，但安装后允许用户安装Gcam，即谷歌相机。也就是说，这个解决方案其实并不是开源的，不过却是最完美的。
-
-  大家可以到[Gcam的网站](https://www.celsoazevedo.com/files/android/google-camera/links/)寻找自己机型的适配版本和配置文件，简单安装即可。据我自己体验，Gcam的照片质量远超开源方案，可以说能补足第三方ROM最大的短板，完全可以考虑。
 
 ### 日常工具
 
