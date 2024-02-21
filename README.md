@@ -747,7 +747,7 @@
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX)
   [[F-Droid](https://f-droid.org/zh_Hans/packages/com.kunzisoft.keepass.libre/)]
 
-  Android 密码管理程序，与 [KeePass] 及其衍生程序兼容，稍加配置即可做到密码全平台同步，且支持 Material 3 设计语言，界面简洁美观。
+  Android 密码管理程序，与 [KeePass](https://keepass.info/) 及其衍生程序兼容，稍加配置即可做到密码全平台同步，且支持 Material 3 设计语言，界面简洁美观。
 
   提示：即使 KeePass 支持双重认证，也不应将密码与双重验证码放在一起，否则就失去了双重验证的意义，推荐使用下面的 AuthenticatorPro。
 
