@@ -744,6 +744,18 @@
 
   PGP锁钥管理，我是搭配password store使用，提供解锁密钥。此外还有很多软件可以使用它。
 
+- [KeePassDX](https://github.com/Kunzisoft/KeePassDX)
+  [[F-Droid](https://f-droid.org/zh_Hans/packages/com.kunzisoft.keepass.libre/)]
+
+  Android 密码管理程序，与 [KeePass] 及其衍生程序兼容，稍加配置即可做到密码全平台同步，且支持 Material 3 设计语言，界面简洁美观。
+
+  提示：即使 KeePass 支持双重认证，也不应将密码与双重验证码放在一起，否则就失去了双重验证的意义，推荐使用下面的 AuthenticatorPro。
+
+- [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro)
+  [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/me.jmh.authenticatorpro)
+
+  双重验证（2FA）软件，界面简洁美观，也支持 Wear OS 查看验证码。
+
 #### 电脑连接
 
 - [AN2Linux](https://github.com/rootkiwi/an2linuxclient)
