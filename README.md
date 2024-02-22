@@ -752,7 +752,7 @@
   提示：即使 KeePass 支持双重认证，也不应将密码与双重验证码放在一起，否则就失去了双重验证的意义，推荐使用下面的 AuthenticatorPro。
 
 - [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro)
-  [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/me.jmh.authenticatorpro)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/me.jmh.authenticatorpro)]
 
   双重验证（2FA）软件，界面简洁美观，也支持 Wear OS 查看验证码。
 
