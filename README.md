@@ -333,6 +333,12 @@
 
   OSM能做到的功能实际很多，国内地图能记录的信息OSM基本都可以，比如多层建筑、公交地铁线路，但要贡献者自己学会怎么编辑。
 
+- [Organic Maps](https://github.com/organicmaps/organicmaps)
+  [[F-Droid](https://f-droid.org/en/packages/app.organicmaps/)]
+  [[网站](https://organicmaps.app/)]
+
+  基于OpenStreetMap数据的离线地图软件，是 Maps.me 的开源复刻，主打给驴友们做路线规划。
+
 #### 天气
 
 - [几何天气](https://github.com/WangDaYeeeeee/GeometricWeather)
