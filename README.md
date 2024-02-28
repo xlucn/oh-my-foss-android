@@ -138,6 +138,12 @@
 
   电子书阅读软件。不提供内置书源，需要用户自行寻找后导入，提高了自由度，也让软件本身更加纯净。
 
+- [KOReader](https://github.com/koreader/koreader)
+  [[F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid/)]
+  [[网站](https://koreader.rocks/)]
+
+  适用于电纸书的著名阅读软件。
+
 - [Shosetsu(书)](https://gitlab.com/shosetsuorg/shosetsu)
   [[F-Droid](https://f-droid.org/packages/app.shosetsu.android.fdroid)]
 
