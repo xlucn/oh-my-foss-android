@@ -418,6 +418,11 @@
 
   指南针。
 
+- [Trail Sense](https://github.com/kylecorry31/Trail-Sense)
+  [[F-Droid](https://f-droid.org/packages/com.kylecorry.trail_sense/)]
+
+  野外生存应用，内置大量小工具。
+
 - [Audio Spectrum Analyzer](https://github.com/woheller69/audio-analyzer-for-android)
   [[F-Droid](https://f-droid.org/en/packages/org.woheller69.audio_analyzer_for_android/)]
 
