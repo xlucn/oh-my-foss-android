@@ -648,6 +648,11 @@
 
   在分享图片前，从图片中删除如设备、日期、地点等Exif信息。
 
+- [移除追踪](https://github.com/zhanghai/Untracker)
+  [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.untracker/)]\*
+
+  在分享链接前移除追踪信息。
+
 #### 文件加密
 
 - [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS)
