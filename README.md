@@ -241,6 +241,11 @@
 
   上方Retro的“破解版”，即解锁了高级功能，去除了谷歌服务，算是更加纯粹的开源版本。
 
+- [Vanilla Music](https://vanilla-music.github.io/)
+  [[F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla/)]
+
+  老牌音乐播放器，从Reddit上的反馈来看似乎是开源中为数不多对.opus文件支持较好的播放器。
+  
 - [Mpd](https://github.com/MusicPlayerDaemon/MPD/)
   [[F-Droid](https://f-droid.org/en/packages/org.musicpd/)]
 
