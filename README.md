@@ -89,7 +89,7 @@
 #### 其他
 
 - [Obtainium](https://github.com/ImranR98/Obtainium)
-  [[F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)]
+  [[F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)]\*
 
   一些应用未在任何应用商店内发布，通过此应用可跟踪其他托管平台上发布的应用。
 
@@ -140,7 +140,7 @@
   另一个收音机应用，应该基于Transistor。不太清楚与后者有什么不同，Transistor也没有放弃维护。
 
 - [RadioDroid](https://github.com/segler-alex/RadioDroid)
-  [[F-Droid](https://f-droid.org/packages/net.programmierecke.radiodroid2/)]
+  [[F-Droid](https://f-droid.org/packages/net.programmierecke.radiodroid2/)]\*
 
   收音机。好处是自带各种列表，不需要自己搜，适合随便听听的懒人。
 
@@ -254,7 +254,7 @@
   上方Retro的“破解版”，即解锁了高级功能，去除了谷歌服务，算是更加纯粹的开源版本。
 
 - [Vanilla Music](https://vanilla-music.github.io/)
-  [[F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla/)]
+  [[F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla/)]\*
 
   老牌音乐播放器，从Reddit上的反馈来看似乎是开源中为数不多对.opus文件支持较好的播放器。
   
@@ -407,7 +407,7 @@
   监督用药。可以增添用药条目，指定数量，它会提醒你吃药，以及记录过往用药。虽然是新软件，但是目前的功能已经很不错了。
 
 - [开支助手](https://www.myexpenses.mobi/)
-  [[F-droid](https://f-droid.org/packages/org.totschnig.myexpenses/)]
+  [[F-droid](https://f-droid.org/packages/org.totschnig.myexpenses/)]\*
 
   个人理财工具。
 
@@ -436,7 +436,7 @@
   指南针。
 
 - [Trail Sense](https://github.com/kylecorry31/Trail-Sense)
-  [[F-Droid](https://f-droid.org/packages/com.kylecorry.trail_sense/)]
+  [[F-Droid](https://f-droid.org/packages/com.kylecorry.trail_sense/)]\*
 
   野外生存应用，内置大量小工具。
 
@@ -616,7 +616,7 @@
   这类开源应用实在没有更“现代”的选择了，界面比较落后，好在这个软件依然完美运行，源代码也在维护。根据最新半个月（2022.04）的提交消息来看，有超级多的代码更新，可能会有新版本？
 
 - [CIFS Documents Provider](https://github.com/wa2c/cifs-documents-provider)
-  [[F-Droid](https://f-droid.org/packages/com.wa2c.android.cifsdocumentsprovider/)]
+  [[F-Droid](https://f-droid.org/packages/com.wa2c.android.cifsdocumentsprovider/)]\*
 
   将网络存储挂载到SAF，支援SMB/FTP(S)/SFTP。其他应用只需访问SAF便可访问网络存储。
   
