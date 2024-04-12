@@ -139,6 +139,11 @@
 
   另一个收音机应用，应该基于Transistor。不太清楚与后者有什么不同，Transistor也没有放弃维护。
 
+- [RadioDroid](https://github.com/segler-alex/RadioDroid)
+  [[F-Droid](https://f-droid.org/packages/net.programmierecke.radiodroid2/)]
+
+  收音机。好处是自带各种列表，不需要自己搜，适合随便听听的懒人。
+
 - [Legado(阅读)](https://github.com/gedoor/legado)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.legado.app.release)]
   [[网站](https://www.legado.top)]
