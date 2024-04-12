@@ -610,6 +610,11 @@
 
   这类开源应用实在没有更“现代”的选择了，界面比较落后，好在这个软件依然完美运行，源代码也在维护。根据最新半个月（2022.04）的提交消息来看，有超级多的代码更新，可能会有新版本？
 
+- [CIFS Documents Provider](https://github.com/wa2c/cifs-documents-provider)
+  [[F-Droid](https://f-droid.org/packages/com.wa2c.android.cifsdocumentsprovider/)]
+
+  将网络存储挂载到SAF，支援SMB/FTP(S)/SFTP。其他应用只需访问SAF便可访问网络存储。
+  
 #### 文件同步
 
 - [Seafile](https://github.com/haiwen/seadroid)
