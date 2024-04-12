@@ -86,6 +86,13 @@
 
   谷歌商店第三方客户端。在不安装谷歌框架的情况下，可以用这个安装谷歌商店的软件。它会用一个临时账号帮你下载，因此不会向谷歌暴露自己的个人信息。
 
+#### 其他
+
+- [Obtainium](https://github.com/ImranR98/Obtainium)
+  [[F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)]\*
+
+  一些应用未在任何应用商店内发布，通过此应用可跟踪其他托管平台上发布的应用。
+
 ### 互联网
 
 #### 浏览器
@@ -131,6 +138,11 @@
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jamal2367.urlradio)]
 
   另一个收音机应用，应该基于Transistor。不太清楚与后者有什么不同，Transistor也没有放弃维护。
+
+- [RadioDroid](https://github.com/segler-alex/RadioDroid)
+  [[F-Droid](https://f-droid.org/packages/net.programmierecke.radiodroid2/)]\*
+
+  收音机。好处是自带各种列表，不需要自己搜，适合随便听听的懒人。
 
 - [Legado(阅读)](https://github.com/gedoor/legado)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.legado.app.release)]
@@ -241,6 +253,11 @@
 
   上方Retro的“破解版”，即解锁了高级功能，去除了谷歌服务，算是更加纯粹的开源版本。
 
+- [Vanilla Music](https://vanilla-music.github.io/)
+  [[F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla/)]\*
+
+  老牌音乐播放器，从Reddit上的反馈来看似乎是开源中为数不多对.opus文件支持较好的播放器。
+  
 - [Mpd](https://github.com/MusicPlayerDaemon/MPD/)
   [[F-Droid](https://f-droid.org/en/packages/org.musicpd/)]
 
@@ -389,6 +406,11 @@
 
   监督用药。可以增添用药条目，指定数量，它会提醒你吃药，以及记录过往用药。虽然是新软件，但是目前的功能已经很不错了。
 
+- [开支助手](https://www.myexpenses.mobi/)
+  [[F-droid](https://f-droid.org/packages/org.totschnig.myexpenses/)]\*
+
+  个人理财工具。
+
 #### 小工具
 
 - ~~[Ruler](https://github.com/congshengwu/Ruler)~~
@@ -412,6 +434,11 @@
   [[F-Droid](https://f-droid.org/en/packages/danielmeek32.compass)]
 
   指南针。
+
+- [Trail Sense](https://github.com/kylecorry31/Trail-Sense)
+  [[F-Droid](https://f-droid.org/packages/com.kylecorry.trail_sense/)]\*
+
+  野外生存应用，内置大量小工具。
 
 - [Audio Spectrum Analyzer](https://github.com/woheller69/audio-analyzer-for-android)
   [[F-Droid](https://f-droid.org/en/packages/org.woheller69.audio_analyzer_for_android/)]
@@ -588,6 +615,11 @@
 
   这类开源应用实在没有更“现代”的选择了，界面比较落后，好在这个软件依然完美运行，源代码也在维护。根据最新半个月（2022.04）的提交消息来看，有超级多的代码更新，可能会有新版本？
 
+- [CIFS Documents Provider](https://github.com/wa2c/cifs-documents-provider)
+  [[F-Droid](https://f-droid.org/packages/com.wa2c.android.cifsdocumentsprovider/)]\*
+
+  将网络存储挂载到SAF，支援SMB/FTP(S)/SFTP。其他应用只需访问SAF便可访问网络存储。
+  
 #### 文件同步
 
 - [Seafile](https://github.com/haiwen/seadroid)
@@ -625,6 +657,11 @@
   [[F-Droid](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif/)]\*
 
   在分享图片前，从图片中删除如设备、日期、地点等Exif信息。
+
+- [移除追踪](https://github.com/zhanghai/Untracker)
+  [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.untracker/)]\*
+
+  在分享链接前移除追踪信息。
 
 #### 文件加密
 
