@@ -86,6 +86,13 @@
 
   谷歌商店第三方客户端。在不安装谷歌框架的情况下，可以用这个安装谷歌商店的软件。它会用一个临时账号帮你下载，因此不会向谷歌暴露自己的个人信息。
 
+#### 其他
+
+- [Obtainium](https://github.com/ImranR98/Obtainium)
+  [[F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)]
+
+  一些应用未在任何应用商店内发布，通过此应用可跟踪其他托管平台上发布的应用。
+
 ### 互联网
 
 #### 浏览器
