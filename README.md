@@ -394,6 +394,11 @@
 
   监督用药。可以增添用药条目，指定数量，它会提醒你吃药，以及记录过往用药。虽然是新软件，但是目前的功能已经很不错了。
 
+- [开支助手](https://www.myexpenses.mobi/)
+  [[F-droid](https://f-droid.org/packages/org.totschnig.myexpenses/)]
+
+  个人理财工具。
+
 #### 小工具
 
 - ~~[Ruler](https://github.com/congshengwu/Ruler)~~
