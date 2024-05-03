@@ -633,7 +633,7 @@
 
   在分享图片前，从图片中删除如设备、日期、地点等Exif信息。
 
-#### 文件加密
+#### 文件加密/隐藏
 
 - [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS)
   [[F-Droid](https://f-droid.org/en/packages/sushi.hardcore.droidfs/)]
@@ -651,6 +651,14 @@
   首先说明，这个并不是文件加密软件，但是应该可以满足部分需要这类应用的用户需求。
 
   我们可以使用Anemo将文件存入这个应用的私有本地空间。Anemo会隐藏这些文件，但用户可以选择临时开启，就可以从文件管理器的侧边栏看到入口。在15分钟无访问后，入口会再次隐藏。整个过程并未加密。
+
+- [Amarok](https://github.com/deltazefiro/Amarok-Hider)
+  [[F-Droid](https://f-droid.org/zh_Hans/packages/deltazero.amarok.foss/)]
+
+  隐藏文件和应用的软件。具体方式根据官方说法是：
+
+> Amarok 通过混淆文件名以及文件头部，改名文件并使文件“损坏”无法打开，从而达到隐藏的目的。
+> Amarok 通过停用应用等方式，使它们在启动器与系统菜单中不可见，从而隐藏应用。
 
 #### 输入法
 
