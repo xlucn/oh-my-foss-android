@@ -467,6 +467,13 @@
   和原装系统下的自带笔记相比，延迟差不多（但本来就很高）,也支持压感。
   想在纯开源的环境下体验手写笔记，在目前Saber是一个很不错的选择。
 
+#### 卡片
+
+- [AnkiDroid](https://github.com/ankidroid/Anki-Android)
+  [[F-Droid](https://f-droid.org/repository/browse/?fdid=com.ichi2.anki)]\*
+
+  跨平台记忆卡软件，可以制作和复习记忆卡。AnkiDroid 根据艾宾浩斯记忆曲线让你按时复习卡片。卡片编辑的功能也非常强大，如可以增加图片、挖空等等，大家可以自行探索。
+
 #### 文档
 
 - [OSS Document Scanner](https://github.com/Akylas/com.akylas.documentscanner)
