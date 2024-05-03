@@ -930,6 +930,13 @@
 
   终端应用。有些系统中会禁用系统自带的安卓终端，所以想要在安卓上执行命令行操作，可以尝试这款应用。
 
+- [Termux](https://github.com/termux/termux-app)
+  [[F-Droid](https://f-droid.org/en/packages/com.termux/)]\*
+
+  其实，Termux 不仅是一个终端，它还包含了一个完整的生态。Termux 有自己的包管理，你可以像使用任何 Linux 系统一样使用这个终端，安装软件等都是可以的。
+
+  不过，我自己之前没有收纳这个软件，现在经推荐才加入进来，原因就是它并不适合一般用户，明显是为极客用户而生的。更麻烦的是，貌似 Termux 在 Android 12+ [有被系统杀掉进程](https://github.com/termux/termux-app/issues/2366) 的问题，解决这个问题又是需要折腾系统。总之，我认为想玩 Linux 的话，最佳办法是在真机或虚拟机里安装 Linux 系统，Termux 的使用场景真的比较有限。
+
 #### Git及平台客户端
 
 - [OctoDroid](https://github.com/slapperwan/gh4a)
