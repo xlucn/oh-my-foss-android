@@ -366,6 +366,17 @@
 
   更新：早在2022年，F-Droid官方就以检测到GMS使用为由下架了这个软件，但是作者并未有意识地使用（见[相关issue](https://github.com/SpicyChair/pluvia_weather_flutter/issues/56)）。所以现在F-Droid上安装不了了。大家可自行判断，或者干脆使用上面的Breezy天气。
 
+#### 智能穿戴
+
+- [Gadgetbridge](https://codeberg.org/Freeyourgadget/Gadgetbridge)
+  [[F-Droid](https://f-droid.org/app/nodomain.freeyourgadget.gadgetbridge)]
+
+  智能手环/手表的手机客户端。无需官方软件，无需创建账号，即可管理你的手环和查看数据。
+
+  最兼容的是小米、Amazfit等，华为的很多设备也有较好的支持，目前可以比较好地[支持112款设备](https://gadgetbridge.org/gadgets/)。对于较新的设备，其中一些由于协议要求，需要安装一次官方软件并获取密钥，相关操作见[官方文档](https://gadgetbridge.org/basics/pairing/huami-xiaomi-server/)。
+
+  就功能来说，可以操作的功能有：健康数据、通知同步、查看天气、来电处理、音乐控制、运动记录、设定闹钟、查找手机、导航显示等。这些对我来说真的足够了，并且几年前的手环就足以支持，成本极低。截至添加条目时，我已经用了2个月，感觉非常好用，可以替代官方软件。
+
 #### 自我管理
 
 - [Tasks](https://github.com/tasks/tasks)
