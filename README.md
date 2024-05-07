@@ -669,7 +669,7 @@
 
   这是一款可以将“打开文件”转换为“分享文件”的Android小工具。用于解决某些App（读作weixin）不接入系统文件分享功能导致的各种不便。（不过，在wx多选界面点击右下角的邮件小图标，确实是有系统分享的，但不清楚是不是覆盖了所有情形，大家可以试一试）
 
-- [Save a copy(保存副本)](https://github.com/RikkaApps/SaveCopy)
+- [Save Copy(保存副本)](https://github.com/RikkaApps/SaveCopy)
   [[Izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/app.rikka.savecopy)]\*
 
   在打开方式和分享菜单中加入储存副本选项。示例：应用内更新时，可选择此选项而不是直接安装，可不授予应用安装权限且保留安装包并手动在文件管理器中安装。
