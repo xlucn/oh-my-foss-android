@@ -719,8 +719,9 @@
 
   重点是，这款键盘默认操作体验十分顺手（此处@Trime）。如果之前在用Hacker's keyboard的，可以换这个了。
 
-- [Fcitx5-Android(小企鹅输入法5)](https://github.com/fcitx5-android/fcitx5-android)
+- [Fcitx5 for Android(小企鹅输入法5)](https://github.com/fcitx5-android/fcitx5-android)
   [[F-Droid](https://f-droid.org/packages/org.fcitx.fcitx5.android/)]
+  [[网站](https://fcitx5-android.github.io/)]
 
   在它出现之前，开源的安卓拼音输入法应该只有同文输入法（见下）。而Fcitx（小企鹅）的加入，可以说解决了很多人（包括我）的痛点。我用了一段时间，感觉已经无缝替换掉了Gboard。
 
