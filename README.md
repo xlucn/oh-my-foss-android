@@ -886,7 +886,7 @@
 
   我比较喜欢使用暂停这一方式，主要原因是桌面的图标不会消失，比如在停用后恢复的话桌面图标也没有了。设置自动冻结的选项也比较丰富。如果你有些软件常年不会用，可以冻结了以防这些软件时常在后台有联网、弹广告等活动。
 
-- [Superfreezz](https://gitlab.com/SuperFreezZ/SuperFreezZ)
+- [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
   [[F-Droid](https://f-droid.org/packages/superfreeze.tool.android)]
 
   冻结软件的后台活动，类似于Greenify。它的冻结与上面的“雹”不同，并不是禁用、暂停或者隐藏软件，仅仅是限制软件的后台。Superfreeze会自动冻结7天以上未使用的软件。我不知道怎么评估它的效果，大家不妨自己试一试。
