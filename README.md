@@ -142,7 +142,7 @@
 - [RadioDroid](https://github.com/segler-alex/RadioDroid)
   [[F-Droid](https://f-droid.org/packages/net.programmierecke.radiodroid2/)]
   [[网站](https://www.radio-browser.info/)]\*
-  
+
   收音机。好处是自带各种列表，不需要自己搜，适合随便听听的懒人。
 
 - [Legado(阅读)](https://github.com/gedoor/legado)
@@ -255,11 +255,11 @@
   上方Retro的“破解版”，即解锁了高级功能，去除了谷歌服务，算是更加纯粹的开源版本。
 
 - [Vanilla Music](https://github.com/vanilla-music/vanilla)
-  [[F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla/)]\*
-  [[网站](https://vanilla-music.github.io/)]
-  
+  [[F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla/)]
+  [[网站](https://vanilla-music.github.io/)]\*
+
   老牌音乐播放器，从Reddit上的反馈来看似乎是开源中为数不多对.opus文件支持较好的播放器。
-  
+
 - [Mpd](https://github.com/MusicPlayerDaemon/MPD/)
   [[F-Droid](https://f-droid.org/packages/org.musicpd/)]
 
@@ -640,7 +640,7 @@
   [[F-Droid](https://f-droid.org/packages/com.wa2c.android.cifsdocumentsprovider/)]\*
 
   将网络存储挂载到SAF，支援SMB/FTP(S)/SFTP。其他应用只需访问SAF便可访问网络存储。
-  
+
 #### 文件同步
 
 - [Seafile](https://github.com/haiwen/seadroid)
