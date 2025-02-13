@@ -43,7 +43,7 @@
 - [F-Droid Basic](https://gitlab.com/fdroid/fdroidclient)
   [[F-Droid](https://f-droid.org/packages/org.fdroid.basic)]\*
 
-  F-Droid官方客户端。在Android 13及以上无需特权或root即可进行静默更新。
+  F-Droid官方客户端。升级了API，在Android 12及以上无需特权或root即可进行静默更新。
 
 - [Neo-Store](https://github.com/NeoApplications/Neo-Store)
   [[F-Droid](https://f-droid.org/packages/com.machiav3lli.fdroid)]
@@ -145,6 +145,12 @@
 
   收音机。好处是自带各种列表，不需要自己搜，适合随便听听的懒人。
 
+- [AntennaPod](https://github.com/AntennaPod/AntennaPod)
+  [[F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/)]
+  [[网站](https://antennapod.org/)]\*
+
+  Podcast客户端有很多，这款历史久，开发活跃，功能实而不华。
+  
 - [Legado(阅读)](https://github.com/gedoor/legado)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.legado.app.release)]
   [[网站](https://www.legado.top)]
@@ -286,6 +292,12 @@
   - https://archive.org/details/binaural-beats_201904
   - https://musicalhypnosis.com/royalty-free-binaural-beats/
 
+#### 流媒体
+
+- [YAACC](https://github.com/tobexyz/yaacc-code)
+  [[F-Droid](https://f-droid.org/packages/de.yaacc/)]\*
+
+  DLNA服务器/客户端/接收器/控制器。经过迭代已变得基本可用，可部分替代BubbleUPnP。
 
 #### 绘画
 
@@ -465,6 +477,12 @@
   快捷方式收集。将你常用的应用页面（Activity）收集到一个界面并保存，可以在无需经过应用主界面的情况下快速打开。这里页面可以是扫码页面，可以是签到页面，实际上可以是任意软件的几乎任意界面。可玩性高，看你有没有需求了。
 
   这个软件没有上架F-Droid或Izzyondroid，在酷安也被下架了，截至添加本条目时只能在Github Releases或者谷歌商店下载到。
+
+- [Bluetooth Remote(蓝牙遥控器)](https://gitlab.com/Atharok/BtRemote)
+  [[F-Droid](https://f-droid.org/packages/com.atharok.btremote/)]
+  [[网站](https://atharok.gitlab.io/site/projects/bt-remote/)]\*
+
+  顾名思义，主要用来临时替代鼠标键盘控制Android TV，还比较简陋有点小问题，可以作为Bluetooth Keyboard & Mouse(io.appground.blek)的下位替代。
 
 ### 学习办公
 
@@ -649,11 +667,13 @@
 
   文件同步/网盘客户端。是国内开发的，需要自己搭服务器。我们学校用它做了一个box，访问起来很方便：）
 
-- [Syncthing](https://github.com/syncthing/syncthing-android)
-  [[F-Droid](https://f-droid.org/packages/com.nutomic.syncthingandroid/)]
+- [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android-fdroid)
+  [[F-Droid](https://f-droid.org/packages/com.github.catfriend1.syncthingandroid/)]
   [[网站](https://syncthing.net/)]\*
 
   文件夹同步软件，可仅局域网使用。和KDE Connect有同样的缺点，保活做得不是很好，比KDE更差，连上WIFI后不能自动与PC桌面服务连接。个人解决方案是连接WIFI后使用Tasker自动打开软件一次。
+  
+  Syncthing主项已停止Android端开发，只能更换此增强版使用了。
 
 #### 文件分享
 
@@ -679,11 +699,23 @@
 
   在分享图片前，从图片中删除如设备、日期、地点等Exif信息。
 
-#### 文件加密/隐藏
+- [FFShare](https://github.com/caydey/ffshare)
+  [[F-Droid](https://f-droid.org/packages/com.caydey.ffshare/)]\*
+
+  Scrambled Exif增强版，在分享媒体前使用ffmpeg压缩文件，可选删除Exif信息。
+
 - [Untracker(移除追踪)](https://github.com/zhanghai/Untracker)
   [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.untracker/)]\*
 
   在分享链接前移除追踪信息。
+
+- [Tarnhelm](https://github.com/lz233/Tarnhelm)
+  [[F-Droid](https://f-droid.org/packages/cn.ac.lz233.tarnhelm/)]
+  [[网站](https://tarnhelm.project.ac.cn/)]\*
+
+  比Untracker更好的选择，增加了自动清理剪切板的能力。
+
+#### 文件加密/隐藏
 
 - [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS)
   [[F-Droid](https://f-droid.org/packages/sushi.hardcore.droidfs/)]
@@ -856,6 +888,11 @@
   很强大的连接PC和手机的工具。可以分享文件或文本、同步通知、运行命令和远程控制等等。需要Linux系统上安装相应的pc端软件，常见的如KDE官方的[kdeconnect](https://kdeconnect.kde.org/)和适配GNOME的[GSConnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)。
 
   KDE团队做的很好的一点是，他们将KDE Connect前后端分离开了，真正支撑底层功能的部分实现为一种协议，可以独立于图形界面部分运行。这样在非KDE环境，便可以用其它的软件，如我在使用的[mconnect](https://github.com/grimpy/mconnect)，就是没有图形界面，只有命令行接口，但如果你想要的基本功能都具备，可以很灵活而不受桌面环境限制。
+
+- [Audio Share ](https://github.com/mkckr0/audio-share)
+  [[F-Droid](https://f-droid.org/packages/io.github.mkckr0.audio_share_app/)]\*
+
+  小众需求，使PC的声音通过网络在手机上播放，SoundWire的替代品。
 
 #### 手机安全
 
