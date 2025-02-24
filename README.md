@@ -38,44 +38,80 @@
 - [F-Droid](https://gitlab.com/fdroid/fdroidclient)
   [[F-Droid](https://f-droid.org/packages/org.fdroid.fdroid)]
 
-  F-Droid官方客户端。虽是正统，但功能和界面并不是最好的，没什么值得表扬的。
+  <details>
+
+  <summary>F-Droid官方客户端。</summary><br/>
+
+  虽是正统，但功能和界面并不是最好的，没什么值得表扬的。
+
+  </details>
 
 - [F-Droid Basic](https://gitlab.com/fdroid/fdroidclient)
   [[F-Droid](https://f-droid.org/packages/org.fdroid.basic)]\*
 
+  <details>
+
+  <summary>F-Droid官方客户端。</summary><br/>
+
   F-Droid官方客户端。升级了API，在Android 12及以上无需特权或root即可进行静默更新。
+
+  </details>
 
 - [Neo-Store](https://github.com/NeoApplications/Neo-Store)
   [[F-Droid](https://f-droid.org/packages/com.machiav3lli.fdroid)]
 
-  Neo Store是基于Droid-ify（见下）的F-Droid客户端。界面风格有较大改动，个人认为更规范了，这里指对于质感设计的应用更加美观和符合直觉，相比之下，Droid-ify可能更加像一个没有设计能力的程序员随意为之的作品。
+  <details>
+
+  <summary>Neo Store是基于Droid-ify（见下）的F-Droid客户端。</summary><br/>
+
+  界面风格有较大改动，个人认为更规范了，这里指对于质感设计的应用更加美观和符合直觉，相比之下，Droid-ify可能更加像一个没有设计能力的程序员随意为之的作品。
 
   曾经取代/继承了Droid-ify，并入[Neo系列应用](https://github.com/NeoApplications/)。但是后来Droid-ify原作者因个人原因，选择不再参与Neo Store的开发，自己继续维护之前的Droid-ify代码。因此，现在两个项目都是正在维护的。
+
+  </details>
 
 - [Driod-ify](https://github.com/Iamlooker/Droid-ify)
   [[F-Droid](https://f-droid.org/packages/com.looker.droidify)]
 
-  F-Droid第三方客户端，基于foxy droid（见下）。后者不怎么维护了，因此有人修复bug、更新界面后发布了这个款app。目前使用起来不会有什么区别，日后可能会有新功能加入。在质感设计的风格上，应该是使用了第3代的设计语言，即有更多的圆角元素等特点。
+  <details>
 
-  更新：0.3版本加入了root👽静默安装，好耶！可以取代foxy了。
+  <summary>F-Droid第三方客户端，基于Foxy droid（见下）。</summary><br/>
+
+  后者不怎么维护了，因此有人修复bug、更新界面后发布了这个款app。目前使用起来不会有什么区别，日后可能会有新功能加入。在质感设计的风格上，应该是使用了第3代的设计语言，即有更多的圆角元素等特点。
+
+  更新：0.3版本加入了root👽静默安装，好耶！可以取代Foxy了。
 
   更新：又加入了大量的内置仓库，可以不用导入了。
 
-- ~~[Foxy Droid](https://github.com/kitsunyan/foxy-droid)~~
-  [[F-Droid](https://f-droid.org/packages/nya.kitsunyan.foxydroid)]
+ </details>
+
+- _[Foxy Droid](https://github.com/kitsunyan/foxy-droid)
+  [[F-Droid](https://f-droid.org/packages/nya.kitsunyan.foxydroid)]_
+
+  <details>
+
+  <summary>最后更新时间：20200801</summary><br/>
 
   长时间不更新了，推荐上面Droid-ify和Neo-Store。
 
   F-Droid第三方客户端，这个很简洁，只有1M多，基本功能尚可用，我一直用作官方客户端的替代品。
   缺点是无法自动和批量安装，每次会弹出安装窗口。
 
-- [Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid)
-  [[F-Droid](https://f-droid.org/packages/com.aurora.adroid)]
-  [[网站](https://auroraoss.com/)]
+ </details>
 
-  2023.12注：有点慌，2年不更新了。
+- _[Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid)
+  ~~[[F-Droid](https://f-droid.org/packages/com.aurora.adroid)]
+  [[网站](https://auroraoss.com/)]~~_
+
+  <details>
+
+  <summary>最后更新时间：20210526 / 已404</summary><br/>
+
+  已从官网消失。
 
   F-Droid第三方客户端，有root的话可以一键更新/安装。
+
+ </details>
 
 #### 谷歌商店第三方客户端
 
@@ -83,15 +119,31 @@
 
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
   [[F-Droid](https://f-droid.org/packages/com.aurora.store)]
+  [[网站](https://auroraoss.com/)]
 
-  谷歌商店第三方客户端。在不安装谷歌框架的情况下，可以用这个安装谷歌商店的软件。它会用一个临时账号帮你下载，因此不会向谷歌暴露自己的个人信息。
+  <details>
+
+  <summary>谷歌商店第三方客户端。</summary><br/>
+
+  在不安装谷歌框架的情况下，可以用这个安装谷歌商店的软件。它会用一个临时账号帮你下载，因此不会向谷歌暴露自己的个人信息。
+
+  </details>
 
 #### 其他
 
-- [Obtainium](https://github.com/ImranR98/Obtainium)
-  [[F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)]\*
+一些应用尚未在任何商店内发布，通过以下应用可跟踪此类应用的更新。
 
-  一些应用未在任何应用商店内发布，通过此应用可跟踪其他托管平台上发布的应用。
+- [Obtainium](https://github.com/ImranR98/Obtainium)
+  [[F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)]
+  [[网站](https://obtainium.imranr.dev/)]\*
+
+  <details>
+
+  <summary>从源直接获取Android应用程序更新。</summary><br/>
+
+  支持的应用源请查看[Wiki](https://wiki.obtainium.imranr.dev/sources/)，[这里](https://apps.obtainium.imranr.dev/)还有一个 Complex Obtainium Apps 列表。有相当一部分应用源和应用并不是开源的，注意甄别。
+
+  </details>
 
 ### 互联网
 
