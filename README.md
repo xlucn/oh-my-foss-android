@@ -38,24 +38,12 @@
 - [F-Droid](https://gitlab.com/fdroid/fdroidclient)
   [[F-Droid](https://f-droid.org/packages/org.fdroid.fdroid)]
 
-  <details>
-
-  <summary>F-Droid官方客户端。</summary><br/>
-
-  虽是正统，但功能和界面并不是最好的，没什么值得表扬的。
-
-  </details>
+  F-Droid官方客户端。虽是正统，但功能和界面并不是最好的，没什么值得表扬的。
 
 - [F-Droid Basic](https://gitlab.com/fdroid/fdroidclient)
   [[F-Droid](https://f-droid.org/packages/org.fdroid.basic)]\*
 
-  <details>
-
-  <summary>F-Droid官方客户端。</summary><br/>
-
-  F-Droid官方客户端。升级了API，在Android 12及以上无需特权或root即可进行静默更新。
-
-  </details>
+  F-Droid官方客户端，升级了API。在Android 12及以上无需特权或root即可进行静默更新。
 
 - [Neo-Store](https://github.com/NeoApplications/Neo-Store)
   [[F-Droid](https://f-droid.org/packages/com.machiav3lli.fdroid)]
@@ -152,19 +140,55 @@
 - [Fennec F-Droid](https://github.com/mozilla-mobile/fenix)
   [[F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)]
 
-  著名的火狐浏览器的更纯净开源版本，去除了其中的闭源成分。Fennec原意是“[耳廓狐](https://baike.baidu.com/item/耳廓狐)”，根据百科这是最小的犬类动物，取名还是很有寓意的。
+  <details>
+
+  <summary>著名的火狐浏览器的更纯净开源版本，去除了其中的闭源成分。</summary><br/>
+
+  Fennec原意是“[耳廓狐](https://baike.baidu.com/item/耳廓狐)”，根据百科这是最小的犬类动物，取名还是很有寓意的。
 
   基础源代码还是Mozilla的，但应该是F-Droid平台自己编译，所以只能从这边安装。
 
+  </details>
+
+- [Iceraven](https://github.com/fork-maintainers/iceraven-browser)\*
+
+  <details>
+
+  <summary>另一个强化版火狐浏览器。</summary><br/>
+
+  更长的扩展列表，支持about:config 。“Iceraven 浏览器结合了 Fenix 的力量和 Fennec 的精神，并向 Netscape Navigator 的伟大传统致敬。”
+
+  </details>
+
 #### 邮件
 
-- [K-9 Mail](https://github.com/k9mail/k-9)
+- [K-9 Mail](https://github.com/thunderbird/thunderbird-android)
   [[F-Droid](https://f-droid.org/packages/com.fsck.k9/)]
   [[网站](https://k9mail.app/)]
 
-  最著名的开源邮件客户端，支持多账号，选项很丰富。最近两年UI改进显著，越来越好用了。
+  <details>
+
+  <summary>最著名的开源邮件客户端，源代码已迁移到Thunderbird。</summary><br/>
+
+  支持多账号，选项很丰富。最近两年UI改进显著，越来越好用了。
 
   他们的网站是我见过开源软件里做的最好看的之一。
+
+  </details>
+
+- [FairEmail](https://github.com/M66B/FairEmail)
+  [[F-Droid](https://f-droid.org/packages/eu.faircode.email/)]
+  [[网站](https://email.faircode.eu/)]\*
+
+  <details>
+
+  <summary>注重隐私的邮件客户端，XPrivacy作者M66B的作品。</summary><br/>
+
+  **高级版需要付费。**
+
+  无数的自定义选项，对隐私的极端保护。（个人只因为K9没有黑色小部件而选择了FairEmail）
+
+  </details>
 
 #### 内容获取
 
@@ -172,42 +196,75 @@
 
 - [Feeder](https://github.com/spacecowboy/Feeder)
   [[F-Droid](https://f-droid.org/packages/com.nononsenseapps.feeder/)]
+  [[网站](https://news.nononsenseapps.com/)]
 
-  RSS订阅软件，这类软件没有太令我满意的，这个就算比较好的了。
+  <details>
+
+  <summary>RSS订阅软件，这类软件没有太令我满意的，这个就算比较好的了。</summary><br/>
 
   国内没有什么开源的新闻阅读软件，但是有很多资讯平台有RSS订阅。因此Feeder可以成为一个非常纯粹的新闻阅读软件，没有任何交互，像看报纸一样地阅读📰。
 
-- [FastoTVLite](https://github.com/fastogt/fastotvlite_mobile)
+  </details>
 
-  IPTV客户端，可以从网络串流观看电视节目，大家可以自行从网上搜集IPTV资源，添加至播放器中，就可以播放了。
+- [Read You](https://github.com/Ashinch/ReadYou)
+  [[F-Droid](https://f-droid.org/packages/me.ash.reader/)]\*
+
+  同RSS订阅软件。[Material You](https://m3.material.io/) 设计风格，支持多种订阅方式，定时同步订阅及提醒。
+
+- ~~_[FastoTVLite](https://github.com/fastogt/fastotvlite_mobile)_~~
+
+  <details>
+
+  <summary>IPTV客户端。名称已变更，源码不更新，官网已变更。建议可以尝试M3UAndroid。</summary><br/>
+
+  可以从网络串流观看电视节目，大家可以自行从网上搜集IPTV资源，添加至播放器中，就可以播放了。
+
+  </details>
 
 - [Transistor](https://codeberg.org/y20k/transistor)
   [[F-Droid](https://f-droid.org/packages/org.y20k.transistor/)]
 
-  收音机。只不过这个是从网络串流的，不是真正的调频收音机，原因是很多硬件不支持了（也可以从手机自带收音机逐渐消失这一点看出来）。好处是你可以听外地的频道，默认的搜索引擎可以添加上千个国内外频道。
+  <details>
 
-- [URL Radio](https://github.com/jamal2362/URL-Radio)
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jamal2367.urlradio)]
+  <summary>网络收音机，频道需要手动搜索后添加。</summary><br/>
+
+  这个是从网络串流的，不是真正的调频收音机，原因是很多硬件不支持了（也可以从手机自带收音机逐渐消失这一点看出来）。好处是你可以听外地的频道，默认的搜索引擎可以添加上千个国内外频道。
+
+  </details>
+
+- _~~[URL Radio](https://github.com/jamal2362/URL-Radio)~~
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jamal2367.urlradio)]_
+
+  <details>
+
+  <summary>已存档：20241206</summary><br/>
 
   另一个收音机应用，应该基于Transistor。不太清楚与后者有什么不同，Transistor也没有放弃维护。
+
+  </details>
 
 - [RadioDroid](https://github.com/segler-alex/RadioDroid)
   [[F-Droid](https://f-droid.org/packages/net.programmierecke.radiodroid2/)]
   [[网站](https://www.radio-browser.info/)]\*
 
-  收音机。好处是自带各种列表，不需要自己搜，适合随便听听的懒人。
+  另一个网络收音机，自带频道列表，不需要手动搜。
 
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod)
   [[F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/)]
   [[网站](https://antennapod.org/)]\*
 
   Podcast客户端有很多，这款历史久，开发活跃，功能实而不华。
-  
+
 - [Legado(阅读)](https://github.com/gedoor/legado)
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.legado.app.release)]
   [[网站](https://www.legado.top)]
 
-  电子书阅读软件。不提供内置书源，需要用户自行寻找后导入，提高了自由度，也让软件本身更加纯净。
+  <details>
+
+  <summary>电子书阅读软件，不提供内置书源。</summary><br/>
+
+  需要用户自行寻找后导入，提高了自由度，也让软件本身更加纯净。
+
+  </details>
 
 - [KOReader](https://github.com/koreader/koreader)
   [[F-Droid](https://f-droid.org/packages/org.koreader.launcher.fdroid/)]
@@ -218,24 +275,37 @@
 - [Shosetsu(书)](https://gitlab.com/shosetsuorg/shosetsu)
   [[F-Droid](https://f-droid.org/packages/app.shosetsu.android.fdroid)]
 
-  小说阅读软件。这个内置了一些下载源。我没有读过里面的小说，但是比较喜欢这种形式的软件。
+  <details>
+
+  <summary>小说阅读软件，这个内置了一些下载源。</summary><br/>
+
+  我没有读过里面的小说，但是比较喜欢这种形式的软件。
+
+  </details>
 
 - [Myne](https://github.com/Pool-Of-Tears/Myne)
   [[F-Droid](https://f-droid.org/packages/com.starry.myne/)]
 
-  电子书下载与阅读。从一个固定的源下载电子书，都是一些经典书籍，一般是版权过期进入公共领域的书，很不错的软件。
+  <details>
 
-- [Read You](https://github.com/Ashinch/ReadYou)
-  [[F-Droid](https://f-droid.org/packages/me.ash.reader/)]\*
+  <summary>电子书下载与阅读，从一个固定的源下载电子书，都是一些经典书籍。</summary><br/>
 
-  同 RSS 订阅软件。[Material You](https://m3.material.io/) 设计风格，支持多种订阅方式，定时同步订阅及提醒。
+  一般是版权过期进入公共领域的书，很不错的软件。
+
+  </details>
 
 #### 追剧管理
 
 - [Showly](https://github.com/michaldrabik/Showly-2.0)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.michaldrabik.showly_oss)]
+  [[网站](https://www.showlyapp.com/)]
+  <details>
 
-  Trakt客户端，归纳自己看的电影和电视剧，精确到集的进度管理，有追剧提醒，随时同步。美剧党神器。
+  <summary>Trakt客户端，归纳自己看的电影和电视剧。</summary><br/>
+
+  精确到集的进度管理，有追剧提醒，随时同步。美剧党神器。
+
+  </details>
 
 - [Episodes](https://github.com/red-coracle/episodes)
   [[F-Droid](https://f-droid.org/packages/com.redcoracle.episodes/)]
