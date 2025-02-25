@@ -321,6 +321,7 @@
 - [Showly](https://github.com/michaldrabik/Showly-2.0)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.michaldrabik.showly_oss)]
   [[网站](https://www.showlyapp.com/)]
+
   <details>
 
   <summary>Trakt 客户端，归纳自己看的电影和电视剧。</summary><br/>
@@ -332,7 +333,13 @@
 - [Episodes](https://github.com/red-coracle/episodes)
   [[F-Droid](https://f-droid.org/packages/com.redcoracle.episodes/)]
 
-  管理自己看过的电视剧，数据来自 TMDB，功能上比较单一，更推荐上边的 Showly。
+  <details>
+
+  <summary>管理自己看过的电视剧。</summary><br/>
+
+  数据来自 TMDB，功能上比较单一，更推荐上边的 Showly。
+
+  </details>
 
 #### BT 客户端
 
@@ -355,7 +362,7 @@
 
 ### 多媒体
 
-#### 视频播放器
+#### 视频播放
 
 - [VLC](https://www.videolan.org/vlc/download-android.html)
   [[F-Droid](https://f-droid.org/packages/org.videolan.vlc/)]
@@ -366,82 +373,150 @@
 - [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
   [[F-Droid](https://f-droid.org/packages/org.courville.nova/)]
 
-  视频播放器，作为VLC的补充。Nova有类似于Plex的功能，可以管理视频库，显示封面，联网获取信息等。还有电视模式，可以作为家庭影院的开源方案。个人体验通过SFTP播放视频加载网速比VLC快好几倍（你要问为什么是SFTP，因为我用Linux）。
+  <details>
+
+  <summary>视频播放器，作为 VLC 的补充，有类似于 Plex 的功能。</summary><br/>
+
+  可以管理视频库，显示封面，联网获取信息等。还有电视模式，可以作为家庭影院的开源方案。个人体验通过 SFTP 播放视频加载网速比 VLC 快好几倍（你要问为什么是 SFTP，因为我用 Linux）。
+
+  </details>
 
 - [mpv-android](https://github.com/mpv-android/mpv-android)
   [[F-Droid](https://f-droid.org/packages/is.xyz.mpv/)]
 
-  基于Linux平台很出名的播放软件MPV，以UI简洁(lòu)著称。安卓版本并非官方开发，所以就更简洁(lòu)了😢。总体上不如VLC和Nova，但继承了桌面端的可定制性，可以编辑配置文件改变选项和快捷键。
+  <details>
+
+  <summary>基于 Linux 平台很出名的播放软件 MPV，以 UI 简洁(lòu)著称。</summary><br/>
+
+  安卓版本并非官方开发，所以就更简洁(lòu)了😢。总体上不如 VLC 和 Nova，但继承了桌面端的可定制性，可以编辑配置文件改变选项和快捷键。
+
+  </details>
 
 - [Kore](https://github.com/xbmc/Kore)
   [[F-Droid](https://f-droid.org/packages/org.xbmc.kore/)]
+  [[网站](https://kodi.tv/)]
 
-  Kodi官方遥控器应用（**Ko**di **re**mote）。前者是非常棒的开源家庭影院应用，用来播放本地或远程的多媒体文件。
+  <details>
+
+  <summary>Kodi 官方遥控器应用。</summary><br/>
+
+  （**Ko**di **re**mote）。前者是非常棒的开源家庭影院应用，用来播放本地或远程的多媒体文件。
+
+  </details>
 
 #### 音乐播放
+
+可能是开发难度低，F-Droid 上太多音乐软件了。搜"music"关键词，最近更新的都比较好，恕不一一列举。
 
 - [Vinyl](https://github.com/AdrienPoupa/VinylMusicPlayer)
   [[F-Droid](https://f-droid.org/packages/com.poupa.vinylmusicplayer/)]
 
-  很轻量且干净的音乐播放器，众多Phonograph变体中唯一具有透明Widget的播放器。
+  <details>
 
-  可能是开发难度低，F-Droid上太多音乐软件了。搜"music"关键词，最近更新的都比较好，恕不一一列举。基于[Phonograph](https://github.com/kabouzeid/Phonograph)，后者很早停止维护了，但是却是很经典的质感设计音乐播放器，值得怀念。
+  <summary>很轻量且干净的音乐播放器，拥有透明小部件。</summary><br/>
 
-  列表最后面有个lineage OS自带音乐播放器，和这个超级像，更加精简。
+  基于 [Phonograph](https://github.com/kabouzeid/Phonograph)，后者很早停止维护了，但是却是很经典的质感设计音乐播放器，值得怀念。
+
+  列表最后面有个 Lineage OS 自带音乐播放器，和这个超级像，更加精简。
+
+  </details>
 
 - [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/player.phonograph.plus)]
+  [[F-Droid](https://f-droid.org/packages/player.phonograph.plus/)]
 
-  也是Phonograph正在积极维护的fork，在逐渐增加功能，中短期应该不会放弃。
+  也是 Phonograph 正在积极维护的 fork，在逐渐增加功能，中短期应该不会放弃。
 
-- [Retro Music](https://retromusic.app/)
+- [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
   [[F-Droid](https://f-droid.org/packages/code.name.monkey.retromusic/)]
+  [[网站](https://retromusic.app/)]
 
   很漂亮的音乐播放软件。
 
 - [Metro](https://github.com/MuntashirAkon/Metro)
   [[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.Music/)]
 
-  上方Retro的“破解版”，即解锁了高级功能，去除了谷歌服务，算是更加纯粹的开源版本。
+  <details>
+
+  <summary>上方 Retro 的“破解版”。</summary><br/>
+
+  即解锁了高级功能，去除了谷歌服务，算是更加纯粹的开源版本。
+
+  </details>
 
 - [Vanilla Music](https://github.com/vanilla-music/vanilla)
   [[F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla/)]
   [[网站](https://vanilla-music.github.io/)]\*
 
-  老牌音乐播放器，从Reddit上的反馈来看似乎是开源中为数不多对.opus文件支持较好的播放器。
+  <details>
+
+  <summary>老牌音乐播放器。</summary><br/>
+
+  从 Reddit 上的反馈来看似乎是开源中为数不多对 .opus 文件支持较好的播放器。
+
+  </details>
 
 - [Mpd](https://github.com/MusicPlayerDaemon/MPD/)
   [[F-Droid](https://f-droid.org/packages/org.musicpd/)]
 
-  前后端分离的音乐播放应用。这个属于极客范畴了，本身不携带控制界面，并且实用性也不如正常的音乐播放器。Linux用户或许用过，至少我是很喜欢的（是说喜欢Linux桌面的使用情景，安卓上的使用体验是很糟的）。
+  <details>
+
+  <summary>前后端分离的音乐播放应用。</summary><br/>
+
+  这个属于极客范畴了，本身不携带控制界面，并且实用性也不如正常的音乐播放器。Linux 用户或许用过，至少我是很喜欢的（是说喜欢 Linux 桌面的使用情景，安卓上的使用体验是很糟的）。
+
+  </details>
 
 - [M.A.L.P.](https://gitlab.com/gateship-one/malp)
   [[F-Droid](https://f-droid.org/packages/org.gateshipone.malp/)]
 
-  上述Mpd的前端。可以控制安卓手机自己的Mpd，也可以连接到电脑上的Mpd。
+  <details>
+
+  <summary>上述 Mpd 的前端。</summary><br/>
+
+  可以控制安卓手机自己的 Mpd，也可以连接到电脑上的 Mpd。
+
+  </details>
 
 - [Noice](https://github.com/ashutoshgngwr/noice)
   [[F-Droid](https://f-droid.org/packages/com.github.ashutoshgngwr.noice/)]
   [[网站](https://ashutosh.blog/noice/)]
 
-  播放噪音/自然声音。内置各种共30+种声音，可以自由组合，设置每一种声音的音量，保存为预设。
+  <details>
+
+  <summary>播放噪音/自然声音。</summary><br/>
+
+  内置各种共30+种声音，可以自由组合，设置每一种声音的音量，保存为预设。**有付费选项。**
+
+  </details>
 
 - [SoundAura](https://github.com/CliffracerMerchant/SoundAura)
   [[F-Droid](https://f-droid.org/packages/com.cliffracertech.soundaura)]
 
-  同时播放多条用户提供的音频。实际上可以完成上边Noice的功能，但软件没有自带任何声音，需要我们自己去下载。
+  <details>
+
+  <summary>同时播放多条用户提供的音频。</summary><br/>
+
+  实际上可以完成上边Noice的功能，但软件没有自带任何声音，需要我们自己去下载。
 
   Issue中有人推荐了一些“双耳节拍"音频，可以下载尝试：
   - https://orangefreesounds.com/binaural-beats/
   - https://archive.org/details/binaural-beats_201904
   - https://musicalhypnosis.com/royalty-free-binaural-beats/
 
+  </details>
+
 #### 流媒体
 
 - [YAACC](https://github.com/tobexyz/yaacc-code)
   [[F-Droid](https://f-droid.org/packages/de.yaacc/)]\*
 
-  DLNA服务器/客户端/接收器/控制器。经过迭代已变得基本可用，可部分替代BubbleUPnP。
+  <details>
+
+  <summary>DLNA服务器/客户端/接收器/控制器。</summary><br/>
+
+  经过迭代已变得基本可用，可部分替代BubbleUPnP。
+
+  </details>
 
 #### 绘画
 
