@@ -5,12 +5,12 @@
 ## 基本信息
 
 - **仓库**：
-  [Github主仓库](https://github.com/xlucn/oh-my-foss-android)，
-  [Gitee同步仓库](https://gitee.com/lewinat0r/oh-my-foss-android)。
+  [Github 主仓库](https://github.com/xlucn/oh-my-foss-android)，
+  [Gitee 同步仓库](https://gitee.com/lewinat0r/oh-my-foss-android)。
 - **特点**：强调使用体验，希望读者能更好地提前了解软件的特点。
-- **推荐**：软件推荐，欢迎提交issue或PR。他人贡献并且我没有使用过的条目会标注`*`。
-- **历史**：软件增删等变更请查看git提交历史。
-- **版权**：本文遵循[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)版权协议发表。如需转载等，无需征得同意，只需要符合协议要求。例如，该版权要求只能以相同许可协议传播（SA）、需要明确说明作者和来源（BY）。版权声明见文末。
+- **推荐**：软件推荐，欢迎提交 issue 或 PR。他人贡献并且我没有使用过的条目会标注`*`。
+- **历史**：软件增删等变更请查看 git 提交历史。
+- **版权**：本文遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 版权协议发表。如需转载等，无需征得同意，只需要符合协议要求。例如，该版权要求只能以相同许可协议传播（SA）、需要明确说明作者和来源（BY）。版权声明见文末。
 
 
 ## 选择条件
@@ -19,42 +19,54 @@
 - **干净简约**：界面漂亮，赏心悦目。
 - **专一轻量**：功能适中（足够），不臃肿。
 - **受众广泛**：目标用户多，适合一般人。
-- **积极维护**：源代码持续更新。这一定程度上代表更少的bug和更好的兼容性，也说明开发者的用心和负责。
+- **积极维护**：源代码持续更新。这一定程度上代表更少的 bug 和更好的兼容性，也说明开发者的用心和负责。
 
 ## 分类
 
-请使用Github/Gitee自带的目录导航功能。
+请使用 Github/Gitee 自带的目录导航功能。
 
 ### 应用商店
 
 #### F-Droid 客户端
 
-[F-Droid](https://f-droid.org)是著名的开源安卓软件平台，其客户端提供软件的安装。F-Droid官方源会从源代码编译独立的安装文件，因此可检验软件中的不安全以及非开源因素，使得F-Droid上的软件保证很高的安全性和开源性。
+[F-Droid](https://f-droid.org) 是著名的开源安卓软件平台，其客户端提供软件的安装。F-Droid 官方源会从源代码编译独立的安装文件，因此可检验软件中的不安全以及非开源因素，使得 F-Droid 上的软件保证很高的安全性和开源性。
 
-还存在IzzyOnDroid等第三方F-Droid仓库。如果熟悉Linux的用户，会很了解这个概念，即只增加一个软件来源，但保持和F-Droid官方源软件相同的安装方式。这些第三方仓库丰富了软件的数量，提供更及时的更新，也一定程度放宽了采纳标准。
+还存在 IzzyOnDroid 等第三方 F-Droid 仓库。如果熟悉 Linux 的用户，会很了解这个概念，即只增加一个软件来源，但保持和 F-Droid 官方源软件相同的安装方式。这些第三方仓库丰富了软件的数量，提供更及时的更新，也一定程度放宽了采纳标准。
 
-建议安装其中一个F-Droid客户端。
+建议安装其中一个 F-Droid 客户端。
 
 - [F-Droid](https://gitlab.com/fdroid/fdroidclient)
   [[F-Droid](https://f-droid.org/packages/org.fdroid.fdroid)]
 
-  F-Droid官方客户端。虽是正统，但功能和界面并不是最好的，没什么值得表扬的。
+  <details>
+
+  <summary>F-Droid 官方客户端。</summary><br/>
+
+  虽是正统，但功能和界面并不是最好的，没什么值得表扬的。
+
+  </details>
 
 - [F-Droid Basic](https://gitlab.com/fdroid/fdroidclient)
   [[F-Droid](https://f-droid.org/packages/org.fdroid.basic)]\*
 
-  F-Droid官方客户端，升级了API。在Android 12及以上无需特权或root即可进行静默更新。
+  <details>
+
+  <summary>F-Droid 官方客户端，升级了 API。</summary><br/>
+
+  在 Android 12 及以上无需特权或 root 即可进行静默更新。
+
+  </details>
 
 - [Neo-Store](https://github.com/NeoApplications/Neo-Store)
   [[F-Droid](https://f-droid.org/packages/com.machiav3lli.fdroid)]
 
   <details>
 
-  <summary>Neo Store是基于Droid-ify（见下）的F-Droid客户端。</summary><br/>
+  <summary>Neo Store 是基于 Droid-ify（见下）的 F-Droid 客户端。</summary><br/>
 
-  界面风格有较大改动，个人认为更规范了，这里指对于质感设计的应用更加美观和符合直觉，相比之下，Droid-ify可能更加像一个没有设计能力的程序员随意为之的作品。
+  界面风格有较大改动，个人认为更规范了，这里指对于质感设计的应用更加美观和符合直觉，相比之下，Droid-ify 可能更加像一个没有设计能力的程序员随意为之的作品。
 
-  曾经取代/继承了Droid-ify，并入[Neo系列应用](https://github.com/NeoApplications/)。但是后来Droid-ify原作者因个人原因，选择不再参与Neo Store的开发，自己继续维护之前的Droid-ify代码。因此，现在两个项目都是正在维护的。
+  曾经取代/继承了 Droid-ify，并入 [Neo 系列应用](https://github.com/NeoApplications/)。但是后来 Droid-ify 原作者因个人原因，选择不再参与 Neo Store 的开发，自己继续维护之前的 Droid-ify 代码。因此，现在两个项目都是正在维护的。
 
   </details>
 
@@ -63,11 +75,11 @@
 
   <details>
 
-  <summary>F-Droid第三方客户端，基于Foxy droid（见下）。</summary><br/>
+  <summary>F-Droid 第三方客户端，基于 Foxy droid（见下）。</summary><br/>
 
-  后者不怎么维护了，因此有人修复bug、更新界面后发布了这个款app。目前使用起来不会有什么区别，日后可能会有新功能加入。在质感设计的风格上，应该是使用了第3代的设计语言，即有更多的圆角元素等特点。
+  后者不怎么维护了，因此有人修复 bug、更新界面后发布了这个款 app。目前使用起来不会有什么区别，日后可能会有新功能加入。在质感设计的风格上，应该是使用了第三代的设计语言，即有更多的圆角元素等特点。
 
-  更新：0.3版本加入了root👽静默安装，好耶！可以取代Foxy了。
+  更新：0.3 版本加入了 root👽 静默安装，好耶！可以取代 Foxy 了。
 
   更新：又加入了大量的内置仓库，可以不用导入了。
 
@@ -80,9 +92,9 @@
 
   <summary>最后更新时间：20200801</summary><br/>
 
-  长时间不更新了，推荐上面Droid-ify和Neo-Store。
+  长时间不更新了，推荐上面 Droid-ify 和 Neo-Store。
 
-  F-Droid第三方客户端，这个很简洁，只有1M多，基本功能尚可用，我一直用作官方客户端的替代品。
+  F-Droid 第三方客户端，这个很简洁，只有 1M 多，基本功能尚可用，我一直用作官方客户端的替代品。
   缺点是无法自动和批量安装，每次会弹出安装窗口。
 
  </details>
@@ -93,17 +105,17 @@
 
   <details>
 
-  <summary>最后更新时间：20210526 / 已404</summary><br/>
+  <summary>最后更新时间：20210526 / 已 404</summary><br/>
 
   已从官网消失。
 
-  F-Droid第三方客户端，有root的话可以一键更新/安装。
+  F-Droid 第三方客户端，有 root 的话可以一键更新/安装。
 
  </details>
 
 #### 谷歌商店第三方客户端
 
-谷歌商店能提供远多于F-Droid的安卓应用，但一般情况下，只能在安装谷歌服务框架的机器上使用。以下客户端能打破这个限制，无需任何依赖地运行在任何安卓手机上。
+谷歌商店能提供远多于 F-Droid 的安卓应用，但一般情况下，只能在安装谷歌服务框架的机器上使用。以下客户端能打破这个限制，无需任何依赖地运行在任何安卓手机上。
 
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
   [[F-Droid](https://f-droid.org/packages/com.aurora.store)]
@@ -127,9 +139,9 @@
 
   <details>
 
-  <summary>从源直接获取Android应用程序更新。</summary><br/>
+  <summary>从源直接获取 Android 应用程序更新。</summary><br/>
 
-  支持的应用源请查看[Wiki](https://wiki.obtainium.imranr.dev/sources/)，[这里](https://apps.obtainium.imranr.dev/)还有一个 Complex Obtainium Apps 列表。有相当一部分应用源和应用并不是开源的，注意甄别。
+  支持的应用源请查看 [Wiki](https://wiki.obtainium.imranr.dev/sources/)，[这里](https://apps.obtainium.imranr.dev/)还有一个 Complex Obtainium Apps 列表。有相当一部分应用源和应用并不是开源的，注意甄别。
 
   </details>
 
@@ -144,9 +156,9 @@
 
   <summary>著名的火狐浏览器的更纯净开源版本，去除了其中的闭源成分。</summary><br/>
 
-  Fennec原意是“[耳廓狐](https://baike.baidu.com/item/耳廓狐)”，根据百科这是最小的犬类动物，取名还是很有寓意的。
+  Fennec 原意是“[耳廓狐](https://zh.wikipedia.org/zh-cn/耳廓狐)”，根据百科这是最小的犬类动物，取名还是很有寓意的。
 
-  基础源代码还是Mozilla的，但应该是F-Droid平台自己编译，所以只能从这边安装。
+  基础源代码还是 Mozilla 的，但应该是 F-Droid 平台自己编译，所以只能从这边安装。
 
   </details>
 
@@ -156,7 +168,7 @@
 
   <summary>另一个强化版火狐浏览器。</summary><br/>
 
-  更长的扩展列表，支持about:config 。“Iceraven 浏览器结合了 Fenix 的力量和 Fennec 的精神，并向 Netscape Navigator 的伟大传统致敬。”
+  更长的扩展列表，支持 about:config 。“Iceraven 浏览器结合了 Fenix 的力量和 Fennec 的精神，并向 Netscape Navigator 的伟大传统致敬。”
 
   </details>
 
@@ -168,7 +180,7 @@
 
   <details>
 
-  <summary>最著名的开源邮件客户端，源代码已迁移到Thunderbird。</summary><br/>
+  <summary>最著名的开源邮件客户端，源代码已迁移到 Thunderbird。</summary><br/>
 
   支持多账号，选项很丰富。最近两年UI改进显著，越来越好用了。
 
@@ -182,11 +194,11 @@
 
   <details>
 
-  <summary>注重隐私的邮件客户端，XPrivacy作者M66B的作品。</summary><br/>
+  <summary>注重隐私的邮件客户端。</summary><br/>
 
   **高级版需要付费。**
 
-  无数的自定义选项，对隐私的极端保护。（个人只因为K9没有黑色小部件而选择了FairEmail）
+  XPrivacy 作者 M66B 的作品。无数的自定义选项，对隐私的极端保护。（个人只因为 K9 没有黑色小部件而选择了 FairEmail。）
 
   </details>
 
@@ -200,24 +212,34 @@
 
   <details>
 
-  <summary>RSS订阅软件，这类软件没有太令我满意的，这个就算比较好的了。</summary><br/>
+  <summary>RSS 订阅软件。这类软件没有太令我满意的，这个就算比较好的了。</summary><br/>
 
-  国内没有什么开源的新闻阅读软件，但是有很多资讯平台有RSS订阅。因此Feeder可以成为一个非常纯粹的新闻阅读软件，没有任何交互，像看报纸一样地阅读📰。
+  国内没有什么开源的新闻阅读软件，但是有很多资讯平台有 RSS 订阅。因此 Feeder 可以成为一个非常纯粹的新闻阅读软件，没有任何交互，像看报纸一样地阅读📰。
 
   </details>
 
 - [Read You](https://github.com/Ashinch/ReadYou)
   [[F-Droid](https://f-droid.org/packages/me.ash.reader/)]\*
 
-  同RSS订阅软件。[Material You](https://m3.material.io/) 设计风格，支持多种订阅方式，定时同步订阅及提醒。
+  <details>
 
-- ~~_[FastoTVLite](https://github.com/fastogt/fastotvlite_mobile)_~~
+  <summary>同 RSS 订阅软件，Material You设计风格。</summary><br/>
+
+  支持多种订阅方式，定时同步订阅及提醒。
+
+  </details>
+
+- [M3U](https://github.com/oxyroid/M3UAndroid)
+  [[F-Droid](https://f-droid.org/packages/com.m3u.androidApp/)]\*
+
+  <!-- [FastoTVLite](https://github.com/fastogt/fastotvlite_mobile)
+   这个项目看上去已经死了，名称及官网已变更，源码不更新。-->
 
   <details>
 
-  <summary>IPTV客户端。名称已变更，源码不更新，官网已变更。建议可以尝试M3UAndroid。</summary><br/>
+  <summary>IPTV 客户端。</summary><br/>
 
-  可以从网络串流观看电视节目，大家可以自行从网上搜集IPTV资源，添加至播放器中，就可以播放了。
+  可以从网络串流观看电视节目，大家可以自行从网上搜集 IPTV 资源，添加至播放器中，就可以播放了。
 
   </details>
 
@@ -239,7 +261,7 @@
 
   <summary>已存档：20241206</summary><br/>
 
-  另一个收音机应用，应该基于Transistor。不太清楚与后者有什么不同，Transistor也没有放弃维护。
+  另一个收音机应用，应该基于 Transistor。不太清楚与后者有什么不同，Transistor 也没有放弃维护。
 
   </details>
 
@@ -253,7 +275,7 @@
   [[F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/)]
   [[网站](https://antennapod.org/)]\*
 
-  Podcast客户端有很多，这款历史久，开发活跃，功能实而不华。
+  Podcast 客户端有很多，这款历史久，开发活跃，功能实而不华。
 
 - [Legado(阅读)](https://github.com/gedoor/legado)
   [[网站](https://www.legado.top)]
@@ -301,7 +323,7 @@
   [[网站](https://www.showlyapp.com/)]
   <details>
 
-  <summary>Trakt客户端，归纳自己看的电影和电视剧。</summary><br/>
+  <summary>Trakt 客户端，归纳自己看的电影和电视剧。</summary><br/>
 
   精确到集的进度管理，有追剧提醒，随时同步。美剧党神器。
 
@@ -310,26 +332,26 @@
 - [Episodes](https://github.com/red-coracle/episodes)
   [[F-Droid](https://f-droid.org/packages/com.redcoracle.episodes/)]
 
-  管理自己看过的电视剧，数据来自TMDB，功能上比较单一，更推荐上边的Showly。
+  管理自己看过的电视剧，数据来自 TMDB，功能上比较单一，更推荐上边的 Showly。
 
-#### BT客户端
+#### BT 客户端
 
-这里是一些BT软件的远程客户端，并不是直接在安卓手机上进行BT下载的客户端。
+这里是一些 BT 软件的远程客户端，并不是直接在安卓手机上进行 BT 下载的客户端。
 
 - [qbitcontroller](https://github.com/Bartuzen/qBitController)
   [[F-Droid](https://f-droid.org/packages/dev.bartuzen.qbitcontroller)]
 
-  Qbittorrent的远程控制软件。
+  Qbittorrent 的远程控制软件。
 
 - [Tremotesf](https://github.com/equeim/tremotesf-android)
   [[F-Droid](https://f-droid.org/repository/browse/?fdid=org.equeim.tremotesf)]
 
-  Transmission的远程控制软件。
+  Transmission 的远程控制软件。
 
 - [Transmissionic](https://github.com/6c65726f79/Transmissionic)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.sleroy.transmissionic)]
 
-  另一款Transmission的远程控制软件。
+  另一款 Transmission 的远程控制软件。
 
 ### 多媒体
 
