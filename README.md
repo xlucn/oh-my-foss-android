@@ -288,12 +288,6 @@
 
   </details>
 
-- [KOReader](https://github.com/koreader/koreader)
-  [[F-Droid](https://f-droid.org/packages/org.koreader.launcher.fdroid/)]
-  [[网站](https://koreader.rocks/)]
-
-  适用于电纸书的著名阅读软件。
-
 - [Shosetsu(书)](https://gitlab.com/shosetsuorg/shosetsu)
   [[F-Droid](https://f-droid.org/packages/app.shosetsu.android.fdroid)]
 
@@ -769,7 +763,7 @@
 - [Tape Measure](https://github.com/SecUSo/privacy-friendly-tape-measure)
   [[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlytapemeasure)]
   [[网站](https://secuso.aifb.kit.edu/english/Tape_Measure_and_Ruler.php)]
-  
+
   <details>
 
   <summary>另一个屏幕直尺（没跑路的那种）。</summary><br/>
@@ -830,14 +824,15 @@
   [[独立源](https://www.collaboraoffice.com/releases-en/collabora-office-on-mobiles-supporting-password-protected-documents-and-available-on-f-droid/)]
   [[网站](https://www.collaboraoffice.com)]
 
-  LibreOffice的安卓适配版，可以实现大多数的文档查看，还有实验性的编辑功能。这个应该是最好的开源office组件了（但依然不够好）。
+  <details>
 
-  需要F-Droid加入第三方源（链接见上），就可以方便地安装更新。
+  <summary>LibreOffice 的安卓适配版。</summary><br/>
 
-- [OpenDocument Reader](https://github.com/TomTasche/OpenDocument.droid)
-  [[F-Droid](https://f-droid.org/packages/at.tomtasche.reader)]
+  可以实现大多数的文档查看，还有实验性的编辑功能。这个应该是最好的开源 office 组件了（但依然不够好）。
 
-  功能很弱的文档查看软件，貌似主要解析文档里的内容，文档的格式就很……怎么说，显示地很朴素😅。几乎没有编辑功能。
+  需要 F-Droid 加入第三方源（链接见上），就可以方便地安装更新。
+
+  </details>
 
 #### 笔记
 
@@ -845,11 +840,15 @@
   [[F-Droid](https://f-droid.org/packages/net.gsantner.markor/)]
   [[网站](https://gsantner.net/project/markor.html?source=fdroid)]
 
-  笔记软件，使用markdown语法。
+  <details>
 
-  这个对于很多人并不是最优选择，但是我喜欢它直接对本地的纯文本文件进行编辑，而不是保存为其他的格式。这样我可以自行管理markdown文件，包括同步到电脑上，用其他编辑器去编辑。
+  <summary>笔记软件，使用 Markdown 语法。</summary><br/>
+
+  这个对于很多人并不是最优选择，但是我喜欢它直接对本地的纯文本文件进行编辑，而不是保存为其他的格式。这样我可以自行管理 Markdown 文件，包括同步到电脑上，用其他编辑器去编辑。
 
   这样不需要软件实现跨平台❎，而是通过文件格式进行跨平台。☑️
+
+  </details>
 
 - [Notally](https://github.com/OmGodse/Notally)
   [[F-Droid](https://f-droid.org/packages/com.omgodse.notally/)]
@@ -859,86 +858,177 @@
 - [Saber](https://github.com/adil192/saber)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.adilhanney.saber)]
 
-  不多见的开源手写笔记软件。~~我没有安卓平板，不知道实际体验如何。~~
-  我在两个安卓设备上体验了：一个装了LineageOS 18的三星Note 4（即第三方系统 + 第三方软件），另一个是官方系统的三星Tab A 9.7。
+  <details>
+
+  <summary>  不多见的开源手写笔记软件。</summary><br/>
+
+  ~~我没有安卓平板，不知道实际体验如何。~~
+  我在两个安卓设备上体验了：一个装了 LineageOS 18 的三星 Note 4（即第三方系统 + 第三方软件），另一个是官方系统的三星 Tab A 9.7。
   和原装系统下的自带笔记相比，延迟差不多（但本来就很高）,也支持压感。
-  想在纯开源的环境下体验手写笔记，在目前Saber是一个很不错的选择。
+  想在纯开源的环境下体验手写笔记，在目前 Saber 是一个很不错的选择。
+
+  </details>
 
 #### 卡片
 
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android)
-  [[F-Droid](https://f-droid.org/repository/browse/?fdid=com.ichi2.anki)]\*
+  [[F-Droid](https://f-droid.org/repository/browse/?fdid=com.ichi2.anki)]
+  [[网站](https://ankidroid.org/)]\*
 
-  跨平台记忆卡软件，可以制作和复习记忆卡。AnkiDroid 根据艾宾浩斯记忆曲线让你按时复习卡片。卡片编辑的功能也非常强大，如可以增加图片、挖空等等，大家可以自行探索。
+  <details>
 
-#### 文档
+  <summary>跨平台记忆卡软件，可以制作和复习记忆卡。</summary><br/>
+
+  AnkiDroid 根据艾宾浩斯记忆曲线让你按时复习卡片。卡片编辑的功能也非常强大，如可以增加图片、挖空等等，大家可以自行探索。
+
+  </details>
+
+#### 文档扫描
 
 - [OSS Document Scanner](https://github.com/Akylas/com.akylas.documentscanner)
-  [IzzyOnDroid](https://apt.izzysoft.de/packages/com.akylas.documentscanner)
+  [[IzzyOnDroid](https://apt.izzysoft.de/packages/com.akylas.documentscanner)]
 
-  文档扫描。之前只有下面的OpenScan做的不错，但是2023年底突然出现了一个更好的OSS Document Scanner。
-  这个软件具有正常的拍照导入或图片导入文档的功能，可以自由地（再次）裁切、调整顺序、20+种颜色滤镜。
+  <details>
+
+  <summary>文档扫描。整体上看，要比 OpenScan 好很多。</summary><br/>
+
+  之前只有下面的 OpenScan 做的不错，但是 2023 年底突然出现了一个更好的 OSS Document Scanner。
+  这个软件具有正常的拍照导入或图片导入文档的功能，可以自由地（再次）裁切、调整顺序、20+ 种颜色滤镜。
   并且，身为颜值党，我很喜欢这个按照质感设计绘制的界面。
 
-  整体上看，要比OpenScan好很多。当然这个软件目前正处于初期快速迭代的阶段，后续肯定还会有更多的功能实现和bug修复。我贡献了很粗糙的中文翻译，应该会在接下来1、2个版本加入。
+  当然这个软件目前正处于初期快速迭代的阶段，后续肯定还会有更多的功能实现和 bug 修复。我贡献了很粗糙的中文翻译，应该会在接下来 1、2 个版本加入。
+
+  </details>
 
 - [OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ethereal.openscan)]
 
-  文档扫描。和大家想的一样，可以拍照、裁切、再合成一个文档，可以导出为PDF。功能完整，比如有再次裁切（只能再切小）、调整顺序、颜色优化（灰阶或黑白）、分享等等。
+  <details>
+
+  <summary>文档扫描。推荐使用上面的 OSS Document Scanner。</summary><br/>
+
+  和大家想的一样，可以拍照、裁切、再合成一个文档，可以导出为 PDF。功能完整，比如有再次裁切（只能再切小）、调整顺序、颜色优化（灰阶或黑白）、分享等等。
 
   相比之下，我试过的其它开源扫描软件就太差了，上面功能大量缺失，我觉得缺一不可。
 
-  更新：推荐使用上面的OSS Document Scanner。
+  </details>
 
-- [Pdf Viewer Plus](https://github.com/JavaCafe01/PdfViewer)
-  ~~[[F-Droid](https://f-droid.org/packages/com.gsnathan.pdfviewer)]~~
+#### 文档阅读
 
-  **警告**：已停止开发，建议用下面的MJ PDF Reader。
+- [OpenDocument Reader](https://github.com/TomTasche/OpenDocument.droid)
+  [[F-Droid](https://f-droid.org/packages/at.tomtasche.reader)]
 
-  PDF阅读器，开源的同类软件UI都不怎么样，这个算是很好的了，期待和谷歌PDF阅读器差不多的开源版本出现。
+  <details>
+
+  <summary>功能很弱的文档查看软件。</summary><br/>
+
+  貌似主要解析文档里的内容，文档的格式就很……怎么说，显示地很朴素😅。几乎没有编辑功能。
+
+  </details>
+
+- _~~[Pdf Viewer Plus](https://github.com/JavaCafe01/PdfViewer)
+  [[F-Droid](https://f-droid.org/packages/com.gsnathan.pdfviewer)]~~_
+
+  <details>
+
+  <summary>源码已存档：20240204/F-droid 已 404。</summary><br/>
+
+  **警告**：已停止开发，建议用下面的 MJ PDF Reader。
+
+  PDF 阅读器，开源的同类软件 UI 都不怎么样，这个算是很好的了，期待和谷歌 PDF 阅读器差不多的开源版本出现。
+
+  </details>
 
 - [MJ PDF Reader](https://gitlab.com/mudlej_android/mj_pdf_reader)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader)]
 
-  基于上述Pdf Viewer Plus的PDF阅读器。由于前者很久无维护，所以这个项目做了大量重构与适配工作，修复了一些问题，增加一些功能。总体来说解决了之前项目的一些痛点，值得一用。
+  <details>
+
+  <summary>基于上述 Pdf Viewer Plus 的 PDF 阅读器。</summary><br/>
+
+  由于前者很久无维护，所以这个项目做了大量重构与适配工作，修复了一些问题，增加一些功能。总体来说解决了之前项目的一些痛点，值得一用。
+
+  </details>
+
+- [KOReader](https://github.com/koreader/koreader)
+  [[F-Droid](https://f-droid.org/packages/org.koreader.launcher.fdroid/)]
+  [[网站](https://koreader.rocks/)]
+
+  适用于电子书的著名阅读软件。
 
 - [Librera Reader](https://github.com/foobnix/LibreraReader)
   [[F-Droid](https://f-droid.org/packages/com.foobnix.pro.pdf.reader/)]
   [[网站](https://librera.mobi/)]
 
-  一个电子书的阅读与管理软件。其实开源安卓应用中很少具有管理文档的功能，这个软件就填补了空缺。
+  <details>
+
+  <summary>一个电子书的阅读与管理软件。</summary><br/>
+
+  其实开源安卓应用中很少具有管理文档的功能，这个软件就填补了空缺。
 
   界面虽然看起来很过时，但是整个应用的功能还是很成熟的，这个应该更重要一些。
 
-- [Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD)
-  [[F-Droid](https://f-droid.org/packages/com.github.axet.bookreader/)]
+  </details>
 
-  电子书阅读软件，比上面的Librera Reader更简陋一些，但也可以用。试了一个eupb，排版不太好。
+- _[Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD)
+  ~~[[F-Droid](https://f-droid.org/packages/com.github.axet.bookreader/)]~~_
+
+  <details>
+
+  <summary>最后更新：20220803/F-droid 已 404。</summary><br/>
+
+  电子书阅读软件。比上面的 Librera Reader 更简陋一些，但也可以用。试了一个 eupb，排版不太好。
+
+  </details>
 
 #### 词典翻译
 
 - [Aard2](https://github.com/itkach/aard2-android)
   [[F-Droid](https://f-droid.org/packages/itkach.aard2/)]
+  [[网站](https://aarddict.org/)]
 
-  还是不错的词典软件，支持很多词典，可以在官网找到相应下载链接。可惜作者不愿意将界面更新为早已成为主流的质感设计（见[此 issue](https://github.com/itkach/aard2-android/issues/72)），因此界面很老旧。
+  <details>
+
+  <summary>支持很多词典，可以在官网找到相应下载链接。</summary><br/>
+
+  可惜作者不愿意将界面更新为早已成为主流的质感设计（见[此 issue](https://github.com/itkach/aard2-android/issues/72)），因此界面很老旧。
+
+  </details>
 
 - [QuickDic](https://github.com/rdoeffinger/Dictionary)
   [[F-Droid](https://f-droid.org/packages/de.reimardoeffinger.quickdic/)]
 
-  词典软件。怎么说呢，一言难尽啊，开源的词典真的没找到很好用的。这个QuickDic可以下载很多中词典文件，但基本是多语种互译。查词的时候把所有词显示出来，查哪个滚动到哪个。
+  <details>
+
+  <summary>词典软件。</summary><br/>
+
+  怎么说呢，一言难尽啊，开源的词典真的没找到很好用的。这个 QuickDic 可以下载很多中词典文件，但基本是多语种互译。查词的时候把所有词显示出来，查哪个滚动到哪个。
+
+  </details>
 
 - [DeepL](https://github.com/sakusaku3939/DeepLAndroid)
   [[F-Droid](https://f-droid.org/packages/com.example.deeplviewer/)]
 
-  翻译软件。基于深度学习的翻译引擎，这个是把网页版包装成了一个轻量的应用。重要的是，可以在选取文字后的弹出菜单里选择DeepL进行翻译。
+  <details>
+
+  <summary>翻译软件，基于深度学习的翻译引擎。</summary><br/>
+
+  这个是把网页版包装成了一个轻量的应用。重要的是，可以在选取文字后的弹出菜单里选择 DeepL 进行翻译。
+
+  </details>
 
 #### 数学工具
 
 - [microMathematics Plus](https://github.com/mkulesh/microMathematics)
   [[F-Droid](https://f-droid.org/packages/com.mkulesh.micromath.plus/)]
 
-  掌上CAS。极为强大的计算机代数系统（CAS），函数、微积分、作图等应有尽有。采用了最近越来越常见的笔记本（notebook）的形式，输入和输出都可以保留下来，作图会内置显示等。陪你度过大学不是梦。
+  <details>
+
+  <summary>掌上 CAS，极为强大的计算机代数系统。</summary><br/>
+
+  函数、微积分、作图等应有尽有。采用了最近越来越常见的笔记本（notebook）的形式，输入和输出都可以保留下来，作图会内置显示等。陪你度过大学不是梦。
+
+  </details>
 
 #### 百科
 
@@ -946,29 +1036,55 @@
   [[F-Droid](https://f-droid.org/packages/org.wikipedia/)]
   [[网站](https://www.mediawiki.org/wiki/Wikimedia_Apps)]
 
-  维基百科官方客户端，只有10M，很小巧但五脏俱全。Wikipedia在平台建设上确实遥遥领先，希望国内同行快点幡然醒悟。
+  <details>
+
+  <summary>维基百科官方客户端，只有 10M，很小巧但五脏俱全。</summary><br/>
+
+  Wikipedia 在平台建设上确实遥遥领先，希望国内同行快点幡然醒悟。
+
+  </details>
 
 #### 星图
 
 - [Sky Map](https://github.com/sky-map-team/stardroid)
   [[F-Droid](https://f-droid.org/packages/com.google.android.stardroid/)]
+  [[网站](https://sky-map-team.github.io/stardroid/)]
 
-  2023.12注：更新减缓，推荐用Stellarium，虽然没有经过F-Droid/IzzyOnDroid发布，但也算是开源吧。
+  <details>
 
-  星图软件，让你上知天文。借助重力感应，把手机指向天空就可以方便对照天上的星是什么名字。当然其他功能就不多了。
+  <summary>星图软件，让你上知天文。</summary><br/>
+
+  2023.12 注：更新减缓，推荐用 Stellarium，虽然没有经过 F-Droid/IzzyOnDroid 发布，但也算是开源吧。
+
+  借助重力感应，把手机指向天空就可以方便对照天上的星是什么名字。当然其他功能就不多了。
 
   虽然在更新，但是界面比较落后，数据貌似也不多。
 
-- [Stellarium](https://www.stellarium-labs.com/stellarium-mobile-plus/)
+  </details>
 
-  大名鼎鼎的Stellarium，最近桌面端发布了1.0版本，才反应过来它也是开源的。但是只能在其他应用商店下载。专业性上即便在商业软件中也算极为优秀。
+- [Stellarium](https://github.com/Stellarium/stellarium)
+  [网站](https://www.stellarium-labs.com/stellarium-mobile-plus/)
+
+  <details>
+
+  <summary>大名鼎鼎的Stellarium。</summary><br/>
+
+  最近桌面端发布了 1.0 版本，才反应过来它也是开源的。但是只能在其他应用商店下载。专业性上即便在商业软件中也算极为优秀。
+
+  </details>
 
 #### 单位转换
 
 - [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate)
   [[F-Droid](https://www.f-droid.org/packages/com.physphil.android.unitconverterultimate/)]
 
-  单位转换工具，非常全面，除了常见的长度、面积、重量等基础物理单位，还有汇率、存储单位等。
+  <details>
+
+  <summary>单位转换工具，非常全面。</summary><br/>
+
+  除了常见的长度、面积、重量等基础物理单位，还有汇率、存储单位等。
+
+  </details>
 
 ### 系统工具
 
