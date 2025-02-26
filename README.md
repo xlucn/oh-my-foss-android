@@ -90,7 +90,7 @@
 
   <details>
 
-  <summary>最后更新：20200801</summary><br/>
+  <summary>最后更新：20200801。</summary><br/>
 
   长时间不更新了，推荐上面 Droid-ify 和 Neo-Store。
 
@@ -105,7 +105,7 @@
 
   <details>
 
-  <summary>最后更新：20210526 / 已 404</summary><br/>
+  <summary>最后更新：20210526/F-droid 已 404。</summary><br/>
 
   已从官网消失。
 
@@ -223,7 +223,7 @@
 
   <details>
 
-  <summary>同 RSS 订阅软件，Material You设计风格。</summary><br/>
+  <summary>同 RSS 订阅软件，Material You 设计风格。</summary><br/>
 
   支持多种订阅方式，定时同步订阅及提醒。
 
@@ -259,7 +259,7 @@
 
   <details>
 
-  <summary>已存档：20241206</summary><br/>
+  <summary>源码已存档：20241206。</summary><br/>
 
   另一个收音机应用，应该基于 Transistor。不太清楚与后者有什么不同，Transistor 也没有放弃维护。
 
@@ -424,7 +424,7 @@
 - [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
   [[F-Droid](https://f-droid.org/packages/player.phonograph.plus/)]
 
-  也是 Phonograph 正在积极维护的 fork，在逐渐增加功能，中短期应该不会放弃。
+  也是 Phonograph 正在积极维护的 fork，在逐渐增加功能。
 
 - [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
   [[F-Droid](https://f-droid.org/packages/code.name.monkey.retromusic/)]
@@ -537,7 +537,7 @@
 
   大概相当于 Windows 上的绘图，貌似要功能更丰富一些。
 
-  **警告** ：2024 年 1 月，PixaPencil 过渡到新的领导层，并正在用 Flutter 重写，协议从 GNU GPL v3 切换到了 [PixaPencil's EULA](https://github.com/tomdoeslinux/PixaPencil/blob/main/EULA.txt)。[Reddit](https://www.reddit.com/r/Kotlin/comments/1ce6g74/my_first_kotlin_app_pixapencil_the_perfect_app/) 上的自荐，账号已被 ban，声称用 Kotlin 写的，在 Google Play 发布。真是混乱，是否仍旧真正开源自行甄别吧。
+  **警告** ：2024 年 1 月，PixaPencil 易主，并正在用 Flutter 重写，协议从 GNU GPL v3 切换到了 [PixaPencil's EULA](https://github.com/tomdoeslinux/PixaPencil/blob/main/EULA.txt)。[Reddit](https://www.reddit.com/r/Kotlin/comments/1ce6g74/my_first_kotlin_app_pixapencil_the_perfect_app/) 上的自荐，账号已被 ban，声称用 Kotlin 写的，在 Google Play 发布。真是混乱，是否仍旧真正开源自行甄别吧。
 
   </details>
 
@@ -553,9 +553,9 @@
 
   谷歌相机有着其他开源相机软件无法比拟的图像优化，成像质量可以提升好几档。此外，还有夜景模式、全景模式、HDR+ 等很强大的功能。对照片质量敏感的朋友，就不要用下面那些软件了。当然，这个解决方案并不是开源的。如果你不在意的话，这算是最佳方案了。
 
-  （2024.02 更新）后来才搞明白，这个软件有 Basic 和 Photos 两个版本。简单地说，如果系统上有 Google Photos，就用 Basic 版；如果没有，就用 Photos 版。这样可以使用相机界面的“相册”按钮打开系统相册。相见 [Izzyondroid页面](https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.photos)。
+  （2024.02 更新）后来才搞明白，这个软件有 Basic 和 Photos 两个版本。简单地说，如果系统上有 Google Photos，就用 Basic 版；如果没有，就用 Photos 版。这样可以使用相机界面的“相册”按钮打开系统相册。相见 [Izzyondroid 页面](https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.photos)。
 
-  安装此软件后，大家可以到 [Gcam的网站](https://www.celsoazevedo.com/files/android/google-camera/links/)寻找适配自己机型版本的 Gcam 和配置文件，简单安装即可。
+  安装此软件后，大家可以到 [Gcam 的网站](https://www.celsoazevedo.com/files/android/google-camera/links/)寻找适配自己机型版本的 Gcam 和配置文件，简单安装即可。
 
   </details>
 
@@ -582,9 +582,9 @@
 
   <details>
 
-  <summary>最后更新：20221020</summary><br/>
+  <summary>最后更新：20221020。</summary><br/>
 
-  相机软件。我觉得这个和 Open Camera 是开源相机中最好的两个，功能比较全面。当然这个全面是指对任何摄像头都适用的功能，如广角畸变修正、4合1像素再拆成4像素等就不灵了。作为通用相机软件，已经很不错了。
+  相机软件。我觉得这个和 Open Camera 是开源相机中最好的两个，功能比较全面。当然这个全面是指对任何摄像头都适用的功能，如广角畸变修正、4 合 1 像素再拆成 1 像素等就不灵了。作为通用相机软件，已经很不错了。
 
   </details>
 
@@ -608,7 +608,7 @@
 
   在 Lineage OS 下，其它相机软件照片质量奇差，涂抹到细节全失。另外，像夜景模式、超像素的支持也都有。在功能上是吊打上面两位和 Lineage OS 自带相机的。
 
-  更新：这一段的问题应该已经解决，我尝试编译了最新的git仓库代码，没有长时间卡顿了，不过没有新版本发布。在此前，打开和切换界面都等数十秒长。有一个 [issue](https://github.com/eszdman/PhotonCamera/issues/54) 说它在扫描设备上所有的照片，不知是不是长时间不响应的原因。
+  更新：这一段的问题应该已经解决，我尝试编译了最新的git仓库代码，没有长时间卡顿了，不过没有新版本发布。在此前，打开和切换界面都等数十秒长。有[一个 issue](https://github.com/eszdman/PhotonCamera/issues/54) 说它在扫描设备上所有的照片，不知是不是长时间不响应的原因。
 
   另外，这款软件可能不是默认支持所有设备的，但没找到它支持设备的条件（源代码里有支持列表）。
 
@@ -622,49 +622,87 @@
   [[F-Droid](https://f-droid.org/packages/net.osmand.plus/)]
   [[网站](https://osmand.net/)]
 
-  OpenStreetMap地图。因为数据都是用户自己贡献的，所以越偏僻的地方数据越少。如果在大城市，可以尝试一下，基本的浏览和导航功能还是可以用的。
+  <details>
 
-  请在F-Droid平台安装，那边的开发者在源代码的基础上，去掉了其中的付费页面，编译了OSMAnd+的所有功能。这在谷歌苹果亚马逊的商店都收费至少20刀。
+  <summary>OpenStreetMap 地图。</summary><br/>
 
-  OSM能做到的功能实际很多，国内地图能记录的信息OSM基本都可以，比如多层建筑、公交地铁线路，但要贡献者自己学会怎么编辑。
+  因为数据都是用户自己贡献的，所以越偏僻的地方数据越少。如果在大城市，可以尝试一下，基本的浏览和导航功能还是可以用的。
+
+  请在 F-Droid 平台安装，那边的开发者在源代码的基础上，去掉了其中的付费页面，编译了 OSMAnd+ 的所有功能。这在谷歌苹果亚马逊的商店都收费至少 20 刀。
+
+  OSM 能做到的功能实际很多，国内地图能记录的信息 OSM 基本都可以，比如多层建筑、公交地铁线路，但要贡献者自己学会怎么编辑。
+
+  </details>
 
 - [Organic Maps](https://github.com/organicmaps/organicmaps)
   [[F-Droid](https://f-droid.org/packages/app.organicmaps/)]
   [[网站](https://organicmaps.app/)]
 
-  基于OpenStreetMap数据的离线地图软件，是 Maps.me 的开源复刻，主打给驴友们做路线规划。
+  <details>
+
+  <summary>基于 OpenStreetMap 数据的离线地图软件。</summary><br/>
+
+  是 Maps.me 的开源复刻，主打给驴友们做路线规划。
+
+  </details>
 
 #### 天气
 
-- [GeometricWeather(几何天气)](https://github.com/WangDaYeeeeee/GeometricWeather)
-  [[F-Droid](https://f-droid.org/packages/wangdaye.com.geometricweather/)]
+- _[Geometric Weather(几何天气)](https://github.com/WangDaYeeeeee/GeometricWeather)
+  ~~[[F-Droid](https://f-droid.org/packages/wangdaye.com.geometricweather/)]~~_
 
-  开发已经停滞，建议使用下面的Breezy Weather。
+  <details>
+
+  <summary>开发已经停滞，建议使用下面的 Breezy Weather。</summary><br/>
 
   用过最好的天气软件之一，媲美很多国内安卓系统的自带天气软件。
 
+  </details>
+
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.breezyweather)]
+  [[F-Droid](https://f-droid.org/app/nodomain.freeyourgadget.gadgetbridge)]
 
-  基于几何天气的另一款天气软件，因为几何天气维护停滞，Breezy Weather应运而生，
-  增加了新的功能、提供商，修复了一些bug。整体上，就是一款更好的几何天气。
+  <details>
+
+  <summary>基于几何天气的另一款天气软件。</summary><br/>
+
+  因为几何天气维护停滞，Breezy Weather 应运而生，
+  增加了新的功能、提供商，修复了一些 bug。整体上，就是一款更好的几何天气。
+
+  注意二进制版本之间的区别，F-droid 版本去除了非自由网络来源。
+
+  </details>
 
 - [Pluvia Weather](https://github.com/SpicyChair/pluvia_weather_flutter)
 
-  不错的天气软件，界面相当漂亮，但是使用的OpenWeatherMap貌似国内连接很慢，预报也不一定准确。
+  <details>
 
-  更新：早在2022年，F-Droid官方就以检测到GMS使用为由下架了这个软件，但是作者并未有意识地使用（见[相关issue](https://github.com/SpicyChair/pluvia_weather_flutter/issues/56)）。所以现在F-Droid上安装不了了。大家可自行判断，或者干脆使用上面的Breezy天气。
+  <summary>不错的天气软件，界面相当漂亮。</summary><br/>
+
+  但是使用的 OpenWeatherMap 貌似国内连接很慢，预报也不一定准确。
+
+  更新：早在 2022 年，F-Droid 官方就以检测到 GMS 使用为由下架了这个软件，但是作者并未有意识地使用（见[相关 issue](https://github.com/SpicyChair/pluvia_weather_flutter/issues/56)）。所以现在 F-Droid上 安装不了了。大家可自行判断，或者干脆使用上面的 Breezy Weather。
+
+  </details>
 
 #### 智能穿戴
 
 - [Gadgetbridge](https://codeberg.org/Freeyourgadget/Gadgetbridge)
   [[F-Droid](https://f-droid.org/app/nodomain.freeyourgadget.gadgetbridge)]
+  [[网站](https://gadgetbridge.org/)]
 
-  智能手环/手表的手机客户端。无需官方软件，无需创建账号，即可管理你的手环和查看数据。
+  <details>
 
-  最兼容的是小米、Amazfit等，华为的很多设备也有较好的支持，目前可以比较好地[支持112款设备](https://gadgetbridge.org/gadgets/)。对于较新的设备，其中一些由于协议要求，需要安装一次官方软件并获取密钥，相关操作见[官方文档](https://gadgetbridge.org/basics/pairing/huami-xiaomi-server/)。
+  <summary>智能手环/手表的手机客户端。</summary><br/>
+
+  无需官方软件，无需创建账号，即可管理你的手环和查看数据。
+
+  最兼容的是小米、Amazfit 等，华为的很多设备也有较好的支持，目前可以比较好地[支持 112 款设备](https://gadgetbridge.org/gadgets/)。对于较新的设备，其中一些由于协议要求，需要安装一次官方软件并获取密钥，相关操作见[官方文档](https://gadgetbridge.org/basics/pairing/huami-xiaomi-server/)。
 
   就功能来说，可以操作的功能有：健康数据、通知同步、查看天气、来电处理、音乐控制、运动记录、设定闹钟、查找手机、导航显示等。这些对我来说真的足够了，并且几年前的手环就足以支持，成本极低。截至添加条目时，我已经用了2个月，感觉非常好用，可以替代官方软件。
+
+  </details>
 
 #### 自我管理
 
@@ -674,45 +712,82 @@
 
   待办列表管理，应该是同类最佳之一了。
 
-- [Loop Habit Tracker](https://github.com/iSoron/uhabits)
+- [Loop Habit Tracker(习惯)](https://github.com/iSoron/uhabits)
   [[F-Droid](https://f-droid.org/packages/org.isoron.uhabits/)]
 
-  制定规划，帮你监督，习惯养成利器。可以记录你每天计划完成的进度，做出统计，定时提醒。
+  <details>
 
-- [Feeel](https://gitlab.com/enjoyingfoss/feeel)
+  <summary>制定规划，帮你监督，习惯养成利器。</summary><br/>
+
+  可以记录你每天计划完成的进度，做出统计，定时提醒。
+
+  </details>
+
+- [Feeel(家庭锻炼)](https://gitlab.com/enjoyingfoss/feeel)
   [[F-Droid](https://f-droid.org/packages/com.enjoyingfoss.feeel/)]
 
-  锻炼规划。一个锻炼方案可以设定多个锻炼项目和时长，指导你完成锻炼。界面很漂亮，运动时每个项目有倒计时，内置的几个锻炼项目有根据真实照片抽象化的姿势展示。
+  <details>
 
-- [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds)
+  <summary>锻炼规划。</summary><br/>
+
+  一个锻炼方案可以设定多个锻炼项目和时长，指导你完成锻炼。界面很漂亮，运动时每个项目有倒计时，内置的几个锻炼项目有根据真实照片抽象化的姿势展示。
+
+  </details>
+
+- [Did I Take My Meds?(我吃药了吗？)](https://github.com/CorruptedArk/did-i-take-my-meds)
   [[F-droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds)]
 
-  监督用药。可以增添用药条目，指定数量，它会提醒你吃药，以及记录过往用药。虽然是新软件，但是目前的功能已经很不错了。
+  <details>
+
+  <summary>监督用药。</summary><br/>
+
+  可以增添用药条目，指定数量，它会提醒你吃药，以及记录过往用药。虽然是新软件，但是目前的功能已经很不错了。
+
+  </details>
 
 - [My Expenses(开支助手)](https://github.com/mtotschnig/MyExpenses)
   [[F-droid](https://f-droid.org/packages/org.totschnig.myexpenses/)]
   [[网站](https://www.myexpenses.mobi/)]\*
 
-  个人理财工具。
+  个人理财管理工具。
 
 #### 小工具
 
-- ~~[Ruler](https://github.com/congshengwu/Ruler)~~
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ruler.csw)]
+- _~~[Ruler](https://github.com/congshengwu/Ruler)~~
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ruler.csw)]_
+
+  <details>
+
+  <summary>源码已 404。</summary><br/>
 
   **警告**：源代码貌似没了。彻底不算开源软件了。
 
   很简单的屏幕直尺，默认可能有误差，但好在可以校准，没准什么时候可以应急。
 
+  </details>
+
 - [Tape Measure](https://github.com/SecUSo/privacy-friendly-tape-measure)
   [[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlytapemeasure)]
+  [[网站](https://secuso.aifb.kit.edu/english/Tape_Measure_and_Ruler.php)]
+  
+  <details>
 
-  另一个屏幕直尺（没跑路的那种）。实际上其主要功能为通过图片中的制定参考物测量其他物体长度，但远远没有苹果手机/平板上的那个功能方便好用。屏幕直尺的校准也不太好，需要你用另一个尺去量屏幕上的一条线，而不是用一张常见的卡片去校准。总之，设计上略显简陋和矛盾，但偶尔应急也没问题。
+  <summary>另一个屏幕直尺（没跑路的那种）。</summary><br/>
+
+  实际上其主要功能为通过图片中的制定参考物测量其他物体长度，但远远没有苹果手机/平板上的那个功能方便好用。屏幕直尺的校准也不太好，需要你用另一个尺去量屏幕上的一条线，而不是用一张常见的卡片去校准。总之，设计上略显简陋和矛盾，但偶尔应急也没问题。
+
+  </details>
 
 - [GuessIron](https://github.com/mobeil1/GuessIron)
   [[F-Droid](https://www.f-droid.org/zh/packages/de.indie42.guessiron/)]
 
-  更好的屏幕直尺（笑）。可以用另一个尺子、银行卡或者任意你知道长度的物体来校准。
+  <details>
+
+  <summary>更好的屏幕直尺（笑）。</summary><br/>
+
+  可以用另一个尺子、银行卡或者任意你知道长度的物体来校准。
+
+  </details>
 
 - [Compass](https://github.com/Kr0oked/Compass)
   [[F-Droid](https://f-droid.org/packages/danielmeek32.compass)]
@@ -722,25 +797,30 @@
 - [Trail Sense](https://github.com/kylecorry31/Trail-Sense)
   [[F-Droid](https://f-droid.org/packages/com.kylecorry.trail_sense/)]\*
 
-  野外生存应用，内置大量小工具。
+  <details>
+
+  <summary>野外生存应用，内置大量小工具。</summary><br/>
+
+  手机能做到的/你能想到的功能它几乎都有。
+
+  </details>
 
 - [Audio Spectrum Analyzer](https://github.com/woheller69/audio-analyzer-for-android)
   [[F-Droid](https://f-droid.org/packages/org.woheller69.audio_analyzer_for_android/)]
 
   声音频谱分析。
 
-- [Anywhere-](https://github.com/zhaobozhen/Anywhere-)
-  [[网站](https://absinthe.life/Anywhere-Docs/guide/)]\*
-
-  快捷方式收集。将你常用的应用页面（Activity）收集到一个界面并保存，可以在无需经过应用主界面的情况下快速打开。这里页面可以是扫码页面，可以是签到页面，实际上可以是任意软件的几乎任意界面。可玩性高，看你有没有需求了。
-
-  这个软件没有上架F-Droid或Izzyondroid，在酷安也被下架了，截至添加本条目时只能在Github Releases或者谷歌商店下载到。
-
 - [Bluetooth Remote(蓝牙遥控器)](https://gitlab.com/Atharok/BtRemote)
   [[F-Droid](https://f-droid.org/packages/com.atharok.btremote/)]
   [[网站](https://atharok.gitlab.io/site/projects/bt-remote/)]\*
 
-  顾名思义，主要用来临时替代鼠标键盘控制Android TV，还比较简陋有点小问题，可以作为Bluetooth Keyboard & Mouse(io.appground.blek)的下位替代。
+  <details>
+
+  <summary>顾名思义，另有蓝牙键鼠功能。</summary><br/>
+
+  适合在电视或者盒子上临时使用。还比较简陋有点小问题，可以作为Bluetooth Keyboard & Mouse(io.appground.blek)的下位替代。
+
+  </details>
 
 ### 学习办公
 
@@ -841,7 +921,7 @@
 - [Aard2](https://github.com/itkach/aard2-android)
   [[F-Droid](https://f-droid.org/packages/itkach.aard2/)]
 
-  还是不错的词典软件，支持很多词典，可以在官网找到相应下载链接。可惜作者不愿意将界面更新为早已成为主流的质感设计（见此[issue](https://github.com/itkach/aard2-android/issues/72)），因此界面很老旧。
+  还是不错的词典软件，支持很多词典，可以在官网找到相应下载链接。可惜作者不愿意将界面更新为早已成为主流的质感设计（见[此 issue](https://github.com/itkach/aard2-android/issues/72)），因此界面很老旧。
 
 - [QuickDic](https://github.com/rdoeffinger/Dictionary)
   [[F-Droid](https://f-droid.org/packages/de.reimardoeffinger.quickdic/)]
@@ -1235,6 +1315,14 @@
 
   通过网络推送与接收通知。通过一个网络连接，就可以把通知发送到已经配置好的手机上。有非常广泛的应用场景。但是对一般人来说，没有这种刚需，有点鸡肋。
 
+#### 其他
+
+- [Anywhere-](https://github.com/zhaobozhen/Anywhere-)
+  [[网站](https://absinthe.life/Anywhere-Docs/guide/)]\*
+
+  快捷方式收集。将你常用的应用页面（Activity）收集到一个界面并保存，可以在无需经过应用主界面的情况下快速打开。这里页面可以是扫码页面，可以是签到页面，实际上可以是任意软件的几乎任意界面。可玩性高，看你有没有需求了。
+
+  这个软件没有上架F-Droid或Izzyondroid，在酷安也被下架了，截至添加本条目时只能在Github Releases或者谷歌商店下载到。
 
 ### 极客工具
 
