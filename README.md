@@ -90,7 +90,7 @@
 
   <details>
 
-  <summary>最后更新时间：20200801</summary><br/>
+  <summary>最后更新：20200801</summary><br/>
 
   长时间不更新了，推荐上面 Droid-ify 和 Neo-Store。
 
@@ -105,7 +105,7 @@
 
   <details>
 
-  <summary>最后更新时间：20210526 / 已 404</summary><br/>
+  <summary>最后更新：20210526 / 已 404</summary><br/>
 
   已从官网消失。
 
@@ -483,9 +483,11 @@
 
   <details>
 
-  <summary>播放噪音/自然声音。</summary><br/>
+  <summary>播放白噪音/自然声音。</summary><br/>
 
-  内置各种共30+种声音，可以自由组合，设置每一种声音的音量，保存为预设。**有付费选项。**
+  **有付费内容。**
+
+  内置各种共 30+ 种声音，可以自由组合，设置每一种声音的音量，保存为预设。
 
   </details>
 
@@ -498,7 +500,7 @@
 
   实际上可以完成上边Noice的功能，但软件没有自带任何声音，需要我们自己去下载。
 
-  Issue中有人推荐了一些“双耳节拍"音频，可以下载尝试：
+  Issue 中有人推荐了一些“双耳节拍"音频，可以下载尝试：
   - https://orangefreesounds.com/binaural-beats/
   - https://archive.org/details/binaural-beats_201904
   - https://musicalhypnosis.com/royalty-free-binaural-beats/
@@ -512,9 +514,9 @@
 
   <details>
 
-  <summary>DLNA服务器/客户端/接收器/控制器。</summary><br/>
+  <summary>DLNA 服务器/客户端/接收器/控制器。</summary><br/>
 
-  经过迭代已变得基本可用，可部分替代BubbleUPnP。
+  经过迭代已变得基本可用，可部分替代 BubbleUPnP。
 
   </details>
 
@@ -525,12 +527,19 @@
 
   随便画点啥，功能比较全，甚至还有图层，界面也简洁漂亮。
 
-- [PixaPencil](https://github.com/therealbluepandabear/PixaPencil)
+- _[PixaPencil](https://github.com/therealbluepandabear/PixaPencil)
   [[F-Droid](https://f-droid.org/packages/com.therealbluepandabear.pixapencil/)]
+  [[网站](https://pixapencil.com/)]_
 
-  **警告**：已经停止开发。
+  <details>
 
-  自称“第一的开源像素绘画应用”，大概相当于windows上的绘图，貌似要功能更丰富一些。
+  <summary>自称“第一的开源像素绘画应用”，已易主。</summary><br/>
+
+  大概相当于 Windows 上的绘图，貌似要功能更丰富一些。
+
+  **警告** ：2024 年 1 月，PixaPencil 过渡到新的领导层，并正在用 Flutter 重写，协议从 GNU GPL v3 切换到了 [PixaPencil's EULA](https://github.com/tomdoeslinux/PixaPencil/blob/main/EULA.txt)。[Reddit](https://www.reddit.com/r/Kotlin/comments/1ce6g74/my_first_kotlin_app_pixapencil_the_perfect_app/) 上的自荐，账号已被 ban，声称用 Kotlin 写的，在 Google Play 发布。真是混乱，是否仍旧真正开源自行甄别吧。
+
+  </details>
 
 #### 相机
 
@@ -538,42 +547,72 @@
   [[F-Droid (Basic版)](https://f-droid.org/packages/de.lukaspieper.gcam.services/)]
   [[Izzyondroid (Photos版)](https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.photos)]
 
-  这个本身不是相机软件，但安装后允许用户安装[Gcam](https://www.celsoazevedo.com/files/android/google-camera/links/)，即谷歌相机。谷歌相机有着其他开源相机软件无法比拟的图像优化，成像质量可以提升好几档。此外，还有夜景模式、全景模式、HDR+等很强大的功能。对照片质量敏感的朋友，就不要用下面那些软件了。当然，这个解决方案并不是开源的。如果你不在意的话，这算是最佳方案了。
+  <details>
 
-  （2024.02更新）后来才搞明白，这个软件有Basic和Photos两个版本。简单地说，如果系统上有Google Photos，就用Basic版；如果没有，就用Photos版。这样可以使用相机界面的“相册”按钮打开系统相册。相见[Izzyondroid页面](https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.photos)。
+  <summary>这个本身不是相机软件，但安装后允许用户安装 Gcam，即谷歌相机。</summary><br/>
 
-  安装此软件后，大家可以到[Gcam的网站](https://www.celsoazevedo.com/files/android/google-camera/links/)寻找适配自己机型版本的Gcam和配置文件，简单安装即可。
+  谷歌相机有着其他开源相机软件无法比拟的图像优化，成像质量可以提升好几档。此外，还有夜景模式、全景模式、HDR+ 等很强大的功能。对照片质量敏感的朋友，就不要用下面那些软件了。当然，这个解决方案并不是开源的。如果你不在意的话，这算是最佳方案了。
 
-- Aperture
+  （2024.02 更新）后来才搞明白，这个软件有 Basic 和 Photos 两个版本。简单地说，如果系统上有 Google Photos，就用 Basic 版；如果没有，就用 Photos 版。这样可以使用相机界面的“相册”按钮打开系统相册。相见 [Izzyondroid页面](https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.photos)。
 
-  Lineage OS 20 自带相机应用。相较之前自带的Snap（版本19之前）和AOSP原生相机（版本19），界面更加漂亮，功能更加丰富，可以说接近手机原系统中的相机应用了。
+  安装此软件后，大家可以到 [Gcam的网站](https://www.celsoazevedo.com/files/android/google-camera/links/)寻找适配自己机型版本的 Gcam 和配置文件，简单安装即可。
 
-  有了这个（当然前提是你在用LineageOS），我自认为可以不再考虑下面几个开源方案。
-  此外，只有Gcam可以在功能和质量上好于Aperture，但与系统的集成却比较差。不在乎成像质量的，使用这个自带应用就行。
+  </details>
+
+- [Aperture](https://github.com/LineageOS/android_packages_apps_Aperture)
+
+  <details>
+
+  <summary>Lineage OS 20 自带相机应用。</summary><br/>
+
+  相较之前自带的 Snap（版本19之前）和 AOSP 原生相机（版本19），界面更加漂亮，功能更加丰富，可以说接近手机原系统中的相机应用了。
+
+  有了这个（当然前提是你在用 Lineage OS），我自认为可以不再考虑下面几个开源方案。
+  此外，只有 Gcam 可以在功能和质量上好于 Aperture，但与系统的集成却比较差。不在乎成像质量的，使用这个自带应用就行。
 
   之前的描述依然适用，复制如下：
 
   这类第三方相机软件（这是相对于手机原系统来说的）都有一个缺陷，就是无法很好地利用硬件，比如无法利用一分四的超像素，没有延长曝光的超级夜景模式，等等。
   不过在软件上做的已经很不错，还集成了二维码扫描，不用装单独的二维码扫描软件了。
 
-- [FreeDCam](https://github.com/KillerInk/FreeDcam)
-  [[F-Droid](https://f-droid.org/packages/troop.com.freedcam)]
+  </details>
 
-  相机软件。我觉得这个和Open Camera是开源相机中最好的两个，功能比较全面。当然这个全面是指对任何摄像头都适用的功能，如广角畸变修正、4合1像素再拆成4像素等就不灵了。作为通用相机软件，已经很不错了。
+- _[FreeDCam](https://github.com/KillerInk/FreeDcam)
+  [[F-Droid](https://f-droid.org/packages/troop.com.freedcam)]_
+
+  <details>
+
+  <summary>最后更新：20221020</summary><br/>
+
+  相机软件。我觉得这个和 Open Camera 是开源相机中最好的两个，功能比较全面。当然这个全面是指对任何摄像头都适用的功能，如广角畸变修正、4合1像素再拆成4像素等就不灵了。作为通用相机软件，已经很不错了。
+
+  </details>
 
 - [Open Camera](https://sourceforge.net/p/opencamera/code)
   [[F-Droid](https://f-droid.org/packages/net.sourceforge.opencamera/)]
   [[网站](https://opencamera.org.uk/)]
 
-  比较强大的相机软件。但是界面很丑，开发减缓，感觉开发者逐渐有点无心无力。（不过，最近更新了1.49.1。）
+  <details>
+
+  <summary>比较强大的相机软件，但是界面很丑。</summary><br/>
+
+  开发减缓，感觉开发者逐渐有点无心无力。（不过，最近更新了 1.53.1。）
+
+  </details>
 
 - [Photon Camera](https://github.com/eszdman/PhotonCamera)
 
-  很神奇的相机软件。在LineageOS下，其它相机软件照片质量奇差，涂抹到细节全失。偏偏Photon Camera的照片质量堪比官方OS下的自带相机。另外，像夜景模式、超像素的支持也都有。在功能上是吊打上面两位和LineageOS自带相机的。
+  <details>
 
-  更新：这一段的问题应该已经解决，我尝试编译了最新的git仓库代码，没有长时间卡顿了，不过没有新版本发布。在此前，打开和切换界面都等数十秒长。有[一个issue](https://github.com/eszdman/PhotonCamera/issues/54)说它在扫描设备上所有的照片，不知是不是长时间不响应的原因。
+  <summary>很神奇的相机软件，照片质量堪比官方 OS 下的自带相机。</summary><br/>
+
+  在 Lineage OS 下，其它相机软件照片质量奇差，涂抹到细节全失。另外，像夜景模式、超像素的支持也都有。在功能上是吊打上面两位和 Lineage OS 自带相机的。
+
+  更新：这一段的问题应该已经解决，我尝试编译了最新的git仓库代码，没有长时间卡顿了，不过没有新版本发布。在此前，打开和切换界面都等数十秒长。有一个 [issue](https://github.com/eszdman/PhotonCamera/issues/54) 说它在扫描设备上所有的照片，不知是不是长时间不响应的原因。
 
   另外，这款软件可能不是默认支持所有设备的，但没找到它支持设备的条件（源代码里有支持列表）。
+
+  </details>
 
 ### 日常工具
 
