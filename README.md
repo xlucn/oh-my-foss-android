@@ -1064,7 +1064,7 @@
 
   <details>
 
-  <summary>大名鼎鼎的Stellarium。</summary><br/>
+  <summary>大名鼎鼎的 Stellarium。</summary><br/>
 
   最近桌面端发布了 1.0 版本，才反应过来它也是开源的。但是只能在其他应用商店下载。专业性上即便在商业软件中也算极为优秀。
 
@@ -1096,19 +1096,39 @@
   [[F-Droid](https://f-droid.org/packages/com.ghostsq.commander/)]
   [[网站](https://sites.google.com/site/ghostcommander1)]\*
 
-  双面板文件管理器。灵感源于两大经典软件：DOS下的Norton Commander和Linux下的Midnight Commander。界面没有跟进质感设计的风格，但也有自己的特色。
+  <details>
 
-- [Disk Usage](https://github.com/IvanVolosyuk/diskusage)
+  <summary>双面板文件管理器。</summary><br/>
+
+  灵感源于两大经典软件：DOS 下的 Norton Commander 和 Linux 下的 Midnight Commander。界面没有跟进质感设计的风格，但也有自己的特色。
+
+  </details>
+
+- [Disk Usage](https://github.com/WhiredPlanck/diskusage)
   [[F-Droid](https://f-droid.org/packages/com.google.android.diskusage/)]
 
-  磁盘占用分析，类似于Windows的SpaceSniffer，类Unix的du，显示手机上磁盘占用情况。
+  <details>
+
+  <summary>磁盘占用分析，显示手机上磁盘占用情况。</summary><br/>
+
+  类似于 Windows 的 SpaceSniffer，类 Unix 的 du。
 
   这类开源应用实在没有更“现代”的选择了，界面比较落后，好在这个软件依然完美运行，源代码也在维护。根据最新半个月（2022.04）的提交消息来看，有超级多的代码更新，可能会有新版本？
+
+  更换了维护者，尚未发布新版本。SD Maid 其实有类似的实现。
+
+  </details>
 
 - [CIFS Documents Provider](https://github.com/wa2c/cifs-documents-provider)
   [[F-Droid](https://f-droid.org/packages/com.wa2c.android.cifsdocumentsprovider/)]\*
 
-  将网络存储挂载到SAF，支援SMB/FTP(S)/SFTP。其他应用只需访问SAF便可访问网络存储。
+  <details>
+
+  <summary>将网络存储挂载到 SAF。</summary><br/>
+
+  支援 SMB/FTP(S)/SFTP。其他应用只需访问 SAF 便可访问网络存储。
+
+  </details>
 
 #### 文件同步
 
@@ -1116,44 +1136,83 @@
   [[F-Droid](https://f-droid.org/packages/com.seafile.seadroid2/)]
   [[网站](https://www.seafile.com/home/)]
 
-  文件同步/网盘客户端。是国内开发的，需要自己搭服务器。我们学校用它做了一个box，访问起来很方便：）
+  <details>
+
+  <summary>文件同步/网盘客户端，是国内开发的，需要自己搭服务器。</summary><br/>
+
+  我们学校用它做了一个 box，访问起来很方便：）
+
+  </details>
 
 - [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android-fdroid)
   [[F-Droid](https://f-droid.org/packages/com.github.catfriend1.syncthingandroid/)]
   [[网站](https://syncthing.net/)]\*
 
-  文件夹同步软件，可仅局域网使用。和KDE Connect有同样的缺点，保活做得不是很好，比KDE更差，连上WIFI后不能自动与PC桌面服务连接。个人解决方案是连接WIFI后使用Tasker自动打开软件一次。
-  
-  Syncthing主项已停止Android端开发，只能更换此增强版使用了。
+  <details>
+
+  <summary>文件同步软件，支持局域网和在线同步。</summary><br/>
+
+  和 KDE Connect 有同样的缺点，保活做得不是很好，网络环境变化后与其他设备连接可能不及时。个人解决方案是连接 WIFI 后使用 Tasker 自动打开软件一次。
+
+  Syncthing 主项已停止 Android 端开发，只能更换此增强版使用了。
+
+  </details>
 
 #### 文件分享
 
-- [localsend](https://github.com/localsend/localsend/)
+- [LocalSend](https://github.com/localsend/localsend/)
   [[F-droid](https://f-droid.org/packages/org.localsend.localsend_app)]
+  [[网站](https://localsend.org)]
 
-  官方自己介绍为“开源、跨平台的AirDrop替代”，可以在局域网内多设备间传递文件。软件会自动搜索局域网内就绪的其他设备，一触即发，无需互联网连接，也无需账号或者提前配对等操作。可以分享文件、文件夹、文本、剪贴板、应用apk等，基本没有限制。
+  <details>
 
-  对于Linux用户来讲，竞争对手就是KDE Connect这类通过配对连接并分享文件的方案了。相比之下，我更喜欢localsend的操作简洁。当然，KDE Connect还有通知同步、远程输入等其他功能，也是相当强大和良心的软件。
+  <summary>可以在局域网内多设备间传递文件。</summary><br/>
+
+  官方自己介绍为“开源、跨平台的 AirDrop 替代”。软件会自动搜索局域网内就绪的其他设备，一触即发，无需互联网连接，也无需账号或者提前配对等操作。可以分享文件、文件夹、文本、剪贴板、应用 apk 等，基本没有限制。
+
+  对于 Linux 用户来讲，竞争对手就是 KDE Connect 这类通过配对连接并分享文件的方案了。相比之下，我更喜欢 LocalSend 的操作简洁。当然，KDE Connect 还有通知同步、远程输入等其他功能，也是相当强大和良心的软件。
+
+  </details>
 
 - [open2share](https://github.com/linesoft2/open2share)
-  [[F-Droid](https://f-droid.org/packages/top.linesoft.open2share/)]
+  [[F-Droid](https://f-droid.org/packages/top.linesoft.open2share/)]\*
 
-  这是一款可以将“打开文件”转换为“分享文件”的Android小工具。用于解决某些App（读作weixin）不接入系统文件分享功能导致的各种不便。（不过，在wx多选界面点击右下角的邮件小图标，确实是有系统分享的，但不清楚是不是覆盖了所有情形，大家可以试一试）
+  <details>
+
+  <summary>这是一款可以将“打开文件”转换为“分享文件”的 Android 小工具。</summary><br/>
+
+  用于解决某些 App（读作 weixin）不接入系统文件分享功能导致的各种不便。（不过，在 wx 多选界面点击右下角的邮件小图标，确实是有系统分享的，但不清楚是不是覆盖了所有情形，大家可以试一试。\ wx的多选分享是聊天记录形式，选单中似乎只有能接收文本的目标。）
+
+  </details>
 
 - [Save Copy(保存副本)](https://github.com/RikkaApps/SaveCopy)
   [[Izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/app.rikka.savecopy)]\*
 
-  在打开方式和分享菜单中加入储存副本选项。示例：应用内更新时，可选择此选项而不是直接安装，可不授予应用安装权限且保留安装包并手动在文件管理器中安装。
+  <details>
+
+  <summary>在打开方式和分享菜单中加入储存副本选项。</summary><br/>
+
+  长久不更新了，但使用没问题。示例：应用内更新时，可选择此选项而不是直接安装，可不授予应用安装权限且保留安装包并手动在文件管理器中安装。
+
+  质感文件具有同样的功能，名为“另存为”。
+
+  </details>
 
 - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD)
   [[F-Droid](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif/)]\*
 
-  在分享图片前，从图片中删除如设备、日期、地点等Exif信息。
+  在分享图片前，从图片中删除如设备、日期、地点等 Exif 信息。
 
 - [FFShare](https://github.com/caydey/ffshare)
   [[F-Droid](https://f-droid.org/packages/com.caydey.ffshare/)]\*
 
-  Scrambled Exif增强版，在分享媒体前使用ffmpeg压缩文件，可选删除Exif信息。
+  <details>
+
+  <summary>在分享媒体前使用 ffmpeg 压缩文件，可选删除 Exif 信息。</summary><br/>
+
+  Scrambled Exif 增强版。
+
+  </details>
 
 - [Untracker(移除追踪)](https://github.com/zhanghai/Untracker)
   [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.untracker/)]\*
@@ -1164,7 +1223,7 @@
   [[F-Droid](https://f-droid.org/packages/cn.ac.lz233.tarnhelm/)]
   [[网站](https://tarnhelm.project.ac.cn/)]\*
 
-  比Untracker更好的选择，增加了自动清理剪切板的能力。
+  比 Untracker 更好的选择，增加了自动清理剪切板的能力。
 
 #### 文件加密/隐藏
 
