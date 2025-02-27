@@ -90,9 +90,9 @@
 
   <details>
 
-  <summary>最后更新：20200801。</summary><br/>
+  _<summary>长时间不更新了，推荐上面 Droid-ify 和 Neo-Store。</summary>_
 
-  长时间不更新了，推荐上面 Droid-ify 和 Neo-Store。
+  **最后更新：20200801。**
 
   F-Droid 第三方客户端，这个很简洁，只有 1M 多，基本功能尚可用，我一直用作官方客户端的替代品。缺点是无法自动和批量安装，每次会弹出安装窗口。
 
@@ -104,11 +104,11 @@
 
   <details>
 
-  <summary>最后更新：20210526/F-droid 已 404。</summary><br/>
+  _<summary>F-Droid 第三方客户端，已从官网消失。</summary>_
 
-  已从官网消失。
+  **最后更新：20210526 / F-droid 已 404。**
 
-  F-Droid 第三方客户端，有 root 的话可以一键更新/安装。
+  有 root 的话可以一键更新/安装。
 
  </details>
 
@@ -264,9 +264,11 @@
 
   <details>
 
-  <summary>源码已存档：20241206。</summary><br/>
+  _<summary>另一个收音机应用，已停止开发。</summary>_
 
-  另一个收音机应用，应该基于 Transistor。不太清楚与后者有什么不同，Transistor 也没有放弃维护。
+  **源码已存档：20241206。**
+
+  应该基于 Transistor。不太清楚与后者有什么不同，Transistor 也没有放弃维护。
 
   </details>
 
@@ -534,7 +536,7 @@
 
   <details>
 
-  <summary>自称“第一的开源像素绘画应用”，已易主。</summary><br/>
+  _<summary>自称“第一的开源像素绘画应用”，已易主。</summary>_
 
   大概相当于 Windows 上的绘图，貌似要功能更丰富一些。
 
@@ -650,7 +652,9 @@
 
   <details>
 
-  <summary>开发已经停滞，建议使用下面的 Breezy Weather。</summary><br/>
+  _<summary>开发已经停滞，建议使用下面的 Breezy Weather。</summary>_
+
+  **F-droid 已 404。**
 
   用过最好的天气软件之一，媲美很多国内安卓系统的自带天气软件。
 
@@ -692,7 +696,9 @@
 
   <summary>智能手环/手表的手机客户端。</summary><br/>
 
-  无需官方软件，无需创建账号，即可管理你的手环和查看数据。最兼容的是小米、Amazfit 等，华为的很多设备也有较好的支持，目前可以比较好地[支持 112 款设备](https://gadgetbridge.org/gadgets/)。对于较新的设备，其中一些由于协议要求，需要安装一次官方软件并获取密钥，相关操作见[官方文档](https://gadgetbridge.org/basics/pairing/huami-xiaomi-server/)。
+  无需官方软件，无需创建账号，即可管理你的手环和查看数据。
+
+  最兼容的是小米、Amazfit 等，华为的很多设备也有较好的支持，目前可以比较好地[支持 112 款设备](https://gadgetbridge.org/gadgets/)。对于较新的设备，其中一些由于协议要求，需要安装一次官方软件并获取密钥，相关操作见[官方文档](https://gadgetbridge.org/basics/pairing/huami-xiaomi-server/)。
 
   就功能来说，可以操作的功能有：健康数据、通知同步、查看天气、来电处理、音乐控制、运动记录、设定闹钟、查找手机、导航显示等。这些对我来说真的足够了，并且几年前的手环就足以支持，成本极低。截至添加条目时，我已经用了2个月，感觉非常好用，可以替代官方软件。
 
@@ -752,11 +758,11 @@
 
   <details>
 
-  <summary>源码已 404。</summary><br/>
+  _<summary>很简单的屏幕直尺，已删库跑路。</summary>_
 
-  **警告**：源代码貌似没了。彻底不算开源软件了。
+  **警告：源码已 404。彻底不算开源软件了。**
 
-  很简单的屏幕直尺，默认可能有误差，但好在可以校准，没准什么时候可以应急。
+  默认可能有误差，但好在可以校准，没准什么时候可以应急。
 
   </details>
 
@@ -862,55 +868,9 @@
 
   <summary>  不多见的开源手写笔记软件。</summary><br/>
 
-  ~~我没有安卓平板，不知道实际体验如何。~~
-
-  我在两个安卓设备上体验了：一个装了 LineageOS 18 的三星 Note 4（即第三方系统 + 第三方软件），另一个是官方系统的三星 Tab A 9.7。和原装系统下的自带笔记相比，延迟差不多（但本来就很高）,也支持压感。
+  ~~我没有安卓平板，不知道实际体验如何。~~我在两个安卓设备上体验了：一个装了 LineageOS 18 的三星 Note 4（即第三方系统 + 第三方软件），另一个是官方系统的三星 Tab A 9.7。和原装系统下的自带笔记相比，延迟差不多（但本来就很高）,也支持压感。
 
   想在纯开源的环境下体验手写笔记，在目前 Saber 是一个很不错的选择。
-
-  </details>
-
-#### 卡片
-
-- [AnkiDroid](https://github.com/ankidroid/Anki-Android)
-  [[F-Droid](https://f-droid.org/repository/browse/?fdid=com.ichi2.anki)]
-  [[网站](https://ankidroid.org/)]\*
-
-  <details>
-
-  <summary>跨平台记忆卡软件，可以制作和复习记忆卡。</summary><br/>
-
-  AnkiDroid 根据艾宾浩斯记忆曲线让你按时复习卡片。卡片编辑的功能也非常强大，如可以增加图片、挖空等等，大家可以自行探索。
-
-  </details>
-
-#### 文档扫描
-
-- [OSS Document Scanner](https://github.com/Akylas/com.akylas.documentscanner)
-  [[IzzyOnDroid](https://apt.izzysoft.de/packages/com.akylas.documentscanner)]
-
-  <details>
-
-  <summary>文档扫描。整体上看，要比 OpenScan 好很多。</summary><br/>
-
-  之前只有下面的 OpenScan 做的不错，但是 2023 年底突然出现了一个更好的 OSS Document Scanner。
-
-  这个软件具有正常的拍照导入或图片导入文档的功能，可以自由地（再次）裁切、调整顺序、20+ 种颜色滤镜。并且，身为颜值党，我很喜欢这个按照质感设计绘制的界面。
-
-  当然这个软件目前正处于初期快速迭代的阶段，后续肯定还会有更多的功能实现和 bug 修复。我贡献了很粗糙的中文翻译，应该会在接下来 1、2 个版本加入。
-
-  </details>
-
-- [OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan)
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ethereal.openscan)]
-
-  <details>
-
-  <summary>文档扫描。推荐使用上面的 OSS Document Scanner。</summary><br/>
-
-  和大家想的一样，可以拍照、裁切、再合成一个文档，可以导出为 PDF。功能完整，比如有再次裁切（只能再切小）、调整顺序、颜色优化（灰阶或黑白）、分享等等。
-
-  相比之下，我试过的其它开源扫描软件就太差了，上面功能大量缺失，我觉得缺一不可。
 
   </details>
 
@@ -932,11 +892,11 @@
 
   <details>
 
-  <summary>源码已存档：20240204/F-droid 已 404。</summary><br/>
+  _<summary>PDF 阅读器，已停止开发，建议用下面的 MJ PDF Reader。</summary>_
 
-  **警告**：已停止开发，建议用下面的 MJ PDF Reader。
+  **源码已存档：20240204 / F-droid 已 404。** 
 
-  PDF 阅读器，开源的同类软件 UI 都不怎么样，这个算是很好的了，期待和谷歌 PDF 阅读器差不多的开源版本出现。
+  开源的同类软件 UI 都不怎么样，这个算是很好的了，期待和谷歌 PDF 阅读器差不多的开源版本出现。
 
   </details>
 
@@ -974,9 +934,55 @@
 
   <details>
 
-  <summary>最后更新：20220803/F-droid 已 404。</summary><br/>
+  _<summary>电子书阅读软件。</summary>_
 
-  电子书阅读软件。比上面的 Librera Reader 更简陋一些，但也可以用。试了一个 eupb，排版不太好。
+  **最后更新：20220803 / F-droid 已 404。**
+
+  比上面的 Librera Reader 更简陋一些，但也可以用。试了一个 eupb，排版不太好。
+
+  </details>
+
+#### 文档扫描
+
+- [OSS Document Scanner](https://github.com/Akylas/com.akylas.documentscanner)
+  [[IzzyOnDroid](https://apt.izzysoft.de/packages/com.akylas.documentscanner)]
+
+  <details>
+
+  <summary>文档扫描。整体上看，要比 OpenScan 好很多。</summary><br/>
+
+  之前只有下面的 OpenScan 做的不错，但是 2023 年底突然出现了一个更好的 OSS Document Scanner。
+
+  这个软件具有正常的拍照导入或图片导入文档的功能，可以自由地（再次）裁切、调整顺序、20+ 种颜色滤镜。并且，身为颜值党，我很喜欢这个按照质感设计绘制的界面。
+
+  当然这个软件目前正处于初期快速迭代的阶段，后续肯定还会有更多的功能实现和 bug 修复。我贡献了很粗糙的中文翻译，应该会在接下来 1、2 个版本加入。
+
+  </details>
+
+- [OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ethereal.openscan)]
+
+  <details>
+
+  <summary>文档扫描。推荐使用上面的 OSS Document Scanner。</summary><br/>
+
+  和大家想的一样，可以拍照、裁切、再合成一个文档，可以导出为 PDF。功能完整，比如有再次裁切（只能再切小）、调整顺序、颜色优化（灰阶或黑白）、分享等等。
+
+  相比之下，我试过的其它开源扫描软件就太差了，上面功能大量缺失，我觉得缺一不可。
+
+  </details>
+
+#### 卡片
+
+- [AnkiDroid](https://github.com/ankidroid/Anki-Android)
+  [[F-Droid](https://f-droid.org/repository/browse/?fdid=com.ichi2.anki)]
+  [[网站](https://ankidroid.org/)]\*
+
+  <details>
+
+  <summary>跨平台记忆卡软件，可以制作和复习记忆卡。</summary><br/>
+
+  AnkiDroid 根据艾宾浩斯记忆曲线让你按时复习卡片。卡片编辑的功能也非常强大，如可以增加图片、挖空等等，大家可以自行探索。
 
   </details>
 
@@ -1085,6 +1091,61 @@
 
 ### 系统工具
 
+#### 输入法
+
+- [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
+  [[F-Droid](https://f-droid.org/packages/juloo.keyboard2/)]
+
+  <details>
+
+  <summary>非常轻量的输入法，专为程序员、极客人群设计，终端搭配神器。</summary><br/>
+
+  在较常见的 4 行键位基础上，通过在每一个键向四个角滑动的操作，触发其他的按键。
+
+  重点是，这款键盘默认操作体验十分顺手（此处 @Trime）。如果之前在用 Hacker's keyboard 的，可以换这个了。
+
+  </details>
+
+- [Fcitx5 for Android(小企鹅输入法 5)](https://github.com/fcitx5-android/fcitx5-android)
+  [[F-Droid](https://f-droid.org/packages/org.fcitx.fcitx5.android/)]
+  [[网站](https://fcitx5-android.github.io/)]
+
+  <details>
+
+  <summary>在它出现之前，开源的安卓拼音输入法应该只有同文输入法（见下）。</summary><br/>
+
+  Fcitx（小企鹅）的加入，可以说解决了很多人（包括我）的痛点。我用了一段时间，感觉已经无缝替换掉了 Gboard。
+
+  Fcitx 输入法的特点就是对小白用户友好，和谷歌的 Gboard 很像，很多界面元素和交互体验的设计应该直接借鉴了后者。这是个好事，相比之下，同文输入法就给我带来了了不少的操作负体验。两款软件就体现了友好度和定制性的权衡。
+
+  在用户界面和体验上，Fcitx 已经很成熟了。即便目前的版本还是 0.0.3（表示还不稳定）。想安装即用的，绝对推荐。想要强大定制性的，则推荐下方的同文输入法。
+
+  </details>
+
+- [Trime(同文输入法)](https://github.com/osfans/trime)
+  [[F-Droid](https://f-droid.org/packages/com.osfans.trime/)]
+
+  <details>
+
+  <summary>开源的安卓拼音输入法。</summary><br/>
+
+  ~~F-Droid 上甚至是开源软件中唯一一个中文拼音输入法~~（有新选手加入，见上 Fcitx5）。同文输入法就像其桌面版一样，基于配置文件，定制性相当恐怖😱，你喜欢的样子它都有。配置文件对上手是一个门槛，需要自行下载配置文件导入。
+
+  本以为两年不更新了，结果又有新版本了（指 v3.2.0 版本与上一个版本相隔3年多）。一个开源软件突然恢复维护是一件令人感到幸福的事情。
+
+  </details>
+
+- [Stroke Input Method(笔划输入法)](https://github.com/stroke-input/stroke-input-android)
+  [[F-Droid](https://f-droid.org/packages/io.github.yawnoc.strokeinput/)]
+
+  <details>
+
+  <summary>很简单的笔划输入法，虽然平时不用，但感觉可用性是不差的。</summary><br/>
+
+  容错性稍稍差了一些，所有笔划都要严格归入横、竖、撇、捺和折 5 种，判断错误就找不到字了。
+
+  </details>
+
 #### 文件管理
 
 - [Material Files(质感文件)](https://github.com/zhanghai/MaterialFiles)
@@ -1142,7 +1203,7 @@
 
   我们学校用它做了一个 box，访问起来很方便：）
 
-  </details>
+    </details>
 
 - [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android-fdroid)
   [[F-Droid](https://f-droid.org/packages/com.github.catfriend1.syncthingandroid/)]
@@ -1155,6 +1216,53 @@
   和 KDE Connect 有同样的缺点，保活做得不是很好，网络环境变化后与其他设备连接可能不及时。个人解决方案是连接 WIFI 后使用 Tasker 自动打开软件一次。
 
   Syncthing 主项已停止 Android 端开发，只能更换此增强版使用了。
+
+  </details>
+
+#### 文件加密/隐藏
+
+- [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS)
+  [[F-Droid](https://f-droid.org/packages/sushi.hardcore.droidfs/)]
+
+  加密存储文件。
+
+- [Photok](https://github.com/leonlatsch/Photok)
+  [[F-Droid](https://f-droid.org/packages/dev.leonlatsch.photok/)]
+  [[网站](https://www.producthunt.com/products/photok)]
+  
+  <details>
+
+  <summary>加密相册。</summary><br/>
+
+  选入应用集时正在积极开发，大量功能将要加入。
+
+  </details>
+
+- [Anemo](https://github.com/2bllw8/anemo)
+  [[F-Droid](https://f-droid.org/packages/exe.bbllw8.anemo)]
+
+  <details>
+
+  <summary>隐藏文件（无加密）。</summary><br/>
+
+  首先说明，这个并不是文件加密软件，但是应该可以满足部分需要这类应用的用户需求。
+
+  我们可以使用 Anemo 将文件存入这个应用的私有本地空间。Anemo 会隐藏这些文件，但用户可以选择临时开启，就可以从文件管理器的侧边栏看到入口。在 15 分钟无访问后，入口会再次隐藏。整个过程并未加密。
+
+  </details>
+
+- [Amarok](https://github.com/deltazefiro/Amarok-Hider)
+  [[F-Droid](https://f-droid.org/zh_Hans/packages/deltazero.amarok.foss/)]
+  [[网站](https://deltazefiro.github.io/Amarok-doc/)]
+
+  <details>
+
+  <summary>隐藏文件和应用的软件。</summary><br/>
+
+  具体方式根据官方说法是：
+
+  > Amarok 通过混淆文件名以及文件头部，改名文件并使文件“损坏”无法打开，从而达到隐藏的目的。
+  > Amarok 通过停用应用等方式，使它们在启动器与系统菜单中不可见，从而隐藏应用。
 
   </details>
 
@@ -1181,7 +1289,7 @@
 
   <summary>这是一款可以将“打开文件”转换为“分享文件”的 Android 小工具。</summary><br/>
 
-  用于解决某些 App（读作 weixin）不接入系统文件分享功能导致的各种不便。（不过，在 wx 多选界面点击右下角的邮件小图标，确实是有系统分享的，但不清楚是不是覆盖了所有情形，大家可以试一试。\ wx的多选分享是聊天记录形式，选单中似乎只有能接收文本的目标。）
+  用于解决某些 App（读作 weixin）不接入系统文件分享功能导致的各种不便。（不过，在 wx 多选界面点击右下角的邮件小图标，确实是有系统分享的，但不清楚是不是覆盖了所有情形，大家可以试一试。/ wx的多选分享是聊天记录形式，选单中似乎只有能接收文本的目标。）
 
   </details>
 
@@ -1217,235 +1325,231 @@
 - [Untracker(移除追踪)](https://github.com/zhanghai/Untracker)
   [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.untracker/)]\*
 
-  在分享链接前移除追踪信息。
+  在分享链接前移除追踪信息，自带规则。
 
 - [Tarnhelm](https://github.com/lz233/Tarnhelm)
   [[F-Droid](https://f-droid.org/packages/cn.ac.lz233.tarnhelm/)]
   [[网站](https://tarnhelm.project.ac.cn/)]\*
 
-  比 Untracker 更好的选择，增加了自动清理剪切板的能力。
+  <details>
 
-#### 文件加密/隐藏
+  <summary>比 Untracker 更好的选择，有自动清理剪切板的能力。</summary><br/>
 
-- [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS)
-  [[F-Droid](https://f-droid.org/packages/sushi.hardcore.droidfs/)]
+  可能由于需要规避风险，软件默认不带规则，请手动添加，官网有一些常用规则。
 
-  加密存储文件。
-
-- [Photok](https://github.com/leonlatsch/Photok)
-  [[F-Droid](https://f-droid.org/packages/dev.leonlatsch.photok/)]
-
-  加密相册，选入应用集时正在积极开发，大量功能将要加入。
-
-- [Anemo](https://github.com/2bllw8/anemo)
-  [[F-Droid](https://f-droid.org/packages/exe.bbllw8.anemo)]
-
-  首先说明，这个并不是文件加密软件，但是应该可以满足部分需要这类应用的用户需求。
-
-  我们可以使用Anemo将文件存入这个应用的私有本地空间。Anemo会隐藏这些文件，但用户可以选择临时开启，就可以从文件管理器的侧边栏看到入口。在15分钟无访问后，入口会再次隐藏。整个过程并未加密。
-
-- [Amarok](https://github.com/deltazefiro/Amarok-Hider)
-  [[F-Droid](https://f-droid.org/zh_Hans/packages/deltazero.amarok.foss/)]
-
-  隐藏文件和应用的软件。具体方式根据官方说法是：
-
-> Amarok 通过混淆文件名以及文件头部，改名文件并使文件“损坏”无法打开，从而达到隐藏的目的。
-> Amarok 通过停用应用等方式，使它们在启动器与系统菜单中不可见，从而隐藏应用。
-
-#### 输入法
-
-- [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
-  [[F-Droid](https://f-droid.org/packages/juloo.keyboard2/)]
-
-  非常轻量的输入法（目前版本不到200kB），专为程序员、极客人群设计，终端搭配神器。在较常见的4行键位基础上，通过在每一个键向四个角滑动的操作，触发其他的按键。
-
-  重点是，这款键盘默认操作体验十分顺手（此处@Trime）。如果之前在用Hacker's keyboard的，可以换这个了。
-
-- [Fcitx5 for Android(小企鹅输入法5)](https://github.com/fcitx5-android/fcitx5-android)
-  [[F-Droid](https://f-droid.org/packages/org.fcitx.fcitx5.android/)]
-  [[网站](https://fcitx5-android.github.io/)]
-
-  在它出现之前，开源的安卓拼音输入法应该只有同文输入法（见下）。而Fcitx（小企鹅）的加入，可以说解决了很多人（包括我）的痛点。我用了一段时间，感觉已经无缝替换掉了Gboard。
-
-  Fcitx输入法的特点就是对小白用户友好，和谷歌的Gboard很像，很多界面元素和交互体验的设计应该直接借鉴了后者。这是个好事，相比之下，同文输入法就给我带来了了不少的操作负体验。两款软件就体现了友好度和定制性的权衡。
-
-  在用户界面和体验上，Fcitx已经很成熟了。即便目前的版本还是0.0.3（表示还不稳定）。想安装即用的，绝对推荐。想要强大定制性的，则推荐下方的同文输入法。
-
-- [Trime(同文输入法)](https://github.com/osfans/trime)
-  [[F-Droid](https://f-droid.org/packages/com.osfans.trime/)]
-
-  ~~F-Droid上甚至是开源软件中唯一一个中文拼音输入法。~~（有新选手加入，见上fcitx）同文输入法就像其桌面版一样，基于配置文件，定制性相当恐怖😱，你喜欢的样子它都有。
-  配置文件对上手是一个门槛，需要自行下载配置文件导入。
-
-  本以为两年不更新了，结果又有新版本了（指v3.2.0版本与上一个版本相隔3年多）。一个开源软件突然恢复维护是一件令人感到幸福的事情。
-
-- [Stroke Input Method(笔划输入法)](https://github.com/stroke-input/stroke-input-android)
-  [[F-Droid](https://f-droid.org/packages/io.github.yawnoc.strokeinput/)]
-
-  很简单的笔划输入法，虽然平时不用，但感觉可用性是不差的。容错性稍稍差了一些，所有笔划都要严格归入横、竖、撇、捺和折5种，判断错误就找不到字了。
+  </details>
 
 #### 下载管理
 
 - [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
   [[F-Droid](https://f-droid.org/packages/com.tachibana.downloader/)]
 
-  功能强大的下载器，可以多段加速，分享下载链接就可以选择下载。
+  <details>
 
-#### 卫星定位
+  <summary>功能强大的下载器，可以多段加速，分享下载链接就可以选择下载。</summary><br/>
 
-- [GPSTest](https://github.com/barbeau/gpstest)
-  [[F-Droid](https://f-droid.org/packages/com.android.gpstest.osmdroid/)]
+  开发似乎已经停滞了，最新版本停留在 2022 年。
 
-  显示GPS信息，非常丰富，可以看到五种全球定位系统的卫星位置、自己的经纬度、海拔还有速度等等。
+  </details>
 
 #### 备份
 
 - [Neo Backup](https://github.com/NeoApplications/Neo-Backup)
   [[F-Droid](https://f-droid.org/packages/com.machiav3lli.backup/)]
 
-  备份软件（之前名称为OAndBackupX），可以备份任何东西，需要root。
-
-#### 电话录音
-
-就我目前简单的调查所知，以Lineage OS为例，系统中没有自动通话录音功能。
-只有在电话打通后才能手动开始录音。所以，这里列举一些可以开启自动录音的软件。
-
-冷知识：Lineage OS中，录音功能按照不同国家的法律对电话录音的规定设置了与否启用。
-比如，在地区设置为我国，录音按钮就会显示；而设置在美国，则打电话的时候没有录音按钮。
-为此，Lineage团队（亦或是更早的开发者）调研了几乎每一个国家的法律，逐一做出了判断，
-相关源代码可见[这里](https://github.com/LineageOS/android_packages_apps_Dialer/blob/lineage-20.0/java/com/android/dialer/callrecord/res/xml/call_record_states.xml)。
-其中列举了针对所有国家地区决定开启这项功能与否的理由，并附所参考法律文件的链接，可谓用心良苦。
-
-- [BCR(Basic Call Recorder)](https://github.com/chenxiaolong/BCR)
-
-  这是一款很简洁、积极开发的通话录音软件，做的非常好。
-  软件只有一个设置界面，只管录音后保存。对于以保存的录音，可以用其他任何方式访问音频文件。
-  比如，可以用下面的BCR-GUI软件查看和管理这个软件保存的通话录音。是不是有种UNIX哲学在里面呀？
-
-  这款软件只能通过root安装为系统软件，才能正常使用，所以F-Droid平台是没有的。需要通过Magisk等方式安装。
-
-- [BCR-GUI](https://github.com/nicorac/bcr-gui)
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.github.nicorac.bcrgui)]
-
-  上面BCR通话录音软件的录音查看软件。因为BCR开发者为了降低维护成本、专心只做通话录音工作，
-  选择不制作录音管理的界面。因此，有人制作了配套的通话录音查看软件。
-  作为Linux用户，我对这种决定表示完全理解。
-
-- [Call Recorder](https://gitlab.com/axet/android-call-recorder)
-  [[F-Droid](https://f-droid.org/packages/com.github.axet.callrecorder)]
-
-  电话自动录音，非本土化系统中很实用，搭配Magisk模块可以成为系统应用。
-
-  之前作为第三方应用使用时，经常出现不会触发录音的问题，不知道安装为系统应用能否正常使用。推荐上面的BCR。
+  备份软件（之前名称为 OAndBackupX），可以备份任何东西，需要 root。
 
 #### 密码
 
-- [Password Store](https://github.com/android-password-store/Android-Password-Store)
-  [[F-Droid](https://f-droid.org/packages/dev.msfjarvis.aps/)]
+- _~~[Password Store](https://github.com/android-password-store/Android-Password-Store)
+  [[F-Droid](https://f-droid.org/packages/dev.msfjarvis.aps/)]~~_
 
-  密码管理和自动填充软件。要先了解Linux平台上的[password store](https://www.passwordstore.org/)才能用，这个是安卓客户端。
+  <details>
 
-  password store本身只是一个小脚本，调用git管理gpg加密的密码文件，这个安卓版也是类似。因而可以选择GitHub私人仓库+password store的超轻量开源方案，而非托管在统一的服务器上，这很Unix。
+  _<summary>密码管理和自动填充软件。</summary>_
 
-- ~~[andOTP](https://github.com/andOTP/andOTP)~~
-  [[F-Droid](https://f-droid.org/packages/org.shadowice.flocke.andotp/)]
+  **源码已存档：20241015 / F-droid 已 404。**
 
-  **警告**：已不再维护。
+  要先了解 Linux 平台上的 [password store](https://www.passwordstore.org/) 才能用，这个是安卓客户端。
 
-  双重验证（2FA）或者一次性密码（OTP）客户端，就是很多网站登录时出于安全性设置的6位数动态验证码。
+  password store 本身只是一个小脚本，调用 git 管理 gpg 加密的密码文件，这个安卓版也是类似。因而可以选择 GitHub 私人仓库 + password store 的超轻量开源方案，而非托管在统一的服务器上，这很 Unix。
 
-- [Aegis](https://github.com/beemdevelopment/Aegis)
-  [[F-Droid](https://f-droid.org/packages/com.beemdevelopment.aegis/)]
-
-  和andOTP类似，是一款双重验证码客户端。相比起来，这款界面更简洁、符合质感设计，其它方面大同小异。
+  </details>
 
 - [OpenKeychain](https://github.com/open-keychain/open-keychain)
   [[F-Droid](https://f-droid.org/packages/org.sufficientlysecure.keychain/)]
   [[网站](https://www.openkeychain.org/)]
 
-  PGP锁钥管理，我是搭配password store使用，提供解锁密钥。此外还有很多软件可以使用它。
+  <details>
+
+  <summary>PGP 锁钥管理，提供解锁密钥。</summary><br/>
+
+  我是搭配 password store 使用。此外还有很多软件可以使用它。
+
+  </details>
 
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX)
   [[F-Droid](https://f-droid.org/zh_Hans/packages/com.kunzisoft.keepass.libre/)]\*
+  [[网站](https://www.keepassdx.com/)]
 
-  Android 密码管理程序，与 [KeePass](https://keepass.info/) 及其衍生程序兼容，稍加配置即可做到密码全平台同步，且支持 Material 3 设计语言，界面简洁美观。
+  <details>
 
-  提示：即使 KeePass 支持双重认证，也不应将密码与双重验证码放在一起，否则就失去了双重验证的意义，推荐使用下面的 Authenticator Pro。
+  <summary>Android 密码管理程序，与  KeePass 及其衍生程序兼容。</summary><br/>
 
-- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro)
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/me.jmh.authenticatorpro)]\*
+  稍加配置即可做到密码全平台同步，且支持 Material 3 设计语言，界面简洁美观。
 
-  双重验证（2FA）软件，界面简洁美观，也支持 Wear OS 查看验证码。
+  提示：即使 KeePass 支持双重认证，也不应将密码与双重验证码放在一起，否则就失去了双重验证的意义，推荐使用 Aegis 或者 Stratum。
 
-#### 电脑连接
+  </details>
 
-- [AN2Linux](https://github.com/rootkiwi/an2linuxclient)
-  [[F-Droid](https://f-droid.org/packages/kiwi.root.an2linuxclient/)]
-  [[网站](https://github.com/rootkiwi/an2linuxserver/)]
+- _~~[andOTP](https://github.com/andOTP/andOTP)
+  [[F-Droid](https://f-droid.org/packages/org.shadowice.flocke.andotp/)]~~_
 
-  **警告**：已不再维护。建议使用下面的A2LN。
+  <details>
 
-  通知同步软件，将手机上的通知推送到Linux电脑上，可以通过WiFi、蓝牙或者移动数据。我只试过WiFi，不知道另两个体验如何。
+  _<summary>双重验证（2FA）或者一次性密码（OTP）客户端。</summary>_
 
-- [A2LN](https://github.com/patri9ck/a2ln-app)
-  [[F-Droid](https://f-droid.org/packages/dev.patri9ck.a2ln)]
+  **源码已存档：20220114 / F-droid 已 404。**
 
-  与上面的AN2Linux类似，说明见上。
+  OTP 就是很多网站登录时出于安全性设置的 6 位数动态验证码。
 
-- [KDE Connect](https://github.com/KDE/kdeconnect-android)
-  [[F-Droid](https://f-droid.org/packages/org.kde.kdeconnect_tp/)]
+  </details>
 
-  很强大的连接PC和手机的工具。可以分享文件或文本、同步通知、运行命令和远程控制等等。需要Linux系统上安装相应的pc端软件，常见的如KDE官方的[kdeconnect](https://kdeconnect.kde.org/)和适配GNOME的[GSConnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)。
+- [Aegis](https://github.com/beemdevelopment/Aegis)
+  [[F-Droid](https://f-droid.org/packages/com.beemdevelopment.aegis/)]
+  [[网站](https://getaegis.app/)]
 
-  KDE团队做的很好的一点是，他们将KDE Connect前后端分离开了，真正支撑底层功能的部分实现为一种协议，可以独立于图形界面部分运行。这样在非KDE环境，便可以用其它的软件，如我在使用的[mconnect](https://github.com/grimpy/mconnect)，就是没有图形界面，只有命令行接口，但如果你想要的基本功能都具备，可以很灵活而不受桌面环境限制。
+  <details>
 
-- [Audio Share ](https://github.com/mkckr0/audio-share)
-  [[F-Droid](https://f-droid.org/packages/io.github.mkckr0.audio_share_app/)]\*
+  <summary>和 andOTP 类似，是一款双重验证（2FA）客户端。</summary><br/>
 
-  小众需求，使PC的声音通过网络在手机上播放，SoundWire的替代品。
+  相比起来，这款界面更简洁、符合质感设计，其它方面大同小异。
 
-#### 手机安全
+  </details>
 
-- [Hypatia](https://gitlab.com/divested-mobile/hypatia)
-  [[F-Droid](https://f-droid.org/packages/us.spotco.malwarescanner/)]
+- [Stratum](https://github.com/stratumauth/app)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.stratumauth.app)]\*
 
-  自称安卓第一款恶意软件扫描应用。不过，既然都用开源软件了，这个的意义就没那么大了，除非用户依然想胡乱下载其他的东西。
+  <details>
 
-#### 系统清理
+  <summary>双重验证（2FA）软件，支持 Wear OS 查看验证码。</summary><br/>
 
-- [LTE Cleaner](https://github.com/TheRedSpy15/LTECleanerFOSS)
-  [[F-Droid](https://f-droid.org/packages/theredspy15.ltecleanerfoss/)]
+  界面简洁美观，原名 Authenticator Pro。
 
-  系统清理软件。这个并不是很强大，它只负责清理日志（Log）、临时文件（Temporary）和空文件夹（Empty）。但是聊胜于无。
+  </details>
 
-- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.darken.sdmse)]
+#### 电话录音
 
-  估计很多人都用过SD Maid，这个是其作者为更高安卓版本重新开发的开源版本。SE是什么意思作者也[没有给出解释](https://github.com/d4rken-org/sdmaid-se/wiki/FAQ#what-does-the-se-in-sd-maid-se-stand-for)，或可解读为第二版Second Edition。
+就我目前简单的调查所知，以 Lineage OS 为例，系统中没有自动通话录音功能。
+只有在电话打通后才能手动开始录音。所以，这里列举一些可以开启自动录音的软件。
 
-  目前版本有各种系统清理选项，还有存储占用分析。已经基本可以替代原版本了。
+<details>
+
+<summary>冷知识：</summary><br/>
+
+Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定设置了与否启用。
+比如，在地区设置为我国，录音按钮就会显示；而设置在美国，则打电话的时候没有录音按钮。
+为此，Lineage OS 团队（亦或是更早的开发者）调研了几乎每一个国家的法律，逐一做出了判断，
+相关源代码可见[这里](https://github.com/LineageOS/android_packages_apps_Dialer/blob/lineage-20.0/java/com/android/dialer/callrecord/res/xml/call_record_states.xml)。
+其中列举了针对所有国家地区决定开启这项功能与否的理由，并附所参考法律文件的链接，可谓用心良苦。
+
+</details>
+
+- [BCR(Basic Call Recorder)](https://github.com/chenxiaolong/BCR)
+
+  <details>
+
+  <summary>这是一款很简洁、积极开发的通话录音软件，做的非常好。</summary><br/>
+
+  软件只有一个设置界面，只管录音后保存。对于以保存的录音，可以用其他任何方式访问音频文件。
+  比如，可以用下面的 BCR-GUI 软件查看和管理这个软件保存的通话录音。是不是有种 UNIX 哲学在里面呀？
+
+  这款软件只能通过 root 安装为系统软件，才能正常使用，所以 F-Droid 平台是没有的。需要通过 Magisk 等方式安装。
+
+  </details>
+
+- [BCR-GUI](https://github.com/nicorac/bcr-gui)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.github.nicorac.bcrgui)]
+
+  <details>
+
+  <summary>上面 BCR 通话录音软件的录音查看软件。</summary><br/>
+
+  因为 BCR 开发者为了降低维护成本、专心只做通话录音工作，
+  选择不制作录音管理的界面。因此，有人制作了配套的通话录音查看软件。
+  作为 Linux 用户，我对这种决定表示完全理解。
+
+  </details>
+
+- [Call Recorder](https://gitlab.com/axet/android-call-recorder)
+  [[F-Droid](https://f-droid.org/packages/com.github.axet.callrecorder)]
+
+  <details>
+
+  <summary>电话自动录音，非本土化系统中很实用。</summary><br/>
+
+  搭配Magisk模块可以成为系统应用。
+
+  之前作为第三方应用使用时，经常出现不会触发录音的问题，不知道安装为系统应用能否正常使用。推荐上面的 BCR。
+
+  </details>
 
 #### 应用冻结
 
 - [Hail(雹)](https://github.com/aistra0528/Hail)
   [[F-Droid](https://f-droid.org/packages/com.aistra.hail)]
 
-  比较实用的应用冻结软件。有很多冻结的途径可选如停用、隐藏和暂停，权限可以通过Shizuku、root等方式获取。软件整体质量很高，界面也遵循了最新的质感设计，体验很不错。
+  <details>
+
+  <summary>比较实用的应用冻结软件。</summary><br/>
+
+  有很多冻结的途径可选如停用、隐藏和暂停，权限可以通过 Shizuku、root 等方式获取。软件整体质量很高，界面也遵循了最新的质感设计，体验很不错。
 
   我比较喜欢使用暂停这一方式，主要原因是桌面的图标不会消失，比如在停用后恢复的话桌面图标也没有了。设置自动冻结的选项也比较丰富。如果你有些软件常年不会用，可以冻结了以防这些软件时常在后台有联网、弹广告等活动。
 
+  </details>
+
 - [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
   [[F-Droid](https://f-droid.org/packages/superfreeze.tool.android)]
+  [[网站](https://superfreezz.gitlab.io/)]
 
-  冻结软件的后台活动，类似于Greenify。它的冻结与上面的“雹”不同，并不是禁用、暂停或者隐藏软件，仅仅是限制软件的后台。Superfreeze会自动冻结7天以上未使用的软件。我不知道怎么评估它的效果，大家不妨自己试一试。
+  <details>
 
-#### 传感器
+  <summary>冻结软件的后台活动，类似于Greenify。</summary><br/>
 
-- [Phyphox](https://github.com/phyphox/phyphox-android)
-  [[F-Droid](https://f-droid.org/packages/de.rwth_aachen.phyphox/)]
-  [[网站](https://phyphox.org)]
+  它的冻结与上面的“雹”不同，并不是禁用、暂停或者隐藏软件，仅仅是限制软件的后台。Superfreeze 会自动冻结 7 天以上未使用的软件。我不知道怎么评估它的效果，大家不妨自己试一试。
 
-  显示手机传感器信息，以及利用手机完成一些小实验。这个应用是亚琛大学的老师学生设计开发。可以使手机变身成为一个小的物理实验室，进行光学、声学和力学实验。
+  开发似乎停滞了。
+
+  </details>
+
+#### 系统清理
+
+- _~~[LTE Cleaner](https://github.com/TheRedSpy15/LTECleanerFOSS)
+  [[F-Droid](https://f-droid.org/packages/theredspy15.ltecleanerfoss/)]~~_
+
+  <details>
+
+  _<summary>系统清理软件，已删库跑路。</summary>_
+
+  **源码已 404 / F-droid 已 404。**
+
+  这个并不是很强大，它只负责清理日志（Log）、临时文件（Temporary）和空文件夹（Empty）。但是聊胜于无。
+
+  </details>
+
+- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
+  [[F-Droid](https://f-droid.org/packages/eu.darken.sdmse/)]
+
+  <details>
+
+  <summary>SD Maid 二代。</summary><br/>
+
+  估计很多人都用过 SD Maid，这个是其作者为更高安卓版本重新开发的开源版本。SE 是什么意思作者也[没有给出解释](https://github.com/d4rken-org/sdmaid-se/wiki/FAQ#what-does-the-se-in-sd-maid-se-stand-for)，或可解读为第二版 Second Edition。
+
+  目前版本有各种系统清理选项，还有存储占用分析。已经基本可以替代原版本了。
+
+  </details>
 
 #### 系统美化
 
@@ -1453,48 +1557,169 @@
   [[F-Droid](https://f-droid.org/packages/xyz.zedler.patrick.doodle/)]
   [[网站](https://patrickzedler.com/doodle/)]
 
-  质感设计风格的动态壁纸，具有自动暗色模式和省电动画等特点。喜欢抽象、简约风格的可以试一试。
+  <details>
+
+  <summary>质感设计风格的动态壁纸。</summary><br/>
+
+  具有自动暗色模式和省电动画等特点。喜欢抽象、简约风格的可以试一试。
+
+  </details>
 
 - [Iconify](https://github.com/Mahmud0808/Iconify)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.drdisagree.iconify)]
 
-  定制系统界面。不要被名字骗了，这个软件不仅可以改变图标，还可以修改很多系统界面的图标、颜色、形状和风格。如果用Linux的朋友，可以把这个软件所达到的自由度类比为GTK/Qt主题。
+  <details>
+
+  <summary>定制系统界面，需要 root。</summary><br/>
+
+  不要被名字骗了，这个软件不仅可以改变图标，还可以修改很多系统界面的图标、颜色、形状和风格。如果用 Linux 的朋友，可以把这个软件所达到的自由度类比为 GTK/Qt 主题。
+
+  </details>
 
 #### 系统信息
 
 - [CPU Info](https://github.com/kamgurgul/cpu-info)
   [[F-Droid](https://f-droid.org/packages/com.kgurgul.cpuinfo/)]
 
-  展示系统软硬件信息，如CPU核心频率等，但并不全面。
+  展示系统软硬件信息，如 CPU 核心频率等，但并不全面。
+
+#### 手机安全
+
+- _[Hypatia](https://gitlab.com/divested-mobile/hypatia)
+  [[F-Droid](https://f-droid.org/packages/us.spotco.malwarescanner/)]_
+
+  <details>
+
+  _<summary>恶意软件扫描应用，已停止开发。</summary>_
+
+  **源码已存档：20241210**
+
+  母项目 DivestOS 终止后，旗下所有项目都停止开发。有人 [fork](https://github.com/MaintainTeam/Hypatia) 了此项目并上架 [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.maintainteam.hypatia/)，希望有人接手开发。
+
+  自称安卓第一款恶意软件扫描应用。不过，既然都用开源软件了，这个的意义就没那么大了，除非用户依然想胡乱下载其他的东西。
+
+  </details>
+
+#### 电脑连接
+
+- [A2LN](https://github.com/patri9ck/a2ln-app)
+  [[F-Droid](https://f-droid.org/packages/dev.patri9ck.a2ln)]
+  [[网站](https://patri9ck.dev/a2ln/)]
+  
+  <details>
+
+  <summary>通知同步软件，将手机上的通知推送到 Linux 电脑上。</summary><br/>
+
+  可以通过 WiFi、蓝牙或者移动数据。我只试过 WiFi，不知道另两个体验如何。
+
+  </details>
+
+- _[AN2Linux](https://github.com/rootkiwi/an2linuxclient)
+  [[F-Droid](https://f-droid.org/packages/kiwi.root.an2linuxclient/)]
+  [[网站](https://github.com/rootkiwi/an2linuxserver/)]_
+
+  <details>
+
+  _<summary>已不再维护。建议使用上面的 A2LN。</summary>_
+
+  **最后更新：20210322**
+
+  </details>
+
+- [KDE Connect](https://github.com/KDE/kdeconnect-android)
+  [[F-Droid](https://f-droid.org/packages/org.kde.kdeconnect_tp/)]
+  [[网站](https://kdeconnect.kde.org/)]
+
+  <details>
+
+  <summary>很强大的连接 PC 和手机的工具。</summary><br/>
+
+  可以分享文件或文本、同步通知、运行命令和远程控制等等。需要 Linux 系统上安装相应的 PC 端软件，常见的如 KDE 官方的 [Kde Connect](https://kdeconnect.kde.org/)和适配 GNOME 的 [GSConnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)。
+
+  KDE 团队做的很好的一点是，他们将 KDE Connect 前后端分离开了，真正支撑底层功能的部分实现为一种协议，可以独立于图形界面部分运行。这样在非 KDE 环境，便可以用其它的软件，如我在使用的 [mconnect](https://github.com/grimpy/mconnect)，就是没有图形界面，只有命令行接口，但如果你想要的基本功能都具备，可以很灵活而不受桌面环境限制。
+
+  </details>
+
+- [Audio Share ](https://github.com/mkckr0/audio-share)
+  [[F-Droid](https://f-droid.org/packages/io.github.mkckr0.audio_share_app/)]\*
+
+  使 PC 的声音通过网络在手机上播放，SoundWire 的替代品。
+
+#### 卫星定位
+
+- [GPSTest](https://github.com/barbeau/gpstest)
+  [[F-Droid](https://f-droid.org/packages/com.android.gpstest.osmdroid/)]
+
+  <details>
+
+  <summary>显示 GPS 信息，非常丰富。</summary><br/>
+
+  可以看到五种全球定位系统的卫星位置、自己的经纬度、海拔还有速度等等。
+
+  </details>
+
+#### 传感器
+
+- [Phyphox](https://github.com/phyphox/phyphox-android)
+  [[F-Droid](https://f-droid.org/packages/de.rwth_aachen.phyphox/)]
+  [[网站](https://phyphox.org)]
+
+  <details>
+
+  <summary>显示手机传感器信息，以及利用手机完成一些小实验。</summary><br/>
+
+  这个应用是亚琛大学的老师学生设计开发。可以使手机变身成为一个小的物理实验室，进行光学、声学和力学实验。
+
+  </details>
 
 #### 语音助手
 
 - [Dicio assistant](https://github.com/Stypox/dicio-android)
   [[F-Droid](https://f-droid.org/packages/org.stypox.dicio/)]
 
-  [RHVoice](https://github.com/RHVoice/RHVoice)
+- [RHVoice](https://github.com/RHVoice/RHVoice)
   [[F-Droid](https://f-droid.org/packages/com.github.olga_yakovleva.rhvoice.android/)]
 
-  极其简陋、功能不强的语音助手。先给大家泼冷水，以免误会。
+  <details>
+
+  <summary>极其简陋、功能不强的语音助手。先给大家泼冷水，以免误会。</summary><br/>
 
   只有基本的功能，如打开软件、询问天气、简单计算、打电话等等。问题是对中文的支持还没有设置，但不难，需要用配置文件描述触发问题的语句是什么样的，需要提交到官方代码中去。总之，还是不要寄予太高期望，我只是觉得有就值得提一下。
 
-  如果需要听它出声音，还要安装RHVoice，否则的话只能显示文字。
+  如果需要听它出声音，还要安装 RHVoice，否则的话只能显示文字。
+
+  </details>
+
+#### 统一推送（UnifiedPush）
 
 - [Ntfy](https://github.com/binwiederhier/ntfy)
   [[F-Droid](https://f-droid.org/packages/io.heckel.ntfy/)]
   [[网站](https://ntfy.sh/)]
 
-  通过网络推送与接收通知。通过一个网络连接，就可以把通知发送到已经配置好的手机上。有非常广泛的应用场景。但是对一般人来说，没有这种刚需，有点鸡肋。
+  <details>
+
+  <summary>开源的网络推送服务。</summary><br/>
+
+  通过一个网络连接，就可以把通知发送到已经配置好的手机上。有非常广泛的应用场景。但是对一般人来说，没有这种刚需，有点鸡肋。
+
+  </details>
 
 #### 其他
 
-- [Anywhere-](https://github.com/zhaobozhen/Anywhere-)
-  [[网站](https://absinthe.life/Anywhere-Docs/guide/)]\*
+- _~~[Anywhere-](https://github.com/zhaobozhen/Anywhere-)~~
+  [[网站](https://absinthe.life/Anywhere-Docs/guide/)]\*_
 
-  快捷方式收集。将你常用的应用页面（Activity）收集到一个界面并保存，可以在无需经过应用主界面的情况下快速打开。这里页面可以是扫码页面，可以是签到页面，实际上可以是任意软件的几乎任意界面。可玩性高，看你有没有需求了。
+  <details>
 
-  这个软件没有上架F-Droid或Izzyondroid，在酷安也被下架了，截至添加本条目时只能在Github Releases或者谷歌商店下载到。
+  _<summary>更多的快捷方式，已停止开发。</summary>_
+
+  **源码已存档：20240929。**
+
+  将你常用的应用页面（Activity）收集到一个界面并保存，可以在无需经过应用主界面的情况下快速打开。这里页面可以是扫码页面，可以是签到页面，实际上可以是任意软件的几乎任意界面。可玩性高，看你有没有需求了。
+
+  这个软件没有上架 F-Droid 或 Izzyondroid，在酷安也被下架了，截至添加本条目时只能在 Github Releases 或者谷歌商店下载到。
+
+  </details>
 
 ### 极客工具
 
