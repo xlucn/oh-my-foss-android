@@ -1725,64 +1725,113 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 我并不想分一个“开发类”，这里的软件并不是面向开发者的，而是喜欢折腾的用户。这也符合最开始制订的”受众广泛“要求。
 
-#### Root工具
+#### Root 工具
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
   [[F-Droid](https://f-droid.org/packages/com.topjohnwu.magisk/)]
-  [[网站](https://topjohnwu.github.io/Magisk/install.html)]
+  [[网站](https://topjohnwu.github.io/Magisk/)]
 
-  著名的面具，需要电脑端配合安装，可以提供root和修改系统行为的模块。
-  不过，不是刚需的话，不建议使用。我使用Lineage OS，因此微信和支付宝的指纹无法正常调用，便使用一些面具模块解决。
+  <details>
 
-  Magisk并没有提供每一种机型的下载，所以其安装过程对所有机型适用。
+  <summary>  著名的面具，可以提供 root 和修改系统行为的模块。</summary><br/>
+
+  不过，不是刚需的话，不建议使用。我使用 Lineage OS，因此微信和支付宝的指纹无法正常调用，便使用一些面具模块解决。
+
+  Magisk 并没有提供每一种机型的下载，所以其安装过程对所有机型适用。
+
+  </details>
 
 #### 文本编辑
 
 - [Editor](https://github.com/billthefarmer/editor)
   [[F-Droid](https://f-droid.org/packages/org.billthefarmer.editor/)]
+  [[网站](https://billthefarmer.github.io/editor/)]
 
-  轻量的文本编辑器，很小很小的软件还有语法高亮，吹爆它。
+  <details>
 
-  一个问题是，一般只能打开安卓识别为纯文本的文件，连yaml都不行。除非文件管理器能强行作为文本打开。GitHub有好几个issue提到，但作者坚决把锅甩给安卓和文件管理器，感觉作者有开发“洁癖”。
+  <summary>轻量的文本编辑器，很小很小的软件还有语法高亮，吹爆它。</summary><br/>
+
+  一个问题是，一般只能打开安卓识别为纯文本的文件，连 yaml 都不行。除非文件管理器能强行作为文本打开。GitHub 有好几个 issue 提到，但作者坚决把锅甩给安卓和文件管理器，感觉作者有开发“洁癖”。
+
+  </details>
 
 - [Acode](https://github.com/deadlyjack/Acode)
   [[F-Droid](https://f-droid.org/packages/com.foxdebug.acode/)]
   [[网站](https://acode.foxdebug.com/)]
 
-  更高级的文本/代码编辑器。从截图上看，Acode可能更适合在平板等大屏设备上进行更专业的编辑工作，类似于VS Code等软件。
+  <details>
+
+  <summary>更高级的文本/代码编辑器。</summary><br/>
+
+  从截图上看，Acode 可能更适合在平板等大屏设备上进行更专业的编辑工作，类似于 VS Code 等软件。
+
+  </details>
 
 #### 远程连接
 
 - [ConnectBot](https://github.com/connectbot/connectbot)
   [[F-Droid](https://f-droid.org/packages/org.connectbot/)]
+  [[网站](https://connectbot.org/)]
 
-  Ssh客户端，很好用。在维护但很久没有新版本了。我校阅了所有的翻译，希望将来有更新。
+  <details>
+
+  <summary>SSH 客户端，很好用。</summary><br/>
+
+  在维护但很久没有新版本了。我校阅了所有的翻译，希望将来有更新。
 
   2021.10.25：更新啦。
+
+  </details>
 
 - [AVNC](https://github.com/gujjwal00/avnc)
   [[F-Droid](https://f-droid.org/packages/com.gaurav.avnc/)]
 
-  简单但不简陋的VNC客户端。可以通过手势实现不同的鼠标控制事件，因此是很实用的。
+  <details>
+
+  <summary>简单但不简陋的 VNC 客户端。</summary><br/>
+
+  可以通过手势实现不同的鼠标控制事件，因此是很实用的。
+
+  </details>
 
 - [WADB](https://github.com/RikkaApps/WADB)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.haruue.wadb)]
 
-  无线ADB，需要root。虽然安卓在开发者选项中也可以开启“无线调试”，但这里开启的端口是随机的，明显是出于安全考虑。如果你所在网络没有那么危险，这款应用可以在固定的、也是默认的5555端口开启无线调试，因此电脑使用adb时无需输入端口信息即可连接。
+  <details>
+
+  <summary>无线 ADB，需要 root。</summary><br/>
+
+  虽然安卓在开发者选项中也可以开启“无线调试”，但这里开启的端口是随机的，明显是出于安全考虑。如果你所在网络没有那么危险，这款应用可以在固定的、也是默认的 5555 端口开启无线调试，因此电脑使用 adb 时无需输入端口信息即可连接。
+
+  </details>
 
 #### 终端
 
 - [TermOne Plus](https://gitlab.com/termapps/termoneplus)
   [[F-Droid](https://f-droid.org/packages/com.termoneplus/)]
+  [[网站](https://termoneplus.com/)]
 
-  终端应用。有些系统中会禁用系统自带的安卓终端，所以想要在安卓上执行命令行操作，可以尝试这款应用。
+  <details>
+
+  <summary>终端应用。</summary><br/>
+
+  有些系统中会禁用系统自带的安卓终端，所以想要在安卓上执行命令行操作，可以尝试这款应用。
+
+  </details>
 
 - [Termux](https://github.com/termux/termux-app)
-  [[F-Droid](https://f-droid.org/packages/com.termux/)]\*
+  [[F-Droid](https://f-droid.org/packages/com.termux/)]
+  [[网站](https://termux.dev/)]\*
 
-  其实，Termux 不仅是一个终端，它还包含了一个完整的生态。Termux 有自己的包管理，你可以像使用任何 Linux 系统一样使用这个终端，安装软件等都是可以的。
+  <details>
 
-  不过，我自己之前没有收纳这个软件，现在经推荐才加入进来，原因就是它并不适合一般用户，明显是为极客用户而生的。更麻烦的是，貌似 Termux 在 Android 12+ [有被系统杀掉进程](https://github.com/termux/termux-app/issues/2366) 的问题，解决这个问题又是需要折腾系统（如果愿意使用Tasker，这个问题可以使用[Termux:Tasker](https://f-droid.org/packages/com.termux.tasker/)解决，Lineage OS 20用此方法在Termux中开机启动后自动挂代理，未被系统杀死过。）。总之，我认为想玩 Linux 的话，最佳办法是在真机或虚拟机里安装 Linux 系统，Termux 的使用场景真的比较有限。
+  <summary>Termux 不仅是一个终端，它还包含了一个完整的生态。</summary><br/>
+
+  Termux 有自己的包管理，你可以像使用任何 Linux 系统一样使用这个终端，安装软件等都是可以的。
+
+  不过，我自己之前没有收纳这个软件，现在经推荐才加入进来，原因就是它并不适合一般用户，明显是为极客用户而生的。更麻烦的是，貌似 Termux 在 Android 12+ [有被系统杀掉进程](https://github.com/termux/termux-app/issues/2366) 的问题，解决这个问题又是需要折腾系统（如果愿意使用 Tasker，这个问题可以使用 [Termux:Tasker](https://f-droid.org/packages/com.termux.tasker/)解决，Lineage OS 20 用此方法在 Termux 中开机启动后自动挂代理，几乎未被系统杀死过。）。总之，我认为想玩 Linux 的话，最佳办法是在真机或虚拟机里安装 Linux 系统，Termux 的使用场景真的比较有限。
+
+  </details>
 
 #### Git及平台客户端
 
