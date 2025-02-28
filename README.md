@@ -412,7 +412,7 @@
 
 #### 音乐播放
 
-可能是开发难度低，F-Droid 上太多音乐软件了。搜"music"关键词，最近更新的都比较好，恕不一一列举。
+可能是开发难度低，F-Droid 上太多音乐软件了。搜 "music" 关键词，最近更新的都比较好，恕不一一列举。
 
 - [Vinyl](https://github.com/AdrienPoupa/VinylMusicPlayer)
   [[F-Droid](https://f-droid.org/packages/com.poupa.vinylmusicplayer/)]
@@ -638,7 +638,7 @@
 
   </details>
 
-- [GPSLogger(GPS记录器 )](https://github.com/mendhak/gpslogger)
+- [GPS Logger(GPS记录器 )](https://github.com/mendhak/gpslogger)
   [[F-Droid](https://f-droid.org/packages/com.mendhak.gpslogger/)]
   [[网站](https://gpslogger.app/)]\*
 
@@ -652,7 +652,7 @@
 
   <details>
 
-  <summary>基于几何天气的另一款天气软件，已取代前者。</summary><br/>
+  <summary>基于几何天气的天气软件，已取代前者。</summary><br/>
 
   因为几何天气维护停滞，Breezy Weather 应运而生，增加了新的功能、提供商，修复了一些 bug。整体上，就是一款更好的几何天气。
 
@@ -817,7 +817,7 @@
 <details>
 
 <summary>过时的内容</summary>
-  
+
 - _~~[Ruler](https://github.com/congshengwu/Ruler)~~
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ruler.csw)]_
 
@@ -1234,7 +1234,7 @@
 - [Photok](https://github.com/leonlatsch/Photok)
   [[F-Droid](https://f-droid.org/packages/dev.leonlatsch.photok/)]
   [[网站](https://www.producthunt.com/products/photok)]
-  
+
   <details>
 
   <summary>加密相册。</summary><br/>
@@ -1357,6 +1357,11 @@
 
   </details>
 
+- [Seal](https://github.com/JunkFood02/Seal)
+  [[F-Droid](https://f-droid.org/packages/com.junkfood.seal/)]\*
+
+  基于 yt-dlp 的视频/音频下载器。
+
 #### 备份
 
 - [Neo Backup](https://github.com/NeoApplications/Neo-Backup)
@@ -1379,8 +1384,8 @@
   </details>
 
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX)
-  [[F-Droid](https://f-droid.org/zh_Hans/packages/com.kunzisoft.keepass.libre/)]\*
-  [[网站](https://www.keepassdx.com/)]
+  [[F-Droid](https://f-droid.org/zh_Hans/packages/com.kunzisoft.keepass.libre/)]
+  [[网站](https://www.keepassdx.com/)]\*
 
   <details>
 
@@ -1399,8 +1404,8 @@
   双重验证（2FA）客户端，支持 HOTP 和 TOTP。
 
 - [Stratum](https://github.com/stratumauth/app)
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.stratumauth.app)]\*
-  [[网站](https://stratumauth.com/)]
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.stratumauth.app)]
+  [[网站](https://stratumauth.com/)]\*
 
   <details>
 
@@ -1517,6 +1522,45 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 #### 应用管理
 
+- [App Manager](https://github.com/MuntashirAkon/AppManager)
+  [[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)]
+  [[网站](https://muntashirakon.github.io/AppManager/)]\*
+
+  <details>
+
+  <summary>极其强大的应用管理器。</summary><br/>
+
+  称其为最强也不为过。即使只作为查看器，它所展示的应用详细信息也是同类应用中最详尽的。强大的代价是牺牲了易用性，属于极客工具。
+
+  </details>
+
+- [LibChecker](https://github.com/LibChecker/LibChecker)
+  [[F-Droid](https://f-droid.org/packages/com.absinthe.libchecker/)]\*
+
+  <details>
+
+  <summary>作为 App Manager 的补充，主要用于查看应用使用的第三方库。</summary><br/>
+
+  似乎同类中只有它能快速筛选 32 位应用，让我能及时用 64 位版本替换掉原先误装的 32 位版本。
+
+  </details>
+
+- [Activity Manager](https://github.com/sdex/ActivityManager)
+  [[F-Droid](https://f-droid.org/packages/com.activitymanager/)]\*
+
+  高级的 Activity 和快捷方式启动器。
+
+- [Language Selector](https://github.com/VegaBobo/Language-Selector)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/vegabobo.languageselector)]\*
+
+  <details>
+
+  <summary>更改应用的显示语言，需要 Android 13 + 和 Shizuku。</summary><br/>
+
+  虽然使用条件苛刻，但值得一用。有些应用只有简/繁其中一种翻译，且没有适配 Android 13 新增的在应用设置中选择语言的特性。此应用可对指定应用伪装系统语言，以达到改变应用内语言的目的。
+
+  </details>
+
 <details>
 
 <summary>过时的内容</summary>
@@ -1623,6 +1667,16 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
   <summary>定制系统界面，需要 root。</summary><br/>
 
   不要被名字骗了，这个软件不仅可以改变图标，还可以修改很多系统界面的图标、颜色、形状和风格。如果用 Linux 的朋友，可以把这个软件所达到的自由度类比为 GTK/Qt 主题。
+
+  </details>
+
+- [Smartspacer](https://github.com/KieronQuinn/Smartspacer)\*
+
+  <details>
+
+  <summary>第三方一目了然（At a Glance）和负一屏。</summary><br/>
+
+  可作为小部件或升级 Pixel 的一目了然功能（需要 Shizuku）。也可直接作为第三方启动器的负一屏（如 Nova Launcher/Neo Launcher）或替换 Google Discover（需要 Xposed）。
 
   </details>
 
@@ -1851,6 +1905,12 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
+- [RustDesk](https://github.com/rustdesk/rustdesk)
+  [[F-Droid](https://f-droid.org/packages/com.carriez.flutter_hbb/)]
+  [[网站](https://rustdesk.com/)]
+
+  开源远程桌面应用，开源 TeamViewer 替代方案。
+
 - [WADB](https://github.com/RikkaApps/WADB)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.haruue.wadb)]
 
@@ -1889,6 +1949,14 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
   不过，我自己之前没有收纳这个软件，现在经推荐才加入进来，原因就是它并不适合一般用户，明显是为极客用户而生的。更麻烦的是，貌似 Termux 在 Android 12+ [有被系统杀掉进程](https://github.com/termux/termux-app/issues/2366) 的问题，解决这个问题又是需要折腾系统（如果愿意使用 Tasker，这个问题可以使用 [Termux:Tasker](https://f-droid.org/packages/com.termux.tasker/)解决，Lineage OS 20 用此方法在 Termux 中开机启动后自动挂代理，几乎未被系统杀死过。）。总之，我认为想玩 Linux 的话，最佳办法是在真机或虚拟机里安装 Linux 系统，Termux 的使用场景真的比较有限。
 
   </details>
+
+#### 抓包工具
+
+- [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
+  [[F-Droid](https://f-droid.org/packages/com.emanuelef.remote_capture)]
+  [[网站](https://emanuele-f.github.io/PCAPdroid/)]
+
+  Android 抓包工具，可[配合 Wireshark](https://emanuele-f.github.io/PCAPdroid/advanced_features#45-pcapdroid-trailer) 使用。
 
 #### Git及平台客户端
 
@@ -2006,13 +2074,13 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
   坏消息是，很多主流 IRC 服务器基本不支持 IRCv3 特性（手动斜眼）。
 
   </details>
-  
+
 - [Jami](https://git.jami.net/savoirfairelinux/jami-client-android)
   [[F-Droid](https://f-droid.org/packages/cx.ring/)]
   [[网站](https://jami.net/)]\*
 
   加密聊天软件，支持 UnifiedPush。还可以用作 SIP 客户端。
-  
+
 - [TRIfA](https://github.com/zoff99/ToxAndroidRefImpl)
   [[F-Droid](https://f-droid.org/packages/com.zoffcc.applications.trifa/)]
   [[网站](https://tox.zoff.cc)]\*
