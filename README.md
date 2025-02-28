@@ -1837,40 +1837,74 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 - [OctoDroid](https://github.com/slapperwan/gh4a)
   [[F-Droid](https://f-droid.org/packages/com.gh4a/)]
+  [[网站](https://slapperwan.github.io/gh4a/)]
 
-  GitHub客户端，对GitHub各项功能支持比较全面（指reaction表情、通知等细节都有），但是开发比较迟缓了。
+  <details>
 
-- [GitFox](https://gitlab.com/terrakok/gitlab-client)
-  [[F-Droid](https://f-droid.org/packages/com.gitlab.terrakok.gitfox/)]
+  <summary>GitHub 客户端，对 GitHub 各项功能支持比较全面。</summary><br/>
 
-  2023.12注：近2年没有更新代码。
+  reaction 表情、通知等细节都有，但是开发比较迟缓了。
 
-  GitLab客户端，有点简洁，功能不多。GitLab可以自主搭建服务器，因此支持登录其他服务器。
+  </details>
 
-- [GitTouch](https://github.com/git-touch/git-touch)
-  [[F-Droid](https://f-droid.org/packages/io.github.pd4d10.gittouch/)]
+- _[GitFox](https://gitlab.com/terrakok/gitlab-client)
+  [[F-Droid](https://f-droid.org/packages/com.gitlab.terrakok.gitfox/)]_
 
-  很多git托管平台的客户端，比如GitHub，GitLab等。注意不是git客户端，没发现很好的git客户端。
+  <details>
+
+  _<summary>GitLab 客户端，有点简洁，功能不多。</summary>_
+
+  **最后更新时间：20220216。**
+
+  GitLab 可以自主搭建服务器，因此支持登录其他服务器。
+
+  </details>
+
+- _[GitTouch](https://github.com/git-touch/git-touch)
+  [[F-Droid](https://f-droid.org/packages/io.github.pd4d10.gittouch/)]_
+
+  <details>
+
+  _<summary>很多 git 托管平台的客户端，比如 GitHub，GitLab 等。</summary>_
+
+  **最后更新时间：20221030。**
+
+  注意不是 git 客户端，没发现很好的 git 客户端。
+
+  </details>
 
 - [MGit](https://github.com/maks/MGit)
   [[F-Droid](https://f-droid.org/packages/com.manichord.mgit/)]
   [[网站](https://manichord.com/projects/mgit.html)]
 
-  不太好的git客户端里不太差的一个。在维护，但很久不发布新版本，界面也很古老，是Android 4时代的界面。
+  <details>
+
+  <summary>不太好的 git 客户端里不太差的一个。</summary><br/>
+
+  在维护，但很久不发布新版本，界面也很古老，是 Android 4 时代的界面。
+
+  </details>
 
 #### F-Droid状态
 
 - [F-Droid Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
   [[F-Droid](https://f-droid.org/packages/de.storchp.fdroidbuildstatus)]
 
-  可以查看F-Droid软件编译状态。F-Droid平台所有软件都严格在他们的服务器上编译，这是和其他任何接受直接上传编译好安装包的应用商店最大的不同。也因此要等待编译，一般要几天时间，用这个就可以看新版本编译完成没有。
+  <details>
+
+  <summary>可以查看 F-Droid 软件编译状态。</summary><br/>
+
+  F-Droid 平台所有软件都严格在他们的服务器上编译，这是和其他任何接受直接上传编译好安装包的应用商店最大的不同。也因此要等待编译，一般要几天时间，用这个就可以看新版本编译完成没有。
+
+  </details>
 
 #### 手册
 
 - [Linux Command Library](https://github.com/SimonSchubert/LinuxCommandLibrary)
   [[F-Droid](https://f-droid.org/packages/com.inspiredandroid.linuxcommandbibliotheca/)]
-
-  Linux相关命令、应用的帮助手册，主要包括大量man pages。
+  [[网站](https://linuxcommandlibrary.com/)]
+  
+  Linux 相关命令、应用的帮助手册，主要包括大量 man pages。
 
 ### 社交聊天
 
