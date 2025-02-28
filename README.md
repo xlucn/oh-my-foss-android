@@ -53,7 +53,7 @@
 
   <summary>F-Droid 官方客户端，升级了 API。</summary><br/>
 
-  在 Android 12 及以上无需特权或 root 即可进行静默更新。
+  在 Android 12 及以上无需特权或 root 即可进行静默更新。缺少一些无关紧要的功能。
 
   </details>
 
@@ -150,7 +150,7 @@
 
 #### 浏览器
 
-- [Fennec F-Droid](https://github.com/mozilla-mobile/fenix)
+- [Fennec F-Droid](https://hg.mozilla.org/mozilla-central/file/tip/mobile/android)
   [[F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)]
 
   <details>
@@ -163,7 +163,7 @@
 
   </details>
 
-- [Iceraven](https://github.com/fork-maintainers/iceraven-browser)\*
+- [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser)\*
 
   <details>
 
@@ -248,7 +248,7 @@
 
   </details>
 
-- [Transistor](https://codeberg.org/y20k/transistor)
+- [Transistor(晶体管收音机)](https://codeberg.org/y20k/transistor)
   [[F-Droid](https://f-droid.org/packages/org.y20k.transistor/)]
 
   <details>
@@ -285,7 +285,7 @@
   Podcast 客户端有很多，这款历史久，开发活跃，功能实而不华。
 
 - [Legado(阅读)](https://github.com/gedoor/legado)
-  [[网站](https://www.legado.top)]
+  ~~[[网站](https://www.legado.top)]~~
 
   <details>
 
@@ -297,6 +297,7 @@
 
 - [Shosetsu(书)](https://gitlab.com/shosetsuorg/shosetsu)
   [[F-Droid](https://f-droid.org/packages/app.shosetsu.android.fdroid)]
+  [[网站](https://shosetsu.app/)]
 
   <details>
 
@@ -556,7 +557,7 @@
 
   谷歌相机有着其他开源相机软件无法比拟的图像优化，成像质量可以提升好几档。此外，还有夜景模式、全景模式、HDR+ 等很强大的功能。对照片质量敏感的朋友，就不要用下面那些软件了。当然，这个解决方案并不是开源的。如果你不在意的话，这算是最佳方案了。
 
-  （2024.02 更新）后来才搞明白，这个软件有 Basic 和 Photos 两个版本。简单地说，如果系统上有 Google Photos，就用 Basic 版；如果没有，就用 Photos 版。这样可以使用相机界面的“相册”按钮打开系统相册。相见 [Izzyondroid 页面](https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.photos)。
+  （2024.02 更新）后来才搞明白，这个软件有 Basic 和 Photos 两个版本。简单地说，如果系统上有 Google Photos，就用 Basic 版；如果没有，就用 Photos 版。这样可以使用相机界面的“相册”按钮打开系统相册。详见 [Izzyondroid 页面](https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.photos)。
 
   安装此软件后，大家可以到 [Gcam 的网站](https://www.celsoazevedo.com/files/android/google-camera/links/)寻找适配自己机型版本的 Gcam 和配置文件，简单安装即可。
 
@@ -643,7 +644,7 @@
 
   <summary>基于 OpenStreetMap 数据的离线地图软件。</summary><br/>
 
-  是 Maps.me 的开源复刻，主打给驴友们做路线规划。
+  是 Maps.me 的开源复刻，离线的登山、骑行与导航，主打给驴友们做路线规划。
 
   </details>
 
@@ -664,7 +665,7 @@
 
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.breezyweather)]
-  [[F-Droid](https://f-droid.org/app/nodomain.freeyourgadget.gadgetbridge)]
+  [[F-Droid](https://f-droid.org/packages/org.breezyweather/)]
 
   <details>
 
@@ -846,7 +847,6 @@
 
 - [Markor](https://github.com/gsantner/markor)
   [[F-Droid](https://f-droid.org/packages/net.gsantner.markor/)]
-  [[网站](https://gsantner.net/project/markor.html?source=fdroid)]
 
   <details>
 
@@ -864,7 +864,7 @@
   极简又漂亮的笔记应用，只能输入纯文字，有少许加粗斜体等格式。
 
 - [Saber](https://github.com/adil192/saber)
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.adilhanney.saber)]
+  [[F-Droid](https://f-droid.org/packages/com.adilhanney.saber/)]
 
   <details>
 
@@ -880,6 +880,7 @@
 
 - [OpenDocument Reader](https://github.com/TomTasche/OpenDocument.droid)
   [[F-Droid](https://f-droid.org/packages/at.tomtasche.reader)]
+  [[网站](https://opendocument.app/)]
 
   <details>
 
@@ -1039,7 +1040,7 @@
 
 #### 百科
 
-- [Wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
+- [Wikipedia(维基百科)](https://github.com/wikimedia/apps-android-wikipedia)
   [[F-Droid](https://f-droid.org/packages/org.wikipedia/)]
   [[网站](https://www.mediawiki.org/wiki/Wikimedia_Apps)]
 
@@ -1068,7 +1069,7 @@
   </details>
 
 - [Stellarium](https://github.com/Stellarium/stellarium)
-  [网站](https://www.stellarium-labs.com/stellarium-mobile-plus/)
+  [[网站](https://www.stellarium-labs.com/stellarium-mobile-plus/)]
 
   <details>
 
@@ -1431,6 +1432,7 @@
 
 - [Stratum](https://github.com/stratumauth/app)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.stratumauth.app)]\*
+  [[网站](https://stratumauth.com/)]
 
   <details>
 
@@ -2003,6 +2005,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 - [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
   [[F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/)]\*
+  [[网站](https://pipepipe.dev/)]
 
   <details>
 
@@ -2065,12 +2068,13 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 - [Sudoku](https://github.com/SecUSo/privacy-friendly-sudoku)
   [[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlysudoku)]
+  [[网站](https://secuso.aifb.kit.edu/english/Sudoku.php)]
 
   <details>
 
   <summary>数独，F-Droid 有几个数独游戏，这个用户体验是很好的。</summary><br/>
 
-  还有[另一个](https://github.com/ogarcia/opensudoku)，但是自带只有 90 个离线关卡，此外只能下载导入。
+  还有[另一个](https://gitlab.com/opensudoku/opensudoku)，但是自带只有 90 个离线关卡，此外只能下载导入。
 
   </details>
 
@@ -2080,11 +2084,13 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
   目前维护最积极的 2048。
 
 - [Blockinger](https://github.com/vocollapse/Blockinger)
-  [[F-Droid](https://f-droid.org/packages/org.blockinger.game/)]
+  ~~[[F-Droid](https://f-droid.org/packages/org.blockinger.game/)]~~
 
   <details>
 
-  <summary>俄罗斯方块。很久很久很久没更新了，但是还可以用。</summary><br/>
+  _<summary>俄罗斯方块。很久很久很久没更新了，但是还可以用。</summary>_
+
+  **最后更新时间：20130815 / F-droid 已 404。**
 
   即便很老，但玩起来很顺手，反应灵敏，比较严格的经典规则，我认为高手也能玩的很舒服。也比较无奈，竟然没有较新的开源俄罗斯方块。
 
@@ -2092,11 +2098,14 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   </details>
 
-- [Falling Lightblocks](https://github.com/MrStahlfelge/lightblocks)
+- _[Falling Lightblocks](https://github.com/MrStahlfelge/lightblocks)
+  [[网站](https://www.golfgl.de/lightblocks/)]_
 
   <details>
 
   <summary>经推荐发现的另一款开源俄罗斯方块，更加新一些。</summary><br/>
+
+  **最后更新时间：20230122。**
 
   操作体验上与 Blockinger 不同，支持手势操作，有过渡动画。有一些新版俄罗斯方块的操作，比如 hold。
 
@@ -2104,8 +2113,9 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   </details>
 
-- [Puzzles](https://github.com/chrisboyle/sgtpuzzles)
+- [Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles)
   [[F-Droid](https://f-droid.org/packages/name.boyle.chris.sgtpuzzles/)]
+  [[网站](https://chris.boyle.name/projects/android-puzzles/)]
 
   40 款益智小游戏合集，包含扫雷等，想费一费脑细胞的可以试试。
 
@@ -2125,12 +2135,14 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   连字成词的单词拼写游戏，对词汇量要求高，否则心态容易崩。
 
-- [Open Golf](https://github.com/mgerdes/Open-Golf)
-  [[F-Droid](https://f-droid.org/packages/me.mgerdes.open_golf/)]
+- _[Open Golf](https://github.com/mgerdes/Open-Golf)
+  [[F-Droid](https://f-droid.org/packages/me.mgerdes.open_golf/)]_
 
   <details>
 
-  <summary>一个小的高尔夫球游戏，但是关卡太少了。</summary><br/>
+  _<summary>一个小的高尔夫球游戏，但是关卡太少了。</summary><br/>_
+
+  **最后更新时间：20220525。**
 
   用滑动控制力度方向，让球经历复杂地形进洞。
 
@@ -2139,7 +2151,8 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 #### 棋类
 
 - [Lichess](https://github.com/lichess-org/lichobile)
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.lichess.mobileapp)]
+  [[F-Droid](https://f-droid.org/packages/org.lichess.mobileapp.free/)]
+  [[网站](https://lichess.org/)]
 
   <details>
 
@@ -2219,7 +2232,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   </details>
 
-- [Xeonjia](https://gitlab.com/DeepDaikon/Xeonjia)
+- [Xeonjia(寒冰之旅 ](https://gitlab.com/DeepDaikon/Xeonjia)
   [[F-Droid](https://f-droid.org/packages/xyz.deepdaikon.xeonjia/)]
 
   <details>
@@ -2232,15 +2245,15 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 #### 沙盒
 
-- [Minetest](https://github.com/minetest/minetest)
+- [Luanti](https://github.com/luanti-org/luanti)
   [[F-Droid](https://f-droid.org/packages/net.minetest.minetest/)]
-  [[网站](https://www.minetest.net/)]
+  [[网站](https://www.luanti.org/)]
 
   <details>
 
   <summary>类似 Minecraft 的开源沙盘游戏，可玩性很高。</summary><br/>
 
-  我没怎么玩过，应该添加一些模块，默认好像真的只有沙盘。
+  原名 Minetest。我没怎么玩过，应该添加一些模块，默认好像真的只有沙盘。
 
   </details>
 
