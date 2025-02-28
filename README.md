@@ -37,6 +37,8 @@
 
 - [F-Droid](https://gitlab.com/fdroid/fdroidclient)
   [[F-Droid](https://f-droid.org/packages/org.fdroid.fdroid)]
+- [F-Droid Basic](https://gitlab.com/fdroid/fdroidclient)
+  [[F-Droid](https://f-droid.org/packages/org.fdroid.basic)]\*
 
   <details>
 
@@ -44,16 +46,7 @@
 
   虽是正统，但功能和界面并不是最好的，没什么值得表扬的。
 
-  </details>
-
-- [F-Droid Basic](https://gitlab.com/fdroid/fdroidclient)
-  [[F-Droid](https://f-droid.org/packages/org.fdroid.basic)]\*
-
-  <details>
-
-  <summary>F-Droid 官方客户端，升级了 API。</summary><br/>
-
-  在 Android 12 及以上无需特权或 root 即可进行静默更新。缺少一些无关紧要的功能。
+  后者升级了 API，在 Android 12 及以上无需特权或 root 即可进行静默更新。缺少一些无关紧要的功能。
 
   </details>
 
@@ -85,6 +78,10 @@
 
  </details>
 
+<details>
+
+<summary>过时的内容</summary>
+
 - _[Foxy Droid](https://github.com/kitsunyan/foxy-droid)
   [[F-Droid](https://f-droid.org/packages/nya.kitsunyan.foxydroid)]_
 
@@ -96,7 +93,7 @@
 
   F-Droid 第三方客户端，这个很简洁，只有 1M 多，基本功能尚可用，我一直用作官方客户端的替代品。缺点是无法自动和批量安装，每次会弹出安装窗口。
 
- </details>
+  </details>
 
 - _[Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid)
   ~~[[F-Droid](https://f-droid.org/packages/com.aurora.adroid)]
@@ -111,6 +108,8 @@
   有 root 的话可以一键更新/安装。
 
  </details>
+
+</details>
 
 #### 谷歌商店第三方客户端
 
@@ -259,19 +258,6 @@
 
   </details>
 
-- _~~[URL Radio](https://github.com/jamal2362/URL-Radio)~~
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jamal2367.urlradio)]_
-
-  <details>
-
-  _<summary>另一个收音机应用，已停止开发。</summary>_
-
-  **源码已存档：20241206。**
-
-  应该基于 Transistor。不太清楚与后者有什么不同，Transistor 也没有放弃维护。
-
-  </details>
-
 - [RadioDroid](https://github.com/segler-alex/RadioDroid)
   [[F-Droid](https://f-droid.org/packages/net.programmierecke.radiodroid2/)]
   [[网站](https://www.radio-browser.info/)]\*
@@ -318,6 +304,25 @@
 
   </details>
 
+<details>
+
+<summary>过时的内容</summary>
+
+- _~~[URL Radio](https://github.com/jamal2362/URL-Radio)~~
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jamal2367.urlradio)]_
+
+  <details>
+
+  _<summary>另一个收音机应用，已停止开发。</summary>_
+
+  **源码已存档：20241206。**
+
+  应该基于 Transistor。不太清楚与后者有什么不同，Transistor 也没有放弃维护。
+
+  </details>
+
+</details>
+
 #### 追剧管理
 
 - [Showly](https://github.com/michaldrabik/Showly-2.0)
@@ -354,13 +359,10 @@
 
 - [Tremotesf](https://github.com/equeim/tremotesf-android)
   [[F-Droid](https://f-droid.org/repository/browse/?fdid=org.equeim.tremotesf)]
-
-  Transmission 的远程控制软件。
-
 - [Transmissionic](https://github.com/6c65726f79/Transmissionic)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.sleroy.transmissionic)]
 
-  另一款 Transmission 的远程控制软件。
+  Transmission 的远程控制软件。
 
 ### 多媒体
 
@@ -434,16 +436,11 @@
   [[F-Droid](https://f-droid.org/packages/code.name.monkey.retromusic/)]
   [[网站](https://retromusic.app/)]
 
-  很漂亮的音乐播放软件。
-
-- [Metro](https://github.com/MuntashirAkon/Metro)
-  [[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.Music/)]
-
   <details>
 
-  <summary>上方 Retro 的“破解版”。</summary><br/>
+  <summary>很漂亮的音乐播放软件。F-Droid 版本已移除内购。</summary><br/>
 
-  即解锁了高级功能，去除了谷歌服务，算是更加纯粹的开源版本。
+  曾经有一个名为 [Metro](https://github.com/MuntashirAkon/Metro)[[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.Music/)] 的破解版，但前者完全免费后已没有继续开发的必要。
 
   </details>
 
@@ -461,6 +458,8 @@
 
 - [Mpd](https://github.com/MusicPlayerDaemon/MPD/)
   [[F-Droid](https://f-droid.org/packages/org.musicpd/)]
+- [M.A.L.P.](https://gitlab.com/gateship-one/malp)
+  [[F-Droid](https://f-droid.org/packages/org.gateshipone.malp/)]
 
   <details>
 
@@ -468,16 +467,7 @@
 
   这个属于极客范畴了，本身不携带控制界面，并且实用性也不如正常的音乐播放器。Linux 用户或许用过，至少我是很喜欢的（是说喜欢 Linux 桌面的使用情景，安卓上的使用体验是很糟的）。
 
-  </details>
-
-- [M.A.L.P.](https://gitlab.com/gateship-one/malp)
-  [[F-Droid](https://f-droid.org/packages/org.gateshipone.malp/)]
-
-  <details>
-
-  <summary>上述 Mpd 的前端。</summary><br/>
-
-  可以控制安卓手机自己的 Mpd，也可以连接到电脑上的 Mpd。
+  M.A.L.P. 为前端，可以控制安卓手机自己的 Mpd，也可以连接到电脑上的 Mpd。
 
   </details>
 
@@ -567,7 +557,7 @@
 
   <details>
 
-  <summary>Lineage OS 20 自带相机应用。</summary><br/>
+  <summary>Lineage OS 20 及以上版本自带相机应用。</summary><br/>
 
   相较之前自带的 Snap（版本19之前）和 AOSP 原生相机（版本19），界面更加漂亮，功能更加丰富，可以说接近手机原系统中的相机应用了。有了这个（当然前提是你在用 Lineage OS），我自认为可以不再考虑下面几个开源方案。
 
@@ -650,24 +640,11 @@
 
 - [GPSLogger(GPS记录器 )](https://github.com/mendhak/gpslogger)
   [[F-Droid](https://f-droid.org/packages/com.mendhak.gpslogger/)]
-  [[网站](https://gpslogger.app/)]
+  [[网站](https://gpslogger.app/)]\*
 
   轻量、省电的 GPS 记录器。
 
 #### 天气
-
-- _[Geometric Weather(几何天气)](https://github.com/WangDaYeeeeee/GeometricWeather)
-  ~~[[F-Droid](https://f-droid.org/packages/wangdaye.com.geometricweather/)]~~_
-
-  <details>
-
-  _<summary>开发已经停滞，建议使用下面的 Breezy Weather。</summary>_
-
-  **最后更新时间：20220610 / F-droid 已 404。**
-
-  用过最好的天气软件之一，媲美很多国内安卓系统的自带天气软件。
-
-  </details>
 
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.breezyweather)]
@@ -694,6 +671,25 @@
   更新：早在 2022 年，F-Droid 官方就以检测到 GMS 使用为由下架了这个软件，但是作者并未有意识地使用（见[相关 issue](https://github.com/SpicyChair/pluvia_weather_flutter/issues/56)）。所以现在 F-Droid上 安装不了了。大家可自行判断，或者干脆使用上面的 Breezy Weather。
 
   </details>
+
+<details>
+
+<summary>过时的内容</summary>
+
+- _[Geometric Weather(几何天气)](https://github.com/WangDaYeeeeee/GeometricWeather)
+  ~~[[F-Droid](https://f-droid.org/packages/wangdaye.com.geometricweather/)]~~_
+
+  <details>
+
+  _<summary>开发已经停滞，建议使用 Breezy Weather。</summary>_
+
+  **最后更新时间：20220610 / F-droid 已 404。**
+
+  用过最好的天气软件之一，媲美很多国内安卓系统的自带天气软件。
+
+  </details>
+
+</details>
 
 #### 智能穿戴
 
@@ -762,26 +758,13 @@
 
 #### 小工具
 
-- _~~[Ruler](https://github.com/congshengwu/Ruler)~~
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ruler.csw)]_
-
-  <details>
-
-  _<summary>很简单的屏幕直尺，已删库跑路。</summary>_
-
-  **警告：源码已 404。彻底不算开源软件了。**
-
-  默认可能有误差，但好在可以校准，没准什么时候可以应急。
-
-  </details>
-
 - [Tape Measure](https://github.com/SecUSo/privacy-friendly-tape-measure)
   [[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlytapemeasure)]
   [[网站](https://secuso.aifb.kit.edu/english/Tape_Measure_and_Ruler.php)]
 
   <details>
 
-  <summary>另一个屏幕直尺（没跑路的那种）。</summary><br/>
+  <summary>屏幕直尺（没跑路的那种）。</summary><br/>
 
   实际上其主要功能为通过图片中的制定参考物测量其他物体长度，但远远没有苹果手机/平板上的那个功能方便好用。屏幕直尺的校准也不太好，需要你用另一个尺去量屏幕上的一条线，而不是用一张常见的卡片去校准。总之，设计上略显简陋和矛盾，但偶尔应急也没问题。
 
@@ -831,6 +814,25 @@
 
   </details>
 
+<details>
+
+<summary>过时的内容</summary>
+  
+- _~~[Ruler](https://github.com/congshengwu/Ruler)~~
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ruler.csw)]_
+
+  <details>
+
+  _<summary>很简单的屏幕直尺，已删库跑路。</summary>_
+
+  **警告：源码已 404。彻底不算开源软件了。**
+
+  默认可能有误差，但好在可以校准，没准什么时候可以应急。
+
+  </details>
+
+</details>
+
 ### 学习办公
 
 #### 办公套件
@@ -871,10 +873,11 @@
 
 - [Saber](https://github.com/adil192/saber)
   [[F-Droid](https://f-droid.org/packages/com.adilhanney.saber/)]
+  [[网站](https://saber.adil.hanney.org/)]
 
   <details>
 
-  <summary>  不多见的开源手写笔记软件。</summary><br/>
+  <summary>不多见的开源手写笔记软件。</summary><br/>
 
   ~~我没有安卓平板，不知道实际体验如何。~~ 我在两个安卓设备上体验了：一个装了 LineageOS 18 的三星 Note 4（即第三方系统 + 第三方软件），另一个是官方系统的三星 Tab A 9.7。和原装系统下的自带笔记相比，延迟差不多（但本来就很高）,也支持压感。
 
@@ -896,25 +899,12 @@
 
   </details>
 
-- _~~[Pdf Viewer Plus](https://github.com/JavaCafe01/PdfViewer)
-  [[F-Droid](https://f-droid.org/packages/com.gsnathan.pdfviewer)]~~_
-
-  <details>
-
-  _<summary>已停止开发，建议用下面的 MJ PDF Reader。</summary>_
-
-  **源码已存档：20240204 / F-droid 已 404。** 
-
-  开源的同类软件 UI 都不怎么样，这个算是很好的了，期待和谷歌 PDF 阅读器差不多的开源版本出现。
-
-  </details>
-
 - [MJ PDF Reader](https://gitlab.com/mudlej_android/mj_pdf_reader)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader)]
 
   <details>
 
-  <summary>基于上述 Pdf Viewer Plus 的 PDF 阅读器。</summary><br/>
+  <summary>基于 Pdf Viewer Plus 的 PDF 阅读器。</summary><br/>
 
   由于前者很久无维护，所以这个项目做了大量重构与适配工作，修复了一些问题，增加一些功能。总体来说解决了之前项目的一些痛点，值得一用。
 
@@ -938,18 +928,24 @@
 
   </details>
 
-- _[Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD)
-  ~~[[F-Droid](https://f-droid.org/packages/com.github.axet.bookreader/)]~~_
+<details>
+
+<summary>过时的内容</summary>
+
+- _~~[Pdf Viewer Plus](https://github.com/JavaCafe01/PdfViewer)
+  [[F-Droid](https://f-droid.org/packages/com.gsnathan.pdfviewer)]~~_
 
   <details>
 
-  _<summary>电子书阅读软件。</summary>_
+  _<summary>已停止开发，建议使用 MJ PDF Reader。</summary>_
 
-  **最后更新：20220803 / F-droid 已 404。**
+  **源码已存档：20240204 / F-droid 已 404。** 
 
-  比上面的 Librera Reader 更简陋一些，但也可以用。试了一个 eupb，排版不太好。
+  开源的同类软件 UI 都不怎么样，这个算是很好的了，期待和谷歌 PDF 阅读器差不多的开源版本出现。
 
   </details>
+
+</details>
 
 #### 文档扫描
 
@@ -1370,21 +1366,6 @@
 
 #### 密码
 
-- _~~[Password Store](https://github.com/android-password-store/Android-Password-Store)
-  [[F-Droid](https://f-droid.org/packages/dev.msfjarvis.aps/)]~~_
-
-  <details>
-
-  _<summary>密码管理和自动填充软件。</summary>_
-
-  **源码已存档：20241015 / F-droid 已 404。**
-
-  要先了解 Linux 平台上的 [password store](https://www.passwordstore.org/) 才能用，这个是安卓客户端。
-
-  password store 本身只是一个小脚本，调用 git 管理 gpg 加密的密码文件，这个安卓版也是类似。因而可以选择 GitHub 私人仓库 + password store 的超轻量开源方案，而非托管在统一的服务器上，这很 Unix。
-
-  </details>
-
 - [OpenKeychain](https://github.com/open-keychain/open-keychain)
   [[F-Droid](https://f-droid.org/packages/org.sufficientlysecure.keychain/)]
   [[网站](https://www.openkeychain.org/)]
@@ -1411,6 +1392,43 @@
 
   </details>
 
+- [Aegis](https://github.com/beemdevelopment/Aegis)
+  [[F-Droid](https://f-droid.org/packages/com.beemdevelopment.aegis/)]
+  [[网站](https://getaegis.app/)]
+
+  双重验证（2FA）客户端，支持 HOTP 和 TOTP。
+
+- [Stratum](https://github.com/stratumauth/app)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.stratumauth.app)]\*
+  [[网站](https://stratumauth.com/)]
+
+  <details>
+
+  <summary>双重验证（2FA）客户端，支持 Wear OS 查看验证码。</summary><br/>
+
+  除了 HOTP 和 TOTP，还支持 Mobile-Otp (mOTP)，Steam 和 Yandex。界面简洁美观，原名 Authenticator Pro。
+
+  </details>
+
+<details>
+
+<summary>过时的内容</summary>
+
+- _~~[Password Store](https://github.com/android-password-store/Android-Password-Store)
+  [[F-Droid](https://f-droid.org/packages/dev.msfjarvis.aps/)]~~_
+
+  <details>
+
+  _<summary>密码管理和自动填充软件。</summary>_
+
+  **源码已存档：20241015 / F-droid 已 404。**
+
+  要先了解 Linux 平台上的 [password store](https://www.passwordstore.org/) 才能用，这个是安卓客户端。
+
+  password store 本身只是一个小脚本，调用 git 管理 gpg 加密的密码文件，这个安卓版也是类似。因而可以选择 GitHub 私人仓库 + password store 的超轻量开源方案，而非托管在统一的服务器上，这很 Unix。
+
+  </details>
+
 - _~~[andOTP](https://github.com/andOTP/andOTP)
   [[F-Droid](https://f-droid.org/packages/org.shadowice.flocke.andotp/)]~~_
 
@@ -1424,34 +1442,12 @@
 
   </details>
 
-- [Aegis](https://github.com/beemdevelopment/Aegis)
-  [[F-Droid](https://f-droid.org/packages/com.beemdevelopment.aegis/)]
-  [[网站](https://getaegis.app/)]
-
-  <details>
-
-  <summary>和 andOTP 类似，是一款双重验证（2FA）客户端。</summary><br/>
-
-  相比起来，这款界面更简洁、符合质感设计，其它方面大同小异。
-
-  </details>
-
-- [Stratum](https://github.com/stratumauth/app)
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.stratumauth.app)]\*
-  [[网站](https://stratumauth.com/)]
-
-  <details>
-
-  <summary>双重验证（2FA）软件，支持 Wear OS 查看验证码。</summary><br/>
-
-  界面简洁美观，原名 Authenticator Pro。
-
-  </details>
+</details>
 
 #### 短信
 
 - [QUIK](https://github.com/octoshrimpy/quik)
-  [[F-Droid](https://f-droid.org/packages/dev.octoshrimpy.quik/)]
+  [[F-Droid](https://f-droid.org/packages/dev.octoshrimpy.quik/)]\*
 
   <details>
 
@@ -1513,13 +1509,17 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   <summary>电话自动录音，非本土化系统中很实用。</summary><br/>
 
-  搭配Magisk模块可以成为系统应用。
+  搭配 Magisk 模块可以成为系统应用。
 
   之前作为第三方应用使用时，经常出现不会触发录音的问题，不知道安装为系统应用能否正常使用。推荐上面的 BCR。
 
   </details>
 
 #### 应用管理
+
+<details>
+
+<summary>过时的内容</summary>
 
 - _~~[Anywhere-](https://github.com/zhaobozhen/Anywhere-)~~
   [[网站](https://absinthe.life/Anywhere-Docs/guide/)]\*_
@@ -1535,6 +1535,8 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
   这个软件没有上架 F-Droid 或 Izzyondroid，在酷安也被下架了，截至添加本条目时只能在 Github Releases 或者谷歌商店下载到。
 
   </details>
+
+</details>
 
 #### 应用冻结
 
@@ -1567,6 +1569,23 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 #### 系统清理
 
+- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
+  [[F-Droid](https://f-droid.org/packages/eu.darken.sdmse/)]
+
+  <details>
+
+  <summary>SD Maid 二代。</summary><br/>
+
+  估计很多人都用过 SD Maid，这个是其作者为更高安卓版本重新开发的开源版本。SE 是什么意思作者也[没有给出解释](https://github.com/d4rken-org/sdmaid-se/wiki/FAQ#what-does-the-se-in-sd-maid-se-stand-for)，或可解读为第二版 Second Edition。
+
+  目前版本有各种系统清理选项，还有存储占用分析。已经基本可以替代原版本了。
+
+  </details>
+
+<details>
+
+<summary>过时的内容</summary>
+
 - _~~[LTE Cleaner](https://github.com/TheRedSpy15/LTECleanerFOSS)
   [[F-Droid](https://f-droid.org/packages/theredspy15.ltecleanerfoss/)]~~_
 
@@ -1580,18 +1599,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   </details>
 
-- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
-  [[F-Droid](https://f-droid.org/packages/eu.darken.sdmse/)]
-
-  <details>
-
-  <summary>SD Maid 二代。</summary><br/>
-
-  估计很多人都用过 SD Maid，这个是其作者为更高安卓版本重新开发的开源版本。SE 是什么意思作者也[没有给出解释](https://github.com/d4rken-org/sdmaid-se/wiki/FAQ#what-does-the-se-in-sd-maid-se-stand-for)，或可解读为第二版 Second Edition。
-
-  目前版本有各种系统清理选项，还有存储占用分析。已经基本可以替代原版本了。
-
-  </details>
+</details>
 
 #### 系统美化
 
@@ -1627,6 +1635,10 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 #### 手机安全
 
+<details>
+
+<summary>过时的内容</summary>
+
 - _[Hypatia](https://gitlab.com/divested-mobile/hypatia)
   [[F-Droid](https://f-droid.org/packages/us.spotco.malwarescanner/)]_
 
@@ -1642,11 +1654,16 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   </details>
 
+</details>
+
 #### 电脑连接
 
 - [A2LN](https://github.com/patri9ck/a2ln-app)
   [[F-Droid](https://f-droid.org/packages/dev.patri9ck.a2ln)]
   [[网站](https://patri9ck.dev/a2ln/)]
+- _[AN2Linux](https://github.com/rootkiwi/an2linuxclient)
+  [[F-Droid](https://f-droid.org/packages/kiwi.root.an2linuxclient/)]
+  [[网站](https://github.com/rootkiwi/an2linuxserver/)]_
 
   <details>
 
@@ -1654,17 +1671,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   可以通过 WiFi、蓝牙或者移动数据。我只试过 WiFi，不知道另两个体验如何。
 
-  </details>
-
-- _[AN2Linux](https://github.com/rootkiwi/an2linuxclient)
-  [[F-Droid](https://f-droid.org/packages/kiwi.root.an2linuxclient/)]
-  [[网站](https://github.com/rootkiwi/an2linuxserver/)]_
-
-  <details>
-
-  _<summary>已不再维护。建议使用上面的 A2LN。</summary>_
-
-  **最后更新：20210322**
+  后者已不再维护，  **最后更新时间：20210322**。
 
   </details>
 
@@ -1676,7 +1683,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   <summary>很强大的连接 PC 和手机的工具。</summary><br/>
 
-  可以分享文件或文本、同步通知、运行命令和远程控制等等。需要 Linux 系统上安装相应的 PC 端软件，常见的如 KDE 官方的 [Kde Connect](https://kdeconnect.kde.org/)和适配 GNOME 的 [GSConnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)。
+  可以分享文件或文本、同步通知、运行命令和远程控制等等。需要 Linux 系统上安装相应的 PC 端软件，常见的如 KDE 官方的 [Kde Connect](https://kdeconnect.kde.org/) 和适配 GNOME 的 [GSConnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)。
 
   KDE 团队做的很好的一点是，他们将 KDE Connect 前后端分离开了，真正支撑底层功能的部分实现为一种协议，可以独立于图形界面部分运行。这样在非 KDE 环境，便可以用其它的软件，如我在使用的 [mconnect](https://github.com/grimpy/mconnect)，就是没有图形界面，只有命令行接口，但如果你想要的基本功能都具备，可以很灵活而不受桌面环境限制。
 
@@ -1750,7 +1757,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [Sunup](https://codeberg.org/Sunup/android)
   [[F-Droid](https://f-droid.org/packages/org.unifiedpush.distributor.sunup/)]
-  [[网站](https://github.com/mozilla-services/autopush-rs)]
+  [[网站](https://github.com/mozilla-services/autopush-rs)]\*
 
   <details>
 
@@ -1761,7 +1768,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
   </details>
 
 - [gCompat-UP](https://codeberg.org/UnifiedPush/fcm-distributor)
-  [[Izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/org.unifiedpush.distributor.fcm)]
+  [[Izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/org.unifiedpush.distributor.fcm)]\*
 
   <details>
 
@@ -1960,7 +1967,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 #### 聊天软件
 
-更学究的讲，这一类软件叫做“即时通信”（Instant messaging）。
+更学究的讲，这一类软件叫做“即时通信”（Instant Messaging）。
 
 - [Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
   [[F-Droid](https://f-droid.org/packages/org.telegram.messenger/)]
@@ -2002,13 +2009,13 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
   
 - [Jami](https://git.jami.net/savoirfairelinux/jami-client-android)
   [[F-Droid](https://f-droid.org/packages/cx.ring/)]
-  [[网站](https://jami.net/)]
+  [[网站](https://jami.net/)]\*
 
-  自有加密协议聊天软件，支持 UnifiedPush。还可以用作 SIP 客户端。
+  加密聊天软件，支持 UnifiedPush。还可以用作 SIP 客户端。
   
 - [TRIfA](https://github.com/zoff99/ToxAndroidRefImpl)
   [[F-Droid](https://f-droid.org/packages/com.zoffcc.applications.trifa/)]
-  [[网站](https://tox.zoff.cc)]
+  [[网站](https://tox.zoff.cc)]\*
 
   Tox 协议的安卓客户端，不挂后台需要安装 [Tox Notify](https://github.com/zoff99/tox_push_msg_app/) 使用 UnifiedPush 推送。
 
@@ -2062,8 +2069,8 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
   注重隐私的 YouTube 客户端，不能登陆，只能看，不过非常好用。
 
 - [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
-  [[F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/)]\*
-  [[网站](https://pipepipe.dev/)]
+  [[F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/)]
+  [[网站](https://pipepipe.dev/)]\*
 
   <details>
 
@@ -2223,7 +2230,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Gobandroid](https://github.com/ligi/gobandroid)
   [[F-Droid](https://f-droid.org/packages/org.ligi.gobandroid_hd/)]
 
-  [gobandroid ai gnugo](https://github.com/ligi/gobandroid-ai-gnugo)
+- [gobandroid ai gnugo](https://github.com/ligi/gobandroid-ai-gnugo)
   [[F-Droid](https://f-droid.org/packages/org.ligi.gobandroidhd.ai.gnugo/)]
 
   <details>
@@ -2246,7 +2253,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   Mindustry 比一般的塔防要复杂，比如要采各种矿、建立资源运输管道供给防御工事、开发科技树，敌人自由走动。有点像即时策略 RTS 了（好像就是），可玩性 max。
 
-  没事了，已经更新了~~注：目前由于F-Droid服务器编译环境不兼容，软件版本卡在了主版本5。~~
+  没事了，已经更新了~~注：目前由于 F-Droid 服务器编译环境不兼容，软件版本卡在了主版本 5。~~
 
   </details>
 
@@ -2285,12 +2292,12 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   游戏其实还在持续完善，地图还没做完，所以有一部分故事线和任务都是断的。不过目前的部分已经可以玩几个星期了。还有问题是大部分对话是英文，中文翻译的很少。
 
-  时隔好久，又看了一眼 git 仓库。你猜怎么着，它一小时前更新版本(v0.7.14)了，巧不巧！这个版本有很多人（包括我）更新的翻译，但是依然剩下 59% 的内容没有翻译。游戏里这些人话可真多。
+  时隔好久，又看了一眼 git 仓库。你猜怎么着，它一小时前更新版本（v0.7.14）了，巧不巧！这个版本有很多人（包括我）更新的翻译，但是依然剩下 59% 的内容没有翻译。游戏里这些人话可真多。
   （2023 年或者更早的时候，有好多人把所有游戏内容都翻译了……上万的字符串啊，你们太牛了，给你们点赞）
 
   </details>
 
-- [Xeonjia(寒冰之旅 ](https://gitlab.com/DeepDaikon/Xeonjia)
+- [Xeonjia(寒冰之旅)](https://gitlab.com/DeepDaikon/Xeonjia)
   [[F-Droid](https://f-droid.org/packages/xyz.deepdaikon.xeonjia/)]
 
   <details>
@@ -2384,6 +2391,10 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
+<details>
+
+<summary>过时的内容</summary>
+
 - _~~[Terminal](https://github.com/LineageOS/android_packages_apps_Terminal)~~_
 
   <details>
@@ -2393,6 +2404,8 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
   这个终端很简单，几乎没有选项，就是单纯地执行命令。这不就是终端的功能吗？
 
   </details>
+
+</details>
 
 ## 相似集合
 
