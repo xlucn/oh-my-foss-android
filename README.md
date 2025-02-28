@@ -169,7 +169,7 @@
 
   <summary>另一个强化版火狐浏览器。</summary><br/>
 
-  更长的扩展列表，支持 about:config 。
+  更长的扩展列表，支持 about:config ，隐私方面应该相当于 Fennec。
 
   “Iceraven 浏览器结合了 Fenix 的力量和 Fennec 的精神，并向 Netscape Navigator 的伟大传统致敬。”
 
@@ -242,9 +242,9 @@
 
   <details>
 
-  <summary>IPTV 客户端。</summary><br/>
+  <summary>IPTV 客户端，可以从网络串流观看电视节目。</summary><br/>
 
-  可以从网络串流观看电视节目，大家可以自行从网上搜集 IPTV 资源，添加至播放器中，就可以播放了。
+  大家可以自行从网上搜集 IPTV 资源，添加至播放器中，就可以播放了。
 
   </details>
 
@@ -276,7 +276,7 @@
   [[F-Droid](https://f-droid.org/packages/net.programmierecke.radiodroid2/)]
   [[网站](https://www.radio-browser.info/)]\*
 
-  另一个网络收音机，自带频道列表，不需要手动搜。
+  另一个网络收音机，自带频道列表，不需要手动搜索。
 
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod)
   [[F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/)]
@@ -401,9 +401,9 @@
 
   <details>
 
-  <summary>Kodi 官方遥控器应用。</summary><br/>
+  <summary>Kodi 官方遥控器应用（Kodi remote）。</summary><br/>
 
-  （**Ko**di **re**mote）。前者是非常棒的开源家庭影院应用，用来播放本地或远程的多媒体文件。
+  前者是非常棒的开源家庭影院应用，用来播放本地或远程的多媒体文件。
 
   </details>
 
@@ -583,9 +583,11 @@
 
   <details>
 
-  <summary>最后更新：20221020。</summary><br/>
+  _<summary>我觉得这个和 Open Camera 是开源相机中最好的两个，功能比较全面。</summary>_
 
-  相机软件。我觉得这个和 Open Camera 是开源相机中最好的两个，功能比较全面。当然这个全面是指对任何摄像头都适用的功能，如广角畸变修正、4 合 1 像素再拆成 1 像素等就不灵了。作为通用相机软件，已经很不错了。
+  **最后更新时间：20221020。**
+
+  当然这个全面是指对任何摄像头都适用的功能，如广角畸变修正、4 合 1 像素再拆成 1 像素等就不灵了。作为通用相机软件，已经很不错了。
 
   </details>
 
@@ -654,7 +656,7 @@
 
   _<summary>开发已经停滞，建议使用下面的 Breezy Weather。</summary>_
 
-  **F-droid 已 404。**
+  **最后更新时间：20220610 / F-droid 已 404。**
 
   用过最好的天气软件之一，媲美很多国内安卓系统的自带天气软件。
 
@@ -666,7 +668,7 @@
 
   <details>
 
-  <summary>基于几何天气的另一款天气软件。</summary><br/>
+  <summary>基于几何天气的另一款天气软件，已取代前者。</summary><br/>
 
   因为几何天气维护停滞，Breezy Weather 应运而生，增加了新的功能、提供商，修复了一些 bug。整体上，就是一款更好的几何天气。
 
@@ -868,7 +870,7 @@
 
   <summary>  不多见的开源手写笔记软件。</summary><br/>
 
-  ~~我没有安卓平板，不知道实际体验如何。~~我在两个安卓设备上体验了：一个装了 LineageOS 18 的三星 Note 4（即第三方系统 + 第三方软件），另一个是官方系统的三星 Tab A 9.7。和原装系统下的自带笔记相比，延迟差不多（但本来就很高）,也支持压感。
+  ~~我没有安卓平板，不知道实际体验如何。~~ 我在两个安卓设备上体验了：一个装了 LineageOS 18 的三星 Note 4（即第三方系统 + 第三方软件），另一个是官方系统的三星 Tab A 9.7。和原装系统下的自带笔记相比，延迟差不多（但本来就很高）,也支持压感。
 
   想在纯开源的环境下体验手写笔记，在目前 Saber 是一个很不错的选择。
 
@@ -892,7 +894,7 @@
 
   <details>
 
-  _<summary>PDF 阅读器，已停止开发，建议用下面的 MJ PDF Reader。</summary>_
+  _<summary>已停止开发，建议用下面的 MJ PDF Reader。</summary>_
 
   **源码已存档：20240204 / F-droid 已 404。** 
 
@@ -1127,7 +1129,7 @@
 
   <details>
 
-  <summary>开源的安卓拼音输入法。</summary><br/>
+  <summary>支持拼音的输入法，基于著名的 RIME 输入法框架。</summary><br/>
 
   ~~F-Droid 上甚至是开源软件中唯一一个中文拼音输入法~~（有新选手加入，见上 Fcitx5）。同文输入法就像其桌面版一样，基于配置文件，定制性相当恐怖😱，你喜欢的样子它都有。配置文件对上手是一个门槛，需要自行下载配置文件导入。
 
@@ -1159,7 +1161,7 @@
 
   <details>
 
-  <summary>双面板文件管理器。</summary><br/>
+  <summary>双面板文件管理器，替代 Total Commander。</summary><br/>
 
   灵感源于两大经典软件：DOS 下的 Norton Commander 和 Linux 下的 Midnight Commander。界面没有跟进质感设计的风格，但也有自己的特色。
 
@@ -1185,7 +1187,7 @@
 
   <details>
 
-  <summary>将网络存储挂载到 SAF。</summary><br/>
+  <summary>将网络存储挂载到存储访问框架（SAF）。</summary><br/>
 
   支援 SMB/FTP(S)/SFTP。其他应用只需访问 SAF 便可访问网络存储。
 
@@ -1261,8 +1263,8 @@
 
   具体方式根据官方说法是：
 
-  > Amarok 通过混淆文件名以及文件头部，改名文件并使文件“损坏”无法打开，从而达到隐藏的目的。
-  > Amarok 通过停用应用等方式，使它们在启动器与系统菜单中不可见，从而隐藏应用。
+  > - Amarok 通过混淆文件名以及文件头部，改名文件并使文件“损坏”无法打开，从而达到隐藏的目的。
+  > - Amarok 通过停用应用等方式，使它们在启动器与系统菜单中不可见，从而隐藏应用。
 
   </details>
 
@@ -1298,7 +1300,7 @@
 
   <details>
 
-  <summary>在打开方式和分享菜单中加入储存副本选项。</summary><br/>
+  <summary>在打开方式和分享菜单中加入保存副本选项。</summary><br/>
 
   长久不更新了，但使用没问题。示例：应用内更新时，可选择此选项而不是直接安装，可不授予应用安装权限且保留安装包并手动在文件管理器中安装。
 
@@ -1357,7 +1359,7 @@
 - [Neo Backup](https://github.com/NeoApplications/Neo-Backup)
   [[F-Droid](https://f-droid.org/packages/com.machiav3lli.backup/)]
 
-  备份软件（之前名称为 OAndBackupX），可以备份任何东西，需要 root。
+  备份软件（原名 OAndBackupX），可以备份任何东西，需要 root。
 
 #### 密码
 
@@ -1517,9 +1519,9 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   <summary>冻结软件的后台活动，类似于Greenify。</summary><br/>
 
-  它的冻结与上面的“雹”不同，并不是禁用、暂停或者隐藏软件，仅仅是限制软件的后台。Superfreeze 会自动冻结 7 天以上未使用的软件。我不知道怎么评估它的效果，大家不妨自己试一试。
-
   开发似乎停滞了。
+
+  它的冻结与上面的“雹”不同，并不是禁用、暂停或者隐藏软件，仅仅是限制软件的后台。Superfreeze 会自动冻结 7 天以上未使用的软件。我不知道怎么评估它的效果，大家不妨自己试一试。
 
   </details>
 
@@ -1916,72 +1918,116 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
   [[F-Droid](https://f-droid.org/packages/org.telegram.messenger/)]
   [[网站](https://telegram.org/)]
 
-  最常用的开源（只有前端开源）聊天（即时通信）软件。
+  <details>
 
-  该F-Droid版本去除原版所包含的谷歌服务在内的一些闭源成分。
+  <summary>最常用的开源（只有前端开源）聊天（即时通信）软件。</summary><br/>
+
+  该 F-Droid 版本去除原版所包含的谷歌服务在内的一些闭源成分。
+
+  </details>
 
 - [Revolution IRC](https://github.com/MCMrARM/revolution-irc)
   [[F-Droid](https://f-droid.org/packages/io.mrarm.irc/)]
+  [[网站](https://mrarm.io/)]
+
+  <details>
+
+  <summary>安卓（不一定）最佳 IRC 客户端，有用 IRC 的老伙伴估计也已经知道了。</summary><br/>
 
   ~~**警告**：已经很长时间没有更新了。~~ 好像有人想接手项目，让我们静观其变。
 
-  安卓（不一定）最佳IRC客户端，有用IRC的老伙伴估计也已经知道了。界面整洁，功能全面。可以在后台一直保持连接。
+  界面整洁，功能全面。可以在后台一直保持连接。
 
-- [Goguma](https://git.sr.ht/~emersion/goguma)
+  </details>
+
+- [Goguma](https://codeberg.org/emersion/goguma)
   [[F-Droid](https://f-droid.org/packages/fr.emersion.goguma/)]
   [[网站](https://sr.ht/~emersion/goguma)]
 
-  更加现代化的IRC客户端，支持很多IRCv3的新标准。坏消息是，很多主流IRC服务器基本不支持IRCv3特性（手动斜眼）。
+  <details>
+
+  <summary>更加现代化的 IRC 客户端，支持很多 IRCv3 的新标准。</summary><br/>
+
+  坏消息是，很多主流 IRC 服务器基本不支持 IRCv3 特性（手动斜眼）。
+
+  </details>
 
 #### 社交平台
 
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
-  [[F-Droid](https://f-droid.org/packages/ml.docilealligator.infinityforreddit/)]
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/ml.docilealligator.infinityforreddit.patreon)]
 
-  Reddit客户端，F-Droid上有好几个Reddit客户端，这个是我最喜欢的
-
-- [Glider](https://github.com/Mosc/Glider)
-  [[F-Droid](https://f-droid.org/packages/nl.viter.glider/)]
-
-  著名面向IT领域的资讯平台hacker news的客户端，很精巧，用起来很顺手
+  Reddit 客户端，F-Droid 上有好几个 Reddit 客户端，这个是我最喜欢的。
 
 - [RedReader](https://github.com/QuantumBadger/RedReader)
   [[F-Droid](https://f-droid.org/packages/org.quantumbadger.redreader/)]
 
-  Reddit客户端，很简洁轻量。我个人更喜欢Infinity和Slide
+  Reddit 客户端，很简洁轻量。我个人更喜欢 Infinity 和 Slide。
 
-- [Twidere X](https://github.com/TwidereProject/TwidereX-Android)
-  [[F-Droid](https://f-droid.org/packages/com.twidere.twiderex/)]
-  [[网站](https://x.twidere.com/)]
+- [Glider](https://github.com/Mosc/Glider)
+  [[F-Droid](https://f-droid.org/packages/nl.viter.glider/)]
 
-  Twitter客户端，开源中最佳，没有之一
+  著名面向 IT 领域的资讯平台 hacker news 的客户端，很精巧，用起来很顺手。
+
+- _[Twidere X](https://github.com/TwidereProject/TwidereX-Android)
+  ~~[[F-Droid](https://f-droid.org/packages/com.twidere.twiderex/)]~~
+  [[网站](https://x.twidere.com/)]_
+
+  <details>
+
+  _<summary>Twitter 客户端，开源中最佳，没有之一。似乎已死。</summary>_
+
+  **最后更新时间：20230524 / F-droid & Google Play 均已 404。**
+
+  </details>
+
+- [Fritter](https://github.com/jonjomckay/fritter)
+  ~~[[F-Droid](https://f-droid.org/packages/com.jonjomckay.fritter/)]~~
+  [[网站](https://fritter.cc/)]
+
+  <details>
+
+  <summary>Fritter 是 Twitter 的无登录客户端，应用商店均已阵亡。</summary><br/>
+
+  源码尚在维护。
+
+  类似于 NewPipe 之于 YouTube，所有数据都在本地。
+
+  </details>
 
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe)
   [[F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)]
   [[网站](https://newpipe.net/)]
 
-  注重隐私的YouTube客户端，不能登陆，只能看，不过非常好用
+  注重隐私的 YouTube 客户端，不能登陆，只能看，不过非常好用。
 
 - [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
   [[F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/)]\*
 
-  基于Newpipe，同时可以观看其他视频站如bilibili/niconico，bilibili无需登录即可播放1080p视频。不过Bug不少，比如打不开space.bilibili.com分享链接，个人主页空白等等。
+  <details>
 
-- [Fritter](https://github.com/jonjomckay/fritter)
-  [[F-Droid](https://f-droid.org/packages/com.jonjomckay.fritter/)]
+  <summary>基于 Newpipe，同时可以观看其他视频站如 bilibili/niconico。</summary><br/>
 
-  类似于NewPipe之于YouTube，Fritter是Twitter的无登录客户端，所有数据都在本地
+  bilibili 无需登录即可播放 1080p 视频。
+
+  </details>
 
 - [Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft)
 - [pixez](https://github.com/Notsfsssf/pixez-flutter)
 
-  都是Pixiv客户端，做的也都不错。
+  都是 Pixiv 客户端，做的也都不错。
 
-- [Hendroid](https://github.com/Nonononoki/Hendroid)
-  [[F-Droid](https://f-droid.org/packages/org.nonononoki.hendroid/)]
 - [Hentoid](https://github.com/avluis/Hentoid)
+- _~~[Hendroid](https://github.com/Nonononoki/Hendroid)
+  [[F-Droid](https://f-droid.org/packages/org.nonononoki.hendroid/)]~~_
+  
+  <details>
 
-  奇怪漫画网站的客户端，可以下载漫画
+  <summary>奇怪漫画网站的客户端，可以下载漫画。</summary><br/>
+
+  后者是前者的 fork。由于 Hentoid 使用了某个闭源库，Hendroid 已停止开发。
+
+  </details>
 
 ### 游戏
 
