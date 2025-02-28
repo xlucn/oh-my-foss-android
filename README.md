@@ -1607,7 +1607,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 - [A2LN](https://github.com/patri9ck/a2ln-app)
   [[F-Droid](https://f-droid.org/packages/dev.patri9ck.a2ln)]
   [[网站](https://patri9ck.dev/a2ln/)]
-  
+
   <details>
 
   <summary>通知同步软件，将手机上的通知推送到 Linux 电脑上。</summary><br/>
@@ -1905,7 +1905,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 - [Linux Command Library](https://github.com/SimonSchubert/LinuxCommandLibrary)
   [[F-Droid](https://f-droid.org/packages/com.inspiredandroid.linuxcommandbibliotheca/)]
   [[网站](https://linuxcommandlibrary.com/)]
-  
+
   Linux 相关命令、应用的帮助手册，主要包括大量 man pages。
 
 ### 社交聊天
@@ -2013,14 +2013,14 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
   </details>
 
 - [Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft)
-- [pixez](https://github.com/Notsfsssf/pixez-flutter)
+- [PixEz](https://github.com/Notsfsssf/pixez-flutter)
 
   都是 Pixiv 客户端，做的也都不错。
 
 - [Hentoid](https://github.com/avluis/Hentoid)
 - _~~[Hendroid](https://github.com/Nonononoki/Hendroid)
   [[F-Droid](https://f-droid.org/packages/org.nonononoki.hendroid/)]~~_
-  
+
   <details>
 
   <summary>奇怪漫画网站的客户端，可以下载漫画。</summary><br/>
@@ -2036,9 +2036,15 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 - [Lemuroid](https://github.com/Swordfish90/Lemuroid)
   [[F-Droid](https://f-droid.org/packages/com.swordfish.lemuroid/)]
 
-  很强大的游戏机模拟器，支持任天堂、索尼等20多款经典游戏机的模拟，Nintendo、GBA、PSP都没问题。你只要下载一个游戏ROM，扔到指定文件夹，就可以玩了，简直良心神器！
+  <details>
+
+  <summary>很强大的游戏机模拟器，支持任天堂、索尼等 20 多款经典游戏机的模拟。</summary><br/>
+
+  Nintendo、GBA、PSP 都没问题。你只要下载一个游戏 ROM，扔到指定文件夹，就可以玩了，简直良心神器！
 
   一个软件给手机游戏带来无限可能，可以找回童年，或者把丢掉的童年找回来！
+
+  </details>
 
 #### 休闲益智
 
@@ -2060,35 +2066,59 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 - [Sudoku](https://github.com/SecUSo/privacy-friendly-sudoku)
   [[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlysudoku)]
 
-  数独，F-Droid有几个数独游戏，这个用户体验是很好的。还有[另一个](https://github.com/ogarcia/opensudoku)，但是自带只有90个离线关卡，此外只能下载导入。
+  <details>
+
+  <summary>数独，F-Droid 有几个数独游戏，这个用户体验是很好的。</summary><br/>
+
+  还有[另一个](https://github.com/ogarcia/opensudoku)，但是自带只有 90 个离线关卡，此外只能下载导入。
+
+  </details>
 
 - [2048](https://github.com/andstatus/game2048)
   [[F-Droid](https://f-droid.org/packages/org.andstatus.game2048/)]
 
-  目前维护最积极的2048。
+  目前维护最积极的 2048。
 
 - [Blockinger](https://github.com/vocollapse/Blockinger)
   [[F-Droid](https://f-droid.org/packages/org.blockinger.game/)]
 
-  俄罗斯方块。很久很久很久没更新了，但是还可以用。即便很老，但玩起来很顺手，反应灵敏，比较严格的经典规则，我认为高手也能玩的很舒服。也比较无奈，竟然没有较新的开源俄罗斯方块。
+  <details>
 
-  小提示：可以用上面的Lemuroid下载Nintendo原版ROM（1991年）玩原汁原味的俄罗斯方块。不过可能有点延迟，不灵敏。
+  <summary>俄罗斯方块。很久很久很久没更新了，但是还可以用。</summary><br/>
+
+  即便很老，但玩起来很顺手，反应灵敏，比较严格的经典规则，我认为高手也能玩的很舒服。也比较无奈，竟然没有较新的开源俄罗斯方块。
+
+  小提示：可以用上面的 Lemuroid 下载 Nintendo 原版 ROM（1991 年）玩原汁原味的俄罗斯方块。不过可能有点延迟，不灵敏。
+
+  </details>
 
 - [Falling Lightblocks](https://github.com/MrStahlfelge/lightblocks)
 
-  经推荐发现的另一款开源俄罗斯方块，更加新一些。操作体验上与Blockinger不同，支持手势操作，有过渡动画。有一些新版俄罗斯方块的操作，比如hold。
+  <details>
+
+  <summary>经推荐发现的另一款开源俄罗斯方块，更加新一些。</summary><br/>
+
+  操作体验上与 Blockinger 不同，支持手势操作，有过渡动画。有一些新版俄罗斯方块的操作，比如 hold。
 
   但这个不是完全开源，它可以连接非开源的服务器，（可选择？）上传游戏全程操作，和登录谷歌账号进行同步。
+
+  </details>
 
 - [Puzzles](https://github.com/chrisboyle/sgtpuzzles)
   [[F-Droid](https://f-droid.org/packages/name.boyle.chris.sgtpuzzles/)]
 
-  40款益智小游戏合集，包含扫雷等，想费一费脑细胞的可以试试。
+  40 款益智小游戏合集，包含扫雷等，想费一费脑细胞的可以试试。
 
 - [Forkyz](https://gitlab.com/Hague/forkyz)
   [[F-Droid](https://f-droid.org/packages/app.crossword.yourealwaysbe.forkyz/)]
 
-  纵横字谜。但是全是英文的，并且提示词都是那种没在英语文化中长大就看不懂的梗。不推荐，只是展示有这么个游戏。
+  <details>
+
+  <summary>纵横字谜。不推荐，只是展示有这么个游戏。</summary><br/>
+
+  全是英文的，并且提示词都是那种没在英语文化中长大就看不懂的梗。
+
+  </details>
 
 - [Lexica](https://github.com/lexica/lexica)
   [[F-Droid](https://f-droid.org/packages/com.serwylo.lexica/)]
@@ -2098,15 +2128,26 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 - [Open Golf](https://github.com/mgerdes/Open-Golf)
   [[F-Droid](https://f-droid.org/packages/me.mgerdes.open_golf/)]
 
-  一个小的高尔夫球游戏，用滑动控制力度方向，让球经历复杂地形进洞。但是关卡太少了。
+  <details>
 
+  <summary>一个小的高尔夫球游戏，但是关卡太少了。</summary><br/>
+
+  用滑动控制力度方向，让球经历复杂地形进洞。
+
+  </details>
 
 #### 棋类
 
 - [Lichess](https://github.com/lichess-org/lichobile)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.lichess.mobileapp)]
 
-  在线国际象棋对弈应用。这方面真的希望国内做出一些比较开放的棋类对弈平台，给开源应用提供一些可能性。
+  <details>
+
+  <summary>在线国际象棋对弈应用。</summary><br/>
+
+  这方面真的希望国内做出一些比较开放的棋类对弈平台，给开源应用提供一些可能性。
+
+  </details>
 
 - [Gobandroid](https://github.com/ligi/gobandroid)
   [[F-Droid](https://f-droid.org/packages/org.ligi.gobandroid_hd/)]
@@ -2114,7 +2155,13 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
   [gobandroid ai gnugo](https://github.com/ligi/gobandroid-ai-gnugo)
   [[F-Droid](https://f-droid.org/packages/org.ligi.gobandroidhd.ai.gnugo/)]
 
-  围棋软件。第一个是围棋棋盘应用，第二个提供了围棋引擎gnugo，可以让你与电脑对弈。Gnugo棋力貌似可以达到3k，初学者是完全够用的（但手机处理器肯定会拉低很多）。
+  <details>
+
+  <summary>第一个是围棋棋盘应用，第二个提供了围棋引擎gnugo，可以让你与电脑对弈。</summary><br/>
+
+  Gnugo 棋力貌似可以达到 3k，初学者是完全够用的（但手机处理器肯定会拉低很多）。
+
+  </details>
 
 #### 塔防
 
@@ -2122,14 +2169,26 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
   [[F-Droid](https://f-droid.org/packages/io.anuke.mindustry/)]
   [[网站](https://anuke.itch.io/mindustry)]
 
-  非常精良的塔防游戏。Mindustry比一般的塔防要复杂，比如要采各种矿、建立资源运输管道供给防御工事、开发科技树，敌人自由走动。有点像即时策略RTS了（好像就是），可玩性max。
+  <details>
+
+  <summary>非常精良的塔防游戏。</summary><br/>
+
+  Mindustry 比一般的塔防要复杂，比如要采各种矿、建立资源运输管道供给防御工事、开发科技树，敌人自由走动。有点像即时策略 RTS 了（好像就是），可玩性 max。
 
   没事了，已经更新了~~注：目前由于F-Droid服务器编译环境不兼容，软件版本卡在了主版本5。~~
+
+  </details>
 
 - [Anuto TD](https://github.com/reloZid/android-anuto)
   [[F-Droid](https://f-droid.org/packages/ch.logixisland.anuto/)]
 
-  塔防游戏，界面元素都是作者手画的，作者自认为很丑，因而得名（ANother Ugly TOwer defense）。游戏并不是很优秀，单位比较少，画面粗糙，敌人多了再开加速会很卡。但是我一度很上瘾。
+  <details>
+
+  <summary>塔防游戏，界面元素都是作者手画的。</summary><br/>
+
+  作者自认为很丑，因而得名（ANother Ugly TOwer defense）。游戏并不是很优秀，单位比较少，画面粗糙，敌人多了再开加速会很卡。但是我一度很上瘾。
+
+  </details>
 
 #### 探险
 
@@ -2137,21 +2196,39 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
   [[F-Droid](https://f-droid.org/packages/com.shatteredpixel.shatteredpixeldungeon/)]
   [[网站](https://shatteredpixel.com/)]
 
-  Roguelike类地牢探险游戏，一旦死就要重来，每次游戏都会随机生成场景，自己玩过感觉有难度。画面是像素风格的，很精致。现在更新非常频繁，发布了1.0版本，质量有保证。
+  <details>
+
+  <summary>Roguelike 类地牢探险游戏，画面是像素风格的，很精致。</summary><br/>
+
+  一旦死就要重来，每次游戏都会随机生成场景，自己玩过感觉有难度。现在更新非常频繁，发布了 1.0 版本，质量有保证。
+
+  </details>
 
 - [Andor's Trail](https://github.com/AndorsTrailRelease/andors-trail)
   [[F-Droid](https://f-droid.org/packages/com.gpl.rpg.AndorsTrail/)]
   [[网站](https://andorstrail.com/)]
 
-  任务驱动的RPG游戏，就是那种升级加技能点买装备打怪兽的游戏。游戏其实还在持续完善，地图还没做完，所以有一部分故事线和任务都是断的。不过目前的部分已经可以玩几个星期了。还有问题是大部分对话是英文，中文翻译的很少。
+  <details>
 
-  时隔好久，又看了一眼git仓库。你猜怎么着，它一小时前更新版本(v0.7.14)了，巧不巧！这个版本有很多人（包括我）更新的翻译，但是依然剩下59%的内容没有翻译。游戏里这些人话可真多。
-  （2023年或者更早的时候，有好多人把所有游戏内容都翻译了……上万的字符串啊，你们太牛了，给你们点赞）
+  <summary>任务驱动的 RPG 游戏，就是那种升级加技能点买装备打怪兽的游戏。</summary><br/>
+
+  游戏其实还在持续完善，地图还没做完，所以有一部分故事线和任务都是断的。不过目前的部分已经可以玩几个星期了。还有问题是大部分对话是英文，中文翻译的很少。
+
+  时隔好久，又看了一眼 git 仓库。你猜怎么着，它一小时前更新版本(v0.7.14)了，巧不巧！这个版本有很多人（包括我）更新的翻译，但是依然剩下 59% 的内容没有翻译。游戏里这些人话可真多。
+  （2023 年或者更早的时候，有好多人把所有游戏内容都翻译了……上万的字符串啊，你们太牛了，给你们点赞）
+
+  </details>
 
 - [Xeonjia](https://gitlab.com/DeepDaikon/Xeonjia)
   [[F-Droid](https://f-droid.org/packages/xyz.deepdaikon.xeonjia/)]
 
-  一个“滑冰”的探险游戏，即在冰上行走不会停，这很大程度影响了角色的行走策略。没错，这又是像素风格的界面。
+  <details>
+
+  <summary>一个“滑冰”的探险游戏。</summary><br/>
+
+  即在冰上行走不会停，这很大程度影响了角色的行走策略。没错，这又是像素风格的界面。
+
+  </details>
 
 #### 沙盒
 
@@ -2159,7 +2236,13 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
   [[F-Droid](https://f-droid.org/packages/net.minetest.minetest/)]
   [[网站](https://www.minetest.net/)]
 
-  类似Minecraft的开源沙盘游戏，可玩性很高。我没怎么玩过，应该添加一些模块，默认好像真的只有沙盘。
+  <details>
+
+  <summary>类似 Minecraft 的开源沙盘游戏，可玩性很高。</summary><br/>
+
+  我没怎么玩过，应该添加一些模块，默认好像真的只有沙盘。
+
+  </details>
 
 #### 赛车
 
@@ -2167,50 +2250,92 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
   [[F-Droid](https://f-droid.org/packages/org.supertuxkart.stk/)]
   [[网站](https://supertuxkart.net/Main_Page)]
 
-  大名鼎鼎的开源赛车游戏。游戏画面是卡通风格，有很多的跑道、赛车和道具，多种游戏模式。是开源游戏里体量很大的了。适合休闲时玩一玩。
+  <details>
+
+  <summary>大名鼎鼎的开源赛车游戏。</summary><br/>
+
+  游戏画面是卡通风格，有很多的跑道、赛车和道具，多种游戏模式。是开源游戏里体量很大的了。适合休闲时玩一玩。
+
+  </details>
 
 - [Pixel Wheels](https://github.com/agateau/pixelwheels)
   [[F-Droid](https://f-droid.org/packages/com.agateau.tinywheels.android/)]
   [[网站](https://agateau.com/projects/pixelwheels/)]
 
-  顶部视角的赛车游戏，像素风格，游戏节奏快。因为不是第一视角，感觉操作有点违反直觉，转弯程度不容易控制，但熟悉了之后还蛮好玩的。
+  <details>
+
+  <summary>顶部视角的赛车游戏，像素风格，游戏节奏快。</summary><br/>
+
+  因为不是第一视角，感觉操作有点违反直觉，转弯程度不容易控制，但熟悉了之后还蛮好玩的。
 
   我[建议开发者](https://github.com/agateau/pixelwheels/pull/143)使用了文件很小的子集字体，并贡献了中文翻译，不用谢。
+
+  </details>
 
 #### 策略
 
 - [UnCiv](https://github.com/yairm210/UnCiv)
   [[F-Droid](https://f-droid.org/packages/com.unciv.app/)]
 
-  简化的文明5，有各种国家、职业、建筑，丰富的科技树。作者是试图还原文明5的游戏功能的，界面则抽象化了，这也使得游戏体积很小。没玩过文明5的我表示入手很痛苦😅。
+  <details>
+
+  <summary>简化的文明 5，有各种国家、职业、建筑，丰富的科技树。</summary><br/>
+
+  作者是试图还原文明5的游戏功能的，界面则抽象化了，这也使得游戏体积很小。没玩过文明 5 的我表示入手很痛苦😅。
+
+  </details>
 
 #### 魔方
 
 - [DCTimer](https://github.com/MeigenChou/DCTimer-Android)
 
-  这不是游戏，是魔方速拧计时软件，功能相当丰富，生成打乱几乎支持所有比赛类别，还有数据分析等。网页端还有个csTimer，都是开源的。
+  <details>
+
+  <summary>这不是游戏，是魔方速拧计时软件。</summary><br/>
+
+  功能相当丰富，生成打乱几乎支持所有比赛类别，还有数据分析等。网页端还有个 csTimer，都是开源的。
+
+  </details>
 
 ### Lineage OS自带
 
-- Lineage OS 自带的音乐软件，基于开源的Eleven，基本功能都到位了，我就没有再用第三方音乐软件
+- [Eleven](https://github.com/LineageOS/android_packages_apps_Eleven)
 
-- Lineage OS 自带文件管理器。界面非常质感设计，很好看。
+  Lineage OS 自带的音乐软件，基本功能都到位了，我就没有再用第三方音乐软件
+
+- [DocumentsUI](https://github.com/LineageOS/android_packages_apps_DocumentsUI)
+
+  <details>
+
+  <summary>Lineage OS 自带文件管理器。界面非常质感设计，很好看。</summary><br/>
 
   功能少而精：整理不同类型的文件，比如会将所有含图片的子文件夹并排，将音乐按歌手-唱片分类（不需要手动建立文件夹），筛选大文件，等等。
 
-- 安卓自带终端，需在开发者选项中开启。这个终端很简单，几乎没有选项，就是单纯地执行命令。这不就是终端的功能吗？
+  </details>
+
+- _~~[Terminal](https://github.com/LineageOS/android_packages_apps_Terminal)~~_
+
+  <details>
+
+  _<summary>安卓自带终端，需在开发者选项中开启。已在 18.1 后被废弃。</summary>_
+
+  这个终端很简单，几乎没有选项，就是单纯地执行命令。这不就是终端的功能吗？
+
+  </details>
 
 ## 相似集合
 
 以下一些集合也列举了很多安卓开源软件
 
-- [Awesome Android Apps](https://github.com/LinuxCafeFederation/awesome-android)
+- [推薦的好用開源 Android APP 中文列表](https://github.com/ivon852/awesome-foss-android-apps)
 
 - [Android FOSS](https://github.com/offa/android-foss)
 
 - [Cool FOSS Android Apps](https://github.com/albertomosconi/foss-apps)
 
-- [Awesome Android Apps](https://github.com/Psyhackological/AAA) （另一个）
+- [Awesome Android Apps](https://github.com/Psyhackological/AAA) 
+
+- _~~[Awesome Android Apps](https://github.com/LinuxCafeFederation/awesome-android)~~（已 404）_
 
 ## 版权
 
