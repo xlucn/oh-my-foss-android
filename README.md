@@ -648,6 +648,12 @@
 
   </details>
 
+- [GPSLogger(GPS记录器 )](https://github.com/mendhak/gpslogger)
+  [[F-Droid](https://f-droid.org/packages/com.mendhak.gpslogger/)]
+  [[网站](https://gpslogger.app/)]
+
+  轻量、省电的 GPS 记录器。
+
 #### 天气
 
 - _[Geometric Weather(几何天气)](https://github.com/WangDaYeeeeee/GeometricWeather)
@@ -1442,6 +1448,21 @@
 
   </details>
 
+#### 短信
+
+- [QUIK](https://github.com/octoshrimpy/quik)
+  [[F-Droid](https://f-droid.org/packages/dev.octoshrimpy.quik/)]
+
+  <details>
+
+  <summary>短信应用，带搜索功能。</summary><br/>
+
+  [QKSMS](https://github.com/moezbhatti/qksms) 的继任者。
+
+  用它是因为 Lineage OS 自带的短信应用没有搜索功能，找上古短信很不方便。
+
+  </details>
+
 #### 电话录音
 
 就我目前简单的调查所知，以 Lineage OS 为例，系统中没有自动通话录音功能。
@@ -1495,6 +1516,23 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
   搭配Magisk模块可以成为系统应用。
 
   之前作为第三方应用使用时，经常出现不会触发录音的问题，不知道安装为系统应用能否正常使用。推荐上面的 BCR。
+
+  </details>
+
+#### 应用管理
+
+- _~~[Anywhere-](https://github.com/zhaobozhen/Anywhere-)~~
+  [[网站](https://absinthe.life/Anywhere-Docs/guide/)]\*_
+
+  <details>
+
+  _<summary>更多的快捷方式，已停止开发。</summary>_
+
+  **源码已存档：20240929。**
+
+  将你常用的应用页面（Activity）收集到一个界面并保存，可以在无需经过应用主界面的情况下快速打开。这里页面可以是扫码页面，可以是签到页面，实际上可以是任意软件的几乎任意界面。可玩性高，看你有没有需求了。
+
+  这个软件没有上架 F-Droid 或 Izzyondroid，在酷安也被下架了，截至添加本条目时只能在 Github Releases 或者谷歌商店下载到。
 
   </details>
 
@@ -1694,34 +1732,42 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   </details>
 
-#### 统一推送（UnifiedPush）
+#### 统一推送（[UnifiedPush](https://unifiedpush.org/)）
 
-- [Ntfy](https://github.com/binwiederhier/ntfy)
+UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具。[已适配的应用列表。](https://unifiedpush.org/users/apps/)
+
+- [Ntfy](https://github.com/binwiederhier/ntfy-android)
   [[F-Droid](https://f-droid.org/packages/io.heckel.ntfy/)]
   [[网站](https://ntfy.sh/)]
 
   <details>
 
-  <summary>开源的网络推送服务。</summary><br/>
+  <summary>开源的网络推送服务，可以使用自建服务器。</summary><br/>
 
   通过一个网络连接，就可以把通知发送到已经配置好的手机上。有非常广泛的应用场景。但是对一般人来说，没有这种刚需，有点鸡肋。
 
   </details>
 
-#### 其他
-
-- _~~[Anywhere-](https://github.com/zhaobozhen/Anywhere-)~~
-  [[网站](https://absinthe.life/Anywhere-Docs/guide/)]\*_
+- [Sunup](https://codeberg.org/Sunup/android)
+  [[F-Droid](https://f-droid.org/packages/org.unifiedpush.distributor.sunup/)]
+  [[网站](https://github.com/mozilla-services/autopush-rs)]
 
   <details>
 
-  _<summary>更多的快捷方式，已停止开发。</summary>_
+  <summary>基于 Mozilla 推动的 Autopush 网络推送服务。</summary><br/>
 
-  **源码已存档：20240929。**
+  项目刚起步，适配的应用寥寥无几。
 
-  将你常用的应用页面（Activity）收集到一个界面并保存，可以在无需经过应用主界面的情况下快速打开。这里页面可以是扫码页面，可以是签到页面，实际上可以是任意软件的几乎任意界面。可玩性高，看你有没有需求了。
+  </details>
 
-  这个软件没有上架 F-Droid 或 Izzyondroid，在酷安也被下架了，截至添加本条目时只能在 Github Releases 或者谷歌商店下载到。
+- [gCompat-UP](https://codeberg.org/UnifiedPush/fcm-distributor)
+  [[Izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/org.unifiedpush.distributor.fcm)]
+
+  <details>
+
+  <summary>将 UnifiedPush 转化为 FCM（谷歌推送）。</summary><br/>
+
+  使只支持 UnifiedPush 的应用变为可以使用 FCM 推送。
 
   </details>
 
@@ -1953,6 +1999,18 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
   坏消息是，很多主流 IRC 服务器基本不支持 IRCv3 特性（手动斜眼）。
 
   </details>
+  
+- [Jami](https://git.jami.net/savoirfairelinux/jami-client-android)
+  [[F-Droid](https://f-droid.org/packages/cx.ring/)]
+  [[网站](https://jami.net/)]
+
+  自有加密协议聊天软件，支持 UnifiedPush。还可以用作 SIP 客户端。
+  
+- [TRIfA](https://github.com/zoff99/ToxAndroidRefImpl)
+  [[F-Droid](https://f-droid.org/packages/com.zoffcc.applications.trifa/)]
+  [[网站](https://tox.zoff.cc)]
+
+  Tox 协议的安卓客户端，不挂后台需要安装 [Tox Notify](https://github.com/zoff99/tox_push_msg_app/) 使用 UnifiedPush 推送。
 
 #### 社交平台
 
@@ -2026,7 +2084,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   <details>
 
-  <summary>奇怪漫画网站的客户端，可以下载漫画。</summary><br/>
+  _<summary>奇怪漫画网站的客户端，可以下载漫画。</summary>_
 
   后者是前者的 fork。由于 Hentoid 使用了某个闭源库，Hendroid 已停止开发。
 
@@ -2083,8 +2141,8 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   目前维护最积极的 2048。
 
-- [Blockinger](https://github.com/vocollapse/Blockinger)
-  ~~[[F-Droid](https://f-droid.org/packages/org.blockinger.game/)]~~
+- _[Blockinger](https://github.com/vocollapse/Blockinger)
+  ~~[[F-Droid](https://f-droid.org/packages/org.blockinger.game/)]~~_
 
   <details>
 
@@ -2103,9 +2161,9 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   <details>
 
-  <summary>经推荐发现的另一款开源俄罗斯方块，更加新一些。</summary><br/>
+  _<summary>经推荐发现的另一款开源俄罗斯方块，更加新一些。</summary>_
 
-  **最后更新时间：20230122。**
+  **最后更新时间：20220104。**
 
   操作体验上与 Blockinger 不同，支持手势操作，有过渡动画。有一些新版俄罗斯方块的操作，比如 hold。
 
