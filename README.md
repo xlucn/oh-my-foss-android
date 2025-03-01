@@ -559,7 +559,7 @@
 
   <summary>Lineage OS 20 及以上版本自带相机应用。</summary><br/>
 
-  相较之前自带的 Snap（版本19之前）和 AOSP 原生相机（版本19），界面更加漂亮，功能更加丰富，可以说接近手机原系统中的相机应用了。有了这个（当然前提是你在用 Lineage OS），我自认为可以不再考虑下面几个开源方案。
+  相较之前自带的 Snap（版本 19之前）和 AOSP 原生相机（版本 19），界面更加漂亮，功能更加丰富，可以说接近手机原系统中的相机应用了。有了这个（当然前提是你在用 Lineage OS），我自认为可以不再考虑下面几个开源方案。
 
   此外，只有 Gcam 可以在功能和质量上好于 Aperture，但与系统的集成却比较差。不在乎成像质量的，使用这个自带应用就行。
 
@@ -602,7 +602,7 @@
 
   在 Lineage OS 下，其它相机软件照片质量奇差，涂抹到细节全失。另外，像夜景模式、超像素的支持也都有。在功能上是吊打上面两位和 Lineage OS 自带相机的。
 
-  更新：这一段的问题应该已经解决，我尝试编译了最新的git仓库代码，没有长时间卡顿了，不过没有新版本发布。在此前，打开和切换界面都等数十秒长。有[一个 issue](https://github.com/eszdman/PhotonCamera/issues/54) 说它在扫描设备上所有的照片，不知是不是长时间不响应的原因。
+  更新：这一段的问题应该已经解决，我尝试编译了最新的 git 仓库代码，没有长时间卡顿了，不过没有新版本发布。在此前，打开和切换界面都等数十秒长。有[一个 issue](https://github.com/eszdman/PhotonCamera/issues/54) 说它在扫描设备上所有的照片，不知是不是长时间不响应的原因。
 
   另外，这款软件可能不是默认支持所有设备的，但没找到它支持设备的条件（源代码里有支持列表）。
 
@@ -705,7 +705,7 @@
 
   最兼容的是小米、Amazfit 等，华为的很多设备也有较好的支持，目前可以比较好地[支持 112 款设备](https://gadgetbridge.org/gadgets/)。对于较新的设备，其中一些由于协议要求，需要安装一次官方软件并获取密钥，相关操作见[官方文档](https://gadgetbridge.org/basics/pairing/huami-xiaomi-server/)。
 
-  就功能来说，可以操作的功能有：健康数据、通知同步、查看天气、来电处理、音乐控制、运动记录、设定闹钟、查找手机、导航显示等。这些对我来说真的足够了，并且几年前的手环就足以支持，成本极低。截至添加条目时，我已经用了2个月，感觉非常好用，可以替代官方软件。
+  就功能来说，可以操作的功能有：健康数据、通知同步、查看天气、来电处理、音乐控制、运动记录、设定闹钟、查找手机、导航显示等。这些对我来说真的足够了，并且几年前的手环就足以支持，成本极低。截至添加条目时，我已经用了 2 个月，感觉非常好用，可以替代官方软件。
 
   </details>
 
@@ -810,7 +810,7 @@
 
   <summary>顾名思义，有键鼠功能。</summary><br/>
 
-  适合在 TV 系统上临时使用。还比较简陋有点小问题，可以作为Bluetooth Keyboard & Mouse(io.appground.blek)的下位替代。
+  适合在 TV 系统上临时使用。还比较简陋有点小问题，可以作为 Bluetooth Keyboard & Mouse(io.appground.blek) 的下位替代。
 
   </details>
 
@@ -1136,7 +1136,7 @@
 
   ~~F-Droid 上甚至是开源软件中唯一一个中文拼音输入法~~（有新选手加入，见上 Fcitx5）。同文输入法就像其桌面版一样，基于配置文件，定制性相当恐怖😱，你喜欢的样子它都有。配置文件对上手是一个门槛，需要自行下载配置文件导入。
 
-  本以为两年不更新了，结果又有新版本了（指 v3.2.0 版本与上一个版本相隔3年多）。一个开源软件突然恢复维护是一件令人感到幸福的事情。
+  本以为两年不更新了，结果又有新版本了（指 v3.2.0 版本与上一个版本相隔 3 年多）。一个开源软件突然恢复维护是一件令人感到幸福的事情。
 
   </details>
 
@@ -1294,7 +1294,7 @@
 
   <summary>这是一款可以将“打开文件”转换为“分享文件”的 Android 小工具。</summary><br/>
 
-  用于解决某些 App（读作 weixin）不接入系统文件分享功能导致的各种不便。（不过，在 wx 多选界面点击右下角的邮件小图标，确实是有系统分享的，但不清楚是不是覆盖了所有情形，大家可以试一试。/ wx的多选分享是聊天记录形式，选单中似乎只有能接收文本的目标。）
+  用于解决某些 App（读作 weixin）不接入系统文件分享功能导致的各种不便。（不过，在 wx 多选界面点击右下角的邮件小图标，确实是有系统分享的，但不清楚是不是覆盖了所有情形，大家可以试一试。/ wx 的多选分享是聊天记录形式，选单中似乎只有能接收文本的目标。）
 
   </details>
 
@@ -1815,7 +1815,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   <details>
 
-  <summary>基于 Mozilla 推动的 Autopush 网络推送服务。</summary><br/>
+  <summary>基于 Mozilla Autopush 的网络推送服务。</summary><br/>
 
   项目刚起步，适配的应用寥寥无几。
 
@@ -1907,9 +1907,9 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [RustDesk](https://github.com/rustdesk/rustdesk)
   [[F-Droid](https://f-droid.org/packages/com.carriez.flutter_hbb/)]
-  [[网站](https://rustdesk.com/)]
+  [[网站](https://rustdesk.com/)]\*
 
-  开源远程桌面应用，开源 TeamViewer 替代方案。
+  开源远程桌面应用，TeamViewer 替代方案。
 
 - [WADB](https://github.com/RikkaApps/WADB)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.haruue.wadb)]
@@ -1954,7 +1954,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
   [[F-Droid](https://f-droid.org/packages/com.emanuelef.remote_capture)]
-  [[网站](https://emanuele-f.github.io/PCAPdroid/)]
+  [[网站](https://emanuele-f.github.io/PCAPdroid/)]\*
 
   Android 抓包工具，可[配合 Wireshark](https://emanuele-f.github.io/PCAPdroid/advanced_features#45-pcapdroid-trailer) 使用。
 
@@ -2159,7 +2159,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   <details>
 
-  _<summary>奇怪漫画网站的客户端，可以下载漫画。</summary>_
+  <summary>奇怪漫画网站的客户端，可以下载漫画。</summary><br/>
 
   后者是前者的 fork。由于 Hentoid 使用了某个闭源库，Hendroid 已停止开发。
 
@@ -2273,7 +2273,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   <details>
 
-  _<summary>一个小的高尔夫球游戏，但是关卡太少了。</summary><br/>_
+  _<summary>一个小的高尔夫球游戏，但是关卡太少了。</summary>_
 
   **最后更新时间：20220525。**
 
@@ -2303,7 +2303,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   <details>
 
-  <summary>第一个是围棋棋盘应用，第二个提供了围棋引擎gnugo，可以让你与电脑对弈。</summary><br/>
+  <summary>第一个是围棋棋盘应用，第二个提供了围棋引擎 gnugo，可以让你与电脑对弈。</summary><br/>
 
   Gnugo 棋力貌似可以达到 3k，初学者是完全够用的（但手机处理器肯定会拉低很多）。
 
@@ -2427,7 +2427,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   <summary>简化的文明 5，有各种国家、职业、建筑，丰富的科技树。</summary><br/>
 
-  作者是试图还原文明5的游戏功能的，界面则抽象化了，这也使得游戏体积很小。没玩过文明 5 的我表示入手很痛苦😅。
+  作者是试图还原文明 5 的游戏功能的，界面则抽象化了，这也使得游戏体积很小。没玩过文明 5 的我表示入手很痛苦😅。
 
   </details>
 
