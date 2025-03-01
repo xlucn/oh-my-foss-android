@@ -36,9 +36,9 @@
 建议安装其中一个 F-Droid 客户端。
 
 - [F-Droid](https://gitlab.com/fdroid/fdroidclient)
-  [[F-Droid](https://f-droid.org/packages/org.fdroid.fdroid)]
+  [[F-Droid](https://f-droid.org/packages/org.fdroid.fdroid/)]
 - [F-Droid Basic](https://gitlab.com/fdroid/fdroidclient)
-  [[F-Droid](https://f-droid.org/packages/org.fdroid.basic)]\*
+  [[F-Droid](https://f-droid.org/packages/org.fdroid.basic/)]\*
 
   <details>
 
@@ -51,7 +51,7 @@
   </details>
 
 - [Neo-Store](https://github.com/NeoApplications/Neo-Store)
-  [[F-Droid](https://f-droid.org/packages/com.machiav3lli.fdroid)]
+  [[F-Droid](https://f-droid.org/packages/com.machiav3lli.fdroid/)]
 
   <details>
 
@@ -59,12 +59,12 @@
 
   界面风格有较大改动，个人认为更规范了，这里指对于质感设计的应用更加美观和符合直觉，相比之下，Droid-ify 可能更加像一个没有设计能力的程序员随意为之的作品。
 
-  曾经取代/继承了 Droid-ify，并入 [Neo 系列应用](https://github.com/NeoApplications/)。但是后来 Droid-ify 原作者因个人原因，选择不再参与 Neo Store 的开发，自己继续维护之前的 Droid-ify 代码。因此，现在两个项目都是正在维护的。
+  曾经取代/继承了 Droid-ify，并入 [Neo 系列应用](https://github.com/NeoApplications)。但是后来 Droid-ify 原作者因个人原因，选择不再参与 Neo Store 的开发，自己继续维护之前的 Droid-ify 代码。因此，现在两个项目都是正在维护的。
 
   </details>
 
 - [Driod-ify](https://github.com/Iamlooker/Droid-ify)
-  [[F-Droid](https://f-droid.org/packages/com.looker.droidify)]
+  [[F-Droid](https://f-droid.org/packages/com.looker.droidify/)]
 
   <details>
 
@@ -83,7 +83,7 @@
 <summary>过时的内容</summary>
 
 - _[Foxy Droid](https://github.com/kitsunyan/foxy-droid)
-  [[F-Droid](https://f-droid.org/packages/nya.kitsunyan.foxydroid)]_
+  [[F-Droid](https://f-droid.org/packages/nya.kitsunyan.foxydroid/)]_
 
   <details>
 
@@ -96,7 +96,7 @@
   </details>
 
 - _[Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid)
-  ~~[[F-Droid](https://f-droid.org/packages/com.aurora.adroid)]
+  ~~[[F-Droid](https://f-droid.org/packages/com.aurora.adroid/)]
   [[网站](https://auroraoss.com/)]~~_
 
   <details>
@@ -116,7 +116,7 @@
 谷歌商店能提供远多于 F-Droid 的安卓应用，但一般情况下，只能在安装谷歌服务框架的机器上使用。以下客户端能打破这个限制，无需任何依赖地运行在任何安卓手机上。
 
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
-  [[F-Droid](https://f-droid.org/packages/com.aurora.store)]
+  [[F-Droid](https://f-droid.org/packages/com.aurora.store/)]
   [[网站](https://auroraoss.com/)]
 
   <details>
@@ -247,22 +247,22 @@
 
   </details>
 
+- [RadioDroid](https://github.com/segler-alex/RadioDroid)
+  [[F-Droid](https://f-droid.org/packages/net.programmierecke.radiodroid2/)]
+  [[网站](https://www.radio-browser.info/)]\*
+
+  网络收音机，是 [radio-browser](https://www.radio-browser.info/users) 建议使用的客户端，自带频道列表。
+
 - [Transistor(晶体管收音机)](https://codeberg.org/y20k/transistor)
   [[F-Droid](https://f-droid.org/packages/org.y20k.transistor/)]
 
   <details>
 
-  <summary>网络收音机，频道需要手动搜索后添加。</summary><br/>
+  <summary>网络收音机，频道需要手动搜索后添加，数据也来自 radio-browser。</summary><br/>
 
   这个是从网络串流的，不是真正的调频收音机，原因是很多硬件不支持了（也可以从手机自带收音机逐渐消失这一点看出来）。好处是你可以听外地的频道，默认的搜索引擎可以添加上千个国内外频道。
 
   </details>
-
-- [RadioDroid](https://github.com/segler-alex/RadioDroid)
-  [[F-Droid](https://f-droid.org/packages/net.programmierecke.radiodroid2/)]
-  [[网站](https://www.radio-browser.info/)]\*
-
-  另一个网络收音机，自带频道列表，不需要手动搜索。
 
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod)
   [[F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/)]
@@ -271,7 +271,7 @@
   Podcast 客户端有很多，这款历史久，开发活跃，功能实而不华。
 
 - [Legado(阅读)](https://github.com/gedoor/legado)
-  ~~[[网站](https://www.legado.top)]~~
+  [[网站](https://gedoor.github.io/)]
 
   <details>
 
@@ -282,7 +282,7 @@
   </details>
 
 - [Shosetsu(书)](https://gitlab.com/shosetsuorg/shosetsu)
-  [[F-Droid](https://f-droid.org/packages/app.shosetsu.android.fdroid)]
+  [[F-Droid](https://f-droid.org/packages/app.shosetsu.android.fdroid/)]
   [[网站](https://shosetsu.app/)]
 
   <details>
@@ -295,6 +295,7 @@
 
 - [Myne](https://github.com/Pool-Of-Tears/Myne)
   [[F-Droid](https://f-droid.org/packages/com.starry.myne/)]
+  [[网站](https://pool-of-tears.github.io/)]
 
   <details>
 
@@ -353,12 +354,12 @@
 这里是一些 BT 软件的远程客户端，并不是直接在安卓手机上进行 BT 下载的客户端。
 
 - [qbitcontroller](https://github.com/Bartuzen/qBitController)
-  [[F-Droid](https://f-droid.org/packages/dev.bartuzen.qbitcontroller)]
+  [[F-Droid](https://f-droid.org/packages/dev.bartuzen.qbitcontroller/)]
 
   Qbittorrent 的远程控制软件。
 
 - [Tremotesf](https://github.com/equeim/tremotesf-android)
-  [[F-Droid](https://f-droid.org/repository/browse/?fdid=org.equeim.tremotesf)]
+  [[F-Droid](https://f-droid.org/repository/browse/?fdid=org.equeim.tremotesf/)]
 - [Transmissionic](https://github.com/6c65726f79/Transmissionic)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.sleroy.transmissionic)]
 
@@ -368,7 +369,7 @@
 
 #### 视频播放
 
-- [VLC](https://www.videolan.org/vlc/download-android.html)
+- [VLC](https://code.videolan.org/videolan/vlc-android)
   [[F-Droid](https://f-droid.org/packages/org.videolan.vlc/)]
   [[网站](https://www.videolan.org/vlc/download-android.html)]
 
@@ -400,7 +401,7 @@
 
 - [Kore](https://github.com/xbmc/Kore)
   [[F-Droid](https://f-droid.org/packages/org.xbmc.kore/)]
-  [[网站](https://kodi.tv/)]
+  [[网站](https://forum.kodi.tv/forumdisplay.php?fid=129)]
 
   <details>
 
@@ -456,8 +457,9 @@
 
   </details>
 
-- [Mpd](https://github.com/MusicPlayerDaemon/MPD/)
+- [Mpd](https://github.com/MusicPlayerDaemon/MPD)
   [[F-Droid](https://f-droid.org/packages/org.musicpd/)]
+  [[网站](https://www.musicpd.org/)]
 - [M.A.L.P.](https://gitlab.com/gateship-one/malp)
   [[F-Droid](https://f-droid.org/packages/org.gateshipone.malp/)]
 
@@ -486,7 +488,7 @@
   </details>
 
 - [SoundAura](https://github.com/CliffracerMerchant/SoundAura)
-  [[F-Droid](https://f-droid.org/packages/com.cliffracertech.soundaura)]
+  [[F-Droid](https://f-droid.org/packages/com.cliffracertech.soundaura/)]
 
   <details>
 
@@ -504,11 +506,12 @@
 #### 流媒体
 
 - [YAACC](https://github.com/tobexyz/yaacc-code)
-  [[F-Droid](https://f-droid.org/packages/de.yaacc/)]\*
+  [[F-Droid](https://f-droid.org/packages/de.yaacc/)]
+  [[网站](https://tobexyz.github.io/yaacc-code/)]\*
 
   <details>
 
-  <summary>DLNA 服务器/客户端/接收器/控制器。</summary><br/>
+  <summary>DLNA 服务器/客户端/控制器。</summary><br/>
 
   经过迭代已变得基本可用，可部分替代 BubbleUPnP。
 
@@ -570,7 +573,7 @@
   </details>
 
 - _[FreeDCam](https://github.com/KillerInk/FreeDcam)
-  [[F-Droid](https://f-droid.org/packages/troop.com.freedcam)]_
+  [[F-Droid](https://f-droid.org/packages/troop.com.freedcam/)]_
 
   <details>
 
@@ -694,7 +697,7 @@
 #### 智能穿戴
 
 - [Gadgetbridge](https://codeberg.org/Freeyourgadget/Gadgetbridge)
-  [[F-Droid](https://f-droid.org/app/nodomain.freeyourgadget.gadgetbridge)]
+  [[F-Droid](https://f-droid.org/app/nodomain.freeyourgadget.gadgetbridge/)]
   [[网站](https://gadgetbridge.org/)]
 
   <details>
@@ -740,7 +743,7 @@
   </details>
 
 - [Did I Take My Meds?(我吃药了吗？)](https://github.com/CorruptedArk/did-i-take-my-meds)
-  [[F-droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds)]
+  [[F-droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds/)]
 
   <details>
 
@@ -759,7 +762,7 @@
 #### 小工具
 
 - [Tape Measure](https://github.com/SecUSo/privacy-friendly-tape-measure)
-  [[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlytapemeasure)]
+  [[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlytapemeasure/)]
   [[网站](https://secuso.aifb.kit.edu/english/Tape_Measure_and_Ruler.php)]
 
   <details>
@@ -782,12 +785,13 @@
   </details>
 
 - [Compass](https://github.com/Kr0oked/Compass)
-  [[F-Droid](https://f-droid.org/packages/danielmeek32.compass)]
+  [[F-Droid](https://f-droid.org/packages/danielmeek32.compass/)]
 
   指南针。
 
 - [Trail Sense](https://github.com/kylecorry31/Trail-Sense)
-  [[F-Droid](https://f-droid.org/packages/com.kylecorry.trail_sense/)]\*
+  [[F-Droid](https://f-droid.org/packages/com.kylecorry.trail_sense/)]
+  [[网站](https://kylecorry.com/Trail-Sense/)]\*
 
   <details>
 
@@ -837,9 +841,9 @@
 
 #### 办公套件
 
-- [Collabora Office](https://www.collaboraoffice.com/)
+- [Collabora Office](https://github.com/CollaboraOnline/online)
   [[独立源](https://www.collaboraoffice.com/releases-en/collabora-office-on-mobiles-supporting-password-protected-documents-and-available-on-f-droid/)]
-  [[网站](https://www.collaboraoffice.com)]
+  [[网站](https://www.collaboraonline.com/collabora-office-android-ios/)]
 
   <details>
 
@@ -888,7 +892,7 @@
 #### 文档阅读
 
 - [OpenDocument Reader](https://github.com/TomTasche/OpenDocument.droid)
-  [[F-Droid](https://f-droid.org/packages/at.tomtasche.reader)]
+  [[F-Droid](https://f-droid.org/packages/at.tomtasche.reader/)]
   [[网站](https://opendocument.app/)]
 
   <details>
@@ -933,7 +937,7 @@
 <summary>过时的内容</summary>
 
 - _~~[Pdf Viewer Plus](https://github.com/JavaCafe01/PdfViewer)
-  [[F-Droid](https://f-droid.org/packages/com.gsnathan.pdfviewer)]~~_
+  [[F-Droid](https://f-droid.org/packages/com.gsnathan.pdfviewer/)]~~_
 
   <details>
 
@@ -980,7 +984,7 @@
 #### 卡片
 
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android)
-  [[F-Droid](https://f-droid.org/repository/browse/?fdid=com.ichi2.anki)]
+  [[F-Droid](https://f-droid.org/packages/com.ichi2.anki/)]
   [[网站](https://ankidroid.org/)]\*
 
   <details>
@@ -1244,7 +1248,7 @@
   </details>
 
 - [Anemo](https://github.com/2bllw8/anemo)
-  [[F-Droid](https://f-droid.org/packages/exe.bbllw8.anemo)]
+  [[F-Droid](https://f-droid.org/packages/exe.bbllw8.anemo/)]
 
   <details>
 
@@ -1273,8 +1277,8 @@
 
 #### 文件分享
 
-- [LocalSend](https://github.com/localsend/localsend/)
-  [[F-droid](https://f-droid.org/packages/org.localsend.localsend_app)]
+- [LocalSend](https://github.com/localsend/localsend)
+  [[F-droid](https://f-droid.org/packages/org.localsend.localsend_app/)]
   [[网站](https://localsend.org)]
 
   <details>
@@ -1311,7 +1315,7 @@
 
   </details>
 
-- [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif/tree/HEAD)
+- [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif)
   [[F-Droid](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif/)]\*
 
   在分享图片前，从图片中删除如设备、日期、地点等 Exif 信息。
@@ -1508,7 +1512,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
   </details>
 
 - [Call Recorder](https://gitlab.com/axet/android-call-recorder)
-  [[F-Droid](https://f-droid.org/packages/com.github.axet.callrecorder)]
+  [[F-Droid](https://f-droid.org/packages/com.github.axet.callrecorder/)]
 
   <details>
 
@@ -1585,7 +1589,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 #### 应用冻结
 
 - [Hail(雹)](https://github.com/aistra0528/Hail)
-  [[F-Droid](https://f-droid.org/packages/com.aistra.hail)]
+  [[F-Droid](https://f-droid.org/packages/com.aistra.hail/)]
 
   <details>
 
@@ -1598,7 +1602,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
   </details>
 
 - [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
-  [[F-Droid](https://f-droid.org/packages/superfreeze.tool.android)]
+  [[F-Droid](https://f-droid.org/packages/superfreeze.tool.android/)]
   [[网站](https://superfreezz.gitlab.io/)]
 
   <details>
@@ -1660,7 +1664,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
   </details>
 
 - [Iconify](https://github.com/Mahmud0808/Iconify)
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.drdisagree.iconify)]
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.drdisagree.iconify.foss)]
 
   <details>
 
@@ -1702,7 +1706,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   **源码已存档：20241210**
 
-  母项目 DivestOS 终止后，旗下所有项目都停止开发。有人 [fork](https://github.com/MaintainTeam/Hypatia) 了此项目并上架 [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.maintainteam.hypatia/)，希望有人接手开发。
+  母项目 DivestOS 终止后，旗下所有项目都停止开发。有人 [fork](https://github.com/MaintainTeam/Hypatia) 了此项目并上架 [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.maintainteam.hypatia)，希望有人接手开发。
 
   自称安卓第一款恶意软件扫描应用。不过，既然都用开源软件了，这个的意义就没那么大了，除非用户依然想胡乱下载其他的东西。
 
@@ -1713,11 +1717,11 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 #### 电脑连接
 
 - [A2LN](https://github.com/patri9ck/a2ln-app)
-  [[F-Droid](https://f-droid.org/packages/dev.patri9ck.a2ln)]
+  [[F-Droid](https://f-droid.org/packages/dev.patri9ck.a2ln/)]
   [[网站](https://patri9ck.dev/a2ln/)]
 - _[AN2Linux](https://github.com/rootkiwi/an2linuxclient)
   [[F-Droid](https://f-droid.org/packages/kiwi.root.an2linuxclient/)]
-  [[网站](https://github.com/rootkiwi/an2linuxserver/)]_
+  [[网站](https://github.com/rootkiwi/an2linuxserver)]_
 
   <details>
 
@@ -1779,9 +1783,9 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 - [Dicio assistant](https://github.com/Stypox/dicio-android)
   [[F-Droid](https://f-droid.org/packages/org.stypox.dicio/)]
-
 - [RHVoice](https://github.com/RHVoice/RHVoice)
   [[F-Droid](https://f-droid.org/packages/com.github.olga_yakovleva.rhvoice.android/)]
+  [[网站](https://rhvoice.org/)]
 
   <details>
 
@@ -1953,7 +1957,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 #### 抓包工具
 
 - [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
-  [[F-Droid](https://f-droid.org/packages/com.emanuelef.remote_capture)]
+  [[F-Droid](https://f-droid.org/packages/com.emanuelef.remote_capture/)]
   [[网站](https://emanuele-f.github.io/PCAPdroid/)]\*
 
   Android 抓包工具，可[配合 Wireshark](https://emanuele-f.github.io/PCAPdroid/advanced_features#45-pcapdroid-trailer) 使用。
@@ -2013,7 +2017,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 #### F-Droid状态
 
 - [F-Droid Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
-  [[F-Droid](https://f-droid.org/packages/de.storchp.fdroidbuildstatus)]
+  [[F-Droid](https://f-droid.org/packages/de.storchp.fdroidbuildstatus/)]
 
   <details>
 
@@ -2200,7 +2204,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
   类似愤怒的小鸟，画面很精致。但是关卡太少了，不过瘾，也不更新了。
 
 - [Sudoku](https://github.com/SecUSo/privacy-friendly-sudoku)
-  [[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlysudoku)]
+  [[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlysudoku/)]
   [[网站](https://secuso.aifb.kit.edu/english/Sudoku.php)]
 
   <details>
