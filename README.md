@@ -247,13 +247,13 @@
 
   </details>
 
-- [RadioDroid](https://github.com/segler-alex/RadioDroid)
+- [RadioDroid（睿卓）](https://github.com/segler-alex/RadioDroid)
   [[F-Droid](https://f-droid.org/packages/net.programmierecke.radiodroid2/)]
   [[网站](https://www.radio-browser.info/)]\*
 
   网络收音机，是 [radio-browser](https://www.radio-browser.info/users) 建议使用的客户端，自带频道列表。
 
-- [Transistor(晶体管收音机)](https://codeberg.org/y20k/transistor)
+- [Transistor（晶体管收音机）](https://codeberg.org/y20k/transistor)
   [[F-Droid](https://f-droid.org/packages/org.y20k.transistor/)]
 
   <details>
@@ -270,7 +270,7 @@
 
   Podcast 客户端有很多，这款历史久，开发活跃，功能实而不华。
 
-- [Legado(阅读)](https://github.com/gedoor/legado)
+- [Legado（阅读）](https://github.com/gedoor/legado)
   [[网站](https://gedoor.github.io/)]
 
   <details>
@@ -281,7 +281,7 @@
 
   </details>
 
-- [Shosetsu(书)](https://gitlab.com/shosetsuorg/shosetsu)
+- [Shosetsu（小说）](https://gitlab.com/shosetsuorg/shosetsu)
   [[F-Droid](https://f-droid.org/packages/app.shosetsu.android.fdroid/)]
   [[网站](https://shosetsu.app/)]
 
@@ -519,7 +519,7 @@
 
 #### 绘画
 
-- [Pocket Paint](https://github.com/Catrobat/Paintroid)
+- [Pocket Paint（口袋画板）](https://github.com/Catrobat/Paintroid)
   [[F-Droid](https://f-droid.org/packages/org.catrobat.paintroid/)]
 
   随便画点啥，功能比较全，甚至还有图层，界面也简洁漂亮。
@@ -641,7 +641,7 @@
 
   </details>
 
-- [GPS Logger(GPS记录器 )](https://github.com/mendhak/gpslogger)
+- [GPSLogger](https://github.com/mendhak/gpslogger)
   [[F-Droid](https://f-droid.org/packages/com.mendhak.gpslogger/)]
   [[网站](https://gpslogger.app/)]\*
 
@@ -720,7 +720,7 @@
 
   待办列表管理，应该是同类最佳之一了。
 
-- [Loop Habit Tracker(习惯)](https://github.com/iSoron/uhabits)
+- [Loop Habit Tracker（习惯）](https://github.com/iSoron/uhabits)
   [[F-Droid](https://f-droid.org/packages/org.isoron.uhabits/)]
 
   <details>
@@ -731,7 +731,7 @@
 
   </details>
 
-- [Feeel(家庭锻炼)](https://gitlab.com/enjoyingfoss/feeel)
+- [Feeel](https://gitlab.com/enjoyingfoss/feeel)
   [[F-Droid](https://f-droid.org/packages/com.enjoyingfoss.feeel/)]
 
   <details>
@@ -742,7 +742,7 @@
 
   </details>
 
-- [Did I Take My Meds?(我吃药了吗？)](https://github.com/CorruptedArk/did-i-take-my-meds)
+- [Did I Take My Meds?（我吃药了吗？）](https://github.com/CorruptedArk/did-i-take-my-meds)
   [[F-droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds/)]
 
   <details>
@@ -753,7 +753,7 @@
 
   </details>
 
-- [My Expenses(开支助手)](https://github.com/mtotschnig/MyExpenses)
+- [My Expenses（开支助手）](https://github.com/mtotschnig/MyExpenses)
   [[F-droid](https://f-droid.org/packages/org.totschnig.myexpenses/)]
   [[网站](https://www.myexpenses.mobi/)]\*
 
@@ -806,7 +806,7 @@
 
   声音频谱分析。
 
-- [Bluetooth Remote(蓝牙遥控器)](https://gitlab.com/Atharok/BtRemote)
+- [Bluetooth Remote（蓝牙遥控器）](https://gitlab.com/Atharok/BtRemote)
   [[F-Droid](https://f-droid.org/packages/com.atharok.btremote/)]
   [[网站](https://atharok.gitlab.io/site/projects/bt-remote/)]\*
 
@@ -1046,7 +1046,7 @@
 
 #### 百科
 
-- [Wikipedia(维基百科)](https://github.com/wikimedia/apps-android-wikipedia)
+- [Wikipedia（维基百科）](https://github.com/wikimedia/apps-android-wikipedia)
   [[F-Droid](https://f-droid.org/packages/org.wikipedia/)]
   [[网站](https://www.mediawiki.org/wiki/Wikimedia_Apps)]
 
@@ -1115,7 +1115,7 @@
 
   </details>
 
-- [Fcitx5 for Android(小企鹅输入法 5)](https://github.com/fcitx5-android/fcitx5-android)
+- [Fcitx5 for Android（小企鹅输入法5）](https://github.com/fcitx5-android/fcitx5-android)
   [[F-Droid](https://f-droid.org/packages/org.fcitx.fcitx5.android/)]
   [[网站](https://fcitx5-android.github.io/)]
 
@@ -1131,7 +1131,7 @@
 
   </details>
 
-- [Trime(同文输入法)](https://github.com/osfans/trime)
+- [Trime（同文输入法）](https://github.com/osfans/trime)
   [[F-Droid](https://f-droid.org/packages/com.osfans.trime/)]
 
   <details>
@@ -1144,7 +1144,7 @@
 
   </details>
 
-- [Stroke Input Method(笔划输入法)](https://github.com/stroke-input/stroke-input-android)
+- [Stroke Input Method（笔划输入法）](https://github.com/stroke-input/stroke-input-android)
   [[F-Droid](https://f-droid.org/packages/io.github.yawnoc.strokeinput/)]
 
   <details>
@@ -1157,7 +1157,7 @@
 
 #### 文件管理
 
-- [Material Files(质感文件)](https://github.com/zhanghai/MaterialFiles)
+- [Material Files（质感文件）](https://github.com/zhanghai/MaterialFiles)
   [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/)]
 
   文件管理器，非常漂亮，基本的功能都有。
@@ -1302,7 +1302,7 @@
 
   </details>
 
-- [Save Copy(保存副本)](https://github.com/RikkaApps/SaveCopy)
+- [Save Copy（保存副本）](https://github.com/RikkaApps/SaveCopy)
   [[Izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/app.rikka.savecopy)]\*
 
   <details>
@@ -1331,7 +1331,7 @@
 
   </details>
 
-- [Untracker(移除追踪)](https://github.com/zhanghai/Untracker)
+- [Untracker（移除追踪）](https://github.com/zhanghai/Untracker)
   [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.untracker/)]\*
 
   在分享链接前移除追踪信息，自带规则。
@@ -1588,7 +1588,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 #### 应用冻结
 
-- [Hail(雹)](https://github.com/aistra0528/Hail)
+- [Hail（雹）](https://github.com/aistra0528/Hail)
   [[F-Droid](https://f-droid.org/packages/com.aistra.hail/)]
 
   <details>
@@ -2354,7 +2354,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
-- [Andor's Trail](https://github.com/AndorsTrailRelease/andors-trail)
+- [Andor's Trail（安道尔追踪）](https://github.com/AndorsTrailRelease/andors-trail)
   [[F-Droid](https://f-droid.org/packages/com.gpl.rpg.AndorsTrail/)]
   [[网站](https://andorstrail.com/)]
 
@@ -2369,7 +2369,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
-- [Xeonjia(寒冰之旅)](https://gitlab.com/DeepDaikon/Xeonjia)
+- [Xeonjia：寒冰之旅](https://gitlab.com/DeepDaikon/Xeonjia)
   [[F-Droid](https://f-droid.org/packages/xyz.deepdaikon.xeonjia/)]
 
   <details>
