@@ -10,20 +10,19 @@
 - **特点**：强调使用体验，希望读者能更好地提前了解软件的特点。
 - **推荐**：软件推荐，欢迎提交 issue 或 PR。他人贡献并且我没有使用过的条目会标注`*`。
 - **历史**：软件增删等变更请查看 git 提交历史。
-- **版权**：本文遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 版权协议发表。如需转载等，无需征得同意，只需要符合协议要求。例如，该版权要求只能以相同许可协议传播（SA）、需要明确说明作者和来源（BY）。版权声明见文末。
-
+- **版权**：本文遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 版权协议发表。如需转载等，无需征得同意，只需要符合协议要求。例如，该版权要求只能以相同许可协议传播 (SA) 、需要明确说明作者和来源 (BY) 。版权声明见文末。
 
 ## 选择条件
 
-- **主观体验**：该列表不追求大而全，只是将我自己使用（过）的好软件列出来。
+- **主观体验**：该列表不追求大而全，只是将我自己使用 (过) 的好软件列出来。
 - **干净简约**：界面漂亮，赏心悦目。
-- **专一轻量**：功能适中（足够），不臃肿。
+- **专一轻量**：功能适中 (足够) ，不臃肿。
 - **受众广泛**：目标用户多，适合一般人。
 - **积极维护**：源代码持续更新。这一定程度上代表更少的 bug 和更好的兼容性，也说明开发者的用心和负责。
 
 ## 分类
 
-请使用 Github/Gitee 自带的目录导航功能。
+请使用 Github / Gitee 自带的目录导航功能。
 
 ### 应用商店
 
@@ -37,6 +36,7 @@
 
 - [F-Droid](https://gitlab.com/fdroid/fdroidclient)
   [[F-Droid](https://f-droid.org/packages/org.fdroid.fdroid/)]
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/fdroid%2Ffdroidclient?style=flat"></sub>
 - [F-Droid Basic](https://gitlab.com/fdroid/fdroidclient)
   [[F-Droid](https://f-droid.org/packages/org.fdroid.basic/)]\*
 
@@ -52,10 +52,11 @@
 
 - [Neo-Store](https://github.com/NeoApplications/Neo-Store)
   [[F-Droid](https://f-droid.org/packages/com.machiav3lli.fdroid/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/NeoApplications/Neo-Store/master?style=flat"></sub>
 
   <details>
 
-  <summary>Neo Store 是基于 Droid-ify（见下）的 F-Droid 客户端。</summary><br/>
+  <summary>Neo Store 是基于 Droid-ify (见下) 的 F-Droid 客户端。</summary><br/>
 
   界面风格有较大改动，个人认为更规范了，这里指对于质感设计的应用更加美观和符合直觉，相比之下，Droid-ify 可能更加像一个没有设计能力的程序员随意为之的作品。
 
@@ -63,12 +64,13 @@
 
   </details>
 
-- [Driod-ify](https://github.com/Iamlooker/Droid-ify)
+- [Driod-ify](https://github.com/Droid-ify/client)
   [[F-Droid](https://f-droid.org/packages/com.looker.droidify/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Droid-ify/client/main?style=flat"></sub>
 
   <details>
 
-  <summary>F-Droid 第三方客户端，基于 Foxy droid（见下）。</summary><br/>
+  <summary>F-Droid 第三方客户端，基于 Foxy droid (见下) 。</summary><br/>
 
   后者不怎么维护了，因此有人修复 bug、更新界面后发布了这个款 app。目前使用起来不会有什么区别，日后可能会有新功能加入。在质感设计的风格上，应该是使用了第三代的设计语言，即有更多的圆角元素等特点。
 
@@ -76,7 +78,7 @@
 
   更新：又加入了大量的内置仓库，可以不用导入了。
 
- </details>
+  </details>
 
 <details>
 
@@ -84,6 +86,7 @@
 
 - _[Foxy Droid](https://github.com/kitsunyan/foxy-droid)
   [[F-Droid](https://f-droid.org/packages/nya.kitsunyan.foxydroid/)]_
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kitsunyan/foxy-droid/master?style=flat"></sub>
 
   <details>
 
@@ -98,6 +101,7 @@
 - _[Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid)
   ~~[[F-Droid](https://f-droid.org/packages/com.aurora.adroid/)]
   [[网站](https://auroraoss.com/)]~~_
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/AuroraOSS%2Fauroradroid?style=flat"></sub>
 
   <details>
 
@@ -107,7 +111,7 @@
 
   有 root 的话可以一键更新/安装。
 
- </details>
+  </details>
 
 </details>
 
@@ -118,6 +122,7 @@
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
   [[F-Droid](https://f-droid.org/packages/com.aurora.store/)]
   [[网站](https://auroraoss.com/)]
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/AuroraOSS%2FAuroraStore?style=flat"></sub>
 
   <details>
 
@@ -134,6 +139,7 @@
 - [Obtainium](https://github.com/ImranR98/Obtainium)
   [[F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)]
   [[网站](https://obtainium.imranr.dev/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/ImranR98/Obtainium/main?style=flat"></sub>
 
   <details>
 
@@ -163,12 +169,13 @@
   </details>
 
 - [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser)\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/fork-maintainers/iceraven-browser/iceraven?style=flat"></sub>
 
   <details>
 
   <summary>另一个强化版火狐浏览器。</summary><br/>
 
-  更长的扩展列表，支持 about:config ，隐私方面应该相当于 Fennec。
+  更长的扩展列表，支持 about:config，隐私方面应该相当于 Fennec。
 
   “Iceraven 浏览器结合了 Fenix 的力量和 Fennec 的精神，并向 Netscape Navigator 的伟大传统致敬。”
 
@@ -179,12 +186,13 @@
 - [K-9 Mail](https://github.com/thunderbird/thunderbird-android)
   [[F-Droid](https://f-droid.org/packages/com.fsck.k9/)]
   [[网站](https://k9mail.app/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/thunderbird/thunderbird-android/main?style=flat"></sub>
 
   <details>
 
   <summary>最著名的开源邮件客户端，源代码已迁移到 Thunderbird。</summary><br/>
 
-  支持多账号，选项很丰富。最近两年UI改进显著，越来越好用了。
+  支持多账号，选项很丰富。最近两年 UI 改进显著，越来越好用了。
 
   他们的网站是我见过开源软件里做的最好看的之一。
 
@@ -193,6 +201,7 @@
 - [FairEmail](https://github.com/M66B/FairEmail)
   [[F-Droid](https://f-droid.org/packages/eu.faircode.email/)]
   [[网站](https://email.faircode.eu/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/M66B/FairEmail/master?style=flat"></sub>
 
   <details>
 
@@ -202,7 +211,7 @@
 
   XPrivacy 作者 M66B 的作品。
 
-  无数的自定义选项，对隐私的极端保护。（个人只因为 K9 没有黑色小部件而选择了 FairEmail。）
+  无数的自定义选项，对隐私的极端保护。 (个人只因为 K9 没有黑色小部件而选择了 FairEmail。) 
 
   </details>
 
@@ -213,6 +222,7 @@
 - [Feeder](https://github.com/spacecowboy/Feeder)
   [[F-Droid](https://f-droid.org/packages/com.nononsenseapps.feeder/)]
   [[网站](https://news.nononsenseapps.com/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/spacecowboy/Feeder/master?style=flat"></sub>
 
   <details>
 
@@ -224,6 +234,7 @@
 
 - [Read You](https://github.com/Ashinch/ReadYou)
   [[F-Droid](https://f-droid.org/packages/me.ash.reader/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Ashinch/ReadYou/main?style=flat"></sub>
 
   <details>
 
@@ -235,9 +246,10 @@
 
 - [M3U](https://github.com/oxyroid/M3UAndroid)
   [[F-Droid](https://f-droid.org/packages/com.m3u.androidApp/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/oxyroid/M3UAndroid/master?style=flat"></sub>
 
   <!-- [FastoTVLite](https://github.com/fastogt/fastotvlite_mobile)
-   这个项目看上去已经死了，名称及官网已变更，源码不更新。-->
+  这个项目看上去已经死了，名称及官网已变更，源码不更新。-->
 
   <details>
 
@@ -247,31 +259,35 @@
 
   </details>
 
-- [RadioDroid（睿卓）](https://github.com/segler-alex/RadioDroid)
+- [RadioDroid (睿卓) ](https://github.com/segler-alex/RadioDroid)
   [[F-Droid](https://f-droid.org/packages/net.programmierecke.radiodroid2/)]
   [[网站](https://www.radio-browser.info/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/segler-alex/RadioDroid/master?style=flat"></sub>
 
   网络收音机，是 [radio-browser](https://www.radio-browser.info/users) 建议使用的客户端，自带频道列表。
 
-- [Transistor（晶体管收音机）](https://codeberg.org/y20k/transistor)
+- [Transistor (晶体管收音机) ](https://codeberg.org/y20k/transistor)
   [[F-Droid](https://f-droid.org/packages/org.y20k.transistor/)]
+  <sub><img alt="Gitea Last Commit" src="https://img.shields.io/gitea/last-commit/y20k/transistor?gitea_url=https%3A%2F%2Fcodeberg.org%2F&style=flat"></sub>
 
   <details>
 
   <summary>网络收音机，频道需要手动搜索后添加，数据也来自 radio-browser。</summary><br/>
 
-  这个是从网络串流的，不是真正的调频收音机，原因是很多硬件不支持了（也可以从手机自带收音机逐渐消失这一点看出来）。好处是你可以听外地的频道，默认的搜索引擎可以添加上千个国内外频道。
+  这个是从网络串流的，不是真正的调频收音机，原因是很多硬件不支持了 (也可以从手机自带收音机逐渐消失这一点看出来) 。好处是你可以听外地的频道，默认的搜索引擎可以添加上千个国内外频道。
 
   </details>
 
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod)
   [[F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/)]
   [[网站](https://antennapod.org/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/AntennaPod/AntennaPod/develop?style=flat"></sub>
 
   Podcast 客户端有很多，这款历史久，开发活跃，功能实而不华。
 
-- [Legado（阅读）](https://github.com/gedoor/legado)
+- [Legado (阅读) ](https://github.com/gedoor/legado)
   [[网站](https://gedoor.github.io/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/gedoor/legado/master?style=flat"></sub>
 
   <details>
 
@@ -281,9 +297,10 @@
 
   </details>
 
-- [Shosetsu（小说）](https://gitlab.com/shosetsuorg/shosetsu)
+- [Shosetsu (小说) ](https://gitlab.com/shosetsuorg/shosetsu)
   [[F-Droid](https://f-droid.org/packages/app.shosetsu.android.fdroid/)]
   [[网站](https://shosetsu.app/)]
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/shosetsuorg%2Fshosetsu?style=flat"></sub>
 
   <details>
 
@@ -296,6 +313,7 @@
 - [Myne](https://github.com/Pool-Of-Tears/Myne)
   [[F-Droid](https://f-droid.org/packages/com.starry.myne/)]
   [[网站](https://pool-of-tears.github.io/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Pool-Of-Tears/Myne/main?style=flat"></sub>
 
   <details>
 
@@ -311,6 +329,7 @@
 
 - _~~[URL Radio](https://github.com/jamal2362/URL-Radio)~~
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jamal2367.urlradio)]_
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/jamal2362/URL-Radio/master?style=flat"></sub>
 
   <details>
 
@@ -326,9 +345,10 @@
 
 #### 追剧管理
 
-- [Showly](https://github.com/michaldrabik/Showly-2.0)
+- [Showly](https://github.com/michaldrabik/showly)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.michaldrabik.showly_oss)]
   [[网站](https://www.showlyapp.com/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/michaldrabik/showly/master?style=flat"></sub>
 
   <details>
 
@@ -340,6 +360,7 @@
 
 - [Episodes](https://github.com/red-coracle/episodes)
   [[F-Droid](https://f-droid.org/packages/com.redcoracle.episodes/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/red-coracle/episodes/master?style=flat"></sub>
 
   <details>
 
@@ -355,13 +376,16 @@
 
 - [qbitcontroller](https://github.com/Bartuzen/qBitController)
   [[F-Droid](https://f-droid.org/packages/dev.bartuzen.qbitcontroller/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Bartuzen/qBitController/master?style=flat"></sub>
 
   Qbittorrent 的远程控制软件。
 
 - [Tremotesf](https://github.com/equeim/tremotesf-android)
-  [[F-Droid](https://f-droid.org/repository/browse/?fdid=org.equeim.tremotesf/)]
+  [[F-Droid](https://f-droid.org/packages/org.equeim.tremotesf/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/equeim/tremotesf-android/master?style=flat"></sub>
 - [Transmissionic](https://github.com/6c65726f79/Transmissionic)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.sleroy.transmissionic)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/6c65726f79/Transmissionic/main?style=flat"></sub>
 
   Transmission 的远程控制软件。
 
@@ -372,11 +396,13 @@
 - [VLC](https://code.videolan.org/videolan/vlc-android)
   [[F-Droid](https://f-droid.org/packages/org.videolan.vlc/)]
   [[网站](https://www.videolan.org/vlc/download-android.html)]
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/videolan%2Fvlc-android?gitlab_url=https%3A%2F%2Fcode.videolan.org%2F&style=flat"></sub>
 
   多媒体播放器，开源最佳之一，和电脑端一样功能强大，界面也很漂亮。
 
 - [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
   [[F-Droid](https://f-droid.org/packages/org.courville.nova/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/nova-video-player/aos-AVP/nova?style=flat"></sub>
 
   <details>
 
@@ -384,28 +410,30 @@
 
   可以管理视频库，显示封面，联网获取信息等。还有电视模式，可以作为家庭影院的开源方案。
 
-  个人体验通过 SFTP 播放视频加载网速比 VLC 快好几倍（你要问为什么是 SFTP，因为我用 Linux）。
+  个人体验通过 SFTP 播放视频加载网速比 VLC 快好几倍 (你要问为什么是 SFTP，因为我用 Linux) 。
 
   </details>
 
 - [mpv-android](https://github.com/mpv-android/mpv-android)
   [[F-Droid](https://f-droid.org/packages/is.xyz.mpv/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mpv-android/mpv-android/master?style=flat"></sub>
 
   <details>
 
-  <summary>基于 Linux 平台很出名的播放软件 MPV，以 UI 简洁(lòu)著称。</summary><br/>
+  <summary>基于 Linux 平台很出名的播放软件 MPV，以 UI 简洁 (lòu) 著称。</summary><br/>
 
-  安卓版本并非官方开发，所以就更简洁(lòu)了😢。总体上不如 VLC 和 Nova，但继承了桌面端的可定制性，可以编辑配置文件改变选项和快捷键。
+  安卓版本并非官方开发，所以就更简洁 (lòu) 了😢。总体上不如 VLC 和 Nova，但继承了桌面端的可定制性，可以编辑配置文件改变选项和快捷键。
 
   </details>
 
 - [Kore](https://github.com/xbmc/Kore)
   [[F-Droid](https://f-droid.org/packages/org.xbmc.kore/)]
   [[网站](https://forum.kodi.tv/forumdisplay.php?fid=129)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/xbmc/kore/master?style=flat"></sub>
 
   <details>
 
-  <summary>Kodi 官方遥控器应用（Kodi remote）。</summary><br/>
+  <summary>Kodi 官方遥控器应用 (Kodi remote) 。</summary><br/>
 
   前者是非常棒的开源家庭影院应用，用来播放本地或远程的多媒体文件。
 
@@ -415,14 +443,15 @@
 
 可能是开发难度低，F-Droid 上太多音乐软件了。搜 "music" 关键词，最近更新的都比较好，恕不一一列举。
 
-- [Vinyl](https://github.com/AdrienPoupa/VinylMusicPlayer)
+- [Vinyl](https://github.com/VinylMusicPlayer/VinylMusicPlayer)
   [[F-Droid](https://f-droid.org/packages/com.poupa.vinylmusicplayer/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/VinylMusicPlayer/VinylMusicPlayer/master?style=flat"></sub>
 
   <details>
 
   <summary>很轻量且干净的音乐播放器，拥有透明小部件。</summary><br/>
 
-  基于 [Phonograph](https://github.com/kabouzeid/Phonograph)，后者很早停止维护了，但是却是很经典的质感设计音乐播放器，值得怀念。
+  基于 [Phonograph](https://github.com/kabouzeid/Phonograph) <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kabouzeid/Phonograph/master?style=flat"></sub>，后者很早停止维护了，但是却是很经典的质感设计音乐播放器，值得怀念。
 
   列表最后面有个 Lineage OS 自带音乐播放器，和这个超级像，更加精简。
 
@@ -430,24 +459,28 @@
 
 - [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
   [[F-Droid](https://f-droid.org/packages/player.phonograph.plus/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/chr56/Phonograph_Plus/dev?style=flat"></sub>
 
   也是 Phonograph 正在积极维护的 fork，在逐渐增加功能。
 
 - [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
   [[F-Droid](https://f-droid.org/packages/code.name.monkey.retromusic/)]
   [[网站](https://retromusic.app/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/RetroMusicPlayer/RetroMusicPlayer/dev?style=flat"></sub>
 
   <details>
 
   <summary>很漂亮的音乐播放软件。F-Droid 版本已移除内购。</summary><br/>
 
-  曾经有一个名为 [Metro](https://github.com/MuntashirAkon/Metro)[[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.Music/)] 的破解版，但前者完全免费后已没有继续开发的必要。
+  曾经有一个名为 [Metro](https://github.com/MuntashirAkon/Metro) [[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.Music/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MuntashirAkon/Metro/dev?style=flat"></sub>
+ 的破解版，但前者完全免费后已没有继续开发的必要。
 
   </details>
 
 - [Vanilla Music](https://github.com/vanilla-music/vanilla)
   [[F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla/)]
   [[网站](https://vanilla-music.github.io/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/vanilla-music/vanilla/master?style=flat"></sub>
 
   <details>
 
@@ -460,22 +493,25 @@
 - [Mpd](https://github.com/MusicPlayerDaemon/MPD)
   [[F-Droid](https://f-droid.org/packages/org.musicpd/)]
   [[网站](https://www.musicpd.org/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MusicPlayerDaemon/MPD/master?style=flat"></sub>
 - [M.A.L.P.](https://gitlab.com/gateship-one/malp)
   [[F-Droid](https://f-droid.org/packages/org.gateshipone.malp/)]
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/gateship-one%2Fmalp?style=flat"></sub>
 
   <details>
 
   <summary>前后端分离的音乐播放应用。</summary><br/>
 
-  这个属于极客范畴了，本身不携带控制界面，并且实用性也不如正常的音乐播放器。Linux 用户或许用过，至少我是很喜欢的（是说喜欢 Linux 桌面的使用情景，安卓上的使用体验是很糟的）。
+  这个属于极客范畴了，本身不携带控制界面，并且实用性也不如正常的音乐播放器。Linux 用户或许用过，至少我是很喜欢的 (是说喜欢 Linux 桌面的使用情景，安卓上的使用体验是很糟的) 。
 
   M.A.L.P. 为前端，可以控制安卓手机自己的 Mpd，也可以连接到电脑上的 Mpd。
 
   </details>
 
-- [Noice](https://github.com/ashutoshgngwr/noice)
+- [Noice](https://github.com/trynoice/android-app)
   [[F-Droid](https://f-droid.org/packages/com.github.ashutoshgngwr.noice/)]
   [[网站](https://ashutosh.blog/noice/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/trynoice/android-app/main?style=flat"></sub>
 
   <details>
 
@@ -489,17 +525,18 @@
 
 - [SoundAura](https://github.com/CliffracerMerchant/SoundAura)
   [[F-Droid](https://f-droid.org/packages/com.cliffracertech.soundaura/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/CliffracerMerchant/SoundAura/master?style=flat"></sub>
 
   <details>
 
   <summary>同时播放多条用户提供的音频。</summary><br/>
 
-  实际上可以完成上边Noice的功能，但软件没有自带任何声音，需要我们自己去下载。
+  实际上可以完成上边 Noice 的功能，但软件没有自带任何声音，需要我们自己去下载。
 
   Issue 中有人推荐了一些“双耳节拍"音频，可以下载尝试：
   - https://orangefreesounds.com/binaural-beats/
   - https://archive.org/details/binaural-beats_201904
-  - https://musicalhypnosis.com/royalty-free-binaural-beats/
+  - https://musicalhypnosis.com/
 
   </details>
 
@@ -508,6 +545,7 @@
 - [YAACC](https://github.com/tobexyz/yaacc-code)
   [[F-Droid](https://f-droid.org/packages/de.yaacc/)]
   [[网站](https://tobexyz.github.io/yaacc-code/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/tobexyz/yaacc-code/master?style=flat"></sub>
 
   <details>
 
@@ -519,14 +557,16 @@
 
 #### 绘画
 
-- [Pocket Paint（口袋画板）](https://github.com/Catrobat/Paintroid)
+- [Pocket Paint (口袋画板) ](https://github.com/Catrobat/Paintroid)
   [[F-Droid](https://f-droid.org/packages/org.catrobat.paintroid/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Catrobat/Paintroid/develop?style=flat"></sub>
 
   随便画点啥，功能比较全，甚至还有图层，界面也简洁漂亮。
 
-- _[PixaPencil](https://github.com/therealbluepandabear/PixaPencil)
+- _[PixaPencil](https://github.com/tomdoeslinux/PixaPencil)
   [[F-Droid](https://f-droid.org/packages/com.therealbluepandabear.pixapencil/)]
   [[网站](https://pixapencil.com/)]_
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/therealbluepandabear/PixaPencil/main?style=flat"></sub>
 
   <details>
 
@@ -534,15 +574,16 @@
 
   大概相当于 Windows 上的绘图，貌似要功能更丰富一些。
 
-  **警告** ：2024 年 1 月，PixaPencil 易主，并正在用 Flutter 重写，协议从 GNU GPL v3 切换到了 [PixaPencil's EULA](https://github.com/tomdoeslinux/PixaPencil/blob/main/EULA.txt)。[Reddit](https://www.reddit.com/r/Kotlin/comments/1ce6g74/my_first_kotlin_app_pixapencil_the_perfect_app/) 上的自荐，账号已被 ban，声称用 Kotlin 写的，在 Google Play 发布。真是混乱，是否仍旧真正开源自行甄别吧。
+  **警告** ：2024 年 1 月，PixaPencil 易主，并正在用 Flutter 重写，协议从 GNU GPL v3 切换到了 [PixaPencil's EULA](https://github.com/tomdoeslinux/PixaPencil/blob/main/EULA.txt)。[Reddit](https://www.reddit.com/r/Kotlin/comments/1ce6g74/my_first_kotlin_app_pixapencil_the_perfect_app/) 上的自荐，账号已被 ban，声称用 Kotlin 写的，在 Google Play 发布。真是混乱，是否仍旧真正开源自行甄别吧。客户端均停留在 2022 年的 0.1.8。
 
   </details>
 
 #### 相机
 
 - [Gcam Services Provider](https://github.com/lukaspieper/Gcam-Services-Provider)
-  [[F-Droid (Basic版)](https://f-droid.org/packages/de.lukaspieper.gcam.services/)]
-  [[Izzyondroid (Photos版)](https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.photos)]
+  [[F-Droid(Basic 版)](https://f-droid.org/packages/de.lukaspieper.gcam.services/)]
+  [[Izzyondroid(Photos 版)](https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.photos)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/lukaspieper/Gcam-Services-Provider/main?style=flat"></sub>
 
   <details>
 
@@ -550,42 +591,44 @@
 
   谷歌相机有着其他开源相机软件无法比拟的图像优化，成像质量可以提升好几档。此外，还有夜景模式、全景模式、HDR+ 等很强大的功能。对照片质量敏感的朋友，就不要用下面那些软件了。当然，这个解决方案并不是开源的。如果你不在意的话，这算是最佳方案了。
 
-  （2024.02 更新）后来才搞明白，这个软件有 Basic 和 Photos 两个版本。简单地说，如果系统上有 Google Photos，就用 Basic 版；如果没有，就用 Photos 版。这样可以使用相机界面的“相册”按钮打开系统相册。详见 [Izzyondroid 页面](https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.photos)。
+   (2024.02 更新) 后来才搞明白，这个软件有 Basic 和 Photos 两个版本。简单地说，如果系统上有 Google Photos，就用 Basic 版；如果没有，就用 Photos 版。这样可以使用相机界面的“相册”按钮打开系统相册。详见 [Izzyondroid 页面](https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.photos)。
 
   安装此软件后，大家可以到 [Gcam 的网站](https://www.celsoazevedo.com/files/android/google-camera/links/)寻找适配自己机型版本的 Gcam 和配置文件，简单安装即可。
 
   </details>
 
 - [Aperture](https://github.com/LineageOS/android_packages_apps_Aperture)
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_Aperture/lineage-22.1?style=flat"></sub>
 
   <details>
 
   <summary>Lineage OS 20 及以上版本自带相机应用。</summary><br/>
 
-  相较之前自带的 Snap（版本 19之前）和 AOSP 原生相机（版本 19），界面更加漂亮，功能更加丰富，可以说接近手机原系统中的相机应用了。有了这个（当然前提是你在用 Lineage OS），我自认为可以不再考虑下面几个开源方案。
+  相较之前自带的 Snap (版本 19 之前) 和 AOSP 原生相机 (版本 19) ，界面更加漂亮，功能更加丰富，可以说接近手机原系统中的相机应用了。有了这个 (当然前提是你在用 Lineage OS) ，我自认为可以不再考虑下面几个开源方案。
 
   此外，只有 Gcam 可以在功能和质量上好于 Aperture，但与系统的集成却比较差。不在乎成像质量的，使用这个自带应用就行。
 
   之前的描述依然适用，复制如下：
 
-  这类第三方相机软件（这是相对于手机原系统来说的）都有一个缺陷，就是无法很好地利用硬件，比如无法利用一分四的超像素，没有延长曝光的超级夜景模式，等等。不过在软件上做的已经很不错，还集成了二维码扫描，不用装单独的二维码扫描软件了。
+  这类第三方相机软件 (这是相对于手机原系统来说的) 都有一个缺陷，就是无法很好地利用硬件，比如无法利用一分四的超像素，没有延长曝光的超级夜景模式，等等。不过在软件上做的已经很不错，还集成了二维码扫描，不用装单独的二维码扫描软件了。
 
   </details>
 
 - _[FreeDCam](https://github.com/KillerInk/FreeDcam)
   [[F-Droid](https://f-droid.org/packages/troop.com.freedcam/)]_
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/KillerInk/FreeDcam/master?style=flat"></sub>
 
   <details>
 
   _<summary>我觉得这个和 Open Camera 是开源相机中最好的两个，功能比较全面。</summary>_
 
-  **最后更新时间：20221020。**
+  **最后有效提交时间：20221020。**
 
   当然这个全面是指对任何摄像头都适用的功能，如广角畸变修正、4 合 1 像素再拆成 1 像素等就不灵了。作为通用相机软件，已经很不错了。
 
   </details>
 
-- [Open Camera](https://sourceforge.net/p/opencamera/code)
+- [Open Camera](https://sourceforge.net/p/opencamera/code/)
   [[F-Droid](https://f-droid.org/packages/net.sourceforge.opencamera/)]
   [[网站](https://opencamera.org.uk/)]
 
@@ -593,11 +636,12 @@
 
   <summary>比较强大的相机软件，但是界面很丑。</summary><br/>
 
-  开发减缓，感觉开发者逐渐有点无心无力。（不过，最近更新了 1.53.1。）
+  开发减缓，感觉开发者逐渐有点无心无力。 (不过，最近更新了 1.53.1。) 
 
   </details>
 
 - [Photon Camera](https://github.com/eszdman/PhotonCamera)
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/eszdman/PhotonCamera/dev?style=flat"></sub>
 
   <details>
 
@@ -607,7 +651,7 @@
 
   更新：这一段的问题应该已经解决，我尝试编译了最新的 git 仓库代码，没有长时间卡顿了，不过没有新版本发布。在此前，打开和切换界面都等数十秒长。有[一个 issue](https://github.com/eszdman/PhotonCamera/issues/54) 说它在扫描设备上所有的照片，不知是不是长时间不响应的原因。
 
-  另外，这款软件可能不是默认支持所有设备的，但没找到它支持设备的条件（源代码里有支持列表）。
+  另外，这款软件可能不是默认支持所有设备的，但没找到它支持设备的条件 (源代码里有支持列表) 。
 
   </details>
 
@@ -618,6 +662,7 @@
 - [OSMAnd~](https://github.com/osmandapp/Osmand)
   [[F-Droid](https://f-droid.org/packages/net.osmand.plus/)]
   [[网站](https://osmand.net/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/osmandapp/Osmand/master?style=flat"></sub>
 
   <details>
 
@@ -632,6 +677,7 @@
 - [Organic Maps](https://github.com/organicmaps/organicmaps)
   [[F-Droid](https://f-droid.org/packages/app.organicmaps/)]
   [[网站](https://organicmaps.app/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/organicmaps/organicmaps/master?style=flat"></sub>
 
   <details>
 
@@ -644,6 +690,7 @@
 - [GPSLogger](https://github.com/mendhak/gpslogger)
   [[F-Droid](https://f-droid.org/packages/com.mendhak.gpslogger/)]
   [[网站](https://gpslogger.app/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mendhak/gpslogger/master?style=flat"></sub>  
 
   轻量、省电的 GPS 记录器。
 
@@ -652,6 +699,7 @@
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.breezyweather)]
   [[F-Droid](https://f-droid.org/packages/org.breezyweather/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/breezy-weather/breezy-weather/main?style=flat"></sub>
 
   <details>
 
@@ -664,6 +712,7 @@
   </details>
 
 - [Pluvia Weather](https://github.com/SpicyChair/pluvia_weather_flutter)
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/SpicyChair/pluvia_weather_flutter/master?style=flat"></sub>
 
   <details>
 
@@ -671,7 +720,7 @@
 
   但是使用的 OpenWeatherMap 貌似国内连接很慢，预报也不一定准确。
 
-  更新：早在 2022 年，F-Droid 官方就以检测到 GMS 使用为由下架了这个软件，但是作者并未有意识地使用（见[相关 issue](https://github.com/SpicyChair/pluvia_weather_flutter/issues/56)）。所以现在 F-Droid上 安装不了了。大家可自行判断，或者干脆使用上面的 Breezy Weather。
+  更新：早在 2022 年，F-Droid 官方就以检测到 GMS 使用为由下架了这个软件，但是作者并未有意识地使用 (见[相关 issue](https://github.com/SpicyChair/pluvia_weather_flutter/issues/56)) 。所以现在 F-Droid 上 安装不了了。大家可自行判断，或者干脆使用上面的 Breezy Weather。
 
   </details>
 
@@ -681,6 +730,7 @@
 
 - _[Geometric Weather(几何天气)](https://github.com/WangDaYeeeeee/GeometricWeather)
   ~~[[F-Droid](https://f-droid.org/packages/wangdaye.com.geometricweather/)]~~_
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/WangDaYeeeeee/GeometricWeather/master?style=flat"></sub>
 
   <details>
 
@@ -699,6 +749,7 @@
 - [Gadgetbridge](https://codeberg.org/Freeyourgadget/Gadgetbridge)
   [[F-Droid](https://f-droid.org/app/nodomain.freeyourgadget.gadgetbridge/)]
   [[网站](https://gadgetbridge.org/)]
+  <sub><img alt="Gitea Last Commit" src="https://img.shields.io/gitea/last-commit/Freeyourgadget/Gadgetbridge?gitea_url=https%3A%2F%2Fcodeberg.org%2F&style=flat"></sub>
 
   <details>
 
@@ -717,11 +768,13 @@
 - [Tasks](https://github.com/tasks/tasks)
   [[F-Droid](https://f-droid.org/packages/org.tasks/)]
   [[网站](https://tasks.org/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/tasks/tasks/main?style=flat"></sub>
 
   待办列表管理，应该是同类最佳之一了。
 
-- [Loop Habit Tracker（习惯）](https://github.com/iSoron/uhabits)
+- [Loop Habit Tracker (习惯) ](https://github.com/iSoron/uhabits)
   [[F-Droid](https://f-droid.org/packages/org.isoron.uhabits/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/iSoron/uhabits/dev?style=flat"></sub>
 
   <details>
 
@@ -733,6 +786,7 @@
 
 - [Feeel](https://gitlab.com/enjoyingfoss/feeel)
   [[F-Droid](https://f-droid.org/packages/com.enjoyingfoss.feeel/)]
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/enjoyingfoss%2Ffeeel?style=flat"></sub>
 
   <details>
 
@@ -742,8 +796,9 @@
 
   </details>
 
-- [Did I Take My Meds?（我吃药了吗？）](https://github.com/CorruptedArk/did-i-take-my-meds)
+- [Did I Take My Meds? (我吃药了吗？) ](https://github.com/CorruptedArk/did-i-take-my-meds)
   [[F-droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/CorruptedArk/did-i-take-my-meds/master?style=flat"></sub>
 
   <details>
 
@@ -753,9 +808,10 @@
 
   </details>
 
-- [My Expenses（开支助手）](https://github.com/mtotschnig/MyExpenses)
+- [My Expenses (开支助手) ](https://github.com/mtotschnig/MyExpenses)
   [[F-droid](https://f-droid.org/packages/org.totschnig.myexpenses/)]
   [[网站](https://www.myexpenses.mobi/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mtotschnig/MyExpenses/master?style=flat"></sub>
 
   个人理财管理工具。
 
@@ -764,10 +820,11 @@
 - [Tape Measure](https://github.com/SecUSo/privacy-friendly-tape-measure)
   [[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlytapemeasure/)]
   [[网站](https://secuso.aifb.kit.edu/english/Tape_Measure_and_Ruler.php)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/SecUSo/privacy-friendly-tape-measure/master?style=flat"></sub>
 
   <details>
 
-  <summary>屏幕直尺（没跑路的那种）。</summary><br/>
+  <summary>屏幕直尺 (没跑路的那种) 。</summary><br/>
 
   实际上其主要功能为通过图片中的制定参考物测量其他物体长度，但远远没有苹果手机/平板上的那个功能方便好用。屏幕直尺的校准也不太好，需要你用另一个尺去量屏幕上的一条线，而不是用一张常见的卡片去校准。总之，设计上略显简陋和矛盾，但偶尔应急也没问题。
 
@@ -775,10 +832,11 @@
 
 - [GuessIron](https://github.com/mobeil1/GuessIron)
   [[F-Droid](https://www.f-droid.org/zh/packages/de.indie42.guessiron/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mobeil1/GuessIron/main?style=flat"></sub>
 
   <details>
 
-  <summary>更好的屏幕直尺（笑）。</summary><br/>
+  <summary>更好的屏幕直尺 (笑) 。</summary><br/>
 
   可以用另一个尺子、银行卡或者任意你知道长度的物体来校准。
 
@@ -786,12 +844,14 @@
 
 - [Compass](https://github.com/Kr0oked/Compass)
   [[F-Droid](https://f-droid.org/packages/danielmeek32.compass/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Kr0oked/Compass/master?style=flat"></sub>
 
   指南针。
 
 - [Trail Sense](https://github.com/kylecorry31/Trail-Sense)
   [[F-Droid](https://f-droid.org/packages/com.kylecorry.trail_sense/)]
   [[网站](https://kylecorry.com/Trail-Sense/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kylecorry31/Trail-Sense/main?style=flat"></sub>
 
   <details>
 
@@ -803,12 +863,14 @@
 
 - [Audio Spectrum Analyzer](https://github.com/woheller69/audio-analyzer-for-android)
   [[F-Droid](https://f-droid.org/packages/org.woheller69.audio_analyzer_for_android/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/woheller69/audio-analyzer-for-android/master?style=flat"></sub>
 
   声音频谱分析。
 
-- [Bluetooth Remote（蓝牙遥控器）](https://gitlab.com/Atharok/BtRemote)
+- [Bluetooth Remote (蓝牙遥控器) ](https://gitlab.com/Atharok/BtRemote)
   [[F-Droid](https://f-droid.org/packages/com.atharok.btremote/)]
   [[网站](https://atharok.gitlab.io/site/projects/bt-remote/)]\*
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/Atharok%2FBtRemote?style=flat"></sub>
 
   <details>
 
@@ -844,14 +906,15 @@
 - [Collabora Office](https://github.com/CollaboraOnline/online)
   [[独立源](https://www.collaboraoffice.com/releases-en/collabora-office-on-mobiles-supporting-password-protected-documents-and-available-on-f-droid/)]
   [[网站](https://www.collaboraonline.com/collabora-office-android-ios/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/CollaboraOnline/online/master?style=flat"></sub>
 
   <details>
 
   <summary>LibreOffice 的安卓适配版。</summary><br/>
 
-  可以实现大多数的文档查看，还有实验性的编辑功能。这个应该是最好的开源 office 组件了（但依然不够好）。
+  可以实现大多数的文档查看，还有实验性的编辑功能。这个应该是最好的开源 office 组件了 (但依然不够好) 。
 
-  需要 F-Droid 加入第三方源（链接见上），就可以方便地安装更新。
+  需要 F-Droid 加入第三方源 (链接见上) ，就可以方便地安装更新。
 
   </details>
 
@@ -859,6 +922,7 @@
 
 - [Markor](https://github.com/gsantner/markor)
   [[F-Droid](https://f-droid.org/packages/net.gsantner.markor/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/gsantner/markor/master?style=flat"></sub>
 
   <details>
 
@@ -872,18 +936,20 @@
 
 - [Notally](https://github.com/OmGodse/Notally)
   [[F-Droid](https://f-droid.org/packages/com.omgodse.notally/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/OmGodse/Notally/master?style=flat"></sub>
 
   极简又漂亮的笔记应用，只能输入纯文字，有少许加粗斜体等格式。
 
-- [Saber](https://github.com/adil192/saber)
+- [Saber](https://github.com/saber-notes/saber)
   [[F-Droid](https://f-droid.org/packages/com.adilhanney.saber/)]
   [[网站](https://saber.adil.hanney.org/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/saber-notes/saber/main?style=flat"></sub>
 
   <details>
 
   <summary>不多见的开源手写笔记软件。</summary><br/>
 
-  ~~我没有安卓平板，不知道实际体验如何。~~ 我在两个安卓设备上体验了：一个装了 LineageOS 18 的三星 Note 4（即第三方系统 + 第三方软件），另一个是官方系统的三星 Tab A 9.7。和原装系统下的自带笔记相比，延迟差不多（但本来就很高）,也支持压感。
+  ~~我没有安卓平板，不知道实际体验如何。~~ 我在两个安卓设备上体验了：一个装了 LineageOS 18 的三星 Note 4 (即第三方系统 + 第三方软件) ，另一个是官方系统的三星 Tab A 9.7。和原装系统下的自带笔记相比，延迟差不多 (但本来就很高) ,也支持压感。
 
   想在纯开源的环境下体验手写笔记，在目前 Saber 是一个很不错的选择。
 
@@ -891,9 +957,10 @@
 
 #### 文档阅读
 
-- [OpenDocument Reader](https://github.com/TomTasche/OpenDocument.droid)
+- [OpenDocument Reader](https://github.com/opendocument-app/OpenDocument.droid)
   [[F-Droid](https://f-droid.org/packages/at.tomtasche.reader/)]
   [[网站](https://opendocument.app/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/opendocument-app/OpenDocument.droid/main?style=flat"></sub>
 
   <details>
 
@@ -905,6 +972,7 @@
 
 - [MJ PDF Reader](https://gitlab.com/mudlej_android/mj_pdf_reader)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader)]
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/mudlej_android%2Fmj_pdf_reader?style=flat"></sub>
 
   <details>
 
@@ -917,12 +985,14 @@
 - [KOReader](https://github.com/koreader/koreader)
   [[F-Droid](https://f-droid.org/packages/org.koreader.launcher.fdroid/)]
   [[网站](https://koreader.rocks/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/koreader/koreader/master?style=flat"></sub>
 
   适用于电子书的著名阅读软件。
 
 - [Librera Reader](https://github.com/foobnix/LibreraReader)
   [[F-Droid](https://f-droid.org/packages/com.foobnix.pro.pdf.reader/)]
   [[网站](https://librera.mobi/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/foobnix/LibreraReader/master?style=flat"></sub>
 
   <details>
 
@@ -936,8 +1006,9 @@
 
 <summary>过时的内容</summary>
 
-- _~~[Pdf Viewer Plus](https://github.com/JavaCafe01/PdfViewer)
+- _~~[Pdf Viewer Plus](https://github.com/gokulswam/PdfViewer)
   [[F-Droid](https://f-droid.org/packages/com.gsnathan.pdfviewer/)]~~_
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/gokulswam/PdfViewer/master?style=flat"></sub>
 
   <details>
 
@@ -953,8 +1024,9 @@
 
 #### 文档扫描
 
-- [OSS Document Scanner](https://github.com/Akylas/com.akylas.documentscanner)
+- [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner)
   [[IzzyOnDroid](https://apt.izzysoft.de/packages/com.akylas.documentscanner)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Akylas/OSS-DocumentScanner/master?style=flat"></sub>
 
   <details>
 
@@ -962,20 +1034,21 @@
 
   之前只有下面的 OpenScan 做的不错，但是 2023 年底突然出现了一个更好的 OSS Document Scanner。
 
-  这个软件具有正常的拍照导入或图片导入文档的功能，可以自由地（再次）裁切、调整顺序、20+ 种颜色滤镜。并且，身为颜值党，我很喜欢这个按照质感设计绘制的界面。
+  这个软件具有正常的拍照导入或图片导入文档的功能，可以自由地 (再次) 裁切、调整顺序、20+ 种颜色滤镜。并且，身为颜值党，我很喜欢这个按照质感设计绘制的界面。
 
   当然这个软件目前正处于初期快速迭代的阶段，后续肯定还会有更多的功能实现和 bug 修复。我贡献了很粗糙的中文翻译，应该会在接下来 1、2 个版本加入。
 
   </details>
 
-- [OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan)
+- [OpenScan](https://github.com/ethereal-developers/OpenScan)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ethereal.openscan)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/ethereal-developers/OpenScan/master?style=flat"></sub>
 
   <details>
 
   <summary>文档扫描。推荐使用上面的 OSS Document Scanner。</summary><br/>
 
-  和大家想的一样，可以拍照、裁切、再合成一个文档，可以导出为 PDF。功能完整，比如有再次裁切（只能再切小）、调整顺序、颜色优化（灰阶或黑白）、分享等等。
+  和大家想的一样，可以拍照、裁切、再合成一个文档，可以导出为 PDF。功能完整，比如有再次裁切 (只能再切小) 、调整顺序、颜色优化 (灰阶或黑白) 、分享等等。
 
   相比之下，我试过的其它开源扫描软件就太差了，上面功能大量缺失，我觉得缺一不可。
 
@@ -986,6 +1059,7 @@
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android)
   [[F-Droid](https://f-droid.org/packages/com.ichi2.anki/)]
   [[网站](https://ankidroid.org/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/ankidroid/Anki-Android/main?style=flat"></sub>
 
   <details>
 
@@ -1000,17 +1074,19 @@
 - [Aard2](https://github.com/itkach/aard2-android)
   [[F-Droid](https://f-droid.org/packages/itkach.aard2/)]
   [[网站](https://aarddict.org/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/itkach/aard2-android/master?style=flat"></sub>
 
   <details>
 
   <summary>支持很多词典，可以在官网找到相应下载链接。</summary><br/>
 
-  可惜作者不愿意将界面更新为早已成为主流的质感设计（见[此 issue](https://github.com/itkach/aard2-android/issues/72)），因此界面很老旧。
+  可惜作者不愿意将界面更新为早已成为主流的质感设计 (见[此 issue](https://github.com/itkach/aard2-android/issues/72)) ，因此界面很老旧。
 
   </details>
 
 - [QuickDic](https://github.com/rdoeffinger/Dictionary)
   [[F-Droid](https://f-droid.org/packages/de.reimardoeffinger.quickdic/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/rdoeffinger/Dictionary/main?style=flat"></sub>
 
   <details>
 
@@ -1022,6 +1098,7 @@
 
 - [DeepL](https://github.com/sakusaku3939/DeepLAndroid)
   [[F-Droid](https://f-droid.org/packages/com.example.deeplviewer/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/sakusaku3939/DeepLAndroid/master?style=flat"></sub>
 
   <details>
 
@@ -1035,20 +1112,22 @@
 
 - [microMathematics Plus](https://github.com/mkulesh/microMathematics)
   [[F-Droid](https://f-droid.org/packages/com.mkulesh.micromath.plus/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mkulesh/microMathematics/master?style=flat"></sub>
 
   <details>
 
   <summary>掌上 CAS，极为强大的计算机代数系统。</summary><br/>
 
-  函数、微积分、作图等应有尽有。采用了最近越来越常见的笔记本（notebook）的形式，输入和输出都可以保留下来，作图会内置显示等。陪你度过大学不是梦。
+  函数、微积分、作图等应有尽有。采用了最近越来越常见的笔记本 (notebook) 的形式，输入和输出都可以保留下来，作图会内置显示等。陪你度过大学不是梦。
 
   </details>
 
 #### 百科
 
-- [Wikipedia（维基百科）](https://github.com/wikimedia/apps-android-wikipedia)
+- [Wikipedia (维基百科) ](https://github.com/wikimedia/apps-android-wikipedia)
   [[F-Droid](https://f-droid.org/packages/org.wikipedia/)]
   [[网站](https://www.mediawiki.org/wiki/Wikimedia_Apps)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/wikimedia/apps-android-wikipedia/main?style=flat"></sub>
 
   <details>
 
@@ -1063,12 +1142,13 @@
 - [Sky Map](https://github.com/sky-map-team/stardroid)
   [[F-Droid](https://f-droid.org/packages/com.google.android.stardroid/)]
   [[网站](https://sky-map-team.github.io/stardroid/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/sky-map-team/stardroid/master?style=flat"></sub>
 
   <details>
 
   <summary>星图软件，让你上知天文。</summary><br/>
 
-  2023.12 注：更新减缓，推荐用 Stellarium，虽然没有经过 F-Droid/IzzyOnDroid 发布，但也算是开源吧。
+  2023.12 注：更新减缓，推荐用 Stellarium，虽然没有经过 F-Droid / IzzyOnDroid 发布，但也算是开源吧。
 
   借助重力感应，把手机指向天空就可以方便对照天上的星是什么名字。当然其他功能就不多了。虽然在更新，但是界面比较落后，数据貌似也不多。
 
@@ -1076,6 +1156,7 @@
 
 - [Stellarium](https://github.com/Stellarium/stellarium)
   [[网站](https://www.stellarium-labs.com/stellarium-mobile-plus/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Stellarium/stellarium/master?style=flat"></sub>
 
   <details>
 
@@ -1089,6 +1170,7 @@
 
 - [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate)
   [[F-Droid](https://www.f-droid.org/packages/com.physphil.android.unitconverterultimate/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/physphil/UnitConverterUltimate/develop?style=flat"></sub>
 
   <details>
 
@@ -1104,6 +1186,7 @@
 
 - [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
   [[F-Droid](https://f-droid.org/packages/juloo.keyboard2/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Julow/Unexpected-Keyboard/master?style=flat"></sub>
 
   <details>
 
@@ -1111,41 +1194,44 @@
 
   在较常见的 4 行键位基础上，通过在每一个键向四个角滑动的操作，触发其他的按键。
 
-  重点是，这款键盘默认操作体验十分顺手（此处 @Trime）。如果之前在用 Hacker's keyboard 的，可以换这个了。
+  重点是，这款键盘默认操作体验十分顺手 (此处 @Trime) 。如果之前在用 Hacker's keyboard 的，可以换这个了。
 
   </details>
 
-- [Fcitx5 for Android（小企鹅输入法5）](https://github.com/fcitx5-android/fcitx5-android)
+- [Fcitx5 for Android (小企鹅输入法 5) ](https://github.com/fcitx5-android/fcitx5-android)
   [[F-Droid](https://f-droid.org/packages/org.fcitx.fcitx5.android/)]
   [[网站](https://fcitx5-android.github.io/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/fcitx5-android/fcitx5-android/master?style=flat"></sub>
 
   <details>
 
-  <summary>在它出现之前，开源的安卓拼音输入法应该只有同文输入法（见下）。</summary><br/>
+  <summary>在它出现之前，开源的安卓拼音输入法应该只有同文输入法 (见下) 。</summary><br/>
 
-  Fcitx（小企鹅）的加入，可以说解决了很多人（包括我）的痛点。我用了一段时间，感觉已经无缝替换掉了 Gboard。
+  Fcitx (小企鹅) 的加入，可以说解决了很多人 (包括我) 的痛点。我用了一段时间，感觉已经无缝替换掉了 Gboard。
 
   Fcitx 输入法的特点就是对小白用户友好，和谷歌的 Gboard 很像，很多界面元素和交互体验的设计应该直接借鉴了后者。这是个好事，相比之下，同文输入法就给我带来了了不少的操作负体验。两款软件就体现了友好度和定制性的权衡。
 
-  在用户界面和体验上，Fcitx 已经很成熟了。即便目前的版本还是 0.0.3（表示还不稳定）。想安装即用的，绝对推荐。想要强大定制性的，则推荐下方的同文输入法。
+  在用户界面和体验上，Fcitx 已经很成熟了。即便目前的版本还是 0.0.3 (表示还不稳定) 。想安装即用的，绝对推荐。想要强大定制性的，则推荐下方的同文输入法。
 
   </details>
 
-- [Trime（同文输入法）](https://github.com/osfans/trime)
+- [Trime (同文输入法) ](https://github.com/osfans/trime)
   [[F-Droid](https://f-droid.org/packages/com.osfans.trime/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/osfans/trime/develop?style=flat"></sub>
 
   <details>
 
   <summary>支持拼音的输入法，基于著名的 RIME 输入法框架。</summary><br/>
 
-  ~~F-Droid 上甚至是开源软件中唯一一个中文拼音输入法~~（有新选手加入，见上 Fcitx5）。同文输入法就像其桌面版一样，基于配置文件，定制性相当恐怖😱，你喜欢的样子它都有。配置文件对上手是一个门槛，需要自行下载配置文件导入。
+  ~~F-Droid 上甚至是开源软件中唯一一个中文拼音输入法~~ (有新选手加入，见上 Fcitx5) 。同文输入法就像其桌面版一样，基于配置文件，定制性相当恐怖😱，你喜欢的样子它都有。配置文件对上手是一个门槛，需要自行下载配置文件导入。
 
-  本以为两年不更新了，结果又有新版本了（指 v3.2.0 版本与上一个版本相隔 3 年多）。一个开源软件突然恢复维护是一件令人感到幸福的事情。
+  本以为两年不更新了，结果又有新版本了 (指 v3.2.0 版本与上一个版本相隔 3 年多) 。一个开源软件突然恢复维护是一件令人感到幸福的事情。
 
   </details>
 
-- [Stroke Input Method（笔划输入法）](https://github.com/stroke-input/stroke-input-android)
+- [Stroke Input Method (笔划输入法) ](https://github.com/stroke-input/stroke-input-android)
   [[F-Droid](https://f-droid.org/packages/io.github.yawnoc.strokeinput/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/stroke-input/stroke-input-android/master?style=flat"></sub>
 
   <details>
 
@@ -1157,12 +1243,13 @@
 
 #### 文件管理
 
-- [Material Files（质感文件）](https://github.com/zhanghai/MaterialFiles)
+- [Material Files (质感文件) ](https://github.com/zhanghai/MaterialFiles)
   [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/zhanghai/MaterialFiles/master?style=flat"></sub>
 
   文件管理器，非常漂亮，基本的功能都有。
 
-- [Ghost Commander](https://sourceforge.net/p/ghostcommander/svn/HEAD/tree/)
+- [Ghost Commander](https://sourceforge.net/p/ghostcommander/svn/)
   [[F-Droid](https://f-droid.org/packages/com.ghostsq.commander/)]
   [[网站](https://sites.google.com/site/ghostcommander1)]\*
 
@@ -1176,6 +1263,7 @@
 
 - [Disk Usage](https://github.com/WhiredPlanck/diskusage)
   [[F-Droid](https://f-droid.org/packages/com.google.android.diskusage/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/WhiredPlanck/diskusage/current?style=flat"></sub>
 
   <details>
 
@@ -1183,7 +1271,7 @@
 
   类似于 Windows 的 SpaceSniffer，类 Unix 的 du。
 
-  这类开源应用实在没有更“现代”的选择了，界面比较落后，好在这个软件依然完美运行，源代码也在维护。根据最新半个月（2022.04）的提交消息来看，有超级多的代码更新，可能会有新版本？
+  这类开源应用实在没有更“现代”的选择了，界面比较落后，好在这个软件依然完美运行，源代码也在维护。根据最新半个月 (2022.04) 的提交消息来看，有超级多的代码更新，可能会有新版本？
 
   更换了维护者，尚未发布新版本。SD Maid 其实有类似的实现。
 
@@ -1191,12 +1279,13 @@
 
 - [CIFS Documents Provider](https://github.com/wa2c/cifs-documents-provider)
   [[F-Droid](https://f-droid.org/packages/com.wa2c.android.cifsdocumentsprovider/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/wa2c/cifs-documents-provider/main?style=flat"></sub>
 
   <details>
 
-  <summary>将网络存储挂载到存储访问框架（SAF）。</summary><br/>
+  <summary>将网络存储挂载到存储访问框架 (SAF) 。</summary><br/>
 
-  支援 SMB/FTP(S)/SFTP。其他应用只需访问 SAF 便可访问网络存储。
+  支援 SMB / FTP(S) / SFTP。其他应用只需访问 SAF 便可访问网络存储。
 
   </details>
 
@@ -1205,18 +1294,20 @@
 - [Seafile](https://github.com/haiwen/seadroid)
   [[F-Droid](https://f-droid.org/packages/com.seafile.seadroid2/)]
   [[网站](https://www.seafile.com/home/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/haiwen/seadroid/master?style=flat"></sub>
 
   <details>
 
   <summary>文件同步/网盘客户端，是国内开发的，需要自己搭服务器。</summary><br/>
 
-  我们学校用它做了一个 box，访问起来很方便：）
+  我们学校用它做了一个 box，访问起来很方便：) 
 
-    </details>
+  </details>
 
-- [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android-fdroid)
+- [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android)
   [[F-Droid](https://f-droid.org/packages/com.github.catfriend1.syncthingandroid/)]
   [[网站](https://syncthing.net/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Catfriend1/syncthing-android/main?style=flat"></sub>
 
   <details>
 
@@ -1232,12 +1323,14 @@
 
 - [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS)
   [[F-Droid](https://f-droid.org/packages/sushi.hardcore.droidfs/)]
+  <sub><img alt="Gitea Last Commit" src="https://img.shields.io/gitea/last-commit/hardcoresushi/DroidFS?gitea_url=https%3A%2F%2Fforge.chapril.org%2F&style=flat"></sub>
 
   加密存储文件。
 
 - [Photok](https://github.com/leonlatsch/Photok)
   [[F-Droid](https://f-droid.org/packages/dev.leonlatsch.photok/)]
   [[网站](https://www.producthunt.com/products/photok)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/leonlatsch/Photok/develop?style=flat"></sub>
 
   <details>
 
@@ -1249,10 +1342,11 @@
 
 - [Anemo](https://github.com/2bllw8/anemo)
   [[F-Droid](https://f-droid.org/packages/exe.bbllw8.anemo/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/2bllw8/anemo/main?style=flat"></sub>
 
   <details>
 
-  <summary>隐藏文件（无加密）。</summary><br/>
+  <summary>隐藏文件 (无加密) 。</summary><br/>
 
   首先说明，这个并不是文件加密软件，但是应该可以满足部分需要这类应用的用户需求。
 
@@ -1261,8 +1355,9 @@
   </details>
 
 - [Amarok](https://github.com/deltazefiro/Amarok-Hider)
-  [[F-Droid](https://f-droid.org/zh_Hans/packages/deltazero.amarok.foss/)]
+  [[F-Droid](https://f-droid.org/packages/deltazero.amarok.foss/)]
   [[网站](https://deltazefiro.github.io/Amarok-doc/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/deltazefiro/Amarok-Hider/main?style=flat"></sub>
 
   <details>
 
@@ -1279,7 +1374,8 @@
 
 - [LocalSend](https://github.com/localsend/localsend)
   [[F-droid](https://f-droid.org/packages/org.localsend.localsend_app/)]
-  [[网站](https://localsend.org)]
+  [[网站](https://localsend.org/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/localsend/localsend/main?style=flat"></sub>
 
   <details>
 
@@ -1293,17 +1389,19 @@
 
 - [open2share](https://github.com/linesoft2/open2share)
   [[F-Droid](https://f-droid.org/packages/top.linesoft.open2share/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/linesoft2/open2share/master?style=flat"></sub>
 
   <details>
 
   <summary>这是一款可以将“打开文件”转换为“分享文件”的 Android 小工具。</summary><br/>
 
-  用于解决某些 App（读作 weixin）不接入系统文件分享功能导致的各种不便。（不过，在 wx 多选界面点击右下角的邮件小图标，确实是有系统分享的，但不清楚是不是覆盖了所有情形，大家可以试一试。/ wx 的多选分享是聊天记录形式，选单中似乎只有能接收文本的目标。）
+  用于解决某些 App (读作 weixin) 不接入系统文件分享功能导致的各种不便。 (不过，在 wx 多选界面点击右下角的邮件小图标，确实是有系统分享的，但不清楚是不是覆盖了所有情形，大家可以试一试。/ wx 的多选分享是聊天记录形式，选单中似乎只有能接收文本的目标。) 
 
   </details>
 
-- [Save Copy（保存副本）](https://github.com/RikkaApps/SaveCopy)
+- [Save Copy (保存副本) ](https://github.com/RikkaApps/SaveCopy)
   [[Izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/app.rikka.savecopy)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/RikkaApps/SaveCopy/master?style=flat"></sub>
 
   <details>
 
@@ -1317,11 +1415,13 @@
 
 - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif)
   [[F-Droid](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif/)]\*
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/juanitobananas%2Fscrambled-exif?style=flat"></sub>
 
   在分享图片前，从图片中删除如设备、日期、地点等 Exif 信息。
 
 - [FFShare](https://github.com/caydey/ffshare)
   [[F-Droid](https://f-droid.org/packages/com.caydey.ffshare/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/caydey/ffshare/master?style=flat"></sub>
 
   <details>
 
@@ -1331,14 +1431,16 @@
 
   </details>
 
-- [Untracker（移除追踪）](https://github.com/zhanghai/Untracker)
+- [Untracker (移除追踪) ](https://github.com/zhanghai/Untracker)
   [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.untracker/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/zhanghai/Untracker/master?style=flat"></sub>
 
   在分享链接前移除追踪信息，自带规则。
 
 - [Tarnhelm](https://github.com/lz233/Tarnhelm)
   [[F-Droid](https://f-droid.org/packages/cn.ac.lz233.tarnhelm/)]
   [[网站](https://tarnhelm.project.ac.cn/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/lz233/tarnhelm/master?style=flat"></sub>
 
   <details>
 
@@ -1352,17 +1454,19 @@
 
 - [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
   [[F-Droid](https://f-droid.org/packages/com.tachibana.downloader/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/TachibanaGeneralLaboratories/download-navi/master?style=flat"></sub>
 
   <details>
 
   <summary>功能强大的下载器，可以多段加速，分享下载链接就可以选择下载。</summary><br/>
 
-  开发似乎已经停滞了，最新版本停留在 2022 年。
+  开发似乎已经停滞了，最新版本停留在 2022 年，实际修改停留在 2023 年。
 
   </details>
 
 - [Seal](https://github.com/JunkFood02/Seal)
   [[F-Droid](https://f-droid.org/packages/com.junkfood.seal/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/JunkFood02/Seal/main?style=flat"></sub>
 
   基于 yt-dlp 的视频/音频下载器。
 
@@ -1370,14 +1474,16 @@
 
 - [Neo Backup](https://github.com/NeoApplications/Neo-Backup)
   [[F-Droid](https://f-droid.org/packages/com.machiav3lli.backup/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/NeoApplications/Neo-Backup/main?style=flat"></sub>
 
-  备份软件（原名 OAndBackupX），可以备份任何东西，需要 root。
+  备份软件 (原名 OAndBackupX) ，可以备份任何东西，需要 root。
 
 #### 密码
 
 - [OpenKeychain](https://github.com/open-keychain/open-keychain)
   [[F-Droid](https://f-droid.org/packages/org.sufficientlysecure.keychain/)]
   [[网站](https://www.openkeychain.org/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/open-keychain/open-keychain/master?style=flat"></sub>
 
   <details>
 
@@ -1388,12 +1494,13 @@
   </details>
 
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX)
-  [[F-Droid](https://f-droid.org/zh_Hans/packages/com.kunzisoft.keepass.libre/)]
+  [[F-Droid](https://f-droid.org/packages/com.kunzisoft.keepass.libre/)]
   [[网站](https://www.keepassdx.com/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Kunzisoft/KeePassDX/master?style=flat"></sub>
 
   <details>
 
-  <summary>Android 密码管理程序，与  KeePass 及其衍生程序兼容。</summary><br/>
+  <summary>Android 密码管理程序，与 KeePass 及其衍生程序兼容。</summary><br/>
 
   稍加配置即可做到密码全平台同步，且支持 Material 3 设计语言，界面简洁美观。
 
@@ -1404,16 +1511,18 @@
 - [Aegis](https://github.com/beemdevelopment/Aegis)
   [[F-Droid](https://f-droid.org/packages/com.beemdevelopment.aegis/)]
   [[网站](https://getaegis.app/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/beemdevelopment/Aegis/master?style=flat"></sub>
 
-  双重验证（2FA）客户端，支持 HOTP 和 TOTP。
+  双重验证 (2FA) 客户端，支持 HOTP 和 TOTP。
 
 - [Stratum](https://github.com/stratumauth/app)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.stratumauth.app)]
   [[网站](https://stratumauth.com/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/stratumauth/app/master?style=flat"></sub>
 
   <details>
 
-  <summary>双重验证（2FA）客户端，支持 Wear OS 查看验证码。</summary><br/>
+  <summary>双重验证 (2FA) 客户端，支持 Wear OS 查看验证码。</summary><br/>
 
   除了 HOTP 和 TOTP，还支持 Mobile-Otp (mOTP)，Steam 和 Yandex。界面简洁美观，原名 Authenticator Pro。
 
@@ -1425,6 +1534,7 @@
 
 - _~~[Password Store](https://github.com/android-password-store/Android-Password-Store)
   [[F-Droid](https://f-droid.org/packages/dev.msfjarvis.aps/)]~~_
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/android-password-store/Android-Password-Store/develop?style=flat"></sub>
 
   <details>
 
@@ -1440,10 +1550,11 @@
 
 - _~~[andOTP](https://github.com/andOTP/andOTP)
   [[F-Droid](https://f-droid.org/packages/org.shadowice.flocke.andotp/)]~~_
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/andOTP/andOTP/master?style=flat"></sub>
 
   <details>
 
-  _<summary>双重验证（2FA）或者一次性密码（OTP）客户端。</summary>_
+  _<summary>双重验证 (2FA) 或者一次性密码 (OTP) 客户端。</summary>_
 
   **源码已存档：20220114 / F-droid 已 404。**
 
@@ -1457,6 +1568,7 @@
 
 - [QUIK](https://github.com/octoshrimpy/quik)
   [[F-Droid](https://f-droid.org/packages/dev.octoshrimpy.quik/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/octoshrimpy/quik/master?style=flat"></sub>
 
   <details>
 
@@ -1479,13 +1591,14 @@
 
 Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定设置了与否启用。
 比如，在地区设置为我国，录音按钮就会显示；而设置在美国，则打电话的时候没有录音按钮。
-为此，Lineage OS 团队（亦或是更早的开发者）调研了几乎每一个国家的法律，逐一做出了判断，
-相关源代码可见[这里](https://github.com/LineageOS/android_packages_apps_Dialer/blob/lineage-20.0/java/com/android/dialer/callrecord/res/xml/call_record_states.xml)。
+为此，Lineage OS 团队 (亦或是更早的开发者) 调研了几乎每一个国家的法律，逐一做出了判断，
+相关源代码可见 [这里](https://github.com/LineageOS/android_packages_apps_Dialer/blob/lineage-22.1/java/com/android/dialer/callrecord/res/xml/call_record_states.xml)。
 其中列举了针对所有国家地区决定开启这项功能与否的理由，并附所参考法律文件的链接，可谓用心良苦。
 
 </details>
 
 - [BCR(Basic Call Recorder)](https://github.com/chenxiaolong/BCR)
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/chenxiaolong/BCR/master?style=flat"></sub>
 
   <details>
 
@@ -1500,6 +1613,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 - [BCR-GUI](https://github.com/nicorac/bcr-gui)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.github.nicorac.bcrgui)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/nicorac/bcr-gui/dev?style=flat"></sub>
 
   <details>
 
@@ -1513,6 +1627,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 - [Call Recorder](https://gitlab.com/axet/android-call-recorder)
   [[F-Droid](https://f-droid.org/packages/com.github.axet.callrecorder/)]
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/axet%2Fandroid-call-recorder?style=flat"></sub>
 
   <details>
 
@@ -1529,6 +1644,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 - [App Manager](https://github.com/MuntashirAkon/AppManager)
   [[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)]
   [[网站](https://muntashirakon.github.io/AppManager/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MuntashirAkon/AppManager/master?style=flat"></sub>
 
   <details>
 
@@ -1540,6 +1656,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 - [LibChecker](https://github.com/LibChecker/LibChecker)
   [[F-Droid](https://f-droid.org/packages/com.absinthe.libchecker/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/LibChecker/LibChecker/master?style=flat"></sub>
 
   <details>
 
@@ -1551,11 +1668,13 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 - [Activity Manager](https://github.com/sdex/ActivityManager)
   [[F-Droid](https://f-droid.org/packages/com.activitymanager/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/sdex/ActivityManager/main?style=flat"></sub>
 
   高级的 Activity 和快捷方式启动器。
 
 - [Language Selector](https://github.com/VegaBobo/Language-Selector)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/vegabobo.languageselector)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/VegaBobo/Language-Selector/main?style=flat"></sub>
 
   <details>
 
@@ -1571,6 +1690,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 - _~~[Anywhere-](https://github.com/zhaobozhen/Anywhere-)~~
   [[网站](https://absinthe.life/Anywhere-Docs/guide/)]\*_
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/zhaobozhen/Anywhere-/master?style=flat"></sub>
 
   <details>
 
@@ -1578,7 +1698,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   **源码已存档：20240929。**
 
-  将你常用的应用页面（Activity）收集到一个界面并保存，可以在无需经过应用主界面的情况下快速打开。这里页面可以是扫码页面，可以是签到页面，实际上可以是任意软件的几乎任意界面。可玩性高，看你有没有需求了。
+  将你常用的应用页面 (Activity) 收集到一个界面并保存，可以在无需经过应用主界面的情况下快速打开。这里页面可以是扫码页面，可以是签到页面，实际上可以是任意软件的几乎任意界面。可玩性高，看你有没有需求了。
 
   这个软件没有上架 F-Droid 或 Izzyondroid，在酷安也被下架了，截至添加本条目时只能在 Github Releases 或者谷歌商店下载到。
 
@@ -1588,8 +1708,9 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 #### 应用冻结
 
-- [Hail（雹）](https://github.com/aistra0528/Hail)
+- [Hail (雹) ](https://github.com/aistra0528/Hail)
   [[F-Droid](https://f-droid.org/packages/com.aistra.hail/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/aistra0528/Hail/master?style=flat"></sub>
 
   <details>
 
@@ -1604,10 +1725,11 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 - [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
   [[F-Droid](https://f-droid.org/packages/superfreeze.tool.android/)]
   [[网站](https://superfreezz.gitlab.io/)]
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/SuperFreezZ%2FSuperFreezZ?style=flat"></sub>
 
   <details>
 
-  <summary>冻结软件的后台活动，类似于Greenify。</summary><br/>
+  <summary>冻结软件的后台活动，类似于 Greenify。</summary><br/>
 
   开发似乎停滞了。
 
@@ -1619,6 +1741,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 - [SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
   [[F-Droid](https://f-droid.org/packages/eu.darken.sdmse/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/d4rken-org/sdmaid-se/main?style=flat"></sub>
 
   <details>
 
@@ -1643,7 +1766,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   **源码已 404 / F-droid 已 404。**
 
-  这个并不是很强大，它只负责清理日志（Log）、临时文件（Temporary）和空文件夹（Empty）。但是聊胜于无。
+  这个并不是很强大，它只负责清理日志 (Log) 、临时文件 (Temporary) 和空文件夹 (Empty) 。但是聊胜于无。
 
   </details>
 
@@ -1654,6 +1777,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 - [Doodle](https://github.com/patzly/doodle-android)
   [[F-Droid](https://f-droid.org/packages/xyz.zedler.patrick.doodle/)]
   [[网站](https://patrickzedler.com/doodle/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/patzly/doodle-android/main?style=flat"></sub>
 
   <details>
 
@@ -1665,22 +1789,24 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 - [Iconify](https://github.com/Mahmud0808/Iconify)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.drdisagree.iconify.foss)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Mahmud0808/Iconify/beta?style=flat"></sub>
 
   <details>
 
   <summary>定制系统界面，需要 root。</summary><br/>
 
-  不要被名字骗了，这个软件不仅可以改变图标，还可以修改很多系统界面的图标、颜色、形状和风格。如果用 Linux 的朋友，可以把这个软件所达到的自由度类比为 GTK/Qt 主题。
+  不要被名字骗了，这个软件不仅可以改变图标，还可以修改很多系统界面的图标、颜色、形状和风格。如果用 Linux 的朋友，可以把这个软件所达到的自由度类比为 GTK / Qt 主题。
 
   </details>
 
 - [Smartspacer](https://github.com/KieronQuinn/Smartspacer)\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/KieronQuinn/Smartspacer/main?style=flat"></sub>
 
   <details>
 
-  <summary>第三方一目了然（At a Glance）和负一屏。</summary><br/>
+  <summary>第三方一目了然 (At a Glance) 和负一屏。</summary><br/>
 
-  可作为小部件或升级 Pixel 的一目了然功能（需要 Shizuku）。也可直接作为第三方启动器的负一屏（如 Nova Launcher/Neo Launcher）或替换 Google Discover（需要 Xposed）。
+  可作为小部件或升级 Pixel 的一目了然功能 (需要 Shizuku) 。也可直接作为第三方启动器的负一屏 (如 Nova Launcher / Neo Launcher) 或替换 Google Discover (需要 Xposed) 。
 
   </details>
 
@@ -1688,6 +1814,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 - [CPU Info](https://github.com/kamgurgul/cpu-info)
   [[F-Droid](https://f-droid.org/packages/com.kgurgul.cpuinfo/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kamgurgul/cpu-info/master?style=flat"></sub>
 
   展示系统软硬件信息，如 CPU 核心频率等，但并不全面。
 
@@ -1699,6 +1826,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 - _[Hypatia](https://gitlab.com/divested-mobile/hypatia)
   [[F-Droid](https://f-droid.org/packages/us.spotco.malwarescanner/)]_
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/divested-mobile%2Fhypatia?style=flat"></sub>
 
   <details>
 
@@ -1719,9 +1847,11 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 - [A2LN](https://github.com/patri9ck/a2ln-app)
   [[F-Droid](https://f-droid.org/packages/dev.patri9ck.a2ln/)]
   [[网站](https://patri9ck.dev/a2ln/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/patri9ck/a2ln-app/main?style=flat"></sub>
 - _[AN2Linux](https://github.com/rootkiwi/an2linuxclient)
   [[F-Droid](https://f-droid.org/packages/kiwi.root.an2linuxclient/)]
   [[网站](https://github.com/rootkiwi/an2linuxserver)]_
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/rootkiwi/an2linuxclient/master?style=flat"></sub>
 
   <details>
 
@@ -1729,13 +1859,14 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   可以通过 WiFi、蓝牙或者移动数据。我只试过 WiFi，不知道另两个体验如何。
 
-  后者已不再维护，  **最后更新时间：20210322**。
+  后者已不再维护，**最后更新时间：20210322**。
 
   </details>
 
 - [KDE Connect](https://github.com/KDE/kdeconnect-android)
   [[F-Droid](https://f-droid.org/packages/org.kde.kdeconnect_tp/)]
   [[网站](https://kdeconnect.kde.org/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/KDE/kdeconnect-android/master?style=flat"></sub>
 
   <details>
 
@@ -1749,6 +1880,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 - [Audio Share ](https://github.com/mkckr0/audio-share)
   [[F-Droid](https://f-droid.org/packages/io.github.mkckr0.audio_share_app/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mkckr0/audio-share/main?style=flat"></sub>
 
   使 PC 的声音通过网络在手机上播放，SoundWire 的替代品。
 
@@ -1756,6 +1888,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 - [GPSTest](https://github.com/barbeau/gpstest)
   [[F-Droid](https://f-droid.org/packages/com.android.gpstest.osmdroid/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/barbeau/gpstest/master?style=flat"></sub>
 
   <details>
 
@@ -1769,7 +1902,8 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 - [Phyphox](https://github.com/phyphox/phyphox-android)
   [[F-Droid](https://f-droid.org/packages/de.rwth_aachen.phyphox/)]
-  [[网站](https://phyphox.org)]
+  [[网站](https://phyphox.org/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/phyphox/phyphox-android/master?style=flat"></sub>
 
   <details>
 
@@ -1783,9 +1917,11 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
 - [Dicio assistant](https://github.com/Stypox/dicio-android)
   [[F-Droid](https://f-droid.org/packages/org.stypox.dicio/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Stypox/dicio-android/master?style=flat"></sub>
 - [RHVoice](https://github.com/RHVoice/RHVoice)
   [[F-Droid](https://f-droid.org/packages/com.github.olga_yakovleva.rhvoice.android/)]
   [[网站](https://rhvoice.org/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/RHVoice/RHVoice/master?style=flat"></sub>
 
   <details>
 
@@ -1797,13 +1933,14 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   </details>
 
-#### 统一推送（[UnifiedPush](https://unifiedpush.org/)）
+#### 统一推送 ([UnifiedPush](https://unifiedpush.org/)) 
 
 UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具。[已适配的应用列表。](https://unifiedpush.org/users/apps/)
 
 - [Ntfy](https://github.com/binwiederhier/ntfy-android)
   [[F-Droid](https://f-droid.org/packages/io.heckel.ntfy/)]
   [[网站](https://ntfy.sh/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/binwiederhier/ntfy-android/main?style=flat"></sub>
 
   <details>
 
@@ -1816,6 +1953,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Sunup](https://codeberg.org/Sunup/android)
   [[F-Droid](https://f-droid.org/packages/org.unifiedpush.distributor.sunup/)]
   [[网站](https://github.com/mozilla-services/autopush-rs)]\*
+  <sub><img alt="Gitea Last Commit" src="https://img.shields.io/gitea/last-commit/Sunup/android?gitea_url=https%3A%2F%2Fcodeberg.org%2F&style=flat"></sub>
 
   <details>
 
@@ -1827,10 +1965,11 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [gCompat-UP](https://codeberg.org/UnifiedPush/fcm-distributor)
   [[Izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/org.unifiedpush.distributor.fcm)]\*
+  <sub><img alt="Gitea Last Commit" src="https://img.shields.io/gitea/last-commit/UnifiedPush/fcm-distributor?gitea_url=https%3A%2F%2Fcodeberg.org%2F&style=flat"></sub>
 
   <details>
 
-  <summary>将 UnifiedPush 转化为 FCM（谷歌推送）。</summary><br/>
+  <summary>将 UnifiedPush 转化为 FCM (谷歌推送) 。</summary><br/>
 
   使只支持 UnifiedPush 的应用变为可以使用 FCM 推送。
 
@@ -1845,10 +1984,11 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Magisk](https://github.com/topjohnwu/Magisk)
   [[F-Droid](https://f-droid.org/packages/com.topjohnwu.magisk/)]
   [[网站](https://topjohnwu.github.io/Magisk/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/topjohnwu/Magisk/master?style=flat"></sub>
 
   <details>
 
-  <summary>  著名的面具，可以提供 root 和修改系统行为的模块。</summary><br/>
+  <summary>著名的面具，可以提供 root 和修改系统行为的模块。</summary><br/>
 
   不过，不是刚需的话，不建议使用。我使用 Lineage OS，因此微信和支付宝的指纹无法正常调用，便使用一些面具模块解决。
 
@@ -1861,6 +2001,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Editor](https://github.com/billthefarmer/editor)
   [[F-Droid](https://f-droid.org/packages/org.billthefarmer.editor/)]
   [[网站](https://billthefarmer.github.io/editor/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/billthefarmer/editor/master?style=flat"></sub>
 
   <details>
 
@@ -1870,9 +2011,10 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
-- [Acode](https://github.com/deadlyjack/Acode)
+- [Acode](https://github.com/Acode-Foundation/Acode)
   [[F-Droid](https://f-droid.org/packages/com.foxdebug.acode/)]
-  [[网站](https://acode.foxdebug.com/)]
+  [[网站](https://acode.app/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Acode-Foundation/Acode/main?style=flat"></sub>
 
   <details>
 
@@ -1887,6 +2029,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [ConnectBot](https://github.com/connectbot/connectbot)
   [[F-Droid](https://f-droid.org/packages/org.connectbot/)]
   [[网站](https://connectbot.org/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/connectbot/connectbot/main?style=flat"></sub>
 
   <details>
 
@@ -1900,6 +2043,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [AVNC](https://github.com/gujjwal00/avnc)
   [[F-Droid](https://f-droid.org/packages/com.gaurav.avnc/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/gujjwal00/avnc/master?style=flat"></sub>
 
   <details>
 
@@ -1912,11 +2056,13 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [RustDesk](https://github.com/rustdesk/rustdesk)
   [[F-Droid](https://f-droid.org/packages/com.carriez.flutter_hbb/)]
   [[网站](https://rustdesk.com/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/rustdesk/rustdesk/master?style=flat"></sub>
 
   开源远程桌面应用，TeamViewer 替代方案。
 
 - [WADB](https://github.com/RikkaApps/WADB)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.haruue.wadb)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/RikkaApps/WADB/master?style=flat"></sub>
 
   <details>
 
@@ -1931,6 +2077,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [TermOne Plus](https://gitlab.com/termapps/termoneplus)
   [[F-Droid](https://f-droid.org/packages/com.termoneplus/)]
   [[网站](https://termoneplus.com/)]
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/termapps%2Ftermoneplus?style=flat"></sub>
 
   <details>
 
@@ -1943,6 +2090,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Termux](https://github.com/termux/termux-app)
   [[F-Droid](https://f-droid.org/packages/com.termux/)]
   [[网站](https://termux.dev/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/termux/termux-app/master?style=flat"></sub>
 
   <details>
 
@@ -1950,7 +2098,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   Termux 有自己的包管理，你可以像使用任何 Linux 系统一样使用这个终端，安装软件等都是可以的。
 
-  不过，我自己之前没有收纳这个软件，现在经推荐才加入进来，原因就是它并不适合一般用户，明显是为极客用户而生的。更麻烦的是，貌似 Termux 在 Android 12+ [有被系统杀掉进程](https://github.com/termux/termux-app/issues/2366) 的问题，解决这个问题又是需要折腾系统（如果愿意使用 Tasker，这个问题可以使用 [Termux:Tasker](https://f-droid.org/packages/com.termux.tasker/)解决，Lineage OS 20 用此方法在 Termux 中开机启动后自动挂代理，几乎未被系统杀死过。）。总之，我认为想玩 Linux 的话，最佳办法是在真机或虚拟机里安装 Linux 系统，Termux 的使用场景真的比较有限。
+  不过，我自己之前没有收纳这个软件，现在经推荐才加入进来，原因就是它并不适合一般用户，明显是为极客用户而生的。更麻烦的是，貌似 Termux 在 Android 12+ [有被系统杀掉进程](https://github.com/termux/termux-app/issues/2366) 的问题，解决这个问题又是需要折腾系统 (如果愿意使用 Tasker，这个问题可以使用 [Termux:Tasker](https://f-droid.org/packages/com.termux.tasker/) 解决，Lineage OS 20 用此方法在 Termux 中开机启动后自动挂代理，几乎未被系统杀死过。) 。总之，我认为想玩 Linux 的话，最佳办法是在真机或虚拟机里安装 Linux 系统，Termux 的使用场景真的比较有限。
 
   </details>
 
@@ -1959,14 +2107,16 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
   [[F-Droid](https://f-droid.org/packages/com.emanuelef.remote_capture/)]
   [[网站](https://emanuele-f.github.io/PCAPdroid/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/emanuele-f/PCAPdroid/master?style=flat"></sub>
 
   Android 抓包工具，可[配合 Wireshark](https://emanuele-f.github.io/PCAPdroid/advanced_features#45-pcapdroid-trailer) 使用。
 
-#### Git及平台客户端
+#### Git 及平台客户端
 
 - [OctoDroid](https://github.com/slapperwan/gh4a)
   [[F-Droid](https://f-droid.org/packages/com.gh4a/)]
   [[网站](https://slapperwan.github.io/gh4a/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/slapperwan/gh4a/master?style=flat"></sub>
 
   <details>
 
@@ -1978,6 +2128,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - _[GitFox](https://gitlab.com/terrakok/gitlab-client)
   [[F-Droid](https://f-droid.org/packages/com.gitlab.terrakok.gitfox/)]_
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/terrakok%2Fgitlab-client?style=flat"></sub>
 
   <details>
 
@@ -1989,8 +2140,9 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
-- _[GitTouch](https://github.com/git-touch/git-touch)
+- _[GitTouch](https://github.com/pd4d10/git-touch)
   [[F-Droid](https://f-droid.org/packages/io.github.pd4d10.gittouch/)]_
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/pd4d10/git-touch/main?style=flat"></sub>
 
   <details>
 
@@ -2005,6 +2157,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [MGit](https://github.com/maks/MGit)
   [[F-Droid](https://f-droid.org/packages/com.manichord.mgit/)]
   [[网站](https://manichord.com/projects/mgit.html)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/maks/MGit/master?style=flat"></sub>
 
   <details>
 
@@ -2014,10 +2167,11 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
-#### F-Droid状态
+#### F-Droid 状态
 
 - [F-Droid Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
   [[F-Droid](https://f-droid.org/packages/de.storchp.fdroidbuildstatus/)]
+  <sub><img alt="Gitea Last Commit" src="https://img.shields.io/gitea/last-commit/pstorch/F-Droid_Build_Status?gitea_url=https%3A%2F%2Fcodeberg.org%2F&style=flat"></sub>
 
   <details>
 
@@ -2032,6 +2186,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Linux Command Library](https://github.com/SimonSchubert/LinuxCommandLibrary)
   [[F-Droid](https://f-droid.org/packages/com.inspiredandroid.linuxcommandbibliotheca/)]
   [[网站](https://linuxcommandlibrary.com/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/SimonSchubert/LinuxCommandLibrary/master?style=flat"></sub>
 
   Linux 相关命令、应用的帮助手册，主要包括大量 man pages。
 
@@ -2039,15 +2194,16 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 #### 聊天软件
 
-更学究的讲，这一类软件叫做“即时通信”（Instant Messaging）。
+更学究的讲，这一类软件叫做“即时通信” (Instant Messaging) 。
 
 - [Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
   [[F-Droid](https://f-droid.org/packages/org.telegram.messenger/)]
   [[网站](https://telegram.org/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Telegram-FOSS-Team/Telegram-FOSS/master?style=flat"></sub>
 
   <details>
 
-  <summary>最常用的开源（只有前端开源）聊天（即时通信）软件。</summary><br/>
+  <summary>最常用的开源 (只有前端开源) 聊天 (即时通信) 软件。</summary><br/>
 
   该 F-Droid 版本去除原版所包含的谷歌服务在内的一些闭源成分。
 
@@ -2056,10 +2212,11 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Revolution IRC](https://github.com/MCMrARM/revolution-irc)
   [[F-Droid](https://f-droid.org/packages/io.mrarm.irc/)]
   [[网站](https://mrarm.io/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MCMrARM/revolution-irc/master?style=flat"></sub>
 
   <details>
 
-  <summary>安卓（不一定）最佳 IRC 客户端，有用 IRC 的老伙伴估计也已经知道了。</summary><br/>
+  <summary>安卓 (不一定) 最佳 IRC 客户端，有用 IRC 的老伙伴估计也已经知道了。</summary><br/>
 
   ~~**警告**：已经很长时间没有更新了。~~ 好像有人想接手项目，让我们静观其变。
 
@@ -2069,48 +2226,55 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [Goguma](https://codeberg.org/emersion/goguma)
   [[F-Droid](https://f-droid.org/packages/fr.emersion.goguma/)]
-  [[网站](https://sr.ht/~emersion/goguma)]
+  [[网站](https://sr.ht/~emersion/goguma/)]
+  <sub><img alt="Gitea Last Commit" src="https://img.shields.io/gitea/last-commit/emersion/goguma?gitea_url=https%3A%2F%2Fcodeberg.org%2F&style=flat"></sub>
 
   <details>
 
   <summary>更加现代化的 IRC 客户端，支持很多 IRCv3 的新标准。</summary><br/>
 
-  坏消息是，很多主流 IRC 服务器基本不支持 IRCv3 特性（手动斜眼）。
+  坏消息是，很多主流 IRC 服务器基本不支持 IRCv3 特性 (手动斜眼) 。
 
   </details>
 
 - [Jami](https://git.jami.net/savoirfairelinux/jami-client-android)
   [[F-Droid](https://f-droid.org/packages/cx.ring/)]
   [[网站](https://jami.net/)]\*
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/savoirfairelinux%2Fjami-client-android?gitlab_url=https%3A%2F%2Fgit.jami.net%2F&style=flat"></sub>
 
   加密聊天软件，支持 UnifiedPush。还可以用作 SIP 客户端。
 
 - [TRIfA](https://github.com/zoff99/ToxAndroidRefImpl)
   [[F-Droid](https://f-droid.org/packages/com.zoffcc.applications.trifa/)]
-  [[网站](https://tox.zoff.cc)]\*
+  [[网站](https://tox.zoff.cc/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/zoff99/ToxAndroidRefImpl/zoff99%2Fdev003?style=flat"></sub>
 
-  Tox 协议的安卓客户端，不挂后台需要安装 [Tox Notify](https://github.com/zoff99/tox_push_msg_app/) 使用 UnifiedPush 推送。
+  Tox 协议的安卓客户端，不挂后台需要安装 [Tox Notify](https://github.com/zoff99/tox_push_msg_app) 使用 UnifiedPush 推送。
 
 #### 社交平台
 
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/ml.docilealligator.infinityforreddit.patreon)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Docile-Alligator/Infinity-For-Reddit/master?style=flat"></sub>
 
   Reddit 客户端，F-Droid 上有好几个 Reddit 客户端，这个是我最喜欢的。
 
 - [RedReader](https://github.com/QuantumBadger/RedReader)
   [[F-Droid](https://f-droid.org/packages/org.quantumbadger.redreader/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/QuantumBadger/RedReader/master?style=flat"></sub>
 
   Reddit 客户端，很简洁轻量。我个人更喜欢 Infinity 和 Slide。
 
 - [Glider](https://github.com/Mosc/Glider)
   [[F-Droid](https://f-droid.org/packages/nl.viter.glider/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Mosc/Glider/master?style=flat"></sub>
 
   著名面向 IT 领域的资讯平台 hacker news 的客户端，很精巧，用起来很顺手。
 
 - _[Twidere X](https://github.com/TwidereProject/TwidereX-Android)
   ~~[[F-Droid](https://f-droid.org/packages/com.twidere.twiderex/)]~~
   [[网站](https://x.twidere.com/)]_
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/TwidereProject/TwidereX-Android/develop?style=flat"></sub>
 
   <details>
 
@@ -2123,6 +2287,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Fritter](https://github.com/jonjomckay/fritter)
   ~~[[F-Droid](https://f-droid.org/packages/com.jonjomckay.fritter/)]~~
   [[网站](https://fritter.cc/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/jonjomckay/fritter/master?style=flat"></sub>
 
   <details>
 
@@ -2137,29 +2302,35 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe)
   [[F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)]
   [[网站](https://newpipe.net/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/TeamNewPipe/NewPipe/dev?style=flat"></sub>
 
   注重隐私的 YouTube 客户端，不能登陆，只能看，不过非常好用。
 
 - [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
   [[F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/)]
   [[网站](https://pipepipe.dev/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/InfinityLoop1308/PipePipe/main?style=flat"></sub>
 
   <details>
 
-  <summary>基于 Newpipe，同时可以观看其他视频站如 bilibili/niconico。</summary><br/>
+  <summary>基于 Newpipe，同时可以观看其他视频站如 bilibili / niconico。</summary><br/>
 
   bilibili 无需登录即可播放 1080p 视频。
 
   </details>
 
 - [Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft)
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/CeuiLiSA/Pixiv-Shaft/master?style=flat"></sub>
 - [PixEz](https://github.com/Notsfsssf/pixez-flutter)
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Notsfsssf/pixez-flutter/master?style=flat"></sub>
 
   都是 Pixiv 客户端，做的也都不错。
 
 - [Hentoid](https://github.com/avluis/Hentoid)
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/avluis/Hentoid/master?style=flat"></sub>
 - _~~[Hendroid](https://github.com/Nonononoki/Hendroid)
   [[F-Droid](https://f-droid.org/packages/org.nonononoki.hendroid/)]~~_
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Nonononoki/Hendroid/master?style=flat"></sub>
 
   <details>
 
@@ -2175,6 +2346,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [Lemuroid](https://github.com/Swordfish90/Lemuroid)
   [[F-Droid](https://f-droid.org/packages/com.swordfish.lemuroid/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Swordfish90/Lemuroid/master?style=flat"></sub>
 
   <details>
 
@@ -2190,38 +2362,44 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [Antimine](https://github.com/lucasnlm/antimine-android)
   [[F-Droid](https://f-droid.org/packages/dev.lucanlm.antimine/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/lucasnlm/antimine-android/main?style=flat"></sub>
 
   很棒的扫雷游戏，界面漂亮，操作直观。
 
 - [TriPeaks](https://github.com/mimoguz/tripeaks-gdx)
   [[F-Droid](https://f-droid.org/packages/ogz.tripeaks/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mimoguz/tripeaks-gdx/main?style=flat"></sub>
 
   像素风格的纸牌游戏，很简单，只有这一种游戏，加进来是因为界面很精致。
 
 - [Apple Flinger](https://gitlab.com/ar-/apple-flinger)
   [[F-Droid](https://f-droid.org/packages/com.gitlab.ardash.appleflinger.android/)]
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/ar-%2Fapple-flinger?style=flat"></sub>
 
   类似愤怒的小鸟，画面很精致。但是关卡太少了，不过瘾，也不更新了。
 
 - [Sudoku](https://github.com/SecUSo/privacy-friendly-sudoku)
   [[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlysudoku/)]
   [[网站](https://secuso.aifb.kit.edu/english/Sudoku.php)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/SecUSo/privacy-friendly-sudoku/master?style=flat"></sub>
 
   <details>
 
   <summary>数独，F-Droid 有几个数独游戏，这个用户体验是很好的。</summary><br/>
 
-  还有[另一个](https://gitlab.com/opensudoku/opensudoku)，但是自带只有 90 个离线关卡，此外只能下载导入。
+  还有[另一个](https://gitlab.com/opensudoku/opensudoku)<sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/opensudoku%2Fopensudoku?style=flat"></sub>，但是自带只有 90 个离线关卡，此外只能下载导入。
 
   </details>
 
 - [2048](https://github.com/andstatus/game2048)
   [[F-Droid](https://f-droid.org/packages/org.andstatus.game2048/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/andstatus/game2048/master?style=flat"></sub>
 
   目前维护最积极的 2048。
 
 - _[Blockinger](https://github.com/vocollapse/Blockinger)
   ~~[[F-Droid](https://f-droid.org/packages/org.blockinger.game/)]~~_
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/vocollapse/Blockinger/master?style=flat"></sub>
 
   <details>
 
@@ -2231,33 +2409,36 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   即便很老，但玩起来很顺手，反应灵敏，比较严格的经典规则，我认为高手也能玩的很舒服。也比较无奈，竟然没有较新的开源俄罗斯方块。
 
-  小提示：可以用上面的 Lemuroid 下载 Nintendo 原版 ROM（1991 年）玩原汁原味的俄罗斯方块。不过可能有点延迟，不灵敏。
+  小提示：可以用上面的 Lemuroid 下载 Nintendo 原版 ROM (1991 年) 玩原汁原味的俄罗斯方块。不过可能有点延迟，不灵敏。
 
   </details>
 
 - _[Falling Lightblocks](https://github.com/MrStahlfelge/lightblocks)
   [[网站](https://www.golfgl.de/lightblocks/)]_
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MrStahlfelge/lightblocks/master?style=flat"></sub>
 
   <details>
 
   _<summary>经推荐发现的另一款开源俄罗斯方块，更加新一些。</summary>_
 
-  **最后更新时间：20220104。**
+  **最后有效提交时间：20220104。**
 
   操作体验上与 Blockinger 不同，支持手势操作，有过渡动画。有一些新版俄罗斯方块的操作，比如 hold。
 
-  但这个不是完全开源，它可以连接非开源的服务器，（可选择？）上传游戏全程操作，和登录谷歌账号进行同步。
+  但这个不是完全开源，它可以连接非开源的服务器， (可选择？) 上传游戏全程操作，和登录谷歌账号进行同步。
 
   </details>
 
 - [Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles)
   [[F-Droid](https://f-droid.org/packages/name.boyle.chris.sgtpuzzles/)]
   [[网站](https://chris.boyle.name/projects/android-puzzles/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/chrisboyle/sgtpuzzles/main?style=flat"></sub>
 
   40 款益智小游戏合集，包含扫雷等，想费一费脑细胞的可以试试。
 
 - [Forkyz](https://gitlab.com/Hague/forkyz)
   [[F-Droid](https://f-droid.org/packages/app.crossword.yourealwaysbe.forkyz/)]
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/Hague%2Fforkyz?style=flat"></sub>
 
   <details>
 
@@ -2269,11 +2450,13 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [Lexica](https://github.com/lexica/lexica)
   [[F-Droid](https://f-droid.org/packages/com.serwylo.lexica/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/lexica/lexica/master?style=flat"></sub>
 
   连字成词的单词拼写游戏，对词汇量要求高，否则心态容易崩。
 
 - _[Open Golf](https://github.com/mgerdes/Open-Golf)
   [[F-Droid](https://f-droid.org/packages/me.mgerdes.open_golf/)]_
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mgerdes/Open-Golf/master?style=flat"></sub>
 
   <details>
 
@@ -2290,6 +2473,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Lichess](https://github.com/lichess-org/lichobile)
   [[F-Droid](https://f-droid.org/packages/org.lichess.mobileapp.free/)]
   [[网站](https://lichess.org/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/lichess-org/lichobile/master?style=flat"></sub>
 
   <details>
 
@@ -2301,15 +2485,16 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [Gobandroid](https://github.com/ligi/gobandroid)
   [[F-Droid](https://f-droid.org/packages/org.ligi.gobandroid_hd/)]
-
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/ligi/gobandroid/master?style=flat"></sub>
 - [gobandroid ai gnugo](https://github.com/ligi/gobandroid-ai-gnugo)
   [[F-Droid](https://f-droid.org/packages/org.ligi.gobandroidhd.ai.gnugo/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/ligi/gobandroid-ai-gnugo/master?style=flat"></sub>
 
   <details>
 
   <summary>第一个是围棋棋盘应用，第二个提供了围棋引擎 gnugo，可以让你与电脑对弈。</summary><br/>
 
-  Gnugo 棋力貌似可以达到 3k，初学者是完全够用的（但手机处理器肯定会拉低很多）。
+  Gnugo 棋力貌似可以达到 3k，初学者是完全够用的 (但手机处理器肯定会拉低很多) 。
 
   </details>
 
@@ -2317,26 +2502,28 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [Mindustry](https://github.com/Anuken/Mindustry)
   [[F-Droid](https://f-droid.org/packages/io.anuke.mindustry/)]
-  [[网站](https://anuke.itch.io/mindustry)]
+  [[网站](https://mindustrygame.github.io/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Anuken/Mindustry/master?style=flat"></sub>
 
   <details>
 
   <summary>非常精良的塔防游戏。</summary><br/>
 
-  Mindustry 比一般的塔防要复杂，比如要采各种矿、建立资源运输管道供给防御工事、开发科技树，敌人自由走动。有点像即时策略 RTS 了（好像就是），可玩性 max。
+  Mindustry 比一般的塔防要复杂，比如要采各种矿、建立资源运输管道供给防御工事、开发科技树，敌人自由走动。有点像即时策略 RTS 了 (好像就是) ，可玩性 max。
 
-  没事了，已经更新了~~注：目前由于 F-Droid 服务器编译环境不兼容，软件版本卡在了主版本 5。~~
+  没事了，已经更新了。~~注：目前由于 F-Droid 服务器编译环境不兼容，软件版本卡在了主版本 5。~~
 
   </details>
 
-- [Anuto TD](https://github.com/reloZid/android-anuto)
+- [Anuto TD](https://github.com/mjaun/android-anuto)
   [[F-Droid](https://f-droid.org/packages/ch.logixisland.anuto/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mjaun/android-anuto/main?style=flat"></sub>
 
   <details>
 
   <summary>塔防游戏，界面元素都是作者手画的。</summary><br/>
 
-  作者自认为很丑，因而得名（ANother Ugly TOwer defense）。游戏并不是很优秀，单位比较少，画面粗糙，敌人多了再开加速会很卡。但是我一度很上瘾。
+  作者自认为很丑，因而得名 (ANother Ugly TOwer defense) 。游戏并不是很优秀，单位比较少，画面粗糙，敌人多了再开加速会很卡。但是我一度很上瘾。
 
   </details>
 
@@ -2344,7 +2531,8 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
   [[F-Droid](https://f-droid.org/packages/com.shatteredpixel.shatteredpixeldungeon/)]
-  [[网站](https://shatteredpixel.com/)]
+  [[网站](https://shatteredpixel.com/shatteredpd/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/00-Evan/shattered-pixel-dungeon/master?style=flat"></sub>
 
   <details>
 
@@ -2354,9 +2542,10 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
-- [Andor's Trail（安道尔追踪）](https://github.com/AndorsTrailRelease/andors-trail)
+- [Andor's Trail (安道尔追踪) ](https://github.com/AndorsTrailRelease/andors-trail)
   [[F-Droid](https://f-droid.org/packages/com.gpl.rpg.AndorsTrail/)]
   [[网站](https://andorstrail.com/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/AndorsTrailRelease/andors-trail/master?style=flat"></sub>
 
   <details>
 
@@ -2364,13 +2553,14 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   游戏其实还在持续完善，地图还没做完，所以有一部分故事线和任务都是断的。不过目前的部分已经可以玩几个星期了。还有问题是大部分对话是英文，中文翻译的很少。
 
-  时隔好久，又看了一眼 git 仓库。你猜怎么着，它一小时前更新版本（v0.7.14）了，巧不巧！这个版本有很多人（包括我）更新的翻译，但是依然剩下 59% 的内容没有翻译。游戏里这些人话可真多。
-  （2023 年或者更早的时候，有好多人把所有游戏内容都翻译了……上万的字符串啊，你们太牛了，给你们点赞）
+  时隔好久，又看了一眼 git 仓库。你猜怎么着，它一小时前更新版本 (v0.7.14) 了，巧不巧！这个版本有很多人 (包括我) 更新的翻译，但是依然剩下 59% 的内容没有翻译。游戏里这些人话可真多。
+   (2023 年或者更早的时候，有好多人把所有游戏内容都翻译了……上万的字符串啊，你们太牛了，给你们点赞) 
 
   </details>
 
-- [Xeonjia：寒冰之旅](https://gitlab.com/DeepDaikon/Xeonjia)
+- [Xeonjia：寒冰之旅](https://gitlab.com/deepdaikon/Xeonjia)
   [[F-Droid](https://f-droid.org/packages/xyz.deepdaikon.xeonjia/)]
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/deepdaikon%2FXeonjia?style=flat"></sub>
 
   <details>
 
@@ -2384,7 +2574,8 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [Luanti](https://github.com/luanti-org/luanti)
   [[F-Droid](https://f-droid.org/packages/net.minetest.minetest/)]
-  [[网站](https://www.luanti.org/)]
+  [[网站](https://www.luanti.org)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/luanti-org/luanti/master?style=flat"></sub>
 
   <details>
 
@@ -2399,6 +2590,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [SuperTuxKart](https://github.com/supertuxkart/stk-code)
   [[F-Droid](https://f-droid.org/packages/org.supertuxkart.stk/)]
   [[网站](https://supertuxkart.net/Main_Page)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/supertuxkart/stk-code/master?style=flat"></sub>
 
   <details>
 
@@ -2411,6 +2603,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Pixel Wheels](https://github.com/agateau/pixelwheels)
   [[F-Droid](https://f-droid.org/packages/com.agateau.tinywheels.android/)]
   [[网站](https://agateau.com/projects/pixelwheels/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/agateau/pixelwheels/master?style=flat"></sub>
 
   <details>
 
@@ -2426,6 +2619,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [UnCiv](https://github.com/yairm210/UnCiv)
   [[F-Droid](https://f-droid.org/packages/com.unciv.app/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/yairm210/UnCiv/master?style=flat"></sub>
 
   <details>
 
@@ -2438,6 +2632,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 #### 魔方
 
 - [DCTimer](https://github.com/MeigenChou/DCTimer-Android)
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MeigenChou/DCTimer-Android/master?style=flat"></sub>
 
   <details>
 
@@ -2447,19 +2642,21 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
-### Lineage OS自带
+### Lineage OS 自带
 
 - [Eleven](https://github.com/LineageOS/android_packages_apps_Eleven)
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_Eleven/lineage-21.0?style=flat"></sub>
 
   Lineage OS 自带的音乐软件，基本功能都到位了，我就没有再用第三方音乐软件
 
 - [DocumentsUI](https://github.com/LineageOS/android_packages_apps_DocumentsUI)
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_DocumentsUI/lineage-22.1?style=flat"></sub>
 
   <details>
 
   <summary>Lineage OS 自带文件管理器。界面非常质感设计，很好看。</summary><br/>
 
-  功能少而精：整理不同类型的文件，比如会将所有含图片的子文件夹并排，将音乐按歌手-唱片分类（不需要手动建立文件夹），筛选大文件，等等。
+  功能少而精：整理不同类型的文件，比如会将所有含图片的子文件夹并排，将音乐按歌手 - 唱片分类 (不需要手动建立文件夹) ，筛选大文件，等等。
 
   </details>
 
@@ -2468,6 +2665,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 <summary>过时的内容</summary>
 
 - _~~[Terminal](https://github.com/LineageOS/android_packages_apps_Terminal)~~_
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_Terminal/lineage-18.1?style=flat"></sub>
 
   <details>
 
@@ -2491,7 +2689,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [Awesome Android Apps](https://github.com/Psyhackological/AAA) 
 
-- _~~[Awesome Android Apps](https://github.com/LinuxCafeFederation/awesome-android)~~（已 404）_
+- _~~[Awesome Android Apps](https://github.com/LinuxCafeFederation/awesome-android)~~ (已 404) _
 
 ## 版权
 
