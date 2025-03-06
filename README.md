@@ -22,7 +22,7 @@
 
 ## 分类
 
-请使用 Github / Gitee 自带的目录导航功能。
+请使用 Github/Gitee 自带的目录导航功能。
 
 ### 应用商店
 
@@ -70,7 +70,7 @@
 
   <details>
 
-  <summary>F-Droid 第三方客户端，基于 Foxy droid (见下) 。</summary><br/>
+  <summary>F-Droid 第三方客户端，基于 Foxy Droid (见下) 。</summary><br/>
 
   后者不怎么维护了，因此有人修复 bug、更新界面后发布了这个款 app。目前使用起来不会有什么区别，日后可能会有新功能加入。在质感设计的风格上，应该是使用了第三代的设计语言，即有更多的圆角元素等特点。
 
@@ -92,7 +92,7 @@
 
   _<summary>长时间不更新了，推荐上面 Droid-ify 和 Neo-Store。</summary>_
 
-  **最后更新：20200801。**
+  **最后更新时间：20200801**
 
   F-Droid 第三方客户端，这个很简洁，只有 1M 多，基本功能尚可用，我一直用作官方客户端的替代品。缺点是无法自动和批量安装，每次会弹出安装窗口。
 
@@ -107,7 +107,7 @@
 
   _<summary>F-Droid 第三方客户端，已从官网消失。</summary>_
 
-  **最后更新：20210526 / F-droid 已 404。**
+  **最后更新时间：20210526 / F-droid 已 404**
 
   有 root 的话可以一键更新/安装。
 
@@ -335,7 +335,7 @@
 
   _<summary>另一个收音机应用，已停止开发。</summary>_
 
-  **源码已存档：20241206。**
+  **源码已存档：20241206**
 
   应该基于 Transistor。不太清楚与后者有什么不同，Transistor 也没有放弃维护。
 
@@ -453,7 +453,7 @@
 
   基于 [Phonograph](https://github.com/kabouzeid/Phonograph) <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kabouzeid/Phonograph/master?style=flat"></sub>，后者很早停止维护了，但是却是很经典的质感设计音乐播放器，值得怀念。
 
-  列表最后面有个 Lineage OS 自带音乐播放器，和这个超级像，更加精简。
+  列表最后面有个 LineageOS 自带音乐播放器，和这个超级像，更加精简。
 
   </details>
 
@@ -582,7 +582,7 @@
 
 - [Gcam Services Provider](https://github.com/lukaspieper/Gcam-Services-Provider)
   [[F-Droid(Basic 版)](https://f-droid.org/packages/de.lukaspieper.gcam.services/)]
-  [[Izzyondroid(Photos 版)](https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.photos)]
+  [[IzzyOnDroid(Photos 版)](https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.photos)]
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/lukaspieper/Gcam-Services-Provider/main?style=flat"></sub>
 
   <details>
@@ -591,7 +591,7 @@
 
   谷歌相机有着其他开源相机软件无法比拟的图像优化，成像质量可以提升好几档。此外，还有夜景模式、全景模式、HDR+ 等很强大的功能。对照片质量敏感的朋友，就不要用下面那些软件了。当然，这个解决方案并不是开源的。如果你不在意的话，这算是最佳方案了。
 
-   (2024.02 更新) 后来才搞明白，这个软件有 Basic 和 Photos 两个版本。简单地说，如果系统上有 Google Photos，就用 Basic 版；如果没有，就用 Photos 版。这样可以使用相机界面的“相册”按钮打开系统相册。详见 [Izzyondroid 页面](https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.photos)。
+  (2024.02 更新) 后来才搞明白，这个软件有 Basic 和 Photos 两个版本。简单地说，如果系统上有 Google Photos，就用 Basic 版；如果没有，就用 Photos 版。这样可以使用相机界面的“相册”按钮打开系统相册。详见 [IzzyOnDroid 页面](https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.photos)。
 
   安装此软件后，大家可以到 [Gcam 的网站](https://www.celsoazevedo.com/files/android/google-camera/links/)寻找适配自己机型版本的 Gcam 和配置文件，简单安装即可。
 
@@ -602,9 +602,9 @@
 
   <details>
 
-  <summary>Lineage OS 20 及以上版本自带相机应用。</summary><br/>
+  <summary>LineageOS 20 及以上版本自带相机应用。</summary><br/>
 
-  相较之前自带的 Snap (版本 19 之前) 和 AOSP 原生相机 (版本 19) ，界面更加漂亮，功能更加丰富，可以说接近手机原系统中的相机应用了。有了这个 (当然前提是你在用 Lineage OS) ，我自认为可以不再考虑下面几个开源方案。
+  相较之前自带的 Snap (版本 19 之前) 和 AOSP 原生相机 (版本 19) ，界面更加漂亮，功能更加丰富，可以说接近手机原系统中的相机应用了。有了这个 (当然前提是你在用 LineageOS) ，我自认为可以不再考虑下面几个开源方案。
 
   此外，只有 Gcam 可以在功能和质量上好于 Aperture，但与系统的集成却比较差。不在乎成像质量的，使用这个自带应用就行。
 
@@ -614,7 +614,7 @@
 
   </details>
 
-- _[FreeDCam](https://github.com/KillerInk/FreeDcam)
+- _[FreeDcam](https://github.com/KillerInk/FreeDcam)
   [[F-Droid](https://f-droid.org/packages/troop.com.freedcam/)]_
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/KillerInk/FreeDcam/master?style=flat"></sub>
 
@@ -622,7 +622,7 @@
 
   _<summary>我觉得这个和 Open Camera 是开源相机中最好的两个，功能比较全面。</summary>_
 
-  **最后有效提交时间：20221020。**
+  **最后有效提交时间：20221020**
 
   当然这个全面是指对任何摄像头都适用的功能，如广角畸变修正、4 合 1 像素再拆成 1 像素等就不灵了。作为通用相机软件，已经很不错了。
 
@@ -647,7 +647,7 @@
 
   <summary>很神奇的相机软件，照片质量堪比官方 OS 下的自带相机。</summary><br/>
 
-  在 Lineage OS 下，其它相机软件照片质量奇差，涂抹到细节全失。另外，像夜景模式、超像素的支持也都有。在功能上是吊打上面两位和 Lineage OS 自带相机的。
+  在 LineageOS 下，其它相机软件照片质量奇差，涂抹到细节全失。另外，像夜景模式、超像素的支持也都有。在功能上是吊打上面两位和 LineageOS 自带相机的。
 
   更新：这一段的问题应该已经解决，我尝试编译了最新的 git 仓库代码，没有长时间卡顿了，不过没有新版本发布。在此前，打开和切换界面都等数十秒长。有[一个 issue](https://github.com/eszdman/PhotonCamera/issues/54) 说它在扫描设备上所有的照片，不知是不是长时间不响应的原因。
 
@@ -736,7 +736,7 @@
 
   _<summary>开发已经停滞，建议使用 Breezy Weather。</summary>_
 
-  **最后更新时间：20220610 / F-droid 已 404。**
+  **最后更新时间：20220610 / F-droid 已 404**
 
   用过最好的天气软件之一，媲美很多国内安卓系统的自带天气软件。
 
@@ -891,7 +891,7 @@
 
   _<summary>很简单的屏幕直尺，已删库跑路。</summary>_
 
-  **警告：源码已 404。彻底不算开源软件了。**
+  **警告：源码已 404**
 
   默认可能有误差，但好在可以校准，没准什么时候可以应急。
 
@@ -930,7 +930,7 @@
 
   这个对于很多人并不是最优选择，但是我喜欢它直接对本地的纯文本文件进行编辑，而不是保存为其他的格式。这样我可以自行管理 Markdown 文件，包括同步到电脑上，用其他编辑器去编辑。
 
-  这样不需要软件实现跨平台❎，而是通过文件格式进行跨平台。☑️
+  这样不需要软件实现跨平台❎，而是通过文件格式进行跨平台☑️。
 
   </details>
 
@@ -1014,7 +1014,7 @@
 
   _<summary>已停止开发，建议使用 MJ PDF Reader。</summary>_
 
-  **源码已存档：20240204 / F-droid 已 404。** 
+  **源码已存档：20240204 / F-droid 已 404** 
 
   开源的同类软件 UI 都不怎么样，这个算是很好的了，期待和谷歌 PDF 阅读器差不多的开源版本出现。
 
@@ -1148,7 +1148,7 @@
 
   <summary>星图软件，让你上知天文。</summary><br/>
 
-  2023.12 注：更新减缓，推荐用 Stellarium，虽然没有经过 F-Droid / IzzyOnDroid 发布，但也算是开源吧。
+  2023.12 注：更新减缓，推荐用 Stellarium，虽然没有经过 F-Droid/IzzyOnDroid 发布，但也算是开源吧。
 
   借助重力感应，把手机指向天空就可以方便对照天上的星是什么名字。当然其他功能就不多了。虽然在更新，但是界面比较落后，数据貌似也不多。
 
@@ -1198,7 +1198,7 @@
 
   </details>
 
-- [Fcitx5 for Android (小企鹅输入法 5) ](https://github.com/fcitx5-android/fcitx5-android)
+- [Fcitx5 for Android (小企鹅输入法5) ](https://github.com/fcitx5-android/fcitx5-android)
   [[F-Droid](https://f-droid.org/packages/org.fcitx.fcitx5.android/)]
   [[网站](https://fcitx5-android.github.io/)]
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/fcitx5-android/fcitx5-android/master?style=flat"></sub>
@@ -1285,7 +1285,7 @@
 
   <summary>将网络存储挂载到存储访问框架 (SAF) 。</summary><br/>
 
-  支援 SMB / FTP(S) / SFTP。其他应用只需访问 SAF 便可访问网络存储。
+  支援 SMB/FTP(S)/SFTP。其他应用只需访问 SAF 便可访问网络存储。
 
   </details>
 
@@ -1300,7 +1300,7 @@
 
   <summary>文件同步/网盘客户端，是国内开发的，需要自己搭服务器。</summary><br/>
 
-  我们学校用它做了一个 box，访问起来很方便：) 
+  我们学校用它做了一个 box，访问起来很方便：) 。
 
   </details>
 
@@ -1400,7 +1400,7 @@
   </details>
 
 - [Save Copy (保存副本) ](https://github.com/RikkaApps/SaveCopy)
-  [[Izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/app.rikka.savecopy)]\*
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.rikka.savecopy)]\*
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/RikkaApps/SaveCopy/master?style=flat"></sub>
 
   <details>
@@ -1524,7 +1524,7 @@
 
   <summary>双重验证 (2FA) 客户端，支持 Wear OS 查看验证码。</summary><br/>
 
-  除了 HOTP 和 TOTP，还支持 Mobile-Otp (mOTP)，Steam 和 Yandex。界面简洁美观，原名 Authenticator Pro。
+  除了 HOTP 和 TOTP，还支持 Mobile-Otp(mOTP)，Steam 和 Yandex。界面简洁美观，原名 Authenticator Pro。
 
   </details>
 
@@ -1540,7 +1540,7 @@
 
   _<summary>密码管理和自动填充软件。</summary>_
 
-  **源码已存档：20241015 / F-droid 已 404。**
+  **源码已存档：20241015 / F-droid 已 404**
 
   要先了解 Linux 平台上的 [password store](https://www.passwordstore.org/) 才能用，这个是安卓客户端。
 
@@ -1556,7 +1556,7 @@
 
   _<summary>双重验证 (2FA) 或者一次性密码 (OTP) 客户端。</summary>_
 
-  **源码已存档：20220114 / F-droid 已 404。**
+  **源码已存档：20220114 / F-droid 已 404**
 
   OTP 就是很多网站登录时出于安全性设置的 6 位数动态验证码。
 
@@ -1576,22 +1576,22 @@
 
   [QKSMS](https://github.com/moezbhatti/qksms) 的继任者。
 
-  用它是因为 Lineage OS 自带的短信应用没有搜索功能，找上古短信很不方便。
+  用它是因为 LineageOS 自带的短信应用没有搜索功能，找上古短信很不方便。
 
   </details>
 
 #### 电话录音
 
-就我目前简单的调查所知，以 Lineage OS 为例，系统中没有自动通话录音功能。
+就我目前简单的调查所知，以 LineageOS 为例，系统中没有自动通话录音功能。
 只有在电话打通后才能手动开始录音。所以，这里列举一些可以开启自动录音的软件。
 
 <details>
 
 <summary>冷知识：</summary><br/>
 
-Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定设置了与否启用。
+LineageOS 中，录音功能按照不同国家的法律对电话录音的规定设置了与否启用。
 比如，在地区设置为我国，录音按钮就会显示；而设置在美国，则打电话的时候没有录音按钮。
-为此，Lineage OS 团队 (亦或是更早的开发者) 调研了几乎每一个国家的法律，逐一做出了判断，
+为此，LineageOS 团队 (亦或是更早的开发者) 调研了几乎每一个国家的法律，逐一做出了判断，
 相关源代码可见 [这里](https://github.com/LineageOS/android_packages_apps_Dialer/blob/lineage-22.1/java/com/android/dialer/callrecord/res/xml/call_record_states.xml)。
 其中列举了针对所有国家地区决定开启这项功能与否的理由，并附所参考法律文件的链接，可谓用心良苦。
 
@@ -1678,7 +1678,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   <details>
 
-  <summary>更改应用的显示语言，需要 Android 13 + 和 Shizuku。</summary><br/>
+  <summary>更改应用的显示语言，需要 Android 13+ 和 Shizuku。</summary><br/>
 
   虽然使用条件苛刻，但值得一用。有些应用只有简/繁其中一种翻译，且没有适配 Android 13 新增的在应用设置中选择语言的特性。此应用可对指定应用伪装系统语言，以达到改变应用内语言的目的。
 
@@ -1696,11 +1696,11 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   _<summary>更多的快捷方式，已停止开发。</summary>_
 
-  **源码已存档：20240929。**
+  **源码已存档：20240929**
 
   将你常用的应用页面 (Activity) 收集到一个界面并保存，可以在无需经过应用主界面的情况下快速打开。这里页面可以是扫码页面，可以是签到页面，实际上可以是任意软件的几乎任意界面。可玩性高，看你有没有需求了。
 
-  这个软件没有上架 F-Droid 或 Izzyondroid，在酷安也被下架了，截至添加本条目时只能在 Github Releases 或者谷歌商店下载到。
+  这个软件没有上架 F-Droid 或 IzzyOnDroid，在酷安也被下架了，截至添加本条目时只能在 Github Releases 或者谷歌商店下载到。
 
   </details>
 
@@ -1716,7 +1716,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   <summary>比较实用的应用冻结软件。</summary><br/>
 
-  有很多冻结的途径可选如停用、隐藏和暂停，权限可以通过 Shizuku、root 等方式获取。软件整体质量很高，界面也遵循了最新的质感设计，体验很不错。
+  有很多冻结的途径可选如停用、隐藏和暂停，权限可以通过 Shizuku/root 等方式获取。软件整体质量很高，界面也遵循了最新的质感设计，体验很不错。
 
   我比较喜欢使用暂停这一方式，主要原因是桌面的图标不会消失，比如在停用后恢复的话桌面图标也没有了。设置自动冻结的选项也比较丰富。如果你有些软件常年不会用，可以冻结了以防这些软件时常在后台有联网、弹广告等活动。
 
@@ -1733,7 +1733,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   开发似乎停滞了。
 
-  它的冻结与上面的“雹”不同，并不是禁用、暂停或者隐藏软件，仅仅是限制软件的后台。Superfreeze 会自动冻结 7 天以上未使用的软件。我不知道怎么评估它的效果，大家不妨自己试一试。
+  它的冻结与上面的“雹”不同，并不是禁用、暂停或者隐藏软件，仅仅是限制软件的后台。SuperFreezZ 会自动冻结 7 天以上未使用的软件。我不知道怎么评估它的效果，大家不妨自己试一试。
 
   </details>
 
@@ -1764,7 +1764,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   _<summary>系统清理软件，已删库跑路。</summary>_
 
-  **源码已 404 / F-droid 已 404。**
+  **源码已 404 / F-droid 已 404**
 
   这个并不是很强大，它只负责清理日志 (Log) 、临时文件 (Temporary) 和空文件夹 (Empty) 。但是聊胜于无。
 
@@ -1795,7 +1795,7 @@ Lineage OS 中，录音功能按照不同国家的法律对电话录音的规定
 
   <summary>定制系统界面，需要 root。</summary><br/>
 
-  不要被名字骗了，这个软件不仅可以改变图标，还可以修改很多系统界面的图标、颜色、形状和风格。如果用 Linux 的朋友，可以把这个软件所达到的自由度类比为 GTK / Qt 主题。
+  不要被名字骗了，这个软件不仅可以改变图标，还可以修改很多系统界面的图标、颜色、形状和风格。如果用 Linux 的朋友，可以把这个软件所达到的自由度类比为 GTK/Qt 主题。
 
   </details>
 
@@ -1964,7 +1964,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
   </details>
 
 - [gCompat-UP](https://codeberg.org/UnifiedPush/fcm-distributor)
-  [[Izzyondroid](https://apt.izzysoft.de/fdroid/index/apk/org.unifiedpush.distributor.fcm)]\*
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.unifiedpush.distributor.fcm)]\*
   <sub><img alt="Gitea Last Commit" src="https://img.shields.io/gitea/last-commit/UnifiedPush/fcm-distributor?gitea_url=https%3A%2F%2Fcodeberg.org%2F&style=flat"></sub>
 
   <details>
@@ -1990,7 +1990,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   <summary>著名的面具，可以提供 root 和修改系统行为的模块。</summary><br/>
 
-  不过，不是刚需的话，不建议使用。我使用 Lineage OS，因此微信和支付宝的指纹无法正常调用，便使用一些面具模块解决。
+  不过，不是刚需的话，不建议使用。我使用 LineageOS，因此微信和支付宝的指纹无法正常调用，便使用一些面具模块解决。
 
   Magisk 并没有提供每一种机型的下载，所以其安装过程对所有机型适用。
 
@@ -2098,7 +2098,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   Termux 有自己的包管理，你可以像使用任何 Linux 系统一样使用这个终端，安装软件等都是可以的。
 
-  不过，我自己之前没有收纳这个软件，现在经推荐才加入进来，原因就是它并不适合一般用户，明显是为极客用户而生的。更麻烦的是，貌似 Termux 在 Android 12+ [有被系统杀掉进程](https://github.com/termux/termux-app/issues/2366) 的问题，解决这个问题又是需要折腾系统 (如果愿意使用 Tasker，这个问题可以使用 [Termux:Tasker](https://f-droid.org/packages/com.termux.tasker/) 解决，Lineage OS 20 用此方法在 Termux 中开机启动后自动挂代理，几乎未被系统杀死过。) 。总之，我认为想玩 Linux 的话，最佳办法是在真机或虚拟机里安装 Linux 系统，Termux 的使用场景真的比较有限。
+  不过，我自己之前没有收纳这个软件，现在经推荐才加入进来，原因就是它并不适合一般用户，明显是为极客用户而生的。更麻烦的是，貌似 Termux 在 Android 12+ [有被系统杀掉进程](https://github.com/termux/termux-app/issues/2366) 的问题，解决这个问题又是需要折腾系统 (如果愿意使用 Tasker，这个问题可以使用 [Termux:Tasker](https://f-droid.org/packages/com.termux.tasker/) 解决，LineageOS 20 用此方法在 Termux 中开机启动后自动挂代理，几乎未被系统杀死过。) 。总之，我认为想玩 Linux 的话，最佳办法是在真机或虚拟机里安装 Linux 系统，Termux 的使用场景真的比较有限。
 
   </details>
 
@@ -2134,7 +2134,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   _<summary>GitLab 客户端，有点简洁，功能不多。</summary>_
 
-  **最后更新时间：20220216。**
+  **最后更新时间：20220216**
 
   GitLab 可以自主搭建服务器，因此支持登录其他服务器。
 
@@ -2148,7 +2148,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   _<summary>很多 git 托管平台的客户端，比如 GitHub，GitLab 等。</summary>_
 
-  **最后更新时间：20221030。**
+  **最后更新时间：20221030**
 
   注意不是 git 客户端，没发现很好的 git 客户端。
 
@@ -2269,7 +2269,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
   [[F-Droid](https://f-droid.org/packages/nl.viter.glider/)]
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Mosc/Glider/master?style=flat"></sub>
 
-  著名面向 IT 领域的资讯平台 hacker news 的客户端，很精巧，用起来很顺手。
+  著名面向 IT 领域的资讯平台 Hacker News 的客户端，很精巧，用起来很顺手。
 
 - _[Twidere X](https://github.com/TwidereProject/TwidereX-Android)
   ~~[[F-Droid](https://f-droid.org/packages/com.twidere.twiderex/)]~~
@@ -2280,7 +2280,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   _<summary>Twitter 客户端，开源中最佳，没有之一。似乎已死。</summary>_
 
-  **最后更新时间：20230524 / F-droid & Google Play 均已 404。**
+  **最后更新时间：20230524 / F-droid & Google Play 均已 404**
 
   </details>
 
@@ -2313,7 +2313,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   <details>
 
-  <summary>基于 Newpipe，同时可以观看其他视频站如 bilibili / niconico。</summary><br/>
+  <summary>基于 Newpipe，同时可以观看其他视频站如 bilibili/niconico。</summary><br/>
 
   bilibili 无需登录即可播放 1080p 视频。
 
@@ -2405,7 +2405,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   _<summary>俄罗斯方块。很久很久很久没更新了，但是还可以用。</summary>_
 
-  **最后更新时间：20130815 / F-droid 已 404。**
+  **最后更新时间：20130815 / F-droid 已 404**
 
   即便很老，但玩起来很顺手，反应灵敏，比较严格的经典规则，我认为高手也能玩的很舒服。也比较无奈，竟然没有较新的开源俄罗斯方块。
 
@@ -2421,7 +2421,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   _<summary>经推荐发现的另一款开源俄罗斯方块，更加新一些。</summary>_
 
-  **最后有效提交时间：20220104。**
+  **最后有效提交时间：20220104**
 
   操作体验上与 Blockinger 不同，支持手势操作，有过渡动画。有一些新版俄罗斯方块的操作，比如 hold。
 
@@ -2462,7 +2462,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   _<summary>一个小的高尔夫球游戏，但是关卡太少了。</summary>_
 
-  **最后更新时间：20220525。**
+  **最后更新时间：20220525**
 
   用滑动控制力度方向，让球经历复杂地形进洞。
 
@@ -2554,7 +2554,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
   游戏其实还在持续完善，地图还没做完，所以有一部分故事线和任务都是断的。不过目前的部分已经可以玩几个星期了。还有问题是大部分对话是英文，中文翻译的很少。
 
   时隔好久，又看了一眼 git 仓库。你猜怎么着，它一小时前更新版本 (v0.7.14) 了，巧不巧！这个版本有很多人 (包括我) 更新的翻译，但是依然剩下 59% 的内容没有翻译。游戏里这些人话可真多。
-   (2023 年或者更早的时候，有好多人把所有游戏内容都翻译了……上万的字符串啊，你们太牛了，给你们点赞) 
+  (2023 年或者更早的时候，有好多人把所有游戏内容都翻译了……上万的字符串啊，你们太牛了，给你们点赞。)
 
   </details>
 
@@ -2642,21 +2642,21 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
-### Lineage OS 自带
+### LineageOS 自带
 
 - [Eleven](https://github.com/LineageOS/android_packages_apps_Eleven)
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_Eleven/lineage-21.0?style=flat"></sub>
 
-  Lineage OS 自带的音乐软件，基本功能都到位了，我就没有再用第三方音乐软件
+  LineageOS 自带的音乐软件，基本功能都到位了，我就没有再用第三方音乐软件。
 
 - [DocumentsUI](https://github.com/LineageOS/android_packages_apps_DocumentsUI)
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_DocumentsUI/lineage-22.1?style=flat"></sub>
 
   <details>
 
-  <summary>Lineage OS 自带文件管理器。界面非常质感设计，很好看。</summary><br/>
+  <summary>LineageOS 自带文件管理器。界面非常质感设计，很好看。</summary><br/>
 
-  功能少而精：整理不同类型的文件，比如会将所有含图片的子文件夹并排，将音乐按歌手 - 唱片分类 (不需要手动建立文件夹) ，筛选大文件，等等。
+  功能少而精：整理不同类型的文件，比如会将所有含图片的子文件夹并排，将音乐按歌手-唱片分类 (不需要手动建立文件夹) ，筛选大文件，等等。
 
   </details>
 
@@ -2679,7 +2679,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 ## 相似集合
 
-以下一些集合也列举了很多安卓开源软件
+以下一些集合也列举了很多安卓开源软件。
 
 - [推薦的好用開源 Android APP 中文列表](https://github.com/ivon852/awesome-foss-android-apps)
 
@@ -2689,7 +2689,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [Awesome Android Apps](https://github.com/Psyhackological/AAA) 
 
-- _~~[Awesome Android Apps](https://github.com/LinuxCafeFederation/awesome-android)~~ (已 404) _
+- _~~[Awesome Android Apps](https://github.com/LinuxCafeFederation/awesome-android)~~ (已 404)_
 
 ## 版权
 
