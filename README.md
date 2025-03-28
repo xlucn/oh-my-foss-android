@@ -168,6 +168,19 @@
 
   </details>
 
+- [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser)\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/fork-maintainers/iceraven-browser?style=flat"></sub>
+
+  <details>
+
+  <summary>另一个强化版火狐浏览器。</summary><br/>
+
+  更长的扩展列表，支持 about:config，隐私方面应该相当于 Fennec。
+
+  “Iceraven 浏览器结合了 Fenix 的力量和 Fennec 的精神，并向 Netscape Navigator 的伟大传统致敬。”
+
+  </details>
+
 #### 邮件
 
 - [K-9 Mail](https://github.com/thunderbird/thunderbird-android)
@@ -182,6 +195,23 @@
   支持多账号，选项很丰富。最近两年 UI 改进显著，越来越好用了。
 
   他们的网站是我见过开源软件里做的最好看的之一。
+
+  </details>
+
+- [FairEmail](https://github.com/M66B/FairEmail)
+  [[F-Droid](https://f-droid.org/packages/eu.faircode.email/)]
+  [[网站](https://email.faircode.eu/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/M66B/FairEmail?style=flat"></sub>
+
+  <details>
+
+  <summary>注重隐私的邮件客户端。</summary><br/>
+
+  **高级版需要付费。**
+
+  XPrivacy 作者 M66B 的作品。
+
+  无数的自定义选项，对隐私的极端保护。（个人只因为 K9 没有黑色小部件而选择了 FairEmail。）
 
   </details>
 
@@ -214,7 +244,12 @@
 
   </details>
 
-- [FastoTVLite](https://github.com/fastogt/fastotvlite_mobile)
+- [M3U](https://github.com/oxyroid/M3UAndroid)
+  [[F-Droid](https://f-droid.org/packages/com.m3u.androidApp/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/oxyroid/M3UAndroid?style=flat"></sub>
+
+  <!-- [FastoTVLite](https://github.com/fastogt/fastotvlite_mobile)
+  这个项目看上去已经死了，名称及官网已变更，源码不更新。-->
 
   <details>
 
@@ -651,6 +686,13 @@
   是 Maps.me 的开源复刻，离线的登山、骑行与导航，主打给驴友们做路线规划。
 
   </details>
+
+- [GPSLogger](https://github.com/mendhak/gpslogger)
+  [[F-Droid](https://f-droid.org/packages/com.mendhak.gpslogger/)]
+  [[网站](https://gpslogger.app/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mendhak/gpslogger?style=flat"></sub>
+
+  轻量、省电的 GPS 记录器。
 
 #### 天气
 
@@ -1437,6 +1479,12 @@
 
   </details>
 
+- [Seal](https://github.com/JunkFood02/Seal)
+  [[F-Droid](https://f-droid.org/packages/com.junkfood.seal/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/JunkFood02/Seal?style=flat"></sub>
+
+  基于 yt-dlp 的视频/音频下载器。
+
 #### 备份
 
 - [Neo Backup](https://github.com/NeoApplications/Neo-Backup)
@@ -1531,6 +1579,22 @@
 
 </details>
 
+#### 短信
+
+- [QUIK](https://github.com/octoshrimpy/quik)
+  [[F-Droid](https://f-droid.org/packages/dev.octoshrimpy.quik/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/octoshrimpy/quik?style=flat"></sub>
+
+  <details>
+
+  <summary>短信应用，带搜索功能。</summary><br/>
+
+  [QKSMS](https://github.com/moezbhatti/qksms) 的继任者。
+
+  用它是因为 LineageOS 自带的短信应用没有搜索功能，找上古短信很不方便。
+
+  </details>
+
 #### 电话录音
 
 就我目前简单的调查所知，以 LineageOS 为例，系统中没有自动通话录音功能。
@@ -1591,6 +1655,49 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
   </details>
 
 #### 应用管理
+
+- [App Manager](https://github.com/MuntashirAkon/AppManager)
+  [[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)]
+  [[网站](https://muntashirakon.github.io/AppManager/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MuntashirAkon/AppManager?style=flat"></sub>
+
+  <details>
+
+  <summary>极其强大的应用管理器。</summary><br/>
+
+  称其为最强也不为过。即使只作为查看器，它所展示的应用详细信息也是同类应用中最详尽的。强大的代价是牺牲了易用性，属于极客工具。
+
+  </details>
+
+- [LibChecker](https://github.com/LibChecker/LibChecker)
+  [[F-Droid](https://f-droid.org/packages/com.absinthe.libchecker/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/LibChecker/LibChecker?style=flat"></sub>
+
+  <details>
+
+  <summary>作为 App Manager 的补充，主要用于查看应用使用的第三方库。</summary><br/>
+
+  似乎同类中只有它能快速筛选 32 位应用，让我能及时用 64 位版本替换掉原先误装的 32 位版本。
+
+  </details>
+
+- [Activity Manager](https://github.com/sdex/ActivityManager)
+  [[F-Droid](https://f-droid.org/packages/com.activitymanager/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/sdex/ActivityManager?style=flat"></sub>
+
+  高级的 Activity 和快捷方式启动器。
+
+- [Language Selector](https://github.com/VegaBobo/Language-Selector)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/vegabobo.languageselector)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/VegaBobo/Language-Selector?style=flat"></sub>
+
+  <details>
+
+  <summary>更改应用的显示语言，需要 Android 13+ 和 Shizuku。</summary><br/>
+
+  虽然使用条件苛刻，但值得一用。有些应用只有简/繁其中一种翻译，且没有适配 Android 13 新增的在应用设置中选择语言的特性。此应用可对指定应用伪装系统语言，以达到改变应用内语言的目的。
+
+  </details>
 
 <details>
 
@@ -1704,6 +1811,17 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
   <summary>定制系统界面，需要 root。</summary><br/>
 
   不要被名字骗了，这个软件不仅可以改变图标，还可以修改很多系统界面的图标、颜色、形状和风格。如果用 Linux 的朋友，可以把这个软件所达到的自由度类比为 GTK/Qt 主题。
+
+  </details>
+
+- [Smartspacer](https://github.com/KieronQuinn/Smartspacer)\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/KieronQuinn/Smartspacer?style=flat"></sub>
+
+  <details>
+
+  <summary>第三方一目了然（At a Glance）和负一屏。</summary><br/>
+
+  可作为小部件或升级 Pixel 的一目了然功能（需要 Shizuku）。也可直接作为第三方启动器的负一屏（如 Nova Launcher / Neo Launcher）或替换 Google Discover（需要 Xposed）。
 
   </details>
 
@@ -1839,6 +1957,31 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
+- [Sunup](https://codeberg.org/Sunup/android)
+  [[F-Droid](https://f-droid.org/packages/org.unifiedpush.distributor.sunup/)]
+  [[网站](https://github.com/mozilla-services/autopush-rs)]\*
+  <sub><img alt="Gitea Last Commit" src="https://img.shields.io/gitea/last-commit/Sunup/android?gitea_url=https%3A%2F%2Fcodeberg.org%2F&style=flat"></sub>
+
+  <details>
+
+  <summary>基于 Mozilla Autopush 的网络推送服务。</summary><br/>
+
+  项目刚起步，适配的应用寥寥无几。
+
+  </details>
+
+- [gCompat-UP](https://codeberg.org/UnifiedPush/fcm-distributor)
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.unifiedpush.distributor.fcm)]\*
+  <sub><img alt="Gitea Last Commit" src="https://img.shields.io/gitea/last-commit/UnifiedPush/fcm-distributor?gitea_url=https%3A%2F%2Fcodeberg.org%2F&style=flat"></sub>
+
+  <details>
+
+  <summary>将 UnifiedPush 转化为 FCM（谷歌推送）。</summary><br/>
+
+  使只支持 UnifiedPush 的应用变为可以使用 FCM 推送。
+
+  </details>
+
 ### 极客工具
 
 我并不想分一个“开发类”，这里的软件并不是面向开发者的，而是喜欢折腾的用户。这也符合最开始制订的”受众广泛“要求。
@@ -1917,6 +2060,13 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
+- [RustDesk](https://github.com/rustdesk/rustdesk)
+  [[F-Droid](https://f-droid.org/packages/com.carriez.flutter_hbb/)]
+  [[网站](https://rustdesk.com/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/rustdesk/rustdesk?style=flat"></sub>
+
+  开源远程桌面应用，TeamViewer 替代方案。
+
 - [WADB](https://github.com/RikkaApps/WADB)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.haruue.wadb)]
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/RikkaApps/WADB?style=flat"></sub>
@@ -1958,6 +2108,15 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
   不过，我自己之前没有收纳这个软件，现在经推荐才加入进来，原因就是它并不适合一般用户，明显是为极客用户而生的。更麻烦的是，貌似 Termux 在 Android 12+ [有被系统杀掉进程](https://github.com/termux/termux-app/issues/2366) 的问题，解决这个问题又是需要折腾系统（如果愿意使用 Tasker，这个问题可以使用 [Termux:Tasker](https://f-droid.org/packages/com.termux.tasker/) 解决，LineageOS 20 用此方法在 Termux 中开机启动后自动挂代理，几乎未被系统杀死过）。总之，我认为想玩 Linux 的话，最佳办法是在真机或虚拟机里安装 Linux 系统，Termux 的使用场景真的比较有限。
 
   </details>
+
+#### 抓包工具
+
+- [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
+  [[F-Droid](https://f-droid.org/packages/com.emanuelef.remote_capture/)]
+  [[网站](https://emanuele-f.github.io/PCAPdroid/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/emanuele-f/PCAPdroid?style=flat"></sub>
+
+  Android 抓包工具，可[配合 Wireshark](https://emanuele-f.github.io/PCAPdroid/advanced_features#45-pcapdroid-trailer) 使用。
 
 #### Git 及平台客户端
 
@@ -2084,6 +2243,20 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
   坏消息是，很多主流 IRC 服务器基本不支持 IRCv3 特性（手动斜眼）。
 
   </details>
+
+- [Jami](https://git.jami.net/savoirfairelinux/jami-client-android)
+  [[F-Droid](https://f-droid.org/packages/cx.ring/)]
+  [[网站](https://jami.net/)]\*
+  <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/savoirfairelinux%2Fjami-client-android?gitlab_url=https%3A%2F%2Fgit.jami.net%2F&style=flat"></sub>
+
+  加密聊天软件，支持 UnifiedPush。还可以用作 SIP 客户端。
+
+- [TRIfA](https://github.com/zoff99/ToxAndroidRefImpl)
+  [[F-Droid](https://f-droid.org/packages/com.zoffcc.applications.trifa/)]
+  [[网站](https://tox.zoff.cc/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/zoff99/ToxAndroidRefImpl?style=flat"></sub>
+
+  Tox 协议的安卓客户端，不挂后台需要安装 [Tox Notify](https://github.com/zoff99/tox_push_msg_app) 使用 UnifiedPush 推送。
 
 #### 社交平台
 
