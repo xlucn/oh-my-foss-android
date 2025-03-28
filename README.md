@@ -175,7 +175,7 @@
 
   <summary>另一个强化版火狐浏览器。</summary><br/>
 
-  更长的扩展列表，支持 about:config，隐私方面应该相当于 Fennec。
+  默认可添加的扩展更多，支持 about:config，隐私方面应该相当于 Fennec。
 
   “Iceraven 浏览器结合了 Fenix 的力量和 Fennec 的精神，并向 Netscape Navigator 的伟大传统致敬。”
 
@@ -857,7 +857,7 @@
 
   <summary>野外生存应用，专为完全离线使用而设计。 </summary><br/>
 
-  充分利用手机上的传感器，将它们变为各种工具，帮助您野外旅行。
+  充分利用手机上的传感器，将它们变为各种工具（包含上述的直尺及指南针），帮助您野外旅行。
 
   </details>
 
@@ -874,9 +874,9 @@
 
   <details>
 
-  <summary>顾名思义，有键鼠功能。</summary><br/>
+  <summary>顾名思义，有键鼠功能，适合在 TV 系统上临时使用。</summary><br/>
 
-  适合在 TV 系统上临时使用。可以作为 Bluetooth Keyboard & Mouse(io.appground.blek) 的下位替代。在低版本系统上可能有些小问题（已测试 Android 5）。
+  可以作为 Bluetooth Keyboard & Mouse (io.appground.blek) 的下位替代。在低版本系统上可能有些小问题（已测试 Android 5）。
 
   </details>
 
@@ -1104,9 +1104,9 @@
 
   <details>
 
-  <summary>词典软件。</summary><br/>
+  <summary>词典软件。一言难尽，开源的词典真的没找到很好用的。</summary><br/>
 
-  怎么说呢，一言难尽啊，开源的词典真的没找到很好用的。这个 QuickDic 可以下载很多中词典文件，但基本是多语种互译。查词的时候把所有词显示出来，查哪个滚动到哪个。
+  这个 QuickDic 可以下载很多中词典文件，但基本是多语种互译。查词的时候把所有词显示出来，查哪个滚动到哪个。
 
   </details>
 
@@ -1116,11 +1116,18 @@
 
   <details>
 
-  <summary>翻译软件，基于深度学习的翻译引擎。</summary><br/>
+  <summary>翻译软件，基于 DeepL 的翻译引擎，支持选中文字翻译。</summary><br/>
 
-  这个是把网页版包装成了一个轻量的应用。重要的是，可以在选取文字后的弹出菜单里选择 DeepL 进行翻译。
+  这个是把网页版包装成了一个轻量的应用。
 
   </details>
+
+- [Translate You](https://github.com/you-apps/TranslateYou)
+  [[F-Droid](https://f-droid.org/packages/com.bnyro.translate/)]
+  [[网站](https://you-apps.net/)]
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/you-apps/TranslateYou?style=flat"></sub>
+
+  MD3 设计，可同时使用多个翻译引擎，同样支持选中文字翻译。
 
 #### 数学工具
 
@@ -1219,11 +1226,11 @@
 
   <details>
 
-  <summary>在它出现之前，开源的安卓拼音输入法应该只有同文输入法（见下）。</summary><br/>
+  <summary>支持拼音，特点是对小白用户友好，和谷歌的 Gboard 很像。</summary><br/>
 
-  Fcitx（小企鹅）的加入，可以说解决了很多人（包括我）的痛点。我用了一段时间，感觉已经无缝替换掉了 Gboard。
+  在它出现之前，开源的安卓拼音输入法应该只有同文输入法（见下）。
 
-  Fcitx 输入法的特点就是对小白用户友好，和谷歌的 Gboard 很像，很多界面元素和交互体验的设计应该直接借鉴了后者。这是个好事，相比之下，同文输入法就给我带来了了不少的操作负体验。两款软件就体现了友好度和定制性的权衡。
+  Fcitx（小企鹅）的加入，可以说解决了很多人（包括我）的痛点。我用了一段时间，感觉已经无缝替换掉了 Gboard，很多界面元素和交互体验的设计应该直接借鉴了后者。这是个好事，相比之下，同文输入法就给我带来了了不少的操作负体验。两款软件就体现了友好度和定制性的权衡。
 
   在用户界面和体验上，Fcitx 已经很成熟了。即便目前的版本还是 0.0.3（表示还不稳定）。想安装即用的，绝对推荐。想要强大定制性的，则推荐下方的同文输入法。
 
@@ -1394,7 +1401,7 @@
 
   <details>
 
-  <summary>可以在局域网内多设备间传递文件。</summary><br/>
+  <summary>可以在局域网内多设备间传递文件，简单易用。</summary><br/>
 
   官方自己介绍为“开源、跨平台的 AirDrop 替代”。软件会自动搜索局域网内就绪的其他设备，一触即发，无需互联网连接，也无需账号或者提前配对等操作。可以分享文件、文件夹、文本、剪贴板、应用 apk 等，基本没有限制。
 
@@ -1675,9 +1682,9 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
   <details>
 
-  <summary>作为 App Manager 的补充，主要用于查看应用使用的第三方库。</summary><br/>
+  <summary>主要用于查看应用使用的第三方库，特点是可快速筛选 32/64 位应用。</summary><br/>
 
-  似乎同类中只有它能快速筛选 32 位应用，让我能及时用 64 位版本替换掉原先误装的 32 位版本。
+  让我能及时用 64 位版本替换掉原先误装的 32 位版本。
 
   </details>
 
