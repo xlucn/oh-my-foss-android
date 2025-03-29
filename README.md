@@ -481,13 +481,7 @@
   [[网站](https://vanilla-music.github.io/)]\*
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/vanilla-music/vanilla?style=flat"></sub>
 
-  <details>
-
-  <summary>老牌音乐播放器。</summary><br/>
-
-  从 Reddit 上的反馈来看似乎是开源中为数不多对 .opus 文件支持较好的播放器。
-
-  </details>
+  老牌音乐播放器，对 .opus 文件支持较好。
 
 - [Mpd](https://github.com/MusicPlayerDaemon/MPD)
   [[F-Droid](https://f-droid.org/packages/org.musicpd/)]
