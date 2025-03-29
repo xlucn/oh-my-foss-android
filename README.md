@@ -683,7 +683,7 @@
 
   <summary>基于 OpenStreetMap 数据的离线地图软件。</summary><br/>
 
-  是 Maps.me 的开源复刻，离线的登山、骑行与导航，主打给驴友们做路线规划。
+  是 Maps.me 的开源复刻，离线的登山、骑行与导航地图，主打给驴友们做路线规划。
 
   </details>
 
@@ -728,7 +728,7 @@
 
 <summary>过时的内容</summary>
 
-- _[Geometric Weather(几何天气)](https://github.com/WangDaYeeeeee/GeometricWeather)
+- _[Geometric Weather（几何天气）](https://github.com/WangDaYeeeeee/GeometricWeather)
   ~~[[F-Droid](https://f-droid.org/packages/wangdaye.com.geometricweather/)]~~_
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/WangDaYeeeeee/GeometricWeather?style=flat"></sub>
 
@@ -1226,7 +1226,7 @@
 
   <details>
 
-  <summary>支持拼音，特点是对小白用户友好，和谷歌的 Gboard 很像。</summary><br/>
+  <summary>支持拼音的输入法，特点是对小白用户友好，和谷歌的 Gboard 很像。</summary><br/>
 
   在它出现之前，开源的安卓拼音输入法应该只有同文输入法（见下）。
 
