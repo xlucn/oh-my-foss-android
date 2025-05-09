@@ -52,7 +52,7 @@
 
 - [Neo-Store](https://github.com/NeoApplications/Neo-Store)
   [[F-Droid](https://f-droid.org/packages/com.machiav3lli.fdroid/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/NeoApplications/Neo-Store?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/NeoApplications/Neo-Store?style=flat"></sub>
 
   <details>
 
@@ -66,7 +66,7 @@
 
 - [Driod-ify](https://github.com/Droid-ify/client)
   [[F-Droid](https://f-droid.org/packages/com.looker.droidify/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Droid-ify/client?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Droid-ify/client?style=flat"></sub>
 
   <details>
 
@@ -86,7 +86,7 @@
 
 - _[Foxy Droid](https://github.com/kitsunyan/foxy-droid)
   [[F-Droid](https://f-droid.org/packages/nya.kitsunyan.foxydroid/)]_
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kitsunyan/foxy-droid?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kitsunyan/foxy-droid?style=flat"></sub>
 
   <details>
 
@@ -139,7 +139,7 @@
 - [Obtainium](https://github.com/ImranR98/Obtainium)
   [[F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)]
   [[网站](https://obtainium.imranr.dev/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/ImranR98/Obtainium?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ImranR98/Obtainium?style=flat"></sub>
 
   <details>
 
@@ -169,7 +169,7 @@
   </details>
 
 - [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser)\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/fork-maintainers/iceraven-browser?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/fork-maintainers/iceraven-browser?style=flat"></sub>
 
   <details>
 
@@ -186,7 +186,7 @@
 - [K-9 Mail](https://github.com/thunderbird/thunderbird-android)
   [[F-Droid](https://f-droid.org/packages/com.fsck.k9/)]
   [[网站](https://k9mail.app/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/thunderbird/thunderbird-android?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thunderbird/thunderbird-android?style=flat"></sub>
 
   <details>
 
@@ -201,7 +201,7 @@
 - [FairEmail](https://github.com/M66B/FairEmail)
   [[F-Droid](https://f-droid.org/packages/eu.faircode.email/)]
   [[网站](https://email.faircode.eu/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/M66B/FairEmail?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/M66B/FairEmail?style=flat"></sub>
 
   <details>
 
@@ -222,7 +222,7 @@
 - [Feeder](https://github.com/spacecowboy/Feeder)
   [[F-Droid](https://f-droid.org/packages/com.nononsenseapps.feeder/)]
   [[网站](https://news.nononsenseapps.com/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/spacecowboy/Feeder?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/spacecowboy/Feeder?style=flat"></sub>
 
   <details>
 
@@ -234,7 +234,7 @@
 
 - [Read You](https://github.com/Ashinch/ReadYou)
   [[F-Droid](https://f-droid.org/packages/me.ash.reader/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Ashinch/ReadYou?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Ashinch/ReadYou?style=flat"></sub>
 
   <details>
 
@@ -246,7 +246,7 @@
 
 - [M3U](https://github.com/oxyroid/M3UAndroid)
   [[F-Droid](https://f-droid.org/packages/com.m3u.androidApp/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/oxyroid/M3UAndroid?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/oxyroid/M3UAndroid?style=flat"></sub>
 
   <!-- [FastoTVLite](https://github.com/fastogt/fastotvlite_mobile)
   这个项目看上去已经死了，名称及官网已变更，源码不更新。-->
@@ -262,7 +262,7 @@
 - [RadioDroid（睿卓）](https://github.com/segler-alex/RadioDroid)
   [[F-Droid](https://f-droid.org/packages/net.programmierecke.radiodroid2/)]
   [[网站](https://www.radio-browser.info/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/segler-alex/RadioDroid?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/segler-alex/RadioDroid?style=flat"></sub>
 
   网络收音机，是 [radio-browser](https://www.radio-browser.info/users) 建议使用的客户端，自带频道列表。
 
@@ -281,13 +281,13 @@
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod)
   [[F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/)]
   [[网站](https://antennapod.org/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/AntennaPod/AntennaPod?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AntennaPod/AntennaPod?style=flat"></sub>
 
   Podcast 客户端有很多，这款历史久，开发活跃，功能实而不华。
 
 - [Legado（阅读）](https://github.com/gedoor/legado)
   [[网站](https://gedoor.github.io/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/gedoor/legado?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gedoor/legado?style=flat"></sub>
 
   <details>
 
@@ -313,7 +313,7 @@
 - [Myne](https://github.com/Pool-Of-Tears/Myne)
   [[F-Droid](https://f-droid.org/packages/com.starry.myne/)]
   [[网站](https://pool-of-tears.github.io/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Pool-Of-Tears/Myne?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Pool-Of-Tears/Myne?style=flat"></sub>
 
   <details>
 
@@ -329,7 +329,7 @@
 
 - _~~[URL Radio](https://github.com/jamal2362/URL-Radio)~~
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jamal2367.urlradio)]_
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/jamal2362/URL-Radio?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jamal2362/URL-Radio?style=flat"></sub>
 
   <details>
 
@@ -348,7 +348,7 @@
 - [Showly](https://github.com/michaldrabik/showly)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.michaldrabik.showly_oss)]
   [[网站](https://www.showlyapp.com/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/michaldrabik/showly?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/michaldrabik/showly?style=flat"></sub>
 
   <details>
 
@@ -360,7 +360,7 @@
 
 - [Episodes](https://github.com/red-coracle/episodes)
   [[F-Droid](https://f-droid.org/packages/com.redcoracle.episodes/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/red-coracle/episodes?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/red-coracle/episodes?style=flat"></sub>
 
   <details>
 
@@ -376,16 +376,16 @@
 
 - [qbitcontroller](https://github.com/Bartuzen/qBitController)
   [[F-Droid](https://f-droid.org/packages/dev.bartuzen.qbitcontroller/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Bartuzen/qBitController?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Bartuzen/qBitController?style=flat"></sub>
 
   Qbittorrent 的远程控制软件。
 
 - [Tremotesf](https://github.com/equeim/tremotesf-android)
   [[F-Droid](https://f-droid.org/packages/org.equeim.tremotesf/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/equeim/tremotesf-android?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/equeim/tremotesf-android?style=flat"></sub>
 - [Transmissionic](https://github.com/6c65726f79/Transmissionic)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.sleroy.transmissionic)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/6c65726f79/Transmissionic?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/6c65726f79/Transmissionic?style=flat"></sub>
 
   Transmission 的远程控制软件。
 
@@ -402,7 +402,7 @@
 
 - [Nova Video Player](https://github.com/nova-video-player/aos-AVP)
   [[F-Droid](https://f-droid.org/packages/org.courville.nova/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/nova-video-player/aos-AVP?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nova-video-player/aos-AVP?style=flat"></sub>
 
   <details>
 
@@ -416,7 +416,7 @@
 
 - [mpv-android](https://github.com/mpv-android/mpv-android)
   [[F-Droid](https://f-droid.org/packages/is.xyz.mpv/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mpv-android/mpv-android?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mpv-android/mpv-android?style=flat"></sub>
 
   <details>
 
@@ -429,7 +429,7 @@
 - [Kore](https://github.com/xbmc/Kore)
   [[F-Droid](https://f-droid.org/packages/org.xbmc.kore/)]
   [[网站](https://forum.kodi.tv/forumdisplay.php?fid=129)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/xbmc/kore?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xbmc/kore?style=flat"></sub>
 
   <details>
 
@@ -445,13 +445,13 @@
 
 - [Vinyl](https://github.com/VinylMusicPlayer/VinylMusicPlayer)
   [[F-Droid](https://f-droid.org/packages/com.poupa.vinylmusicplayer/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/VinylMusicPlayer/VinylMusicPlayer?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VinylMusicPlayer/VinylMusicPlayer?style=flat"></sub>
 
   <details>
 
   <summary>很轻量且干净的音乐播放器，拥有透明小部件。</summary><br/>
 
-  基于 [Phonograph](https://github.com/kabouzeid/Phonograph) <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kabouzeid/Phonograph?style=flat"></sub>，后者很早停止维护了，但是却是很经典的质感设计音乐播放器，值得怀念。
+  基于 [Phonograph](https://github.com/kabouzeid/Phonograph) <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kabouzeid/Phonograph?style=flat"></sub>，后者很早停止维护了，但是却是很经典的质感设计音乐播放器，值得怀念。
 
   列表最后面有个 LineageOS 自带音乐播放器，和这个超级像，更加精简。
 
@@ -459,27 +459,27 @@
 
 - [Phonograph Plus](https://github.com/chr56/Phonograph_Plus)
   [[F-Droid](https://f-droid.org/packages/player.phonograph.plus/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/chr56/Phonograph_Plus?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/chr56/Phonograph_Plus?style=flat"></sub>
 
   也是 Phonograph 正在积极维护的 fork，在逐渐增加功能。
 
 - [Retro Music](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
   [[F-Droid](https://f-droid.org/packages/code.name.monkey.retromusic/)]
   [[网站](https://retromusic.app/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/RetroMusicPlayer/RetroMusicPlayer?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RetroMusicPlayer/RetroMusicPlayer?style=flat"></sub>
 
   <details>
 
   <summary>很漂亮的音乐播放软件。F-Droid 版本已移除内购。</summary><br/>
 
-  曾经有一个名为 [Metro](https://github.com/MuntashirAkon/Metro) [[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.Music/)] <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MuntashirAkon/Metro?style=flat"></sub> 的破解版，但前者完全免费后已没有继续开发的必要。
+  曾经有一个名为 [Metro](https://github.com/MuntashirAkon/Metro) [[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.Music/)] <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MuntashirAkon/Metro?style=flat"></sub> 的破解版，但前者完全免费后已没有继续开发的必要。
 
   </details>
 
 - [Vanilla Music](https://github.com/vanilla-music/vanilla)
   [[F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla/)]
   [[网站](https://vanilla-music.github.io/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/vanilla-music/vanilla?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vanilla-music/vanilla?style=flat"></sub>
 
   <details>
 
@@ -492,7 +492,7 @@
 - [Mpd](https://github.com/MusicPlayerDaemon/MPD)
   [[F-Droid](https://f-droid.org/packages/org.musicpd/)]
   [[网站](https://www.musicpd.org/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MusicPlayerDaemon/MPD?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MusicPlayerDaemon/MPD?style=flat"></sub>
 - [M.A.L.P.](https://gitlab.com/gateship-one/malp)
   [[F-Droid](https://f-droid.org/packages/org.gateshipone.malp/)]
   <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/gateship-one%2Fmalp?style=flat"></sub>
@@ -510,7 +510,7 @@
 - [Noice](https://github.com/trynoice/android-app)
   [[F-Droid](https://f-droid.org/packages/com.github.ashutoshgngwr.noice/)]
   [[网站](https://ashutosh.blog/noice/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/trynoice/android-app?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/trynoice/android-app?style=flat"></sub>
 
   <details>
 
@@ -524,7 +524,7 @@
 
 - [SoundAura](https://github.com/CliffracerMerchant/SoundAura)
   [[F-Droid](https://f-droid.org/packages/com.cliffracertech.soundaura/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/CliffracerMerchant/SoundAura?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/CliffracerMerchant/SoundAura?style=flat"></sub>
 
   <details>
 
@@ -544,7 +544,7 @@
 - [YAACC](https://github.com/tobexyz/yaacc-code)
   [[F-Droid](https://f-droid.org/packages/de.yaacc/)]
   [[网站](https://tobexyz.github.io/yaacc-code/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/tobexyz/yaacc-code?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tobexyz/yaacc-code?style=flat"></sub>
 
   <details>
 
@@ -558,14 +558,14 @@
 
 - [Pocket Paint（口袋画板）](https://github.com/Catrobat/Paintroid)
   [[F-Droid](https://f-droid.org/packages/org.catrobat.paintroid/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Catrobat/Paintroid?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Catrobat/Paintroid?style=flat"></sub>
 
   随便画点啥，功能比较全，甚至还有图层，界面也简洁漂亮。
 
 - _[PixaPencil](https://github.com/tomdoeslinux/PixaPencil)
   [[F-Droid](https://f-droid.org/packages/com.therealbluepandabear.pixapencil/)]
   [[网站](https://pixapencil.com/)]_
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/therealbluepandabear/PixaPencil?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/therealbluepandabear/PixaPencil?style=flat"></sub>
 
   <details>
 
@@ -582,7 +582,7 @@
 - [Gcam Services Provider](https://github.com/lukaspieper/Gcam-Services-Provider)
   [[F-Droid（Basic 版）](https://f-droid.org/packages/de.lukaspieper.gcam.services/)]
   [[IzzyOnDroid（Photos 版）](https://apt.izzysoft.de/fdroid/index/apk/com.google.android.apps.photos)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/lukaspieper/Gcam-Services-Provider?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lukaspieper/Gcam-Services-Provider?style=flat"></sub>
 
   <details>
 
@@ -597,7 +597,7 @@
   </details>
 
 - [Aperture](https://github.com/LineageOS/android_packages_apps_Aperture)
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_Aperture?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_Aperture?style=flat"></sub>
 
   <details>
 
@@ -615,7 +615,7 @@
 
 - _[FreeDcam](https://github.com/KillerInk/FreeDcam)
   [[F-Droid](https://f-droid.org/packages/troop.com.freedcam/)]_
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/KillerInk/FreeDcam?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KillerInk/FreeDcam?style=flat"></sub>
 
   <details>
 
@@ -641,7 +641,7 @@
   </details>
 
 - [Photon Camera](https://github.com/eszdman/PhotonCamera)
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/eszdman/PhotonCamera?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eszdman/PhotonCamera?style=flat"></sub>
 
   <details>
 
@@ -662,7 +662,7 @@
 - [OSMAnd~](https://github.com/osmandapp/Osmand)
   [[F-Droid](https://f-droid.org/packages/net.osmand.plus/)]
   [[网站](https://osmand.net/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/osmandapp/Osmand?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/osmandapp/Osmand?style=flat"></sub>
 
   <details>
 
@@ -677,7 +677,7 @@
 - [Organic Maps](https://github.com/organicmaps/organicmaps)
   [[F-Droid](https://f-droid.org/packages/app.organicmaps/)]
   [[网站](https://organicmaps.app/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/organicmaps/organicmaps?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/organicmaps/organicmaps?style=flat"></sub>
 
   <details>
 
@@ -690,7 +690,7 @@
 - [GPSLogger](https://github.com/mendhak/gpslogger)
   [[F-Droid](https://f-droid.org/packages/com.mendhak.gpslogger/)]
   [[网站](https://gpslogger.app/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mendhak/gpslogger?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mendhak/gpslogger?style=flat"></sub>
 
   轻量、省电的 GPS 记录器。
 
@@ -699,7 +699,7 @@
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.breezyweather)]
   [[F-Droid](https://f-droid.org/packages/org.breezyweather/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/breezy-weather/breezy-weather?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/breezy-weather/breezy-weather?style=flat"></sub>
 
   <details>
 
@@ -712,7 +712,7 @@
   </details>
 
 - [Pluvia Weather](https://github.com/SpicyChair/pluvia_weather_flutter)
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/SpicyChair/pluvia_weather_flutter?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/SpicyChair/pluvia_weather_flutter?style=flat"></sub>
 
   <details>
 
@@ -730,7 +730,7 @@
 
 - _[Geometric Weather(几何天气)](https://github.com/WangDaYeeeeee/GeometricWeather)
   ~~[[F-Droid](https://f-droid.org/packages/wangdaye.com.geometricweather/)]~~_
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/WangDaYeeeeee/GeometricWeather?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/WangDaYeeeeee/GeometricWeather?style=flat"></sub>
 
   <details>
 
@@ -768,13 +768,13 @@
 - [Tasks](https://github.com/tasks/tasks)
   [[F-Droid](https://f-droid.org/packages/org.tasks/)]
   [[网站](https://tasks.org/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/tasks/tasks?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tasks/tasks?style=flat"></sub>
 
   待办列表管理，应该是同类最佳之一了。
 
 - [Loop Habit Tracker（习惯）](https://github.com/iSoron/uhabits)
   [[F-Droid](https://f-droid.org/packages/org.isoron.uhabits/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/iSoron/uhabits?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/iSoron/uhabits?style=flat"></sub>
 
   <details>
 
@@ -798,7 +798,7 @@
 
 - [Did I Take My Meds?（我吃药了吗？）](https://github.com/CorruptedArk/did-i-take-my-meds)
   [[F-droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/CorruptedArk/did-i-take-my-meds?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/CorruptedArk/did-i-take-my-meds?style=flat"></sub>
 
   <details>
 
@@ -811,7 +811,7 @@
 - [My Expenses（开支助手）](https://github.com/mtotschnig/MyExpenses)
   [[F-droid](https://f-droid.org/packages/org.totschnig.myexpenses/)]
   [[网站](https://www.myexpenses.mobi/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mtotschnig/MyExpenses?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mtotschnig/MyExpenses?style=flat"></sub>
 
   个人理财管理工具。
 
@@ -820,7 +820,7 @@
 - [Tape Measure](https://github.com/SecUSo/privacy-friendly-tape-measure)
   [[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlytapemeasure/)]
   [[网站](https://secuso.aifb.kit.edu/english/Tape_Measure_and_Ruler.php)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/SecUSo/privacy-friendly-tape-measure?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/SecUSo/privacy-friendly-tape-measure?style=flat"></sub>
 
   <details>
 
@@ -832,7 +832,7 @@
 
 - [GuessIron](https://github.com/mobeil1/GuessIron)
   [[F-Droid](https://www.f-droid.org/zh/packages/de.indie42.guessiron/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mobeil1/GuessIron?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mobeil1/GuessIron?style=flat"></sub>
 
   <details>
 
@@ -844,14 +844,14 @@
 
 - [Compass](https://github.com/Kr0oked/Compass)
   [[F-Droid](https://f-droid.org/packages/danielmeek32.compass/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Kr0oked/Compass?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Kr0oked/Compass?style=flat"></sub>
 
   指南针。
 
 - [Trail Sense](https://github.com/kylecorry31/Trail-Sense)
   [[F-Droid](https://f-droid.org/packages/com.kylecorry.trail_sense/)]
   [[网站](https://kylecorry.com/Trail-Sense/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kylecorry31/Trail-Sense?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kylecorry31/Trail-Sense?style=flat"></sub>
 
   <details>
 
@@ -863,7 +863,7 @@
 
 - [Audio Spectrum Analyzer](https://github.com/woheller69/audio-analyzer-for-android)
   [[F-Droid](https://f-droid.org/packages/org.woheller69.audio_analyzer_for_android/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/woheller69/audio-analyzer-for-android?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/woheller69/audio-analyzer-for-android?style=flat"></sub>
 
   声音频谱分析。
 
@@ -906,7 +906,7 @@
 - [Collabora Office](https://github.com/CollaboraOnline/online)
   [[独立源](https://www.collaboraoffice.com/releases-en/collabora-office-on-mobiles-supporting-password-protected-documents-and-available-on-f-droid/)]
   [[网站](https://www.collaboraonline.com/collabora-office-android-ios/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/CollaboraOnline/online?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/CollaboraOnline/online?style=flat"></sub>
 
   <details>
 
@@ -922,7 +922,7 @@
 
 - [Markor](https://github.com/gsantner/markor)
   [[F-Droid](https://f-droid.org/packages/net.gsantner.markor/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/gsantner/markor?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gsantner/markor?style=flat"></sub>
 
   <details>
 
@@ -936,14 +936,14 @@
 
 - [Notally](https://github.com/OmGodse/Notally)
   [[F-Droid](https://f-droid.org/packages/com.omgodse.notally/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/OmGodse/Notally?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/OmGodse/Notally?style=flat"></sub>
 
   极简又漂亮的笔记应用，只能输入纯文字，有少许加粗斜体等格式。
 
 - [Saber](https://github.com/saber-notes/saber)
   [[F-Droid](https://f-droid.org/packages/com.adilhanney.saber/)]
   [[网站](https://saber.adil.hanney.org/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/saber-notes/saber?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/saber-notes/saber?style=flat"></sub>
 
   <details>
 
@@ -960,7 +960,7 @@
 - [OpenDocument Reader](https://github.com/opendocument-app/OpenDocument.droid)
   [[F-Droid](https://f-droid.org/packages/at.tomtasche.reader/)]
   [[网站](https://opendocument.app/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/opendocument-app/OpenDocument.droid?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/opendocument-app/OpenDocument.droid?style=flat"></sub>
 
   <details>
 
@@ -985,14 +985,14 @@
 - [KOReader](https://github.com/koreader/koreader)
   [[F-Droid](https://f-droid.org/packages/org.koreader.launcher.fdroid/)]
   [[网站](https://koreader.rocks/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/koreader/koreader?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/koreader/koreader?style=flat"></sub>
 
   适用于电子书的著名阅读软件。
 
 - [Librera Reader](https://github.com/foobnix/LibreraReader)
   [[F-Droid](https://f-droid.org/packages/com.foobnix.pro.pdf.reader/)]
   [[网站](https://librera.mobi/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/foobnix/LibreraReader?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/foobnix/LibreraReader?style=flat"></sub>
 
   <details>
 
@@ -1008,7 +1008,7 @@
 
 - _~~[Pdf Viewer Plus](https://github.com/gokulswam/PdfViewer)
   [[F-Droid](https://f-droid.org/packages/com.gsnathan.pdfviewer/)]~~_
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/gokulswam/PdfViewer?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gokulswam/PdfViewer?style=flat"></sub>
 
   <details>
 
@@ -1040,7 +1040,7 @@
 
 - [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner)
   [[IzzyOnDroid](https://apt.izzysoft.de/packages/com.akylas.documentscanner)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Akylas/OSS-DocumentScanner?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Akylas/OSS-DocumentScanner?style=flat"></sub>
 
   <details>
 
@@ -1056,7 +1056,7 @@
 
 - [OpenScan](https://github.com/ethereal-developers/OpenScan)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.ethereal.openscan)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/ethereal-developers/OpenScan?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ethereal-developers/OpenScan?style=flat"></sub>
 
   <details>
 
@@ -1073,7 +1073,7 @@
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android)
   [[F-Droid](https://f-droid.org/packages/com.ichi2.anki/)]
   [[网站](https://ankidroid.org/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/ankidroid/Anki-Android?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ankidroid/Anki-Android?style=flat"></sub>
 
   <details>
 
@@ -1088,7 +1088,7 @@
 - [Aard2](https://github.com/itkach/aard2-android)
   [[F-Droid](https://f-droid.org/packages/itkach.aard2/)]
   [[网站](https://aarddict.org/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/itkach/aard2-android?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/itkach/aard2-android?style=flat"></sub>
 
   <details>
 
@@ -1100,7 +1100,7 @@
 
 - [QuickDic](https://github.com/rdoeffinger/Dictionary)
   [[F-Droid](https://f-droid.org/packages/de.reimardoeffinger.quickdic/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/rdoeffinger/Dictionary?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rdoeffinger/Dictionary?style=flat"></sub>
 
   <details>
 
@@ -1112,7 +1112,7 @@
 
 - [DeepL](https://github.com/sakusaku3939/DeepLAndroid)
   [[F-Droid](https://f-droid.org/packages/com.example.deeplviewer/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/sakusaku3939/DeepLAndroid?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sakusaku3939/DeepLAndroid?style=flat"></sub>
 
   <details>
 
@@ -1133,7 +1133,7 @@
 
 - [microMathematics Plus](https://github.com/mkulesh/microMathematics)
   [[F-Droid](https://f-droid.org/packages/com.mkulesh.micromath.plus/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mkulesh/microMathematics?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mkulesh/microMathematics?style=flat"></sub>
 
   <details>
 
@@ -1148,7 +1148,7 @@
 - [Wikipedia（维基百科）](https://github.com/wikimedia/apps-android-wikipedia)
   [[F-Droid](https://f-droid.org/packages/org.wikipedia/)]
   [[网站](https://www.mediawiki.org/wiki/Wikimedia_Apps)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/wikimedia/apps-android-wikipedia?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wikimedia/apps-android-wikipedia?style=flat"></sub>
 
   <details>
 
@@ -1163,7 +1163,7 @@
 - [Sky Map](https://github.com/sky-map-team/stardroid)
   [[F-Droid](https://f-droid.org/packages/com.google.android.stardroid/)]
   [[网站](https://sky-map-team.github.io/stardroid/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/sky-map-team/stardroid?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sky-map-team/stardroid?style=flat"></sub>
 
   <details>
 
@@ -1177,7 +1177,7 @@
 
 - [Stellarium](https://github.com/Stellarium/stellarium)
   [[网站](https://www.stellarium-labs.com/stellarium-mobile-plus/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Stellarium/stellarium?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Stellarium/stellarium?style=flat"></sub>
 
   <details>
 
@@ -1191,7 +1191,7 @@
 
 - [Unit Converter Ultimate](https://github.com/physphil/UnitConverterUltimate)
   [[F-Droid](https://www.f-droid.org/packages/com.physphil.android.unitconverterultimate/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/physphil/UnitConverterUltimate?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/physphil/UnitConverterUltimate?style=flat"></sub>
 
   <details>
 
@@ -1207,7 +1207,7 @@
 
 - [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
   [[F-Droid](https://f-droid.org/packages/juloo.keyboard2/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Julow/Unexpected-Keyboard?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Julow/Unexpected-Keyboard?style=flat"></sub>
 
   <details>
 
@@ -1222,7 +1222,7 @@
 - [Fcitx5 for Android（小企鹅输入法5）](https://github.com/fcitx5-android/fcitx5-android)
   [[F-Droid](https://f-droid.org/packages/org.fcitx.fcitx5.android/)]
   [[网站](https://fcitx5-android.github.io/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/fcitx5-android/fcitx5-android?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/fcitx5-android/fcitx5-android?style=flat"></sub>
 
   <details>
 
@@ -1238,7 +1238,7 @@
 
 - [Trime（同文输入法）](https://github.com/osfans/trime)
   [[F-Droid](https://f-droid.org/packages/com.osfans.trime/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/osfans/trime?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/osfans/trime?style=flat"></sub>
 
   <details>
 
@@ -1252,7 +1252,7 @@
 
 - [Stroke Input Method（笔划输入法）](https://github.com/stroke-input/stroke-input-android)
   [[F-Droid](https://f-droid.org/packages/io.github.yawnoc.strokeinput/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/stroke-input/stroke-input-android?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/stroke-input/stroke-input-android?style=flat"></sub>
 
   <details>
 
@@ -1266,7 +1266,7 @@
 
 - [Material Files（质感文件）](https://github.com/zhanghai/MaterialFiles)
   [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.files/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/zhanghai/MaterialFiles?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zhanghai/MaterialFiles?style=flat"></sub>
 
   文件管理器，非常漂亮，基本的功能都有。
 
@@ -1285,7 +1285,7 @@
 
 - [Disk Usage](https://github.com/WhiredPlanck/diskusage)
   [[F-Droid](https://f-droid.org/packages/com.google.android.diskusage/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/WhiredPlanck/diskusage?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/WhiredPlanck/diskusage?style=flat"></sub>
 
   <details>
 
@@ -1301,7 +1301,7 @@
 
 - [CIFS Documents Provider](https://github.com/wa2c/cifs-documents-provider)
   [[F-Droid](https://f-droid.org/packages/com.wa2c.android.cifsdocumentsprovider/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/wa2c/cifs-documents-provider?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wa2c/cifs-documents-provider?style=flat"></sub>
 
   <details>
 
@@ -1316,7 +1316,7 @@
 - [Seafile](https://github.com/haiwen/seadroid)
   [[F-Droid](https://f-droid.org/packages/com.seafile.seadroid2/)]
   [[网站](https://www.seafile.com/home/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/haiwen/seadroid?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/haiwen/seadroid?style=flat"></sub>
 
   <details>
 
@@ -1329,7 +1329,7 @@
 - [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android)
   [[F-Droid](https://f-droid.org/packages/com.github.catfriend1.syncthingandroid/)]
   [[网站](https://syncthing.net/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Catfriend1/syncthing-android?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Catfriend1/syncthing-android?style=flat"></sub>
 
   <details>
 
@@ -1352,7 +1352,7 @@
 - [Photok](https://github.com/leonlatsch/Photok)
   [[F-Droid](https://f-droid.org/packages/dev.leonlatsch.photok/)]
   [[网站](https://www.producthunt.com/products/photok)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/leonlatsch/Photok?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leonlatsch/Photok?style=flat"></sub>
 
   <details>
 
@@ -1364,7 +1364,7 @@
 
 - [Anemo](https://github.com/2bllw8/anemo)
   [[F-Droid](https://f-droid.org/packages/exe.bbllw8.anemo/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/2bllw8/anemo?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/2bllw8/anemo?style=flat"></sub>
 
   <details>
 
@@ -1379,7 +1379,7 @@
 - [Amarok](https://github.com/deltazefiro/Amarok-Hider)
   [[F-Droid](https://f-droid.org/packages/deltazero.amarok.foss/)]
   [[网站](https://deltazefiro.github.io/Amarok-doc/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/deltazefiro/Amarok-Hider?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/deltazefiro/Amarok-Hider?style=flat"></sub>
 
   <details>
 
@@ -1397,7 +1397,7 @@
 - [LocalSend](https://github.com/localsend/localsend)
   [[F-droid](https://f-droid.org/packages/org.localsend.localsend_app/)]
   [[网站](https://localsend.org/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/localsend/localsend?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/localsend/localsend?style=flat"></sub>
 
   <details>
 
@@ -1411,7 +1411,7 @@
 
 - [open2share](https://github.com/linesoft2/open2share)
   [[F-Droid](https://f-droid.org/packages/top.linesoft.open2share/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/linesoft2/open2share?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/linesoft2/open2share?style=flat"></sub>
 
   <details>
 
@@ -1423,7 +1423,7 @@
 
 - [Save Copy（保存副本）](https://github.com/RikkaApps/SaveCopy)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.rikka.savecopy)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/RikkaApps/SaveCopy?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RikkaApps/SaveCopy?style=flat"></sub>
 
   <details>
 
@@ -1443,7 +1443,7 @@
 
 - [FFShare](https://github.com/caydey/ffshare)
   [[F-Droid](https://f-droid.org/packages/com.caydey.ffshare/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/caydey/ffshare?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/caydey/ffshare?style=flat"></sub>
 
   <details>
 
@@ -1455,14 +1455,14 @@
 
 - [Untracker（移除追踪）](https://github.com/zhanghai/Untracker)
   [[F-Droid](https://f-droid.org/packages/me.zhanghai.android.untracker/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/zhanghai/Untracker?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zhanghai/Untracker?style=flat"></sub>
 
   在分享链接前移除追踪信息，自带规则。
 
 - [Tarnhelm](https://github.com/lz233/Tarnhelm)
   [[F-Droid](https://f-droid.org/packages/cn.ac.lz233.tarnhelm/)]
   [[网站](https://tarnhelm.project.ac.cn/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/lz233/tarnhelm?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lz233/tarnhelm?style=flat"></sub>
 
   <details>
 
@@ -1476,7 +1476,7 @@
 
 - [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi)
   [[F-Droid](https://f-droid.org/packages/com.tachibana.downloader/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/TachibanaGeneralLaboratories/download-navi?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TachibanaGeneralLaboratories/download-navi?style=flat"></sub>
 
   <details>
 
@@ -1488,7 +1488,7 @@
 
 - [Seal](https://github.com/JunkFood02/Seal)
   [[F-Droid](https://f-droid.org/packages/com.junkfood.seal/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/JunkFood02/Seal?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JunkFood02/Seal?style=flat"></sub>
 
   基于 yt-dlp 的视频/音频下载器。
 
@@ -1496,7 +1496,7 @@
 
 - [Neo Backup](https://github.com/NeoApplications/Neo-Backup)
   [[F-Droid](https://f-droid.org/packages/com.machiav3lli.backup/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/NeoApplications/Neo-Backup?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/NeoApplications/Neo-Backup?style=flat"></sub>
 
   备份软件（原名 OAndBackupX），可以备份任何东西，需要 root。
 
@@ -1505,7 +1505,7 @@
 - [OpenKeychain](https://github.com/open-keychain/open-keychain)
   [[F-Droid](https://f-droid.org/packages/org.sufficientlysecure.keychain/)]
   [[网站](https://www.openkeychain.org/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/open-keychain/open-keychain?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/open-keychain/open-keychain?style=flat"></sub>
 
   <details>
 
@@ -1518,7 +1518,7 @@
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX)
   [[F-Droid](https://f-droid.org/packages/com.kunzisoft.keepass.libre/)]
   [[网站](https://www.keepassdx.com/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Kunzisoft/KeePassDX?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Kunzisoft/KeePassDX?style=flat"></sub>
 
   <details>
 
@@ -1533,14 +1533,14 @@
 - [Aegis](https://github.com/beemdevelopment/Aegis)
   [[F-Droid](https://f-droid.org/packages/com.beemdevelopment.aegis/)]
   [[网站](https://getaegis.app/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/beemdevelopment/Aegis?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/beemdevelopment/Aegis?style=flat"></sub>
 
   双重验证（2FA）客户端，支持 HOTP 和 TOTP。
 
 - [Stratum](https://github.com/stratumauth/app)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.stratumauth.app)]
   [[网站](https://stratumauth.com/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/stratumauth/app?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/stratumauth/app?style=flat"></sub>
 
   <details>
 
@@ -1556,7 +1556,7 @@
 
 - _~~[Password Store](https://github.com/android-password-store/Android-Password-Store)
   [[F-Droid](https://f-droid.org/packages/dev.msfjarvis.aps/)]~~_
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/android-password-store/Android-Password-Store?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/android-password-store/Android-Password-Store?style=flat"></sub>
 
   <details>
 
@@ -1572,7 +1572,7 @@
 
 - _~~[andOTP](https://github.com/andOTP/andOTP)
   [[F-Droid](https://f-droid.org/packages/org.shadowice.flocke.andotp/)]~~_
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/andOTP/andOTP?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andOTP/andOTP?style=flat"></sub>
 
   <details>
 
@@ -1590,7 +1590,7 @@
 
 - [QUIK](https://github.com/octoshrimpy/quik)
   [[F-Droid](https://f-droid.org/packages/dev.octoshrimpy.quik/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/octoshrimpy/quik?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/octoshrimpy/quik?style=flat"></sub>
 
   <details>
 
@@ -1620,7 +1620,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 </details>
 
 - [BCR(Basic Call Recorder)](https://github.com/chenxiaolong/BCR)
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/chenxiaolong/BCR?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/chenxiaolong/BCR?style=flat"></sub>
 
   <details>
 
@@ -1635,7 +1635,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 - [BCR-GUI](https://github.com/nicorac/bcr-gui)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.github.nicorac.bcrgui)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/nicorac/bcr-gui?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nicorac/bcr-gui?style=flat"></sub>
 
   <details>
 
@@ -1666,7 +1666,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 - [App Manager](https://github.com/MuntashirAkon/AppManager)
   [[F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)]
   [[网站](https://muntashirakon.github.io/AppManager/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MuntashirAkon/AppManager?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MuntashirAkon/AppManager?style=flat"></sub>
 
   <details>
 
@@ -1678,7 +1678,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 - [LibChecker](https://github.com/LibChecker/LibChecker)
   [[F-Droid](https://f-droid.org/packages/com.absinthe.libchecker/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/LibChecker/LibChecker?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LibChecker/LibChecker?style=flat"></sub>
 
   <details>
 
@@ -1690,13 +1690,13 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 - [Activity Manager](https://github.com/sdex/ActivityManager)
   [[F-Droid](https://f-droid.org/packages/com.activitymanager/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/sdex/ActivityManager?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sdex/ActivityManager?style=flat"></sub>
 
   高级的 Activity 和快捷方式启动器。
 
 - [Language Selector](https://github.com/VegaBobo/Language-Selector)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/vegabobo.languageselector)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/VegaBobo/Language-Selector?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VegaBobo/Language-Selector?style=flat"></sub>
 
   <details>
 
@@ -1712,7 +1712,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 - _~~[Anywhere-](https://github.com/zhaobozhen/Anywhere-)~~
   [[网站](https://absinthe.life/Anywhere-Docs/guide/)]\*_
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/zhaobozhen/Anywhere-?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zhaobozhen/Anywhere-?style=flat"></sub>
 
   <details>
 
@@ -1732,7 +1732,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 - [Hail（雹）](https://github.com/aistra0528/Hail)
   [[F-Droid](https://f-droid.org/packages/com.aistra.hail/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/aistra0528/Hail?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/aistra0528/Hail?style=flat"></sub>
 
   <details>
 
@@ -1763,7 +1763,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 - [SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
   [[F-Droid](https://f-droid.org/packages/eu.darken.sdmse/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/d4rken-org/sdmaid-se?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/d4rken-org/sdmaid-se?style=flat"></sub>
 
   <details>
 
@@ -1799,7 +1799,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 - [Doodle](https://github.com/patzly/doodle-android)
   [[F-Droid](https://f-droid.org/packages/xyz.zedler.patrick.doodle/)]
   [[网站](https://patrickzedler.com/doodle/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/patzly/doodle-android?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/patzly/doodle-android?style=flat"></sub>
 
   <details>
 
@@ -1811,7 +1811,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 - [Iconify](https://github.com/Mahmud0808/Iconify)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.drdisagree.iconify.foss)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Mahmud0808/Iconify?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Mahmud0808/Iconify?style=flat"></sub>
 
   <details>
 
@@ -1822,7 +1822,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
   </details>
 
 - [Smartspacer](https://github.com/KieronQuinn/Smartspacer)\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/KieronQuinn/Smartspacer?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KieronQuinn/Smartspacer?style=flat"></sub>
 
   <details>
 
@@ -1836,7 +1836,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 - [CPU Info](https://github.com/kamgurgul/cpu-info)
   [[F-Droid](https://f-droid.org/packages/com.kgurgul.cpuinfo/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kamgurgul/cpu-info?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kamgurgul/cpu-info?style=flat"></sub>
 
   展示系统软硬件信息，如 CPU 核心频率等，但并不全面。
 
@@ -1861,11 +1861,11 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 - [A2LN](https://github.com/patri9ck/a2ln-app)
   [[F-Droid](https://f-droid.org/packages/dev.patri9ck.a2ln/)]
   [[网站](https://patri9ck.dev/a2ln/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/patri9ck/a2ln-app?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/patri9ck/a2ln-app?style=flat"></sub>
 - _[AN2Linux](https://github.com/rootkiwi/an2linuxclient)
   [[F-Droid](https://f-droid.org/packages/kiwi.root.an2linuxclient/)]
   [[网站](https://github.com/rootkiwi/an2linuxserver)]_
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/rootkiwi/an2linuxclient?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rootkiwi/an2linuxclient?style=flat"></sub>
 
   <details>
 
@@ -1880,7 +1880,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 - [KDE Connect](https://github.com/KDE/kdeconnect-android)
   [[F-Droid](https://f-droid.org/packages/org.kde.kdeconnect_tp/)]
   [[网站](https://kdeconnect.kde.org/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/KDE/kdeconnect-android?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KDE/kdeconnect-android?style=flat"></sub>
 
   <details>
 
@@ -1894,7 +1894,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 - [Audio Share ](https://github.com/mkckr0/audio-share)
   [[F-Droid](https://f-droid.org/packages/io.github.mkckr0.audio_share_app/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mkckr0/audio-share?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mkckr0/audio-share?style=flat"></sub>
 
   使 PC 的声音通过网络在手机上播放，SoundWire 的替代品。
 
@@ -1902,7 +1902,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 - [GPSTest](https://github.com/barbeau/gpstest)
   [[F-Droid](https://f-droid.org/packages/com.android.gpstest.osmdroid/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/barbeau/gpstest?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/barbeau/gpstest?style=flat"></sub>
 
   <details>
 
@@ -1917,7 +1917,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 - [Phyphox](https://github.com/phyphox/phyphox-android)
   [[F-Droid](https://f-droid.org/packages/de.rwth_aachen.phyphox/)]
   [[网站](https://phyphox.org/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/phyphox/phyphox-android?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/phyphox/phyphox-android?style=flat"></sub>
 
   <details>
 
@@ -1931,11 +1931,11 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 - [Dicio assistant](https://github.com/Stypox/dicio-android)
   [[F-Droid](https://f-droid.org/packages/org.stypox.dicio/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Stypox/dicio-android?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Stypox/dicio-android?style=flat"></sub>
 - [RHVoice](https://github.com/RHVoice/RHVoice)
   [[F-Droid](https://f-droid.org/packages/com.github.olga_yakovleva.rhvoice.android/)]
   [[网站](https://rhvoice.org/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/RHVoice/RHVoice?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RHVoice/RHVoice?style=flat"></sub>
 
   <details>
 
@@ -1954,7 +1954,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Ntfy](https://github.com/binwiederhier/ntfy-android)
   [[F-Droid](https://f-droid.org/packages/io.heckel.ntfy/)]
   [[网站](https://ntfy.sh/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/binwiederhier/ntfy-android?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/binwiederhier/ntfy-android?style=flat"></sub>
 
   <details>
 
@@ -1998,7 +1998,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Magisk](https://github.com/topjohnwu/Magisk)
   [[F-Droid](https://f-droid.org/packages/com.topjohnwu.magisk/)]
   [[网站](https://topjohnwu.github.io/Magisk/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/topjohnwu/Magisk?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/topjohnwu/Magisk?style=flat"></sub>
 
   <details>
 
@@ -2015,7 +2015,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Editor](https://github.com/billthefarmer/editor)
   [[F-Droid](https://f-droid.org/packages/org.billthefarmer.editor/)]
   [[网站](https://billthefarmer.github.io/editor/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/billthefarmer/editor?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/billthefarmer/editor?style=flat"></sub>
 
   <details>
 
@@ -2028,7 +2028,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Acode](https://github.com/Acode-Foundation/Acode)
   [[F-Droid](https://f-droid.org/packages/com.foxdebug.acode/)]
   [[网站](https://acode.app/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Acode-Foundation/Acode?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Acode-Foundation/Acode?style=flat"></sub>
 
   <details>
 
@@ -2043,7 +2043,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [ConnectBot](https://github.com/connectbot/connectbot)
   [[F-Droid](https://f-droid.org/packages/org.connectbot/)]
   [[网站](https://connectbot.org/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/connectbot/connectbot?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/connectbot/connectbot?style=flat"></sub>
 
   <details>
 
@@ -2057,7 +2057,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [AVNC](https://github.com/gujjwal00/avnc)
   [[F-Droid](https://f-droid.org/packages/com.gaurav.avnc/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/gujjwal00/avnc?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gujjwal00/avnc?style=flat"></sub>
 
   <details>
 
@@ -2070,13 +2070,13 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [RustDesk](https://github.com/rustdesk/rustdesk)
   [[F-Droid](https://f-droid.org/packages/com.carriez.flutter_hbb/)]
   [[网站](https://rustdesk.com/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/rustdesk/rustdesk?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rustdesk/rustdesk?style=flat"></sub>
 
   开源远程桌面应用，TeamViewer 替代方案。
 
 - [WADB](https://github.com/RikkaApps/WADB)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.haruue.wadb)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/RikkaApps/WADB?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RikkaApps/WADB?style=flat"></sub>
 
   <details>
 
@@ -2104,7 +2104,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Termux](https://github.com/termux/termux-app)
   [[F-Droid](https://f-droid.org/packages/com.termux/)]
   [[网站](https://termux.dev/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/termux/termux-app?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/termux/termux-app?style=flat"></sub>
 
   <details>
 
@@ -2121,7 +2121,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
   [[F-Droid](https://f-droid.org/packages/com.emanuelef.remote_capture/)]
   [[网站](https://emanuele-f.github.io/PCAPdroid/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/emanuele-f/PCAPdroid?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/emanuele-f/PCAPdroid?style=flat"></sub>
 
   Android 抓包工具，可[配合 Wireshark](https://emanuele-f.github.io/PCAPdroid/advanced_features#45-pcapdroid-trailer) 使用。
 
@@ -2130,7 +2130,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [OctoDroid](https://github.com/slapperwan/gh4a)
   [[F-Droid](https://f-droid.org/packages/com.gh4a/)]
   [[网站](https://slapperwan.github.io/gh4a/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/slapperwan/gh4a?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/slapperwan/gh4a?style=flat"></sub>
 
   <details>
 
@@ -2156,7 +2156,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - _[GitTouch](https://github.com/pd4d10/git-touch)
   [[F-Droid](https://f-droid.org/packages/io.github.pd4d10.gittouch/)]_
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/pd4d10/git-touch?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pd4d10/git-touch?style=flat"></sub>
 
   <details>
 
@@ -2171,7 +2171,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [MGit](https://github.com/maks/MGit)
   [[F-Droid](https://f-droid.org/packages/com.manichord.mgit/)]
   [[网站](https://manichord.com/projects/mgit.html)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/maks/MGit?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/maks/MGit?style=flat"></sub>
 
   <details>
 
@@ -2200,7 +2200,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Linux Command Library](https://github.com/SimonSchubert/LinuxCommandLibrary)
   [[F-Droid](https://f-droid.org/packages/com.inspiredandroid.linuxcommandbibliotheca/)]
   [[网站](https://linuxcommandlibrary.com/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/SimonSchubert/LinuxCommandLibrary?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/SimonSchubert/LinuxCommandLibrary?style=flat"></sub>
 
   Linux 相关命令、应用的帮助手册，主要包括大量 man pages。
 
@@ -2213,7 +2213,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Telegram FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)
   [[F-Droid](https://f-droid.org/packages/org.telegram.messenger/)]
   [[网站](https://telegram.org/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Telegram-FOSS-Team/Telegram-FOSS?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Telegram-FOSS-Team/Telegram-FOSS?style=flat"></sub>
 
   <details>
 
@@ -2226,7 +2226,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Revolution IRC](https://github.com/MCMrARM/revolution-irc)
   [[F-Droid](https://f-droid.org/packages/io.mrarm.irc/)]
   [[网站](https://mrarm.io/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MCMrARM/revolution-irc?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MCMrARM/revolution-irc?style=flat"></sub>
 
   <details>
 
@@ -2261,7 +2261,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [TRIfA](https://github.com/zoff99/ToxAndroidRefImpl)
   [[F-Droid](https://f-droid.org/packages/com.zoffcc.applications.trifa/)]
   [[网站](https://tox.zoff.cc/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/zoff99/ToxAndroidRefImpl?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zoff99/ToxAndroidRefImpl?style=flat"></sub>
 
   Tox 协议的安卓客户端，不挂后台需要安装 [Tox Notify](https://github.com/zoff99/tox_push_msg_app) 使用 UnifiedPush 推送。
 
@@ -2269,26 +2269,26 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit)
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/ml.docilealligator.infinityforreddit.patreon)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Docile-Alligator/Infinity-For-Reddit?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Docile-Alligator/Infinity-For-Reddit?style=flat"></sub>
 
   Reddit 客户端，F-Droid 上有好几个 Reddit 客户端，这个是我最喜欢的。
 
 - [RedReader](https://github.com/QuantumBadger/RedReader)
   [[F-Droid](https://f-droid.org/packages/org.quantumbadger.redreader/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/QuantumBadger/RedReader?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/QuantumBadger/RedReader?style=flat"></sub>
 
   Reddit 客户端，很简洁轻量。我个人更喜欢 Infinity 和 Slide。
 
 - [Glider](https://github.com/Mosc/Glider)
   [[F-Droid](https://f-droid.org/packages/nl.viter.glider/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Mosc/Glider?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Mosc/Glider?style=flat"></sub>
 
   著名面向 IT 领域的资讯平台 Hacker News 的客户端，很精巧，用起来很顺手。
 
 - _[Twidere X](https://github.com/TwidereProject/TwidereX-Android)
   ~~[[F-Droid](https://f-droid.org/packages/com.twidere.twiderex/)]~~
   [[网站](https://x.twidere.com/)]_
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/TwidereProject/TwidereX-Android?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TwidereProject/TwidereX-Android?style=flat"></sub>
 
   <details>
 
@@ -2301,7 +2301,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Fritter](https://github.com/jonjomckay/fritter)
   ~~[[F-Droid](https://f-droid.org/packages/com.jonjomckay.fritter/)]~~
   [[网站](https://fritter.cc/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/jonjomckay/fritter?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jonjomckay/fritter?style=flat"></sub>
 
   <details>
 
@@ -2316,14 +2316,14 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe)
   [[F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)]
   [[网站](https://newpipe.net/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/TeamNewPipe/NewPipe?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TeamNewPipe/NewPipe?style=flat"></sub>
 
   注重隐私的 YouTube 客户端，不能登陆，只能看，不过非常好用。
 
 - [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
   [[F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/)]
   [[网站](https://pipepipe.dev/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/InfinityLoop1308/PipePipe?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/InfinityLoop1308/PipePipe?style=flat"></sub>
 
   <details>
 
@@ -2334,17 +2334,17 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
   </details>
 
 - [Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft)
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/CeuiLiSA/Pixiv-Shaft?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/CeuiLiSA/Pixiv-Shaft?style=flat"></sub>
 - [PixEz](https://github.com/Notsfsssf/pixez-flutter)
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Notsfsssf/pixez-flutter?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Notsfsssf/pixez-flutter?style=flat"></sub>
 
   都是 Pixiv 客户端，做的也都不错。
 
 - [Hentoid](https://github.com/avluis/Hentoid)
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/avluis/Hentoid?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/avluis/Hentoid?style=flat"></sub>
 - _~~[Hendroid](https://github.com/Nonononoki/Hendroid)
   [[F-Droid](https://f-droid.org/packages/org.nonononoki.hendroid/)]~~_
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Nonononoki/Hendroid?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Nonononoki/Hendroid?style=flat"></sub>
 
   <details>
 
@@ -2360,7 +2360,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [Lemuroid](https://github.com/Swordfish90/Lemuroid)
   [[F-Droid](https://f-droid.org/packages/com.swordfish.lemuroid/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Swordfish90/Lemuroid?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Swordfish90/Lemuroid?style=flat"></sub>
 
   <details>
 
@@ -2376,13 +2376,13 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [Antimine](https://github.com/lucasnlm/antimine-android)
   [[F-Droid](https://f-droid.org/packages/dev.lucanlm.antimine/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/lucasnlm/antimine-android?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucasnlm/antimine-android?style=flat"></sub>
 
   很棒的扫雷游戏，界面漂亮，操作直观。
 
 - [TriPeaks](https://github.com/mimoguz/tripeaks-gdx)
   [[F-Droid](https://f-droid.org/packages/ogz.tripeaks/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mimoguz/tripeaks-gdx?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mimoguz/tripeaks-gdx?style=flat"></sub>
 
   像素风格的纸牌游戏，很简单，只有这一种游戏，加进来是因为界面很精致。
 
@@ -2395,7 +2395,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Sudoku](https://github.com/SecUSo/privacy-friendly-sudoku)
   [[F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlysudoku/)]
   [[网站](https://secuso.aifb.kit.edu/english/Sudoku.php)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/SecUSo/privacy-friendly-sudoku?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/SecUSo/privacy-friendly-sudoku?style=flat"></sub>
 
   <details>
 
@@ -2407,13 +2407,13 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [2048](https://github.com/andstatus/game2048)
   [[F-Droid](https://f-droid.org/packages/org.andstatus.game2048/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/andstatus/game2048?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andstatus/game2048?style=flat"></sub>
 
   目前维护最积极的 2048。
 
 - _[Blockinger](https://github.com/vocollapse/Blockinger)
   ~~[[F-Droid](https://f-droid.org/packages/org.blockinger.game/)]~~_
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/vocollapse/Blockinger?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vocollapse/Blockinger?style=flat"></sub>
 
   <details>
 
@@ -2429,7 +2429,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - _[Falling Lightblocks](https://github.com/MrStahlfelge/lightblocks)
   [[网站](https://www.golfgl.de/lightblocks/)]_
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MrStahlfelge/lightblocks?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MrStahlfelge/lightblocks?style=flat"></sub>
 
   <details>
 
@@ -2446,7 +2446,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles)
   [[F-Droid](https://f-droid.org/packages/name.boyle.chris.sgtpuzzles/)]
   [[网站](https://chris.boyle.name/projects/android-puzzles/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/chrisboyle/sgtpuzzles?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/chrisboyle/sgtpuzzles?style=flat"></sub>
 
   40 款益智小游戏合集，包含扫雷等，想费一费脑细胞的可以试试。
 
@@ -2464,13 +2464,13 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [Lexica](https://github.com/lexica/lexica)
   [[F-Droid](https://f-droid.org/packages/com.serwylo.lexica/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/lexica/lexica?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lexica/lexica?style=flat"></sub>
 
   连字成词的单词拼写游戏，对词汇量要求高，否则心态容易崩。
 
 - _[Open Golf](https://github.com/mgerdes/Open-Golf)
   [[F-Droid](https://f-droid.org/packages/me.mgerdes.open_golf/)]_
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mgerdes/Open-Golf?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mgerdes/Open-Golf?style=flat"></sub>
 
   <details>
 
@@ -2487,7 +2487,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Lichess](https://github.com/lichess-org/lichobile)
   [[F-Droid](https://f-droid.org/packages/org.lichess.mobileapp.free/)]
   [[网站](https://lichess.org/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/lichess-org/lichobile?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lichess-org/lichobile?style=flat"></sub>
 
   <details>
 
@@ -2499,10 +2499,10 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [Gobandroid](https://github.com/ligi/gobandroid)
   [[F-Droid](https://f-droid.org/packages/org.ligi.gobandroid_hd/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/ligi/gobandroid?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ligi/gobandroid?style=flat"></sub>
 - [gobandroid ai gnugo](https://github.com/ligi/gobandroid-ai-gnugo)
   [[F-Droid](https://f-droid.org/packages/org.ligi.gobandroidhd.ai.gnugo/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/ligi/gobandroid-ai-gnugo?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ligi/gobandroid-ai-gnugo?style=flat"></sub>
 
   <details>
 
@@ -2517,7 +2517,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Mindustry](https://github.com/Anuken/Mindustry)
   [[F-Droid](https://f-droid.org/packages/io.anuke.mindustry/)]
   [[网站](https://mindustrygame.github.io/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Anuken/Mindustry?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Anuken/Mindustry?style=flat"></sub>
 
   <details>
 
@@ -2531,7 +2531,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [Anuto TD](https://github.com/mjaun/android-anuto)
   [[F-Droid](https://f-droid.org/packages/ch.logixisland.anuto/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mjaun/android-anuto?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mjaun/android-anuto?style=flat"></sub>
 
   <details>
 
@@ -2546,7 +2546,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon)
   [[F-Droid](https://f-droid.org/packages/com.shatteredpixel.shatteredpixeldungeon/)]
   [[网站](https://shatteredpixel.com/shatteredpd/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/00-Evan/shattered-pixel-dungeon?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/00-Evan/shattered-pixel-dungeon?style=flat"></sub>
 
   <details>
 
@@ -2559,7 +2559,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Andor's Trail（安道尔追踪）](https://github.com/AndorsTrailRelease/andors-trail)
   [[F-Droid](https://f-droid.org/packages/com.gpl.rpg.AndorsTrail/)]
   [[网站](https://andorstrail.com/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/AndorsTrailRelease/andors-trail?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AndorsTrailRelease/andors-trail?style=flat"></sub>
 
   <details>
 
@@ -2589,7 +2589,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Luanti](https://github.com/luanti-org/luanti)
   [[F-Droid](https://f-droid.org/packages/net.minetest.minetest/)]
   [[网站](https://www.luanti.org)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/luanti-org/luanti?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/luanti-org/luanti?style=flat"></sub>
 
   <details>
 
@@ -2604,7 +2604,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [SuperTuxKart](https://github.com/supertuxkart/stk-code)
   [[F-Droid](https://f-droid.org/packages/org.supertuxkart.stk/)]
   [[网站](https://supertuxkart.net/Main_Page)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/supertuxkart/stk-code?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/supertuxkart/stk-code?style=flat"></sub>
 
   <details>
 
@@ -2617,7 +2617,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 - [Pixel Wheels](https://github.com/agateau/pixelwheels)
   [[F-Droid](https://f-droid.org/packages/com.agateau.tinywheels.android/)]
   [[网站](https://agateau.com/projects/pixelwheels/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/agateau/pixelwheels?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/agateau/pixelwheels?style=flat"></sub>
 
   <details>
 
@@ -2633,7 +2633,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 - [UnCiv](https://github.com/yairm210/UnCiv)
   [[F-Droid](https://f-droid.org/packages/com.unciv.app/)]
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/yairm210/UnCiv?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/yairm210/UnCiv?style=flat"></sub>
 
   <details>
 
@@ -2646,7 +2646,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 #### 魔方
 
 - [DCTimer](https://github.com/MeigenChou/DCTimer-Android)
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/MeigenChou/DCTimer-Android?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MeigenChou/DCTimer-Android?style=flat"></sub>
 
   <details>
 
@@ -2659,12 +2659,12 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 ### LineageOS 自带
 
 - [Eleven](https://github.com/LineageOS/android_packages_apps_Eleven)
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_Eleven?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_Eleven?style=flat"></sub>
 
   LineageOS 自带的音乐软件，基本功能都到位了，我就没有再用第三方音乐软件。
 
 - [DocumentsUI](https://github.com/LineageOS/android_packages_apps_DocumentsUI)
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_DocumentsUI?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_DocumentsUI?style=flat"></sub>
 
   <details>
 
@@ -2679,7 +2679,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 <summary>过时的内容</summary>
 
 - _~~[Terminal](https://github.com/LineageOS/android_packages_apps_Terminal)~~_
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_Terminal?style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_Terminal?style=flat"></sub>
 
   <details>
 
