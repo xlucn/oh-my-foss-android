@@ -870,7 +870,7 @@
 
   <summary>顾名思义，有键鼠功能，适合在 TV 系统上临时使用。</summary><br/>
 
-  可以作为 Bluetooth Keyboard & Mouse (io.appground.blek) 的下位替代。在低版本系统上可能有些小问题（已测试 Android 5）。
+  可以作为 Bluetooth Keyboard & Mouse (io.appground.blek) 的下位替代。可能有些小问题，比如鼠标失灵，重新配对似乎可以修复。
 
   </details>
 
