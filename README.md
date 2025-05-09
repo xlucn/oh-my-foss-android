@@ -264,7 +264,13 @@
   [[网站](https://www.radio-browser.info/)]\*
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/segler-alex/RadioDroid?style=flat"></sub>
 
-  网络收音机，是 [radio-browser](https://www.radio-browser.info/users) 建议使用的客户端，自带频道列表。
+  <details>
+
+  <summary>网络收音机，是 <a href="https://www.radio-browser.info/users">radio-browser 建议使用的客户端</a>，自带频道列表。</summary><br/>
+
+  似乎缺乏维护。[RadioWave](https://github.com/OneDroid/RadioWave)  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/OneDroid/RadioWave?style=flat"></sub> 似乎有潜力成为替代品，还在早期开发中。
+
+  </details>
 
 - [Transistor（晶体管收音机）](https://codeberg.org/y20k/transistor)
   [[F-Droid](https://f-droid.org/packages/org.y20k.transistor/)]
@@ -481,13 +487,7 @@
   [[网站](https://vanilla-music.github.io/)]\*
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vanilla-music/vanilla?style=flat"></sub>
 
-  <details>
-
-  <summary>老牌音乐播放器。</summary><br/>
-
-  从 Reddit 上的反馈来看似乎是开源中为数不多对 .opus 文件支持较好的播放器。
-
-  </details>
+  老牌音乐播放器，对 .opus 文件支持较好。
 
 - [Mpd](https://github.com/MusicPlayerDaemon/MPD)
   [[F-Droid](https://f-droid.org/packages/org.musicpd/)]
@@ -683,7 +683,7 @@
 
   <summary>基于 OpenStreetMap 数据的离线地图软件。</summary><br/>
 
-  是 Maps.me 的开源复刻，离线的登山、骑行与导航，主打给驴友们做路线规划。
+  是 Maps.me 的开源复刻，离线的登山、骑行与导航地图，主打给驴友们做路线规划。
 
   </details>
 
@@ -728,7 +728,7 @@
 
 <summary>过时的内容</summary>
 
-- _[Geometric Weather(几何天气)](https://github.com/WangDaYeeeeee/GeometricWeather)
+- _[Geometric Weather（几何天气）](https://github.com/WangDaYeeeeee/GeometricWeather)
   ~~[[F-Droid](https://f-droid.org/packages/wangdaye.com.geometricweather/)]~~_
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/WangDaYeeeeee/GeometricWeather?style=flat"></sub>
 
@@ -796,15 +796,15 @@
 
   </details>
 
-- [Did I Take My Meds?（我吃药了吗？）](https://github.com/CorruptedArk/did-i-take-my-meds)
-  [[F-droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds/)]
-  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/CorruptedArk/did-i-take-my-meds?style=flat"></sub>
+- [MedTimer](https://github.com/Futsch1/medTimer)
+  [[F-Droid](https://f-droid.org/packages/com.futsch1.medtimer/)]\*
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Futsch1/medTimer?style=flat"></sub>
 
   <details>
 
-  <summary>帮助管理用药规划。它旨在帮助防止用户漏服和/或过量服药。</summary><br/>
+  <summary>帮助管理用药规划，可以提醒吃药。</summary><br/>
 
-  可以增添用药条目，指定数量，它会提醒你吃药，以及记录过往用药。虽然是新软件，但是目前的功能已经很不错了。
+  可以增添用药条目，指定数量，以及记录过往用药。[Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds) [[F-Droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds/)] <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/CorruptedArk/did-i-take-my-meds?style=flat"></sub> 太久没维护，这个替代品看起来还不错。
 
   </details>
 
@@ -876,7 +876,7 @@
 
   <summary>顾名思义，有键鼠功能，适合在 TV 系统上临时使用。</summary><br/>
 
-  可以作为 Bluetooth Keyboard & Mouse (io.appground.blek) 的下位替代。在低版本系统上可能有些小问题（已测试 Android 5）。
+  可以作为 Bluetooth Keyboard & Mouse (io.appground.blek) 的下位替代。可能有些小问题，比如鼠标失灵，重新配对似乎可以修复。
 
   </details>
 
@@ -1030,7 +1030,7 @@
 
   **最后更新时间：20220803 / F-droid 已 404** 
 
-  比上面的Librera Reader更简陋一些，但也可以用。试了一个eupb，排版不太好。
+  比上面的 Librera Reader 更简陋一些，但也可以用。试了一个 eupb，排版不太好。
 
   </details>
 
@@ -1116,7 +1116,7 @@
 
   <details>
 
-  <summary>翻译软件，基于 DeepL 的翻译引擎，支持选中文字翻译。</summary><br/>
+  <summary>翻译软件，基于 DeepL 引擎，支持划词翻译。</summary><br/>
 
   这个是把网页版包装成了一个轻量的应用。
 
@@ -1124,10 +1124,10 @@
 
 - [Translate You](https://github.com/you-apps/TranslateYou)
   [[F-Droid](https://f-droid.org/packages/com.bnyro.translate/)]
-  [[网站](https://you-apps.net/)]
+  [[网站](https://you-apps.net/)]\*
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/you-apps/TranslateYou?style=flat"></sub>
 
-  MD3 设计，可同时使用多个翻译引擎，同样支持选中文字翻译。
+  MD3 设计，可同时使用多个翻译引擎，同样支持划词翻译。
 
 #### 数学工具
 
@@ -1219,14 +1219,14 @@
 
   </details>
 
-- [Fcitx5 for Android（小企鹅输入法5）](https://github.com/fcitx5-android/fcitx5-android)
+- [Fcitx5 for Android（小企鹅输入法 5）](https://github.com/fcitx5-android/fcitx5-android)
   [[F-Droid](https://f-droid.org/packages/org.fcitx.fcitx5.android/)]
   [[网站](https://fcitx5-android.github.io/)]
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/fcitx5-android/fcitx5-android?style=flat"></sub>
 
   <details>
 
-  <summary>支持拼音，特点是对小白用户友好，和谷歌的 Gboard 很像。</summary><br/>
+  <summary>支持拼音的输入法，特点是对小白用户友好，和谷歌的 Gboard 很像。</summary><br/>
 
   在它出现之前，开源的安卓拼音输入法应该只有同文输入法（见下）。
 
@@ -1421,15 +1421,15 @@
 
   </details>
 
-- [Save Copy（保存副本）](https://github.com/RikkaApps/SaveCopy)
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.rikka.savecopy)]\*
-  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RikkaApps/SaveCopy?style=flat"></sub>
+- [Save Locally](https://github.com/MateusRodCosta/SaveLocally)
+  [[F-Droid](https://f-droid.org/packages/com.mateusrodcosta.apps.share2storage/)]\*
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MateusRodCosta/SaveLocally?style=flat"></sub>
 
   <details>
 
   <summary>在打开方式和分享菜单中加入保存副本选项。</summary><br/>
 
-  长久不更新了，但使用没问题。示例：应用内更新时，可选择此选项而不是直接安装，可不授予应用安装权限且保留安装包并手动在文件管理器中安装。
+  [Save Copy](https://github.com/RikkaApps/SaveCopy) [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.rikka.savecopy)] <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RikkaApps/SaveCopy?style=flat"></sub> 长久不更新了，虽然还能正常使用。Save Locally 算是替代品 + 小幅增强，可自定义保存目录。示例：应用内更新时，可选择此选项而不是直接安装，可不授予应用安装权限且保留安装包并手动在文件管理器中安装。
 
   质感文件具有同样的功能，名为“另存为”。
 
@@ -2658,7 +2658,9 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 ### LineageOS 自带
 
-- [Eleven](https://github.com/LineageOS/android_packages_apps_Eleven)
+- [Twelve](https://github.com/LineageOS/android_packages_apps_Twelve)(LineageOS 22+)
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_Twelve?style=flat"></sub>
+- [Eleven](https://github.com/LineageOS/android_packages_apps_Eleven)(LineageOS 21-)
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LineageOS/android_packages_apps_Eleven?style=flat"></sub>
 
   LineageOS 自带的音乐软件，基本功能都到位了，我就没有再用第三方音乐软件。
@@ -2670,7 +2672,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   <summary>LineageOS 自带文件管理器。界面非常质感设计，很好看。</summary><br/>
 
-  功能少而精：整理不同类型的文件，比如会将所有含图片的子文件夹并排，将音乐按歌手-唱片分类（不需要手动建立文件夹），筛选大文件，等等。
+  功能少而精：整理不同类型的文件，比如会将所有含图片的子文件夹并排，将音乐按歌手 - 唱片分类（不需要手动建立文件夹），筛选大文件，等等。
 
   </details>
 
