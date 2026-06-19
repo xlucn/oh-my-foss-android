@@ -198,6 +198,8 @@
 
 这类软件没有自带内容或既定来源，用户自行加入“源”获取在线内容。
 
+**注意：请大家务必尊重版权，请勿从事侵权违法行为。**
+
 - [Feeder](https://github.com/spacecowboy/Feeder)
   [[F-Droid](https://f-droid.org/packages/com.nononsenseapps.feeder/)]
   [[网站](https://news.nononsenseapps.com/)]
@@ -264,13 +266,31 @@
 
   Podcast 客户端有很多，这款历史久，开发活跃，功能实而不华。
 
-- [Legado（阅读）](https://github.com/gedoor/legado)
-  [[网站](https://gedoor.github.io/)]
+- [Legado with MD3](https://github.com/HapeLee/legado-with-MD3)
+  [[网站](https://hapelee.github.io/legado-with-MD3/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/HapeLee/legado-with-MD3?style=flat"></sub>
+
+  **本软件开发的行为算不上侵权，但利用“书源”分享具有版权的相关文字资源以及从中获益的行为绝对属于侵权。请大家务必尊重版权！**
+
+  <details>
+
+  <summary>电子书阅读软件。基于 Legado （见下，因侵权下架）。</summary><br/>
+
+  需要用户自行寻找后导入，提高了自由度，也让软件本身更加纯净。
+
+  在 Legado 基础上重绘了UI，增加了很多功能。
+
+  </details>
+
+- ~~[Legado（阅读）](https://github.com/gedoor/legado)
+  [[网站](https://gedoor.github.io/)]~~
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/gedoor/legado?style=flat"></sub>
 
   <details>
 
-  <summary>电子书阅读软件，不提供内置书源。</summary><br/>
+  <summary>电子书阅读软件。因作者侵权已下架。</summary><br/>
+
+  **原作者因开发该软件、通过“书源”分享盗版内容以及利用相关流量从中获利，已获刑。**
 
   需要用户自行寻找后导入，提高了自由度，也让软件本身更加纯净。
 
