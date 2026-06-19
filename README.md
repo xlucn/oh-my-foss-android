@@ -1543,6 +1543,22 @@
 
 #### 密码
 
+- [Password Store](https://github.com/agrahn/Android-Password-Store)
+  [[F-Droid](https://f-droid.org/en/packages/app.passwordstore.agrahn)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/agrahn/Android-Password-Store?style=flat"></sub>
+
+  <details>
+
+  <summary>密码管理和自动填充软件，源自Linux平台的pass工具。</summary><br/>
+
+  **原[项目](https://github.com/android-password-store/Android-Password-Store)已停止开发，但此fork目前活跃。**
+
+  要先了解 Linux 平台上的 [password store](https://www.passwordstore.org/) 才能用，这个是安卓客户端。
+
+  password store 本身只是一个小脚本，调用 git 管理 gpg 加密的密码文件，这个安卓版也是类似。因而可以选择 GitHub 私人仓库 + password store 的超轻量开源方案，而非托管在统一的服务器上，这很 Unix。
+
+  </details>
+
 - [OpenKeychain](https://github.com/open-keychain/open-keychain)
   [[F-Droid](https://f-droid.org/packages/org.sufficientlysecure.keychain/)]
   [[网站](https://www.openkeychain.org/)]
@@ -1595,22 +1611,6 @@
   <summary>双重验证（2FA）客户端，支持 Wear OS 查看验证码。</summary><br/>
 
   除了 HOTP 和 TOTP，还支持 Mobile-Otp(mOTP)，Steam 和 Yandex。界面简洁美观，原名 Authenticator Pro。
-
-  </details>
-
-- _~~[Password Store](https://github.com/android-password-store/Android-Password-Store)
-  [[F-Droid](https://f-droid.org/packages/dev.msfjarvis.aps/)]~~_
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/android-password-store/Android-Password-Store?style=flat"></sub>
-
-  <details>
-
-  _<summary>密码管理和自动填充软件。</summary>_
-
-  **源码已存档：20241015 / F-droid 已 404**
-
-  要先了解 Linux 平台上的 [password store](https://www.passwordstore.org/) 才能用，这个是安卓客户端。
-
-  password store 本身只是一个小脚本，调用 git 管理 gpg 加密的密码文件，这个安卓版也是类似。因而可以选择 GitHub 私人仓库 + password store 的超轻量开源方案，而非托管在统一的服务器上，这很 Unix。
 
   </details>
 
