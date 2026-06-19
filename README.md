@@ -162,18 +162,18 @@
 
 #### 邮件
 
-- [K-9 Mail](https://github.com/thunderbird/thunderbird-android)
+- [Thunderbird/K-9 Mail](https://github.com/thunderbird/thunderbird-android)
   [[F-Droid](https://f-droid.org/packages/com.fsck.k9/)]
   [[网站](https://k9mail.app/)]
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/thunderbird/thunderbird-android?style=flat"></sub>
 
   <details>
 
-  <summary>最著名的开源邮件客户端，源代码已迁移到 Thunderbird。</summary><br/>
+  <summary>最著名的开源邮件客户端，源代码与 Thunderbird 共同开发。</summary><br/>
 
   支持多账号，选项很丰富。最近两年 UI 改进显著，越来越好用了。
 
-  他们的网站是我见过开源软件里做的最好看的之一。
+  目前 K-9 Mail 被 Mozilla 收入麾下，作为 Thunderbird 的移动端版本开发。也就是说，Thunderbird 安卓版和 K-9 Mail 是同一个项目的两个名字，功能上没有区别。
 
   </details>
 
