@@ -1557,8 +1557,9 @@
   </details>
 
 - [2fa](https://codeberg.org/979/2fa)
-  [[Accrescent](https://accrescent.app/app/app.ninesevennine.twofactorauthenticator.accrescent)]
-  [[网站](https://979.st/)]
+  [[IzzyOnDroid](https://apt.izzysoft.de/packages/app.ninesevennine.twofactorauthenticator)]
+  [[网站](https://979.st/)]\*
+  <sub><img alt="Gitea Last Commit" src="https://img.shields.io/gitea/last-commit/979/2fa?gitea_url=https%3A%2F%2Fcodeberg.org&style=flat"></sub>
 
   双重验证（2FA）客户端，支持 HOTP 和 TOTP。
 
