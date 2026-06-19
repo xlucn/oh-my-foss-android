@@ -403,6 +403,19 @@
 
   </details>
 
+- [mpvExtended](https://github.com/marlboro-advance/mpvEx)
+  [[IzzyOnDroid](https://apt.izzysoft.de/packages/app.marlboroadvance.mpvex)]
+  [[网站](https://mpvex.vercel.app/)]
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marlboro-advance/mpvEx?style=flat"></sub>
+
+  <details>
+
+  <summary>更漂亮的 MPV 前端，功能也更丰富。</summary><br/>
+
+  基于 mpv-android，增加了很多功能和选项，界面遵循 Material3，也更好看了。支持手势、画中画、后台播放等功能，同时具备桌面 MPV 的可定制性。
+
+  </details>
+
 - [Kore](https://github.com/xbmc/Kore)
   [[F-Droid](https://f-droid.org/packages/org.xbmc.kore/)]
   [[网站](https://forum.kodi.tv/forumdisplay.php?fid=129)]
