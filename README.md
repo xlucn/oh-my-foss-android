@@ -1057,13 +1057,28 @@
 
   <details>
 
-  <summary>文档扫描。整体上看，要比 OpenScan 好很多。</summary><br/>
+  <summary>文档扫描和OCR。整体上看，要比 OpenScan 好很多。</summary><br/>
 
   之前只有下面的 OpenScan 做的不错，但是 2023 年底突然出现了一个更好的 OSS Document Scanner。
 
   这个软件具有正常的拍照导入或图片导入文档的功能，可以自由地（再次）裁切、调整顺序、20+ 种颜色滤镜。并且，身为颜值党，我很喜欢这个按照质感设计绘制的界面。
 
   当然这个软件目前正处于初期快速迭代的阶段，后续肯定还会有更多的功能实现和 bug 修复。我贡献了很粗糙的中文翻译，应该会在接下来 1、2 个版本加入。
+
+  新增了OCR功能。
+
+  </details>
+
+- [FairScan](https://github.com/pynicolas/FairScan)
+  [[F-Droid](https://f-droid.org/packages/org.fairscan.app/)]
+  [[网站](https://fairscan.org/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/pynicolas/FairScan?style=flat"></sub>
+
+  <details>
+
+  <summary>文档扫描和OCR，也比较优秀。</summary><br/>
+
+  能够自动检测文档边界、自动裁切、加强对比度、利用Tesseract的OCR文字识别。
 
   </details>
 
