@@ -1596,6 +1596,12 @@
 
   </details>
 
+- [2fa](https://codeberg.org/979/2fa)
+  [[Accrescent](https://accrescent.app/app/app.ninesevennine.twofactorauthenticator.accrescent)]
+  [[网站](https://979.st/)]
+
+  双重验证（2FA）客户端，支持 HOTP 和 TOTP。
+
 - [Aegis](https://github.com/beemdevelopment/Aegis)
   [[F-Droid](https://f-droid.org/packages/com.beemdevelopment.aegis/)]
   [[网站](https://getaegis.app/)]
