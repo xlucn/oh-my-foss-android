@@ -554,6 +554,27 @@
 
   </details>
 
+#### 动漫
+
+- [animeko](https://github.com/open-ani/animeko)
+  [[网站](https://animeko.org/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/open-ani/animeko?style=flat"></sub>
+
+  集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤，100% Kotlin/Compose Multiplatform，支持云同步观看记录 (Bangumi)。
+
+- [Kazumi](https://github.com/Predidit/Kazumi)
+  [[F-Droid](https://f-droid.org/packages/com.predidit.kazumi)]
+  [[网站](kazumi.app)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Predidit/Kazumi?style=flat"></sub>
+
+  基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 
+
+- [Anich](https://github.com/Sle2p/AniCh)
+  [[网站](anich.emmmm.eu.org)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Sle2p/AniCh?style=flat"></sub>
+
+  一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。
+
 #### 绘画
 
 - [Pocket Paint（口袋画板）](https://github.com/Catrobat/Paintroid)
@@ -561,6 +582,12 @@
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Catrobat/Paintroid?style=flat"></sub>
 
   随便画点啥，功能比较全，甚至还有图层，界面也简洁漂亮。
+
+- [Krita](https://github.com/KDE/krita)
+  [[F-Droid](https://f-droid.org/packages/org.krita/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/KDE/krita?style=flat"></sub>
+
+  注意：安卓版 Krita 仅针对平板电脑进行了优化，在手机屏幕上可能表现不佳。
 
 - _[PixaPencil](https://github.com/tomdoeslinux/PixaPencil)
   [[F-Droid](https://f-droid.org/packages/com.therealbluepandabear.pixapencil/)]
@@ -654,6 +681,15 @@
   另外，这款软件可能不是默认支持所有设备的，但没找到它支持设备的条件（源代码里有支持列表）。
 
   </details>
+
+#### 图像处理
+
+- [Aves](https://github.com/deckerst/aves)
+  [[F-Droid（Aves Libre）](https://f-droid.org/packages/deckers.thibault.aves.libre/)]
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/deckers.thibault.aves)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/deckerst/aves?style=flat"></sub>
+
+  Aves 能够处理各种图片和视频，不仅包括常见的 JPEG 和 MP4 格式，还支持多页 TIFF、SVG、旧式 AVI 等更为特殊的格式。
 
 ### 日常工具
 
@@ -815,6 +851,11 @@
 
   个人理财管理工具。
 
+- [Cashew](https://github.com/jameskokoska/Cashew)
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/jameskokoska/Cashew?style=flat"></sub>
+
+  理财管理工具：webapp、IOS、Android多平台，支持csv格式的数据导入及导出。
+
 #### 小工具
 
 - [Tape Measure](https://github.com/SecUSo/privacy-friendly-tape-measure)
@@ -934,6 +975,12 @@
 
   </details>
 
+- [Joplin](https://github.com/laurent22/joplin)
+  [[F-Droid](https://f-droid.org/packages/net.cozic.joplin/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/laurent22/joplin?style=flat"></sub>
+
+  笔记应用：支持Markdown、"offline first" 但可以通过端到端加密与各种云服务（包括 Nextcloud、Dropbox、OneDrive）进行安全同步，支持 Windows、Linux、macOS、Android 和 iOS 平台。
+
 - [Notally](https://github.com/OmGodse/Notally)
   [[F-Droid](https://f-droid.org/packages/com.omgodse.notally/)]
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/OmGodse/Notally?style=flat"></sub>
@@ -1001,6 +1048,12 @@
   其实开源安卓应用中很少具有管理文档的功能，这个软件就填补了空缺。界面虽然看起来很过时，但是整个应用的功能还是很成熟的，这个应该更重要一些。
 
   </details>
+
+- [Readest](https://github.com/readest/readest)
+  [[网站](https://readest.com/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/readest/readest?style=flat"></sub>
+
+  界面美观的电子书阅读软件，提供无缝的跨平台访问（支持 macOS、Windows、Linux、Android、iOS 以及网页端）
 
 <details>
 
@@ -1157,6 +1210,13 @@
   Wikipedia 在平台建设上确实遥遥领先，希望国内同行快点幡然醒悟。
 
   </details>
+
+- [Kiwix](https://github.com/kiwix/kiwix-android)
+  [[IzzyOndroid](https://apt.izzysoft.de/fdroid/index/apk/org.kiwix.kiwixmobile.standalone)]
+  [[网站](https://android.kiwix.org/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kiwix/kiwix-android?style=flat"></sub>
+
+  Kiwix是一个网路内容的离线阅读器，主要目的是在离线状况使用维基百科。
 
 #### 星图
 
@@ -1491,6 +1551,12 @@
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/JunkFood02/Seal?style=flat"></sub>
 
   基于 yt-dlp 的视频/音频下载器。
+
+- [LibreTorrent](https://github.com/proninyaroslav/libretorrent)
+  [[F-Droid](https://f-droid.org/packages/org.proninyaroslav.libretorrent/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/proninyaroslav/libretorrent?style=flat"></sub>
+
+  一款免费开源的 Android 全能 torrent 客户端。镜像自：https://gitlab.com/proninyaroslav/libretorrent
 
 #### 备份
 
