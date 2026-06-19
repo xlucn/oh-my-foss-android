@@ -26,6 +26,8 @@
 
 ### 应用商店
 
+主流的开源软件安装方法包括 F-Droid 客户端、谷歌应用商店和直接 APK 安装。
+
 #### F-Droid 客户端
 
 [F-Droid](https://f-droid.org) 是著名的开源安卓软件平台，其客户端提供软件的安装。F-Droid 官方源会从源代码编译独立的安装文件，因此可检验软件中的不安全以及非开源因素，使得 F-Droid 上的软件保证很高的安全性和开源性。
@@ -56,9 +58,7 @@
 
   <details>
 
-  <summary>Neo Store 是基于 Droid-ify（见下）的 F-Droid 客户端。</summary><br/>
-
-  界面风格有较大改动，个人认为更规范了，这里指对于质感设计的应用更加美观和符合直觉，相比之下，Droid-ify 可能更加像一个没有设计能力的程序员随意为之的作品。
+  <summary>F-Droid 第三方客户端，基于 Droid-ify（见下）。</summary><br/>
 
   曾经取代/继承了 Droid-ify，并入 [Neo 系列应用](https://github.com/NeoApplications)。但是后来 Droid-ify 原作者因个人原因，选择不再参与 Neo Store 的开发，自己继续维护之前的 Droid-ify 代码。因此，现在两个项目都是正在维护的。
 
@@ -564,7 +564,13 @@
   [[F-Droid](https://f-droid.org/packages/org.krita/)]
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/KDE/krita?style=flat"></sub>
 
+  <details>
+
+  <summary>桌面端的著名绘画软件，迁移至了安卓。</summary><br/>
+
   注意：安卓版 Krita 仅针对平板电脑进行了优化，在手机屏幕上可能表现不佳。
+
+  </details>
 
 - [PixaPencil](https://github.com/tomdoeslinux/PixaPencil)
   [[F-Droid](https://f-droid.org/packages/com.therealbluepandabear.pixapencil/)]
@@ -941,7 +947,13 @@
   [[F-Droid](https://f-droid.org/packages/net.cozic.joplin/)]\*
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/laurent22/joplin?style=flat"></sub>
 
+  <details>
+
+  <summary>著名的跨平台笔记软件，可借助第三方云服务进行能够同步。</summary><br/>
+
   笔记应用：支持Markdown、"offline first" 但可以通过端到端加密与各种云服务（包括 Nextcloud、Dropbox、OneDrive）进行安全同步，支持 Windows、Linux、macOS、Android 和 iOS 平台。
+
+  </details>
 
 - [Notally](https://github.com/OmGodse/Notally)
   [[F-Droid](https://f-droid.org/packages/com.omgodse.notally/)]
@@ -1263,7 +1275,7 @@
 
   在它出现之前，开源的安卓拼音输入法应该只有同文输入法（见下）。
 
-  Fcitx（小企鹅）的加入，可以说解决了很多人（包括我）的痛点。我用了一段时间，感觉已经无缝替换掉了 Gboard，很多界面元素和交互体验的设计应该直接借鉴了后者。这是个好事，相比之下，同文输入法就给我带来了了不少的操作负体验。两款软件就体现了友好度和定制性的权衡。
+  Fcitx（小企鹅）的加入，可以说解决了很多人（包括我）的痛点。我用了一段时间，感觉已经无缝替换掉了 Gboard，很多界面元素和交互体验的设计应该直接借鉴了后者。这是个好事，相比之下，同文输入法就给我带来了不少的操作负体验。两款软件就体现了友好度和定制性的权衡。
 
   在用户界面和体验上，Fcitx 已经很成熟了。即便目前的版本还是 0.0.3（表示还不稳定）。想安装即用的，绝对推荐。想要强大定制性的，则推荐下方的同文输入法。
 
@@ -1525,11 +1537,11 @@
 
   基于 yt-dlp 的视频/音频下载器。
 
-- [LibreTorrent](https://github.com/proninyaroslav/libretorrent)
+- [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)
   [[F-Droid](https://f-droid.org/packages/org.proninyaroslav.libretorrent/)]\*
-  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/proninyaroslav/libretorrent?style=flat"></sub>
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/gitlab/last-commit/proninyaroslav%2Flibretorrent?style=flat"></sub>
 
-  一款免费开源的 Android 全能 torrent 客户端。镜像自：https://gitlab.com/proninyaroslav/libretorrent
+  一款免费开源的 Android 全能 torrent 客户端。
 
 #### 备份
 
