@@ -665,7 +665,7 @@
 
 - [Aves](https://github.com/deckerst/aves)
   [[F-Droid（Aves Libre）](https://f-droid.org/packages/deckers.thibault.aves.libre/)]
-  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/deckers.thibault.aves)]
+  [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/deckers.thibault.aves)]\*
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/deckerst/aves?style=flat"></sub>
 
   Aves 能够处理各种图片和视频，不仅包括常见的 JPEG 和 MP4 格式，还支持多页 TIFF、SVG、旧式 AVI 等更为特殊的格式。
@@ -836,7 +836,7 @@
 
   个人理财管理工具。
 
-- [Cashew](https://github.com/jameskokoska/Cashew)
+- [Cashew](https://github.com/jameskokoska/Cashew)\*
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/jameskokoska/Cashew?style=flat"></sub>
 
   理财管理工具：webapp、IOS、Android多平台，支持csv格式的数据导入及导出。
@@ -942,7 +942,7 @@
   </details>
 
 - [Joplin](https://github.com/laurent22/joplin)
-  [[F-Droid](https://f-droid.org/packages/net.cozic.joplin/)]
+  [[F-Droid](https://f-droid.org/packages/net.cozic.joplin/)]\*
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/laurent22/joplin?style=flat"></sub>
 
   笔记应用：支持Markdown、"offline first" 但可以通过端到端加密与各种云服务（包括 Nextcloud、Dropbox、OneDrive）进行安全同步，支持 Windows、Linux、macOS、Android 和 iOS 平台。
@@ -1016,7 +1016,7 @@
   </details>
 
 - [Readest](https://github.com/readest/readest)
-  [[网站](https://readest.com/)]
+  [[网站](https://readest.com/)]\*
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/readest/readest?style=flat"></sub>
 
   界面美观的电子书阅读软件，提供无缝的跨平台访问（支持 macOS、Windows、Linux、Android、iOS 以及网页端）
@@ -1173,7 +1173,7 @@
 
 - [Kiwix](https://github.com/kiwix/kiwix-android)
   [[IzzyOndroid](https://apt.izzysoft.de/fdroid/index/apk/org.kiwix.kiwixmobile.standalone)]
-  [[网站](https://android.kiwix.org/)]
+  [[网站](https://android.kiwix.org/)]\*
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kiwix/kiwix-android?style=flat"></sub>
 
   Kiwix是一个网路内容的离线阅读器，主要目的是在离线状况使用维基百科。
