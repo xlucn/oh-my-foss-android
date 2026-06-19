@@ -805,13 +805,25 @@
 
   </details>
 
-- [Did I Take My Meds?（我吃药了吗？）](https://github.com/CorruptedArk/did-i-take-my-meds)
-  [[F-droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds/)]
+- [Home Medkit](https://github.com/pewaru-333/HomeMedkit-App)
+  [[F-Droid](https://f-droid.org/packages/ru.application.homemedkit/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/pewaru-333/HomeMedkit-App?style=flat"></sub>
+
+  <details>
+
+  <summary>用药记录和提醒。</summary><br/>
+
+  可以添加用药信息，提醒用药，还可以记录过期日期。
+
+  </details>
+
+- ~~[Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds)
+  [[F-droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds/)]~~
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/CorruptedArk/did-i-take-my-meds?style=flat"></sub>
 
   <details>
 
-  <summary>帮助管理用药规划。它旨在帮助防止用户漏服和/或过量服药。</summary><br/>
+  <summary>帮助管理用药规划。已很久不更新了，推荐上面的 Home Medkit。</summary><br/>
 
   可以增添用药条目，指定数量，它会提醒你吃药，以及记录过往用药。虽然是新软件，但是目前的功能已经很不错了。
 
