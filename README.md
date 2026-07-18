@@ -832,6 +832,18 @@
 
   </details>
 
+- [WonderFood](https://github.com/vaddisrinivas/wonderfood)\*
+  [[GitHub Releases](https://github.com/vaddisrinivas/wonderfood/releases)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/vaddisrinivas/wonderfood?style=flat"></sub>
+
+  <details>
+
+  <summary>本地优先的饮食工作台，管理食材、菜谱、购物和营养记录。</summary><br/>
+
+  可以把库存、菜谱、餐单、收据、购物清单和营养笔记放在一个离线优先工作流中，也支持可审查的 AI 建议，便于先确认再写入。
+
+  </details>
+
 - ~~[Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds)
   [[F-droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds/)]~~
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/CorruptedArk/did-i-take-my-meds?style=flat"></sub>
@@ -1907,6 +1919,18 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
   可以分享文件或文本、同步通知、运行命令和远程控制等等。需要 Linux 系统上安装相应的 PC 端软件，常见的如 KDE 官方的 [Kde Connect](https://kdeconnect.kde.org/) 和适配 GNOME 的 [GSConnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect)。
 
   KDE 团队做的很好的一点是，他们将 KDE Connect 前后端分离开了，真正支撑底层功能的部分实现为一种协议，可以独立于图形界面部分运行。这样在非 KDE 环境，便可以用其它的软件，如我在使用的 [mconnect](https://github.com/grimpy/mconnect)，就是没有图形界面，只有命令行接口，但如果你想要的基本功能都具备，可以很灵活而不受桌面环境限制。
+
+  </details>
+
+- [Codecks](https://github.com/vaddisrinivas/codecks)\*
+  [[GitHub Releases](https://github.com/vaddisrinivas/codecks/releases)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/vaddisrinivas/codecks?style=flat"></sub>
+
+  <details>
+
+  <summary>把安卓手机或平板变成 Mac 的命令面板、蓝牙触控板和自动化控制台。</summary><br/>
+
+  支持自定义命令卡片、触控板手势、文本输入、快捷动作和本地优先配置，适合用安卓设备控制 Mac 上的常用任务。
 
   </details>
 
