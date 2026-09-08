@@ -158,6 +158,19 @@
 
   </details>
 
+- [IronFox](https://gitlab.com/ironfox-oss/IronFox)
+  [[独立源](https://fdroid.ironfoxoss.org/fdroid/repo/)]
+  [[网站](https://ironfoxoss.org/)]\*
+  <sub><img alt="Gitlab last commit" src="https://img.shields.io/gitlab/last-commit/ironfox-oss/IronFox?style=flat"></sub>
+
+  <details>
+
+  <summary>Mull 的继任者，力求极致隐私和安全。</summary><br/>
+
+  有点像移动版的 LibreWolf 。
+
+  </details>
+
 #### 邮件
 
 - [Thunderbird/K-9 Mail](https://github.com/thunderbird/thunderbird-android)
@@ -220,6 +233,18 @@
   <summary>同 RSS 订阅软件，Material You 设计风格。</summary><br/>
 
   支持多种订阅方式，定时同步订阅及提醒。
+
+  </details>
+
+- [HomeFeed - RSS Widget](https://github.com/byter11/rss-widget)
+  [[F-Droid](https://f-droid.org/packages/com.byterdevs.rsswidget/)]\*
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/byter11/rss-widget?style=flat"></sub>
+
+  <details>
+
+  <summary>纯小部件式的 RSS 软件，没有主界面。</summary><br/>
+
+  那么多年总算有比较满意的开源 RSS 桌面部件了。
 
   </details>
 
@@ -549,21 +574,39 @@
   [[网站](https://animeko.org/)]\*
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/open-ani/animeko?style=flat"></sub>
 
-  集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤，100% Kotlin/Compose Multiplatform，支持云同步观看记录 (Bangumi)。
+  <details>
 
+  <summary>集找番、追番、看番的一站式弹幕追番平台。</summary><br/>
+
+  云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤，100% Kotlin/Compose Multiplatform，支持云同步观看记录 (Bangumi)。
+
+  </details>
+ 
 - [Kazumi](https://github.com/Predidit/Kazumi)
   [[F-Droid](https://f-droid.org/packages/com.predidit.kazumi)]
   [[网站](https://kazumi.app/)]\*
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Predidit/Kazumi?style=flat"></sub>
 
-  基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 
+  <details>
 
+  <summary>基于自定义规则的番剧采集 APP。</summary><br/>
+
+  支持流媒体在线观看，支持弹幕，支持实时超分辨率。
+
+  </details>
+ 
 - [Anich](https://github.com/Sle2p/AniCh)
   [[网站](https://anich.emmmm.eu.org/)]\*
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sle2p/AniCh?style=flat"></sub>
 
-  一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。
+  <details>
 
+  <summary>一个支持超分辨率的在线动漫弹幕 APP。</summary><br/>
+
+  多平台，多番剧源，多弹幕，高清无广告。
+
+  </details>
+ 
 #### 绘画
 
 - [Pocket Paint（口袋画板）](https://github.com/Catrobat/Paintroid)
@@ -683,7 +726,19 @@
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/deckers.thibault.aves)]\*
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/deckerst/aves?style=flat"></sub>
 
-  Aves 能够处理各种图片和视频，不仅包括常见的 JPEG 和 MP4 格式，还支持多页 TIFF、SVG、旧式 AVI 等更为特殊的格式。
+  <details>
+
+  <summary>能够处理各种格式的图片和视频。</summary><br/>
+
+  不仅包括常见的 JPEG 和 MP4 格式，还支持多页 TIFF、SVG、旧式 AVI 等更为特殊的格式。
+
+  </details>
+
+- [Image Toolbox](https://github.com/T8RIN/ImageToolbox)
+  [[F-Droid](https://f-droid.org/packages/ru.tech.imageresizershrinker/)]\*
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/T8RIN/ImageToolbox?style=flat"></sub>
+
+  功能强大的多合一图像编辑器、AI 工具包和格式转换器。
 
 ### 日常工具
 
@@ -928,7 +983,7 @@
 #### 办公套件
 
 - [Collabora Office](https://github.com/CollaboraOnline/online)
-  [[独立源](https://www.collaboraoffice.com/releases-en/collabora-office-on-mobiles-supporting-password-protected-documents-and-available-on-f-droid/)]
+  [[独立源](https://www.collaboraonline.com/downloads/fdroid/repo/)]
   [[网站](https://www.collaboraonline.com/collabora-office-android-ios/)]
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/CollaboraOnline/online?style=flat"></sub>
 
@@ -1042,7 +1097,13 @@
   [[网站](https://readest.com/)]\*
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/readest/readest?style=flat"></sub>
 
-  界面美观的电子书阅读软件，提供无缝的跨平台访问（支持 macOS、Windows、Linux、Android、iOS 以及网页端）
+  <details>
+
+  <summary>界面美观的电子书阅读软件，提供无缝的跨平台访问。</summary><br/>
+
+  支持 macOS、Windows、Linux、Android、iOS 以及网页端。
+
+  </details>
 
 - ~~[Pdf Viewer Plus](https://github.com/gokulswam/PdfViewer)
   [[F-Droid](https://f-droid.org/packages/com.gsnathan.pdfviewer/)]~~
@@ -1246,6 +1307,13 @@
   最近桌面端发布了 1.0 版本，才反应过来它也是开源的。但是只能在其他应用商店下载。专业性上即便在商业软件中也算极为优秀。
 
   </details>
+
+- [Celestia（天际遨游）](https://github.com/celestiamobile/AndroidCelestia/)
+  [[F-Droid](https://f-droid.org/packages/space.celestia.mobilecelestia/)]
+  [[网站](https://celestia.mobi/)]\*
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/celestiamobile/AndroidCelestia?style=flat"></sub>
+
+  实时3D可视化太空。
 
 #### 单位转换
 
@@ -1554,9 +1622,21 @@
 
 - [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)
   [[F-Droid](https://f-droid.org/packages/org.proninyaroslav.libretorrent/)]\*
-  <sub><img alt="GitHub last commit" src="https://img.shields.io/gitlab/last-commit/proninyaroslav%2Flibretorrent?style=flat"></sub>
+  <sub><img alt="Gitlab last commit" src="https://img.shields.io/gitlab/last-commit/proninyaroslav%2Flibretorrent?style=flat"></sub>
 
   一款免费开源的 Android 全能 torrent 客户端。
+
+- [Gopeed](https://github.com/GopeedLab/gopeed)
+  [[网站](https://gopeed.com/)]\*
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GopeedLab/gopeed?style=flat"></sub>
+
+  <details>
+
+  <summary>全能多协议下载器，可扩展性强。</summary><br/>
+
+  扩展支持各种网盘下载，常见视频站等等。
+
+  </details>
 
 #### 备份
 
@@ -1728,6 +1808,12 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
   </details>
 
+- [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder)
+  [[F-Droid](https://f-droid.org/packages/com.kitsumed.shizucallrecorder/)]\*
+  <sub><img alt="Github Last Commit" src="https://img.shields.io/github/last-commit/kitsumed/ShizuCallRecorder?style=flat"></sub>
+
+  免 root 的通话录音软件（需要 Shizuku）。
+
 #### 应用管理
 
 - [App Manager](https://github.com/MuntashirAkon/AppManager)
@@ -1897,6 +1983,14 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
   </details>
 
+#### 防火墙
+
+- [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall)
+  [[F-Droid](https://f-droid.org/packages/com.arslan.shizuwall/)]\*
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AhmetCanArslan/ShizuWall?style=flat"></sub>
+
+  阻止指定应用联网，免 root 免 VPN（需要 Shizuku）。
+
 #### 电脑连接
 
 - [A2LN](https://github.com/patri9ck/a2ln-app)
@@ -1927,7 +2021,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
   </details>
 
-- [Audio Share ](https://github.com/mkckr0/audio-share)
+- [Audio Share](https://github.com/mkckr0/audio-share)
   [[F-Droid](https://f-droid.org/packages/io.github.mkckr0.audio_share_app/)]\*
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mkckr0/audio-share?style=flat"></sub>
 
@@ -2074,6 +2168,14 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
   KernelSU 仅原生支持5.10及以上的内核，因此目前来说仅有近几年的新机型。普及程度暂时不及 Magisk。
 
   </details>
+
+#### 底层控制
+
+- [GAMA](https://github.com/palincat/gama)
+  [[F-Droid](https://f-droid.org/packages/com.popovicialinc.gama/)]\*
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/palincat/gama?style=flat"></sub>
+
+  控制 GPU 渲染在 Vulkan 和 OpenGL 之间切换（需要 Shizuku）。
 
 #### 文本编辑
 
@@ -2770,7 +2872,32 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
   [[网站](https://you-apps.net/)]\*
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/you-apps/CalcYou?style=flat"></sub>
 
-  计算器中最简洁的主界面（只有加减乘除，左右滑动可使用高级运算符），附带单位转换器。
+  <details>
+
+  <summary>计算器中最简洁的主界面。</summary><br/>
+
+  只有加减乘除，左右滑动可使用高级运算符，附带单位转换器。
+
+  </details>
+
+- [Clock](https://github.com/BlackyHawky/Clock)
+  [[F-Droid](https://f-droid.org/packages/com.best.deskclock/)]\*
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/BlackyHawky/Clock?style=flat"></sub>
+
+  界面与 AOSP 别无二致，功能更细化一些。
+
+- [Cromite System Webview](https://github.com/uazo/cromite)\*
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/uazo/cromite?style=flat"></sub>
+- [AOSmium System Webview](https://codeberg.org/AXP-OS/app_aosmium)\*
+  <sub><img alt="Gitea Last Commit" src="https://img.shields.io/gitea/last-commit/AXP-OS/app_aosmium?gitea_url=https%3A%2F%2Fcodeberg.org&style=flat"></sub>
+
+  <details>
+
+  <summary>替换系统 Webview，门槛有些高。</summary><br/>
+
+  这里特指替换掉系统的 Google Webview(com.google.android.webview)。需要使用 Xposed 模块 [AnyWebView](https://github.com/neoblackxt/AnyWebView) <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/neoblackxt/AnyWebView?style=flat"></sub> 或者 [My WebView](https://github.com/ketikai/MyWebView) <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ketikai/MyWebView?style=flat"></sub> 来实现
+
+  </details>
 
 ## 相似集合
 
