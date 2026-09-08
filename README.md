@@ -223,8 +223,7 @@
 
   </details>
 
-- [M3U](https://github.com/oxyroid/M3UAndroid)
-  [[F-Droid](https://f-droid.org/packages/com.m3u.androidApp/)]\*
+- [M3U](https://github.com/oxyroid/M3UAndroid)\*
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/oxyroid/M3UAndroid?style=flat"></sub>
 
   <!-- [FastoTVLite](https://github.com/fastogt/fastotvlite_mobile)
@@ -247,7 +246,7 @@
 
   <summary>网络收音机，是 <a href="https://www.radio-browser.info/users">radio-browser 建议使用的客户端</a>，自带频道列表。</summary><br/>
 
-  似乎缺乏维护。[RadioWave](https://github.com/OneDroid/RadioWave)  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/OneDroid/RadioWave?style=flat"></sub> 似乎有潜力成为替代品，还在早期开发中。
+  似乎缺乏维护。替代品 [Internet Radio](https://github.com/armanmaurya/InternetRadio)  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/armanmaurya/InternetRadio?style=flat"></sub> 。[deutsia radio](https://github.com/deutsia/deutsia-radio)  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/deutsia/deutsia-radio?style=flat"></sub> 更高级一些，还具有 Tor/I2P 电台。
 
   </details>
 
@@ -554,13 +553,13 @@
 
 - [Kazumi](https://github.com/Predidit/Kazumi)
   [[F-Droid](https://f-droid.org/packages/com.predidit.kazumi)]
-  [[网站](kazumi.app)]\*
+  [[网站](https://kazumi.app/)]\*
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Predidit/Kazumi?style=flat"></sub>
 
   基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 
 
 - [Anich](https://github.com/Sle2p/AniCh)
-  [[网站](anich.emmmm.eu.org)]\*
+  [[网站](https://anich.emmmm.eu.org/)]\*
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sle2p/AniCh?style=flat"></sub>
 
   一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。
@@ -575,6 +574,7 @@
 
 - [Krita](https://github.com/KDE/krita)
   [[F-Droid](https://f-droid.org/packages/org.krita/)]
+  [[网站](https://krita.org/)]
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KDE/krita?style=flat"></sub>
 
   <details>
@@ -679,7 +679,7 @@
 #### 图像处理
 
 - [Aves](https://github.com/deckerst/aves)
-  [[F-Droid（Aves Libre）](https://f-droid.org/packages/deckers.thibault.aves.libre/)]
+  [[F-Droid(Aves Libre)](https://f-droid.org/packages/deckers.thibault.aves.libre/)]
   [[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/deckers.thibault.aves)]\*
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/deckerst/aves?style=flat"></sub>
 
@@ -741,12 +741,12 @@
 
   </details>
 
-- [Pluvia Weather](https://github.com/SpicyChair/pluvia_weather_flutter)
+- ~~[Pluvia Weather](https://github.com/SpicyChair/pluvia_weather_flutter)~~
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/SpicyChair/pluvia_weather_flutter?style=flat"></sub>
 
   <details>
 
-  <summary>不错的天气软件，界面相当漂亮。</summary><br/>
+  <summary>已归档。不错的天气软件，界面相当漂亮。</summary><br/>
 
   但是使用的 OpenWeatherMap 貌似国内连接很慢，预报也不一定准确。
 
@@ -840,7 +840,7 @@
 
   <summary>帮助管理用药规划。已很久不更新了，推荐上面的 Home Medkit。</summary><br/>
 
-  可以增添用药条目，指定数量，以及记录过往用药。[Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds) [[F-Droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds/)] <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/CorruptedArk/did-i-take-my-meds?style=flat"></sub> 太久没维护，这个替代品看起来还不错。
+  可以增添用药条目，指定数量，它会提醒你吃药，以及记录过往用药。虽然是新软件，但是目前的功能已经很不错了。
 
   </details>
 
@@ -908,16 +908,18 @@
 
   声音频谱分析。
 
-- [Bluetooth Remote（蓝牙遥控器）](https://gitlab.com/Atharok/BtRemote)
+- [BT Remote（蓝牙遥控器）](https://gitlab.com/Atharok/BtRemote)
   [[F-Droid](https://f-droid.org/packages/com.atharok.btremote/)]
   [[网站](https://atharok.gitlab.io/site/projects/bt-remote/)]\*
   <sub><img alt="GitLab Last Commit" src="https://img.shields.io/gitlab/last-commit/Atharok%2FBtRemote?style=flat"></sub>
 
   <details>
 
-  <summary>顾名思义，有键鼠功能，适合在 TV 系统上临时使用。</summary><br/>
+  <summary>顾名思义，有键鼠功能，似乎专为 Android TV 开发。</summary><br/>
 
   可以作为 Bluetooth Keyboard & Mouse (io.appground.blek) 的下位替代。可能有些小问题，比如鼠标失灵，重新配对似乎可以修复。
+
+  二次开发版 [Bluetooth Remote](https://github.com/jqssun/android-bt-remote) <sub><img alt="Github Last Commit" src="https://img.shields.io/github/last-commit/jqssun/android-bt-remote?style=flat"></sub> ，适配更多系统。
 
   </details>
 
@@ -1385,7 +1387,7 @@
   </details>
 
 - [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android)
-  [[F-Droid](https://f-droid.org/packages/com.github.catfriend1.syncthingandroid/)]
+  [[F-Droid](https://f-droid.org/packages/com.github.catfriend1.syncthingfork/)]
   [[网站](https://syncthing.net/)]\*
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Catfriend1/syncthing-android?style=flat"></sub>
 
@@ -1401,9 +1403,9 @@
 
 #### 文件加密/隐藏
 
-- [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS)
+- [DroidFS](https://github.com/hardcore-sushi/DroidFS)
   [[F-Droid](https://f-droid.org/packages/sushi.hardcore.droidfs/)]
-  <sub><img alt="Gitea Last Commit" src="https://img.shields.io/gitea/last-commit/hardcoresushi/DroidFS?gitea_url=https%3A%2F%2Fforge.chapril.org%2F&style=flat"></sub>
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hardcore-sushi/DroidFS?style=flat"></sub>
 
   加密存储文件。
 
@@ -1562,7 +1564,7 @@
   [[F-Droid](https://f-droid.org/packages/com.machiav3lli.backup/)]
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/NeoApplications/Neo-Backup?style=flat"></sub>
 
-  备份软件（原名 OAndBackupX），可以备份任何东西，需要 root。
+  备份软件（原名 OAndBackupX），可以备份任何东西（需要 root）。
 
 #### 密码
 
@@ -1654,7 +1656,7 @@
 #### 短信
 
 - [QUIK](https://github.com/octoshrimpy/quik)
-  [[F-Droid](https://f-droid.org/packages/dev.octoshrimpy.quik/)]\*
+  [[F-Droid](https://f-droid.org/packages/dev.octoshrimpy.quik.fdroid/)]\*
   <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/octoshrimpy/quik?style=flat"></sub>
 
   <details>
@@ -1689,7 +1691,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
   <details>
 
-  <summary>这是一款很简洁、积极开发的通话录音软件，做的非常好。</summary><br/>
+  <summary>这是一款很简洁、积极开发的通话录音软件，做的非常好（需要 root）。</summary><br/>
 
   软件只有一个设置界面，只管录音后保存。对于以保存的录音，可以用其他任何方式访问音频文件。
   比如，可以用下面的 BCR-GUI 软件查看和管理这个软件保存的通话录音。是不是有种 UNIX 哲学在里面呀？
@@ -1765,7 +1767,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
   <details>
 
-  <summary>更改应用的显示语言，需要 Android 13+ 和 Shizuku。</summary><br/>
+  <summary>更改应用的显示语言（需要 Android 13+ 和 Shizuku）。</summary><br/>
 
   虽然使用条件苛刻，但值得一用。有些应用只有简/繁其中一种翻译，且没有适配 Android 13 新增的在应用设置中选择语言的特性。此应用可对指定应用伪装系统语言，以达到改变应用内语言的目的。
 
@@ -1854,7 +1856,7 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
   <details>
 
-  <summary>定制系统界面，需要 root。</summary><br/>
+  <summary>定制系统界面（需要 root）。</summary><br/>
 
   不要被名字骗了，这个软件不仅可以改变图标，还可以修改很多系统界面的图标、颜色、形状和风格。如果用 Linux 的朋友，可以把这个软件所达到的自由度类比为 GTK/Qt 主题。
 
@@ -2143,7 +2145,7 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   <details>
 
-  <summary>无线 ADB，需要 root。</summary><br/>
+  <summary>无线 ADB（需要 root）。</summary><br/>
 
   虽然安卓在开发者选项中也可以开启“无线调试”，但这里开启的端口是随机的，明显是出于安全考虑。如果你所在网络没有那么危险，这款应用可以在固定的、也是默认的 5555 端口开启无线调试，因此电脑使用 adb 时无需输入端口信息即可连接。
 
@@ -2399,10 +2401,10 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   都是 Pixiv 客户端，做的也都不错。
 
-- [Hentoid](https://github.com/avluis/Hentoid)
-  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/avluis/Hentoid?style=flat"></sub>
+- ~~[Hentoid](https://github.com/avluis/Hentoid)
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/avluis/Hentoid?style=flat"></sub>~~
 
-  奇怪漫画网站的客户端，可以下载漫画。
+  已阵亡。奇怪漫画网站的客户端，可以下载漫画。
 
 ### 游戏
 
