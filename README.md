@@ -529,6 +529,15 @@
 
   </details>
 
+- [KuruBeats](https://github.com/kurupdevs/KuruBeats)\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kurupdevs/KuruBeats?style=flat"></sub>
+
+  <details>
+
+  <summary>Free, open-source Android music player for local files and YouTube Music — synced lyrics, no ads, no account.</summary><br/>
+
+  </details>
+
 #### 流媒体
 
 - [YAACC](https://github.com/tobexyz/yaacc-code)
