@@ -2074,6 +2074,14 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
   </details>
 
+- [CodeCanvas](https://github.com/wized2/CodeCanvas)
+  [[网站](https://wized2.github.io/CodeCanvas/)]
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/wized2/CodeCanvas?style=flat"></sub>
+  <details>
+  <summary>轻量 Material 3 代码编辑器（Kotlin / Jetpack Compose），语法高亮、SAF 打开保存、查找替换。</summary><br/>
+  适合在手机上快速改脚本和配置文件，界面简洁，依赖少。
+  </details>
+
 - [Acode](https://github.com/Acode-Foundation/Acode)
   [[F-Droid](https://f-droid.org/packages/com.foxdebug.acode/)]
   [[网站](https://acode.app/)]
