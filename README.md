@@ -1859,6 +1859,11 @@ LineageOS 中，录音功能按照不同国家的法律对电话录音的规定�
 
 #### 系统信息
 
+- [Fern](https://github.com/wized2/Fern)
+  <sub><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wized2/Fern?style=flat"></sub>
+
+  Material 3 实时系统监控（CPU/RAM/电池/温度/存储），可选 Shizuku/root 查看每应用 CPU 与内存。离线、无广告。
+
 - [CPU Info](https://github.com/kamgurgul/cpu-info)
   [[F-Droid](https://f-droid.org/packages/com.kgurgul.cpuinfo/)]
   <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/kamgurgul/cpu-info?style=flat"></sub>
